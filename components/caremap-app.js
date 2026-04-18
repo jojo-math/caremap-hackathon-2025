@@ -19,11 +19,65 @@ function buildDirectionsUrl(latitude, longitude) {
   return `https://www.google.com/maps/dir/?api=1&destination=${latitude},${longitude}`;
 }
 
+function getCategoryColor(type) {
+  const typeNorm = String(type || "").toLowerCase().trim();
+  const colorMap = {
+    dialyse: "var(--cat-dialyse)",
+    dialyses: "var(--cat-dialyse)",
+    imagerie: "var(--cat-imagerie)",
+    laboratoires: "var(--cat-laboratoires)",
+    laboratoire: "var(--cat-laboratoires)",
+    medecine_traditionnelle: "var(--cat-medecine-trad)",
+    "medecine traditionnelle": "var(--cat-medecine-trad)",
+    medecine: "var(--cat-medecine-trad)",
+    ophtalmologie: "var(--cat-ophtalmologie)",
+    reeducation_kine: "var(--cat-reeducation)",
+    reeducation: "var(--cat-reeducation)",
+    "reeducation / kine": "var(--cat-reeducation)",
+    vaccination_pmi: "var(--cat-medecine-trad)",
+    vaccination: "var(--cat-medecine-trad)",
+    pharmacies: "#16a085",
+    pharmacie: "#16a085",
+    hopitaux: "#2980b9",
+    hopital: "#2980b9",
+    hospitals: "#2980b9",
+    hospital: "#2980b9",
+  };
+  return colorMap[typeNorm] || "#6b7280";
+}
+
+function getCategoryRawColor(type) {
+  const typeNorm = String(type || "").toLowerCase().trim();
+  const colorMap = {
+    dialyse: "#c0392b",
+    dialyses: "#c0392b",
+    imagerie: "#2471a3",
+    laboratoires: "#1b5e20",
+    laboratoire: "#1b5e20",
+    medecine_traditionnelle: "#66bb6a",
+    "medecine traditionnelle": "#66bb6a",
+    medecine: "#66bb6a",
+    ophtalmologie: "#6d4c41",
+    reeducation_kine: "#7b1fa2",
+    reeducation: "#7b1fa2",
+    "reeducation / kine": "#7b1fa2",
+    vaccination_pmi: "#66bb6a",
+    vaccination: "#66bb6a",
+    pharmacies: "#16a085",
+    pharmacie: "#16a085",
+    hopitaux: "#2980b9",
+    hopital: "#2980b9",
+    hospitals: "#2980b9",
+    hospital: "#2980b9",
+  };
+  return colorMap[typeNorm] || "#6b7280";
+}
+
 function FacilityDetails({ facility, detailLoading, detailError, onClose }) {
   const commonFields = [
     { label: "Ville", value: facility?.city },
     { label: "Quartier", value: facility?.neighborhood || facility?.district },
-    { label: "Telephone", value: facility?.contact },
+    { label: "Telephone", value: facility?.contact, type: "phone" },
     { label: "Horaires", value: facility?.opening_hours },
   ].filter((item) => item.value);
 
@@ -40,7 +94,14 @@ function FacilityDetails({ facility, detailLoading, detailError, onClose }) {
       <div className="detail-sheet__header">
         <div className="detail-sheet__title-wrap">
           <h3>{facility?.name || "Detail structure"}</h3>
-          {facility?.type ? <span className="detail-sheet__type">{facility.type}</span> : null}
+          {facility?.type ? (
+            <span
+              className="detail-sheet__type"
+              style={{ backgroundColor: getCategoryColor(facility.type), color: "#fff" }}
+            >
+              {facility.type}
+            </span>
+          ) : null}
         </div>
 
         <button className="icon-button" onClick={onClose} aria-label="Fermer la fiche">
@@ -61,7 +122,13 @@ function FacilityDetails({ facility, detailLoading, detailError, onClose }) {
               {commonFields.map((field) => (
                 <article className="detail-card" key={field.label}>
                   <p className="detail-card__label">{field.label}</p>
-                  <p className="detail-card__value">{field.value}</p>
+                  {field.type === "phone" && field.value ? (
+                    <a href={`tel:${field.value}`} className="detail-card__value detail-card__link">
+                      {field.value}
+                    </a>
+                  ) : (
+                    <p className="detail-card__value">{field.value}</p>
+                  )}
                 </article>
               ))}
             </div>
@@ -241,7 +308,7 @@ export default function CareMapApp() {
       <div className="caremap__surface">
         <aside className="caremap__desktop-sidebar">
           <div className="filters">
-            <h3 style={{ marginTop: 0, marginBottom: "0.75rem", color: "#4f3a2a" }}>Filtrer par categorie</h3>
+            <h3 style={{ marginTop: 0, marginBottom: "0.75rem", color: "#2c1810" }}>Filtrer par categorie</h3>
             <FilterList
               categories={categories}
               selectedCategory={selectedCategory}
@@ -309,27 +376,52 @@ export default function CareMapApp() {
 function FilterList({ categories, selectedCategory, onChange }) {
   return (
     <div className="filters__list">
-      <label className="filters__item">
+      <label
+        className={`filters__item ${selectedCategory === "ALL" ? "filters__item--active" : ""}`}
+        style={{ color: "#2c1810" }}
+      >
         <input
           type="radio"
           name="facility-category"
           checked={selectedCategory === "ALL"}
           onChange={() => onChange("ALL")}
         />
+        <span
+          className="filters__item-dot"
+          style={{
+            borderColor: "#2c1810",
+            background: selectedCategory === "ALL" ? "#2c1810" : "transparent",
+          }}
+        />
         <span>Tout afficher</span>
       </label>
 
-      {categories.map((category) => (
-        <label className="filters__item" key={category}>
-          <input
-            type="radio"
-            name="facility-category"
-            checked={selectedCategory === category}
-            onChange={() => onChange(category)}
-          />
-          <span>{category}</span>
-        </label>
-      ))}
+      {categories.map((category) => {
+        const catColor = getCategoryRawColor(category);
+        const isActive = selectedCategory === category;
+        return (
+          <label
+            className={`filters__item ${isActive ? "filters__item--active" : ""}`}
+            key={category}
+            style={{ color: isActive ? catColor : undefined }}
+          >
+            <input
+              type="radio"
+              name="facility-category"
+              checked={isActive}
+              onChange={() => onChange(category)}
+            />
+            <span
+              className="filters__item-dot"
+              style={{
+                borderColor: catColor,
+                background: isActive ? catColor : "transparent",
+              }}
+            />
+            <span>{category}</span>
+          </label>
+        );
+      })}
     </div>
   );
 }

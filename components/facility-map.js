@@ -7,14 +7,32 @@ import "leaflet/dist/leaflet.css";
 
 const YAOUNDE_DOULA_CENTER = [4.02, 10.63];
 
-function colorByType(type) {
-  const normalized = String(type || "").toLowerCase();
+const CATEGORY_COLORS = {
+  dialyse: "#c0392b",
+  dialyses: "#c0392b",
+  imagerie: "#2471a3",
+  laboratoires: "#1b5e20",
+  laboratoire: "#1b5e20",
+  medecine_traditionnelle: "#66bb6a",
+  "medecine traditionnelle": "#66bb6a",
+  medecine: "#66bb6a",
+  ophtalmologie: "#6d4c41",
+  reeducation_kine: "#7b1fa2",
+  reeducation: "#7b1fa2",
+  "reeducation / kine": "#7b1fa2",
+  vaccination_pmi: "#66bb6a",
+  vaccination: "#66bb6a",
+  pharmacies: "#16a085",
+  pharmacie: "#16a085",
+  hopitaux: "#2980b9",
+  hopital: "#2980b9",
+  hospitals: "#2980b9",
+  hospital: "#2980b9",
+};
 
-  if (normalized.includes("hopit")) return "#7a5a3f";
-  if (normalized.includes("pharma")) return "#2f5e45";
-  if (normalized.includes("labo")) return "#4f8a69";
-  if (normalized.includes("imagerie")) return "#a47952";
-  return "#4f8a69";
+function colorByType(type) {
+  const normalized = String(type || "").toLowerCase().trim();
+  return CATEGORY_COLORS[normalized] || "#6b7280";
 }
 
 function makePharmacyMarker(type) {
