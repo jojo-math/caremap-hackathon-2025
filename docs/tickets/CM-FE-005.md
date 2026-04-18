@@ -1,7 +1,7 @@
 # CM-FE-005 - Carte interactive au chargement
 
 Priorite: P0  
-Statut: A faire  
+Statut: Termine (a valider en runtime)  
 Estimation: 45 min  
 Dependances: CM-BE-003
 
@@ -18,17 +18,22 @@ Implementer la carte principale Leaflet au chargement de la page avec affichage 
 
 ## Taches
 
-- [ ] Integrer composant carte (React-Leaflet).
-- [ ] Charger les donnees initiales via endpoint liste.
-- [ ] Afficher les marqueurs avec coordonnees valides.
-- [ ] Ajouter etats d interface de robustesse.
+- [x] Integrer composant carte (React-Leaflet).
+- [x] Charger les donnees initiales via endpoint liste.
+- [x] Afficher les marqueurs avec coordonnees valides.
+- [x] Ajouter etats d interface de robustesse.
 
 ## Avancement implementation
 
-- Ticket non demarre.
-- Constitue la premiere fonctionnalite notee (F1).
+- Carte Leaflet implementee dans `components/facility-map.js`.
+- Chargement initial structures via `GET /api/facilities` dans `components/caremap-app.js`.
+- Marqueurs pharmaceutiques personnalises (symbole `+`) avec couleur par categorie.
+- Etats loading/empty/error/retry implementes dans `components/caremap-app.js`.
 
 ## Verification
 
-- Ouverture page accueil -> carte + marqueurs visibles.
-- Test cas API vide et cas API en erreur.
+- Verification statique OK: carte et flux de chargement relies.
+- A valider en runtime:
+	- ouverture `/` -> carte visible + marqueurs
+	- simulation erreur API -> etat erreur + bouton reessayer
+	- filtre sans resultat -> etat vide

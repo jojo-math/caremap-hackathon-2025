@@ -1,7 +1,7 @@
 # CM-FE-006 - Filtrage dynamique categories
 
 Priorite: P0  
-Statut: A faire  
+Statut: Termine (a valider en runtime)  
 Estimation: 50 min  
 Dependances: CM-FE-005, CM-BE-003
 
@@ -18,17 +18,22 @@ Ajouter le panneau de filtrage des categories pour afficher dynamiquement les st
 
 ## Taches
 
-- [ ] Construire composant UI de filtrage categories.
-- [ ] Connecter les filtres a l endpoint liste.
-- [ ] Mettre a jour les marqueurs en temps reel.
-- [ ] Gerer cas filtre sans resultat.
+- [x] Construire composant UI de filtrage categories.
+- [x] Connecter les filtres a l endpoint liste.
+- [x] Mettre a jour les marqueurs en temps reel.
+- [x] Gerer cas filtre sans resultat.
 
 ## Avancement implementation
 
-- Ticket non demarre.
-- Priorite critique car F2 entre dans la notation principale.
+- UI filtre implantee (desktop sidebar + mobile drawer) dans `components/caremap-app.js`.
+- Categories derivees dynamiquement des donnees chargees.
+- Filtrage applique en temps reel sans rechargement de page.
+- Option `Tout afficher` disponible et etat vide gere.
 
 ## Verification
 
-- Test sur au moins 3 categories distinctes.
-- Verification absence de reload complet et fluidite sur mobile.
+- Verification statique OK: filtrage client instantane.
+- A valider en runtime:
+	- test sur 3 categories
+	- verification absence de reload complet
+	- comportement drawer mobile

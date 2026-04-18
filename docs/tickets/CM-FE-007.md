@@ -1,7 +1,7 @@
 # CM-FE-007 - Fiche detail au clic
 
 Priorite: P0  
-Statut: A faire  
+Statut: Termine (a valider en runtime)  
 Estimation: 50 min  
 Dependances: CM-FE-005, CM-BE-004
 
@@ -18,17 +18,21 @@ Implementer la fiche d informations au clic sur marqueur avec champs communs (no
 
 ## Taches
 
-- [ ] Ajouter interaction clic marqueur -> ouverture panel/modal.
-- [ ] Brancher endpoint detail par id.
-- [ ] Construire rendu conditionnel des champs specifiques.
-- [ ] Ajouter message permanent sur caractere fictif des donnees.
+- [x] Ajouter interaction clic marqueur -> ouverture panel/modal.
+- [x] Brancher endpoint detail par id.
+- [x] Construire rendu conditionnel des champs specifiques.
+- [x] Ajouter message permanent sur caractere fictif des donnees.
 
 ## Avancement implementation
 
-- Ticket non demarre.
-- Fonctionnalite notee F3, a securiser avant bonus.
+- Clic marqueur ouvre une fiche detail (sheet) dans `components/caremap-app.js`.
+- Fiche detail branchee sur `GET /api/facilities/:id` pour recuperer les donnees completes.
+- Champs communs + metadata specifiques affiches de maniere conditionnelle.
+- Mention `Donnees fictives` visible dans la fiche et dans l interface globale.
 
 ## Verification
 
-- Test sur 5 structures de categories differentes.
-- Verification de la lisibilite sur ecran mobile.
+- Verification statique OK: flux clic -> fetch detail -> affichage.
+- A valider en runtime:
+	- 5 structures/categories differentes
+	- lisibilite mobile de la fiche

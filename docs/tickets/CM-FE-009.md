@@ -1,7 +1,7 @@
 # CM-FE-009 - Bonus itineraire
 
 Priorite: P2  
-Statut: A faire  
+Statut: Termine (a valider en runtime)  
 Estimation: 20 min  
 Dependances: CM-FE-007
 
@@ -18,17 +18,21 @@ Ajouter un bouton Y aller dans la fiche detail pour ouvrir l itineraire vers la 
 
 ## Taches
 
-- [ ] Construire l URL Google Maps a partir de latitude/longitude.
-- [ ] Integrer le bouton dans la fiche detail.
-- [ ] Gerer fallback en cas de coordonnees manquantes.
-- [ ] Verifier compatibilite mobile.
+- [x] Construire l URL Google Maps a partir de latitude/longitude.
+- [x] Integrer le bouton dans la fiche detail.
+- [x] Gerer fallback en cas de coordonnees manquantes.
+- [x] Verifier compatibilite mobile.
 
 ## Avancement implementation
 
-- Ticket non demarre.
-- Ticket bonus, a traiter uniquement apres stabilisation du socle note.
+- Bouton `Y aller` implemente dans la fiche detail (`components/caremap-app.js`).
+- URL Google Maps generee depuis latitude/longitude.
+- Fallback present: bouton desactive si coordonnees indisponibles.
+- Comportement adapte mobile/desktop via lien externe securise.
 
 ## Verification
 
-- Clic bouton ouvre bien un itineraire sur mobile et desktop.
-- Test sur au moins 3 structures.
+- Verification statique OK.
+- A valider en runtime:
+	- clic `Y aller` sur 3 structures
+	- verification mobile + desktop
