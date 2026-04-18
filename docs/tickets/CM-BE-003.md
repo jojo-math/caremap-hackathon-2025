@@ -1,7 +1,7 @@
 # CM-BE-003 - API liste structures + filtres
 
 Priorite: P0  
-Statut: A faire  
+Statut: Termine (a valider en runtime)  
 Estimation: 35 min  
 Dependances: CM-DATA-002
 
@@ -18,17 +18,25 @@ Implementer l endpoint de liste des structures avec filtres dynamiques (categori
 
 ## Taches
 
-- [ ] Creer le route handler de listing.
-- [ ] Brancher le repository Supabase avec filtres optionnels.
-- [ ] Definir le format de sortie DTO coherents.
-- [ ] Ajouter logs minimaux en cas d erreur backend.
+- [x] Creer le route handler de listing.
+- [x] Brancher le repository Supabase avec filtres optionnels.
+- [x] Definir le format de sortie DTO coherents.
+- [x] Ajouter logs minimaux en cas d erreur backend.
 
 ## Avancement implementation
 
-- Ticket non demarre.
-- Endpoint prioritaire car prerequis direct de la carte et du filtre.
+- Endpoint implemente: `app/api/facilities/route.js`.
+- Use case implemente: `src/application/use-cases/get-facilities.js`.
+- Repository implemente: `src/infrastructure/repositories/health-facilities-repository.js`.
+- Mapping DTO stable: `src/domain/health-facility/mapper.js`.
+- Client Supabase serveur: `src/infrastructure/supabase/client.js`.
+- Contrat API documente: `docs/core/CM-BE-api-contract.md`.
 
 ## Verification
 
-- Tests manuels: sans filtre, filtre par categorie, filtre par ville, filtres combines.
-- Verification du temps de reponse acceptable pour la demo.
+- Verification statique: parsing filtres `city`, `type`/`category`, `service`/`services` couvre les cas prevus.
+- A executer en runtime Next.js:
+	- `GET /api/facilities`
+	- `GET /api/facilities?city=Douala`
+	- `GET /api/facilities?type=Dialyse`
+	- `GET /api/facilities?city=Yaoundé&type=Dialyse`

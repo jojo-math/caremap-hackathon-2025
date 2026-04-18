@@ -1,7 +1,7 @@
 # CM-CORE-001 - Cadrage + architecture propre
 
 Priorite: P0  
-Statut: A faire  
+Statut: Termine  
 Estimation: 20 min  
 Dependances: Aucune
 
@@ -18,17 +18,20 @@ Lancer le sprint 5h avec un cadrage clair, une Definition of Done commune et une
 
 ## Taches
 
-- [ ] Aligner l equipe sur priorite F1/F2/F3 puis F4.
-- [ ] Definir la DoD MVP (fonctionnelle + technique + demo).
-- [ ] Poser le squelette de couches (presentation/application/domaine/infrastructure).
-- [ ] Creer checklist de validation rapide (fonctionnel/mobile/demo).
+- [x] Aligner l equipe sur priorite F1/F2/F3 puis F4.
+- [x] Definir la DoD MVP (fonctionnelle + technique + demo).
+- [x] Poser le squelette de couches (presentation/application/domaine/infrastructure).
+- [x] Creer checklist de validation rapide (fonctionnel/mobile/demo).
 
 ## Avancement implementation
 
-- Ticket non demarre.
-- Ce ticket sert de point de depart pour tous les tickets suivants.
+- Cadrage sprint formalise dans `docs/core/CM-CORE-001-kickoff.md`.
+- Priorites F1/F2/F3/F4, perimetre MVP, roles, DoD et regles de merge documentes.
+- Squelette clean architecture cree dans `src/` avec 4 couches (`presentation`, `application`, `domain`, `infrastructure`).
+- Regles de separation de couches documentees dans `src/README.md`.
 
 ## Verification
 
-- Revue de lancement de 10 minutes avec toute l equipe.
-- Validation explicite des roles et du perimetre avant execution.
+- Verification documentaire: cadrage present et complet dans `docs/core/CM-CORE-001-kickoff.md`.
+- Verification structure: dossiers `src/presentation`, `src/application`, `src/domain`, `src/infrastructure` crees.
+- Le ticket est pret pour l execution de `CM-DATA-002`.
