@@ -1,0 +1,351 @@
+id,nom,ville,arrondissement,quartier,latitude,longitude,telephone,email,kinesitherapie,reeducation_post_op,reeducation_neurologique,reeducation_pediatrique,osteopathie,appareillage_orthopedique,seances_domicile,horaires
+KIN0001,Physiothérapie Nkeng,Douala,Douala III,Nyalla,3.990662,9.643508,+237 695 473 632,physiothérapie@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Oui,Lun–Sam 07h30–19h00
+KIN0002,Centre de Rééducation Grâce,Douala,Douala V,Makepe,4.053398,9.773715,+237 650 670 674,grâce@kine.cm,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 07h30–19h00
+KIN0003,Physiothérapie Feudjio,Yaoundé,Yaoundé VI,Tsinga,3.791736,11.424981,+237 650 248 952,physiothérapie@kine.cm,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+KIN0004,Centre de Kinésithérapie de Nkongmondo,Douala,Douala V,PK17,3.993661,9.69269,+237 690 805 326,nkongmondo@hotmail.com,Oui,Non,Non,Oui,Oui,Oui,Non,Lun–Ven 08h00–18h00
+KIN0005,Centre de Kinésithérapie de Djoungolo,Yaoundé,Yaoundé I,Djoungolo,3.832208,11.569467,+237 233 503 702,djoungolo@gmail.com,Oui,Oui,Oui,Oui,Non,Oui,Oui,Lun–Dim 08h00–18h00
+KIN0006,Cabinet Kiné Ndjock,Yaoundé,Yaoundé V,Mendong,3.76729,11.536606,+237 242 484 635,kinéndjock@hotmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,7j/7 — 08h00–20h00
+KIN0007,Centre de Kinésithérapie de Ndoghem,Douala,Douala II,Bassa,3.978114,9.679647,+237 696 297 757,ndoghem@hotmail.com,Oui,Non,Oui,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0008,Cabinet de Kinésithérapie Marc,Yaoundé,Yaoundé V,Ekounou,3.903925,11.528321,+237 243 167 711,marc@gmail.com,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 08h30–18h30
+KIN0009,Centre de Rééducation Saint-Marie,Yaoundé,Yaoundé IV,Etoudi,3.767115,11.472656,+237 242 756 179,marie@gmail.com,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Ven 07h30–17h30
+KIN0010,Centre de Rééducation Grâce,Yaoundé,Yaoundé V,Elig-Essono,3.758048,11.50237,+237 694 982 689,grâce@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0011,Centre de Kinésithérapie de Bali,Douala,Douala VI,Bali,4.023598,9.708983,+237 696 197 895,bali@yahoo.fr,Oui,Oui,Oui,Oui,Non,Oui,Oui,Lun–Sam 07h00–20h00
+KIN0012,Centre de Kinésithérapie de Nkolbisson,Yaoundé,Yaoundé VI,Biyem-Assi,3.779726,11.53483,+237 651 679 044,nkolbisson@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0013,Physiothérapie Hamadou,Yaoundé,Yaoundé III,Djoungolo,3.882032,11.399949,+237 699 248 778,physiothérapie@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0014,Centre de Rééducation Harmonie,Yaoundé,Yaoundé VII,Mvog-Atangana,3.816989,11.501946,+237 679 486 288,harmonie@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+KIN0015,Cabinet de Kinésithérapie Bernadette,Douala,Douala II,Ndogpassi,4.053433,9.750425,+237 222 849 882,bernadette@gmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+KIN0016,Cabinet Kiné Eba,Douala,Douala II,Bonaloka,4.004861,9.70618,+237 698 172 335,kinéeba@kine.cm,Oui,Oui,Non,Non,Non,Oui,Non,Lun–Dim 08h00–18h00
+KIN0017,Physiothérapie Abega,Yaoundé,Yaoundé VI,Messa,3.830774,11.523635,+237 233 866 089,physiothérapie@kine.cm,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Ven 08h00–18h00
+KIN0018,Centre de Kinésithérapie de Mvog-Mbi,Yaoundé,Yaoundé IV,Mvog-Mbi,3.762782,11.437855,+237 694 816 161,mvog-mbi@yahoo.fr,Oui,Oui,Oui,Non,Oui,Non,Non,7j/7 — 08h00–20h00
+KIN0019,Centre de Kinésithérapie de Nyalla,Douala,Douala VI,Boko,4.131104,9.67613,+237 693 567 236,nyalla@kine.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+KIN0020,Cabinet Kiné Tabi,Yaoundé,Yaoundé V,Ngoa-Ekélé,3.807981,11.531771,+237 655 494 249,kinétabi@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Sam 07h00–20h00
+KIN0021,Cabinet Kiné Fotso,Douala,Douala III,Bessengue,3.968509,9.729495,+237 695 419 770,kinéfotso@hotmail.com,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Ven 08h00–18h00
+KIN0022,Physiothérapie Ateba,Douala,Douala VI,Bessengue,4.079913,9.688895,+237 652 069 606,physiothérapie@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+KIN0023,Cabinet Kiné Wamba,Douala,Douala II,Cité des Palmiers,4.042703,9.692524,+237 650 481 976,kinéwamba@kine.cm,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Dim 08h00–18h00
+KIN0024,Physiothérapie Bello,Yaoundé,Yaoundé V,Ngousso,3.751328,11.45334,+237 655 566 940,physiothérapie@gmail.com,Oui,Non,Non,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0025,Centre de Rééducation Bonheur,Yaoundé,Yaoundé VII,Etoudi,3.89739,11.410845,+237 679 917 395,bonheur@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Oui,7j/7 — 08h00–20h00
+KIN0026,Cabinet Kiné Bikié,Douala,Douala III,Bepanda,4.075312,9.687209,+237 233 899 695,kinébikié@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0027,Centre de Rééducation Saint-Jean,Douala,Douala I,Soboum,4.076917,9.701989,+237 696 529 639,jean@kine.cm,Oui,Oui,Non,Oui,Non,Oui,Oui,Lun–Sam 08h30–18h30
+KIN0028,Physiothérapie Ngoa,Douala,Douala VI,Boko,4.119433,9.708057,+237 697 889 849,physiothérapie@kine.cm,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Dim 08h00–18h00
+KIN0029,Physiothérapie Bikié,Douala,Douala IV,Koumassi,4.074811,9.675952,+237 690 671 079,physiothérapie@yahoo.fr,Oui,Oui,Oui,Non,Non,Oui,Oui,Lun–Sam 07h30–19h00
+KIN0030,Centre de Kinésithérapie de Cité des Palmiers,Douala,Douala V,PK14,4.094988,9.703006,+237 655 359 541,citédespalmier@kine.cm,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0031,Centre de Rééducation Progrès,Douala,Douala III,Logbessou,4.00719,9.715024,+237 679 324 265,progrès@kine.cm,Oui,Oui,Non,Non,Oui,Non,Oui,Lun–Sam 08h00–17h00
+KIN0032,Centre de Rééducation Providence,Yaoundé,Yaoundé I,Ngoa-Ekélé,3.902817,11.444636,+237 691 867 822,providence@yahoo.fr,Oui,Non,Non,Non,Non,Non,Oui,Lun–Ven 08h00–18h00
+KIN0033,Physiothérapie Ekani,Yaoundé,Yaoundé VII,Ahala,3.869546,11.45116,+237 652 707 188,physiothérapie@hotmail.com,Oui,Non,Non,Oui,Non,Non,Oui,Lun–Sam 07h00–20h00
+KIN0034,Centre de Kinésithérapie de Bepanda,Douala,Douala II,Bali,4.026621,9.627635,+237 698 592 651,bepanda@kine.cm,Oui,Oui,Oui,Non,Oui,Oui,Non,Lun–Ven 07h30–17h30
+KIN0035,Centre de Kinésithérapie de Omnisports,Yaoundé,Yaoundé III,Omnisports,3.870887,11.496174,+237 694 472 666,omnisports@gmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 07h00–20h00
+KIN0036,Cabinet Kiné Moussa,Yaoundé,Yaoundé III,Bastos,3.860281,11.5383,+237 233 902 076,kinémoussa@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+KIN0037,Centre de Kinésithérapie de Nkol-Eton,Yaoundé,Yaoundé V,Nkol-Eton,3.847324,11.581919,+237 655 723 711,nkol-eton@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0038,Cabinet Kiné Ateba,Douala,Douala II,Ndogbong,4.031886,9.753879,+237 655 033 901,kinéateba@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Sam 07h00–20h00
+KIN0039,Centre de Kinésithérapie de Mendong,Yaoundé,Yaoundé IV,Mendong,3.869942,11.400339,+237 650 820 735,mendong@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Dim 08h00–18h00
+KIN0040,Centre de Kinésithérapie de Ngoa-Ekélé,Yaoundé,Yaoundé III,Melen,3.805123,11.516692,+237 690 376 212,ngoa-ekélé@yahoo.fr,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 08h00–17h00
+KIN0041,Centre de Rééducation Grâce,Douala,Douala V,Nyalla,4.053855,9.790194,+237 697 092 431,grâce@yahoo.fr,Oui,Non,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0042,Physiothérapie Onana,Yaoundé,Yaoundé III,Nlongkak,3.767874,11.43179,+237 233 620 786,physiothérapie@yahoo.fr,Oui,Oui,Oui,Non,Oui,Non,Non,7j/7 — 08h00–20h00
+KIN0043,Centre de Kinésithérapie de Ndog-Passi III,Douala,Douala I,Ndoghem,3.981388,9.683461,+237 699 279 387,ndog-passiiii@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0044,Centre de Kinésithérapie de Ndogbong,Douala,Douala IV,Ndogbong,4.088018,9.652096,+237 655 355 604,ndogbong@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+KIN0045,Centre de Kinésithérapie de Biteng,Yaoundé,Yaoundé IV,Omnisports,3.79044,11.555994,+237 677 279 040,biteng@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+KIN0046,Centre de Rééducation Saint-André,Douala,Douala II,Makepe,4.050069,9.713586,+237 650 688 292,andré@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Oui,Lun–Sam 08h00–17h00
+KIN0047,Centre de Rééducation Saint-Louis,Yaoundé,Yaoundé IV,Nsam,3.915541,11.522944,+237 697 876 884,louis@yahoo.fr,Oui,Non,Oui,Non,Oui,Non,Non,Lun–Ven 08h00–18h00
+KIN0048,Centre de Kinésithérapie de Ngousso,Yaoundé,Yaoundé II,Mvog-Atangana,3.768252,11.475916,+237 677 780 537,ngousso@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Sam 08h30–18h30
+KIN0049,Centre de Rééducation Avenir,Yaoundé,Yaoundé V,Mvog-Beti,3.781293,11.553821,+237 697 819 302,avenir@gmail.com,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Sam 08h30–18h30
+KIN0050,Cabinet Kiné Mvé,Yaoundé,Yaoundé I,Elig-Essono,3.954298,11.522469,+237 694 332 557,kinémvé@kine.cm,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0051,Centre de Rééducation Saint-Augustin,Yaoundé,Yaoundé III,Santa Barbara,3.816291,11.479978,+237 697 958 883,augustin@kine.cm,Oui,Oui,Oui,Non,Oui,Oui,Non,Lun–Dim 08h00–18h00
+KIN0052,Centre de Kinésithérapie de Boko,Douala,Douala I,Koumassi,4.009008,9.736507,+237 650 350 528,boko@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0053,Centre de Rééducation Avenir,Douala,Douala III,Makepe,4.007458,9.68164,+237 696 142 045,avenir@kine.cm,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 08h30–18h30
+KIN0054,Cabinet de Kinésithérapie Bruno,Yaoundé,Yaoundé VII,Ahala,3.805466,11.557568,+237 222 262 615,bruno@yahoo.fr,Oui,Oui,Oui,Non,Oui,Non,Oui,7j/7 — 08h00–20h00
+KIN0055,Cabinet Kiné Tchoupo,Douala,Douala III,Deido,4.070458,9.751483,+237 233 303 539,kinétchoupo@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Ven 07h30–17h30
+KIN0056,Centre de Kinésithérapie de Japoma,Douala,Douala II,Ndokoti,4.063328,9.630839,+237 679 173 968,japoma@kine.cm,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+KIN0057,Cabinet Kiné Feudjio,Douala,Douala V,Youpwé,4.14092,9.711765,+237 690 877 057,kinéfeudjio@kine.cm,Oui,Oui,Non,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0058,Cabinet Kiné Nkeng,Yaoundé,Yaoundé I,Ekounou,3.858542,11.495344,+237 678 055 197,kinénkeng@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 07h30–19h00
+KIN0059,Centre de Rééducation Secours,Yaoundé,Yaoundé I,Nkolbisson,3.843903,11.446465,+237 678 443 127,secours@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0060,Centre de Rééducation Grâce,Douala,Douala III,Bepanda,4.058652,9.710138,+237 695 831 341,grâce@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Oui,Lun–Ven 08h00–18h00
+KIN0061,Centre de Kinésithérapie de Kotto,Douala,Douala II,Japoma,4.078722,9.708976,+237 699 658 538,kotto@yahoo.fr,Oui,Non,Non,Non,Oui,Oui,Non,Lun–Sam 07h00–20h00
+KIN0062,Cabinet Kiné Bikié,Yaoundé,Yaoundé I,Kondengui,3.893136,11.436099,+237 679 815 294,kinébikié@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0063,Physiothérapie Tabi,Yaoundé,Yaoundé I,Mokolo,3.869585,11.581344,+237 243 853 308,physiothérapie@gmail.com,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0064,Cabinet Kiné Mbassi,Douala,Douala II,Nzeng-Ayong,3.993249,9.770595,+237 650 260 851,kinémbassi@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Oui,Lun–Sam 07h30–19h00
+KIN0065,Cabinet Kiné Fouda,Yaoundé,Yaoundé II,Obili,3.885854,11.523584,+237 222 862 591,kinéfouda@kine.cm,Oui,Non,Oui,Non,Oui,Non,Oui,Lun–Ven 07h30–17h30
+KIN0066,Centre de Rééducation Saint-Dominique,Douala,Douala III,Akwa,4.133715,9.706044,+237 694 492 087,dominique@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Oui,Lun–Sam 07h30–19h00
+KIN0067,Centre de Rééducation Bonheur,Douala,Douala I,Ndogpassi,4.013516,9.663452,+237 650 849 314,bonheur@gmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+KIN0068,Physiothérapie Mvé,Douala,Douala VI,Soboum,4.091665,9.69121,+237 691 507 562,physiothérapie@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Ven 07h30–17h30
+KIN0069,Physiothérapie Nlend,Douala,Douala VI,Ndoghem,4.096374,9.778389,+237 677 825 065,physiothérapie@hotmail.com,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0070,Physiothérapie Eba,Yaoundé,Yaoundé V,Nkol-Eton,3.900128,11.53458,+237 242 195 616,physiothérapie@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Oui,Lun–Dim 08h00–18h00
+KIN0071,Physiothérapie Nkoa,Yaoundé,Yaoundé VII,Mvan,3.865946,11.532777,+237 698 217 475,physiothérapie@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Dim 08h00–18h00
+KIN0072,Centre de Kinésithérapie de Boko,Douala,Douala IV,Bangue,4.041957,9.666056,+237 653 484 046,boko@kine.cm,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+KIN0073,Centre de Kinésithérapie de Messa,Yaoundé,Yaoundé V,Messa,3.897666,11.424913,+237 652 518 027,messa@gmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0074,Physiothérapie Hamadou,Douala,Douala VI,PK17,3.967665,9.68065,+237 652 533 523,physiothérapie@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Non,7j/7 — 08h00–20h00
+KIN0075,Cabinet de Kinésithérapie Raphaël,Douala,Douala III,Bali,4.123819,9.746931,+237 655 157 451,raphaël@hotmail.com,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Dim 08h00–18h00
+KIN0076,Cabinet de Kinésithérapie François,Douala,Douala II,Ndokoti,4.058651,9.752198,+237 693 523 389,françois@kine.cm,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 07h30–19h00
+KIN0077,Centre de Kinésithérapie de Bonamoussadi,Douala,Douala VI,Ndoghem,4.044047,9.707105,+237 695 089 638,bonamoussadi@gmail.com,Oui,Non,Non,Non,Non,Oui,Non,Lun–Sam 08h30–18h30
+KIN0078,Centre de Kinésithérapie de Deido,Douala,Douala II,Bonapriso,4.059523,9.784825,+237 233 056 741,deido@kine.cm,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 08h00–17h00
+KIN0079,Physiothérapie Mbassi,Yaoundé,Yaoundé III,Étoa-Meki,3.887904,11.49444,+237 222 735 220,physiothérapie@gmail.com,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Sam 08h30–18h30
+KIN0080,Centre de Rééducation Progrès,Douala,Douala I,Ndogbong,4.005929,9.655385,+237 655 976 999,progrès@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0081,Centre de Kinésithérapie de Bessengue,Douala,Douala III,Bonaloka,3.998941,9.660529,+237 694 366 177,bessengue@yahoo.fr,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 07h30–19h00
+KIN0082,Centre de Kinésithérapie de Carrière,Yaoundé,Yaoundé VII,Carrière,3.760097,11.562862,+237 693 843 924,carrière@gmail.com,Oui,Non,Non,Non,Oui,Non,Non,Lun–Sam 08h00–17h00
+KIN0083,Centre de Rééducation Saint-Paul,Yaoundé,Yaoundé VI,Nkol-Eton,3.883407,11.403953,+237 650 002 257,paul@kine.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0084,Cabinet de Kinésithérapie Joachim,Yaoundé,Yaoundé II,Nsam,3.941126,11.50574,+237 697 112 818,joachim@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0085,Physiothérapie Eba,Yaoundé,Yaoundé V,Nkoabang,3.937493,11.483403,+237 698 121 826,physiothérapie@gmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0086,Cabinet de Kinésithérapie Patrick,Yaoundé,Yaoundé VII,Ngousso,3.904656,11.575275,+237 242 579 394,patrick@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 07h00–20h00
+KIN0087,Physiothérapie Essomba,Yaoundé,Yaoundé II,Nkol-Afeme,3.82061,11.584828,+237 678 012 064,physiothérapie@gmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 07h00–20h00
+KIN0088,Physiothérapie Moussa,Douala,Douala I,PK10,4.077988,9.645313,+237 692 797 087,physiothérapie@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Oui,7j/7 — 08h00–20h00
+KIN0089,Physiothérapie Engoulou,Douala,Douala V,PK10,3.998586,9.657645,+237 653 736 919,physiothérapie@kine.cm,Oui,Non,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0090,Centre de Kinésithérapie de PK8,Douala,Douala V,Bessengue,4.13687,9.700396,+237 653 580 877,pk8@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+KIN0091,Cabinet de Kinésithérapie Étienne,Douala,Douala VI,PK17,4.02551,9.651462,+237 222 602 149,étienne@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 07h00–20h00
+KIN0092,Centre de Rééducation Saint-André,Yaoundé,Yaoundé VII,Bastos,3.921951,11.509286,+237 653 465 196,andré@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0093,Centre de Kinésithérapie de Bastos,Yaoundé,Yaoundé I,Bastos,3.876146,11.568829,+237 678 512 082,bastos@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0094,Cabinet Kiné Kuitche,Yaoundé,Yaoundé V,Santa Barbara,3.762411,11.46579,+237 650 666 772,kinékuitche@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0095,Physiothérapie Manga,Douala,Douala I,Bonaloka,4.014117,9.775728,+237 651 865 813,physiothérapie@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0096,Centre de Kinésithérapie de Mbanya,Douala,Douala II,Bonamoussadi,4.039362,9.661177,+237 222 631 840,mbanya@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Non,Lun–Dim 08h00–18h00
+KIN0097,Physiothérapie Djoumbi,Yaoundé,Yaoundé V,Santa Barbara,3.881053,11.553429,+237 222 742 806,physiothérapie@kine.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0098,Cabinet de Kinésithérapie Louis,Douala,Douala III,Koumassi,4.092072,9.696439,+237 233 088 714,louis@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0099,Cabinet Kiné Mvogo,Yaoundé,Yaoundé IV,Nkolbisson,3.817375,11.574168,+237 243 894 031,kinémvogo@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Ven 07h30–17h30
+KIN0100,Centre de Rééducation Saint-Augustin,Douala,Douala V,Kotto,4.050082,9.683613,+237 677 775 081,augustin@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0101,Centre de Kinésithérapie de Deido,Douala,Douala IV,PK14,4.071547,9.701804,+237 654 138 642,deido@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Oui,Lun–Sam 08h30–18h30
+KIN0102,Centre de Kinésithérapie de Santa Barbara,Yaoundé,Yaoundé II,Émana,3.91562,11.439096,+237 694 708 296,santabarbara@kine.cm,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+KIN0103,Cabinet de Kinésithérapie Damien,Yaoundé,Yaoundé V,Nkolbisson,3.927639,11.485191,+237 699 463 929,damien@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0104,Centre de Kinésithérapie de Bonaloka,Douala,Douala V,Ndog-Passi III,4.054418,9.729249,+237 691 619 106,bonaloka@gmail.com,Oui,Oui,Non,Non,Non,Oui,Non,7j/7 — 08h00–20h00
+KIN0105,Centre de Rééducation Saint-Marie,Yaoundé,Yaoundé III,Omnisports,3.9418,11.488393,+237 654 129 673,marie@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+KIN0106,Cabinet de Kinésithérapie Augustin,Yaoundé,Yaoundé V,Djoungolo,3.800717,11.579075,+237 698 631 919,augustin@kine.cm,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 08h00–17h00
+KIN0107,Cabinet Kiné Elong,Yaoundé,Yaoundé VII,Santa Barbara,3.749415,11.537461,+237 697 472 463,kinéelong@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0108,Centre de Rééducation Confiance,Yaoundé,Yaoundé II,Briqueterie,3.917359,11.489287,+237 652 407 487,confiance@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0109,Centre de Rééducation Saint-Michel,Yaoundé,Yaoundé II,Mvog-Beti,3.890929,11.598125,+237 242 396 857,michel@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Ven 07h30–17h30
+KIN0110,Cabinet de Kinésithérapie Cyprien,Douala,Douala IV,PK12,4.096262,9.762485,+237 242 272 961,cyprien@gmail.com,Oui,Non,Non,Non,Non,Oui,Oui,Lun–Sam 08h30–18h30
+KIN0111,Centre de Kinésithérapie de Bangue,Douala,Douala VI,Bonanjo,4.044785,9.788883,+237 242 579 194,bangue@yahoo.fr,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Ven 08h00–18h00
+KIN0112,Physiothérapie Manga,Yaoundé,Yaoundé VI,Carrière,3.892904,11.458615,+237 654 287 295,physiothérapie@yahoo.fr,Oui,Non,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0113,Centre de Kinésithérapie de PK8,Douala,Douala VI,Bali,3.969436,9.683377,+237 677 792 079,pk8@kine.cm,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Sam 07h00–20h00
+KIN0114,Centre de Kinésithérapie de Ndogbong,Douala,Douala I,Kotto,3.992066,9.686642,+237 699 128 219,ndogbong@gmail.com,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Ven 07h30–17h30
+KIN0115,Cabinet Kiné Ngoa,Yaoundé,Yaoundé VI,Nkol-Afeme,3.810404,11.405855,+237 695 388 660,kinéngoa@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Oui,Lun–Sam 08h00–17h00
+KIN0116,Centre de Kinésithérapie de Cité Verte,Yaoundé,Yaoundé VI,Mvog-Ada,3.855559,11.566362,+237 679 591 717,citéverte@yahoo.fr,Oui,Non,Oui,Non,Oui,Non,Oui,Lun–Ven 07h30–17h30
+KIN0117,Centre de Rééducation Alliance,Yaoundé,Yaoundé I,Djoungolo,3.849264,11.501368,+237 655 171 903,alliance@hotmail.com,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Dim 08h00–18h00
+KIN0118,Cabinet de Kinésithérapie Paul,Yaoundé,Yaoundé III,Nkol-Afeme,3.804774,11.427611,+237 652 063 014,paul@gmail.com,Oui,Non,Non,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0119,Cabinet Kiné Onana,Yaoundé,Yaoundé VII,Nkol-Afeme,3.774841,11.556169,+237 650 633 966,kinéonana@kine.cm,Oui,Non,Oui,Non,Non,Oui,Non,Lun–Sam 07h00–20h00
+KIN0120,Centre de Rééducation Bonheur,Douala,Douala II,New Bell,4.101653,9.747989,+237 692 415 532,bonheur@gmail.com,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Sam 07h30–19h00
+KIN0121,Cabinet Kiné Kamga,Yaoundé,Yaoundé V,Mvog-Atangana,3.863866,11.449373,+237 698 298 791,kinékamga@kine.cm,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0122,Cabinet de Kinésithérapie Louis,Douala,Douala IV,Akwa,4.003534,9.705942,+237 692 819 947,louis@kine.cm,Oui,Oui,Non,Oui,Non,Oui,Oui,Lun–Sam 08h00–17h00
+KIN0123,Physiothérapie Tchoupo,Yaoundé,Yaoundé IV,Mvog-Mbi,3.872652,11.399994,+237 652 194 413,physiothérapie@kine.cm,Oui,Oui,Oui,Non,Non,Oui,Oui,Lun–Ven 08h00–18h00
+KIN0124,Centre de Rééducation Saint-Gabriel,Yaoundé,Yaoundé IV,Kondengui,3.851897,11.537523,+237 233 400 423,gabriel@kine.cm,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 08h00–17h00
+KIN0125,Centre de Kinésithérapie de Akwa,Douala,Douala IV,Bangue,4.0599,9.690985,+237 679 589 655,akwa@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0126,Centre de Kinésithérapie de PK14,Douala,Douala I,Kotto,4.014557,9.628928,+237 652 538 118,pk14@hotmail.com,Oui,Non,Non,Non,Non,Non,Oui,Lun–Sam 08h30–18h30
+KIN0127,Centre de Kinésithérapie de Kondengui,Yaoundé,Yaoundé I,Essos,3.773483,11.504181,+237 222 317 719,kondengui@hotmail.com,Oui,Oui,Oui,Non,Oui,Oui,Non,7j/7 — 08h00–20h00
+KIN0128,Cabinet Kiné Biyiti,Yaoundé,Yaoundé III,Biyem-Assi,3.778211,11.427452,+237 693 366 216,kinébiyiti@hotmail.com,Oui,Oui,Oui,Oui,Non,Oui,Oui,Lun–Sam 08h30–18h30
+KIN0129,Centre de Rééducation Confiance,Douala,Douala IV,Cité des Palmiers,4.025111,9.673163,+237 650 819 121,confiance@kine.cm,Oui,Oui,Oui,Non,Oui,Non,Oui,Lun–Sam 08h30–18h30
+KIN0130,Physiothérapie Simo,Yaoundé,Yaoundé V,Ekounou,3.765232,11.529395,+237 699 837 808,physiothérapie@gmail.com,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+KIN0131,Centre de Kinésithérapie de Sodiko,Douala,Douala I,PK8,4.040119,9.672594,+237 698 181 897,sodiko@yahoo.fr,Oui,Non,Non,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0132,Centre de Rééducation Bien-être,Douala,Douala VI,Ndog-Passi III,4.08277,9.689011,+237 654 647 720,bien-être@kine.cm,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0133,Centre de Rééducation Santé,Yaoundé,Yaoundé V,Briqueterie,3.859983,11.584768,+237 699 976 743,santé@hotmail.com,Oui,Non,Non,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0134,Centre de Kinésithérapie de PK12,Douala,Douala VI,Nyalla,4.009074,9.778066,+237 693 640 753,pk12@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Dim 08h00–18h00
+KIN0135,Cabinet Kiné Ondoa,Yaoundé,Yaoundé V,Essos,3.913093,11.540319,+237 655 549 081,kinéondoa@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Sam 07h00–20h00
+KIN0136,Centre de Kinésithérapie de Mboppi,Douala,Douala II,Nyalla,3.97115,9.675232,+237 655 118 574,mboppi@gmail.com,Oui,Oui,Oui,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0137,Cabinet Kiné Engoulou,Yaoundé,Yaoundé VII,Elig-Essono,3.842841,11.408307,+237 691 608 640,kinéengoulou@kine.cm,Oui,Oui,Non,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0138,Physiothérapie Mbassi,Douala,Douala V,Koumassi,4.011824,9.655672,+237 655 671 574,physiothérapie@gmail.com,Oui,Non,Non,Non,Non,Oui,Oui,Lun–Sam 08h30–18h30
+KIN0139,Physiothérapie Nkoa,Douala,Douala I,PK8,3.994859,9.72552,+237 651 214 499,physiothérapie@hotmail.com,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+KIN0140,Cabinet de Kinésithérapie Joseph,Douala,Douala VI,Bassa,4.039852,9.725142,+237 242 259 227,joseph@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Sam 08h30–18h30
+KIN0141,Centre de Rééducation Vie,Yaoundé,Yaoundé I,Mokolo,3.841195,11.42633,+237 654 599 084,vie@kine.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+KIN0142,Centre de Rééducation Secours,Yaoundé,Yaoundé VII,Djoungolo,3.887074,11.588738,+237 692 090 221,secours@yahoo.fr,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 08h30–18h30
+KIN0143,Centre de Kinésithérapie de New Bell,Douala,Douala II,Ndokoti,4.069506,9.730861,+237 693 629 081,newbell@kine.cm,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 08h00–17h00
+KIN0144,Physiothérapie Belinga,Yaoundé,Yaoundé III,Madagascar,3.918926,11.452716,+237 695 813 163,physiothérapie@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0145,Centre de Rééducation Saint-Dominique,Douala,Douala I,Ndogbong,4.070151,9.667307,+237 233 595 979,dominique@kine.cm,Oui,Non,Non,Non,Non,Non,Oui,Lun–Sam 07h00–20h00
+KIN0146,Centre de Rééducation Bonheur,Douala,Douala III,PK12,4.024041,9.746954,+237 698 165 419,bonheur@kine.cm,Oui,Non,Oui,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0147,Centre de Rééducation Saint-Joachim,Yaoundé,Yaoundé IV,Nkomo,3.899571,11.487531,+237 655 544 445,joachim@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+KIN0148,Physiothérapie Nkoa,Yaoundé,Yaoundé V,Biyem-Assi,3.816956,11.487851,+237 650 688 003,physiothérapie@kine.cm,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Sam 07h30–19h00
+KIN0149,Physiothérapie Mvogo,Yaoundé,Yaoundé III,Nkomo,3.890201,11.523463,+237 692 174 830,physiothérapie@kine.cm,Oui,Non,Non,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+KIN0150,Centre de Kinésithérapie de Mimboman,Yaoundé,Yaoundé IV,Mimboman,3.87562,11.465219,+237 655 434 941,mimboman@yahoo.fr,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+KIN0151,Cabinet Kiné Manga,Douala,Douala III,Ndog-Passi III,3.972114,9.744749,+237 690 037 898,kinémanga@gmail.com,Oui,Non,Non,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+KIN0152,Cabinet Kiné Nkoa,Yaoundé,Yaoundé I,Mvog-Ada,3.862688,11.472672,+237 242 255 556,kinénkoa@gmail.com,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Dim 08h00–18h00
+KIN0153,Centre de Rééducation Saint-Damien,Yaoundé,Yaoundé IV,Mvog-Atangana,3.775823,11.543649,+237 694 939 316,damien@kine.cm,Oui,Oui,Non,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0154,Physiothérapie Onana,Douala,Douala II,Bassa,4.088073,9.755209,+237 692 568 734,physiothérapie@kine.cm,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+KIN0155,Centre de Rééducation Saint-Thérèse,Yaoundé,Yaoundé II,Ahala,3.778071,11.521849,+237 690 939 911,thérèse@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 07h00–20h00
+KIN0156,Physiothérapie Wamba,Yaoundé,Yaoundé IV,Biteng,3.893148,11.423957,+237 650 818 713,physiothérapie@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 07h00–20h00
+KIN0157,Physiothérapie Tchoupo,Douala,Douala V,Kotto,4.073009,9.743026,+237 242 235 329,physiothérapie@kine.cm,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 08h30–18h30
+KIN0158,Physiothérapie Ateba,Douala,Douala IV,Nzeng-Ayong,4.113031,9.670299,+237 694 151 076,physiothérapie@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0159,Cabinet Kiné Kuitche,Douala,Douala V,Village,4.028831,9.678945,+237 692 235 669,kinékuitche@kine.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0160,Centre de Kinésithérapie de Nkomo,Yaoundé,Yaoundé IV,Simbock,3.864349,11.542103,+237 693 447 049,nkomo@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0161,Centre de Rééducation Lumière,Douala,Douala VI,PK8,4.007139,9.766699,+237 691 289 345,lumière@kine.cm,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 08h00–17h00
+KIN0162,Centre de Rééducation Saint-Joseph,Yaoundé,Yaoundé IV,Ngousso,3.761678,11.54913,+237 697 535 282,joseph@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+KIN0163,Cabinet de Kinésithérapie Raphaël,Yaoundé,Yaoundé VII,Ahala,3.774005,11.461291,+237 679 074 380,raphaël@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Sam 07h00–20h00
+KIN0164,Centre de Kinésithérapie de Koumassi,Douala,Douala III,PK14,4.109441,9.682895,+237 691 369 848,koumassi@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0165,Centre de Rééducation Saint-Louis,Douala,Douala V,Sodiko,4.058369,9.773717,+237 691 459 650,louis@gmail.com,Oui,Oui,Non,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0166,Centre de Rééducation Saint-Marc,Douala,Douala III,Bangue,4.072893,9.70975,+237 691 152 496,marc@kine.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+KIN0167,Centre de Kinésithérapie de Bonapriso,Douala,Douala III,Bali,4.131532,9.669959,+237 652 286 922,bonapriso@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Ven 08h00–18h00
+KIN0168,Physiothérapie Nguele,Yaoundé,Yaoundé II,Étoa-Meki,3.777115,11.432285,+237 222 580 953,physiothérapie@kine.cm,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Ven 07h30–17h30
+KIN0169,Cabinet de Kinésithérapie Joseph,Douala,Douala V,Logbessou,4.127906,9.688802,+237 233 875 577,joseph@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0170,Cabinet Kiné Owona,Yaoundé,Yaoundé II,Mvog-Beti,3.809717,11.565911,+237 695 388 100,kinéowona@kine.cm,Oui,Non,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0171,Physiothérapie Djoumbi,Douala,Douala V,Bonanjo,4.016746,9.652754,+237 692 596 860,physiothérapie@kine.cm,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+KIN0172,Physiothérapie Mbarga,Yaoundé,Yaoundé II,Ngousso,3.882422,11.501797,+237 655 360 297,physiothérapie@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Oui,Lun–Dim 08h00–18h00
+KIN0173,Physiothérapie Eba,Douala,Douala V,Sodiko,4.104451,9.773001,+237 655 332 011,physiothérapie@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+KIN0174,Centre de Kinésithérapie de Ndogpassi,Douala,Douala II,Koumassi,4.090423,9.67942,+237 652 779 967,ndogpassi@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+KIN0175,Cabinet de Kinésithérapie Joachim,Douala,Douala III,Bassa,4.092987,9.674771,+237 677 023 251,joachim@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Non,7j/7 — 08h00–20h00
+KIN0176,Physiothérapie Biyiti,Yaoundé,Yaoundé II,Mvog-Ada,3.840401,11.570364,+237 693 250 068,physiothérapie@hotmail.com,Oui,Non,Non,Non,Oui,Non,Non,7j/7 — 08h00–20h00
+KIN0177,Centre de Kinésithérapie de Nlongkak,Yaoundé,Yaoundé VII,Nkoabang,3.817859,11.568411,+237 654 327 176,nlongkak@yahoo.fr,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Dim 08h00–18h00
+KIN0178,Centre de Rééducation Progrès,Yaoundé,Yaoundé V,Briqueterie,3.898671,11.517755,+237 654 319 249,progrès@hotmail.com,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 07h00–20h00
+KIN0179,Cabinet de Kinésithérapie Gabriel,Yaoundé,Yaoundé III,Mvog-Beti,3.904783,11.411881,+237 693 773 699,gabriel@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0180,Cabinet Kiné Simo,Yaoundé,Yaoundé VII,Messa,3.81623,11.503459,+237 652 461 697,kinésimo@kine.cm,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0181,Centre de Rééducation Avenir,Douala,Douala I,Nzeng-Ayong,4.066886,9.766129,+237 651 894 761,avenir@kine.cm,Oui,Non,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0182,Centre de Rééducation Saint-Cécile,Douala,Douala III,Ndogbong,4.065295,9.721859,+237 690 014 801,cécile@kine.cm,Oui,Non,Non,Non,Non,Non,Oui,Lun–Sam 07h00–20h00
+KIN0183,Centre de Rééducation Saint-Cyprien,Douala,Douala V,Bangue,4.08932,9.682771,+237 691 697 159,cyprien@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+KIN0184,Physiothérapie Fouda,Douala,Douala I,Akwa,4.062258,9.761686,+237 243 391 404,physiothérapie@gmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0185,Centre de Rééducation Saint-Jeanne,Douala,Douala V,Nkongmondo,4.040514,9.726524,+237 697 111 438,jeanne@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Oui,Lun–Ven 07h30–17h30
+KIN0186,Centre de Kinésithérapie de Bonanjo,Douala,Douala III,Boko,4.039908,9.673358,+237 698 727 130,bonanjo@kine.cm,Oui,Oui,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0187,Cabinet de Kinésithérapie Damien,Douala,Douala II,Nzeng-Ayong,4.06173,9.624741,+237 694 985 452,damien@kine.cm,Oui,Oui,Non,Non,Non,Oui,Non,Lun–Sam 08h30–18h30
+KIN0188,Centre de Kinésithérapie de Mvog-Atangana,Yaoundé,Yaoundé II,Mvog-Atangana,3.76345,11.564768,+237 678 417 245,mvog-atangana@kine.cm,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 07h30–19h00
+KIN0189,Cabinet Kiné Nguele,Yaoundé,Yaoundé VI,Biyem-Assi,3.880617,11.566344,+237 690 809 602,kinénguele@kine.cm,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Dim 08h00–18h00
+KIN0190,Centre de Kinésithérapie de Nzeng-Ayong,Douala,Douala III,Nyalla,4.077125,9.72848,+237 693 027 972,nzeng-ayong@kine.cm,Oui,Oui,Non,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0191,Centre de Kinésithérapie de Émana,Yaoundé,Yaoundé V,Émana,3.862022,11.458231,+237 653 475 758,émana@gmail.com,Oui,Non,Oui,Oui,Oui,Non,Oui,7j/7 — 08h00–20h00
+KIN0192,Centre de Rééducation Providence,Douala,Douala VI,PK17,4.122414,9.660724,+237 696 448 513,providence@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Sam 08h30–18h30
+KIN0193,Centre de Kinésithérapie de Simbock,Yaoundé,Yaoundé II,Simbock,3.892224,11.507603,+237 696 239 531,simbock@kine.cm,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0194,Cabinet de Kinésithérapie Marie,Yaoundé,Yaoundé VI,Elig-Essono,3.899511,11.515103,+237 690 591 706,marie@gmail.com,Oui,Non,Non,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+KIN0195,Centre de Kinésithérapie de Nkoldongo,Yaoundé,Yaoundé VI,Omnisports,3.92652,11.474686,+237 693 104 906,nkoldongo@kine.cm,Oui,Oui,Non,Non,Non,Oui,Non,Lun–Ven 08h00–18h00
+KIN0196,Centre de Rééducation Providence,Douala,Douala III,Nzeng-Ayong,4.016335,9.788368,+237 678 885 396,providence@gmail.com,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Ven 07h30–17h30
+KIN0197,Cabinet Kiné Fouda,Douala,Douala VI,Makepe,3.978099,9.724114,+237 698 009 623,kinéfouda@gmail.com,Oui,Non,Oui,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0198,Centre de Rééducation Saint-Anne,Douala,Douala I,PK10,4.074071,9.670668,+237 694 704 081,anne@hotmail.com,Oui,Non,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0199,Centre de Kinésithérapie de Bangue,Douala,Douala V,Deido,4.035315,9.794325,+237 653 870 639,bangue@kine.cm,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+KIN0200,Cabinet Kiné Ekani,Yaoundé,Yaoundé VII,Étoa-Meki,3.765104,11.47376,+237 693 882 023,kinéekani@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Ven 08h00–18h00
+KIN0201,Cabinet de Kinésithérapie Bernadette,Yaoundé,Yaoundé III,Nsam,3.865165,11.485227,+237 653 462 645,bernadette@gmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0202,Physiothérapie Kuitche,Yaoundé,Yaoundé V,Nkol-Afeme,3.896574,11.599775,+237 677 643 886,physiothérapie@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0203,Centre de Kinésithérapie de PK17,Douala,Douala VI,PK17,4.119109,9.741452,+237 222 460 925,pk17@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+KIN0204,Cabinet Kiné Essomba,Douala,Douala VI,Bessengue,4.0612,9.763457,+237 698 149 649,kinéessomba@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Oui,Lun–Ven 07h30–17h30
+KIN0205,Centre de Kinésithérapie de Nkol-Afeme,Yaoundé,Yaoundé V,Ekounou,3.935741,11.460741,+237 655 984 458,nkol-afeme@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+KIN0206,Cabinet Kiné Onana,Yaoundé,Yaoundé II,Santa Barbara,3.832266,11.563299,+237 699 487 894,kinéonana@hotmail.com,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+KIN0207,Centre de Kinésithérapie de Ndokoti,Douala,Douala VI,Kotto,3.988747,9.727592,+237 222 630 564,ndokoti@hotmail.com,Oui,Non,Oui,Non,Oui,Non,Non,Lun–Sam 07h30–19h00
+KIN0208,Centre de Kinésithérapie de Melen,Yaoundé,Yaoundé IV,Melen,3.812284,11.471848,+237 699 322 532,melen@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0209,Centre de Rééducation Saint-Élisabeth,Douala,Douala I,Bonanjo,4.092229,9.683505,+237 699 334 845,élisabeth@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Ven 08h00–18h00
+KIN0210,Cabinet de Kinésithérapie Félicité,Yaoundé,Yaoundé I,Mvog-Ada,3.846986,11.537821,+237 222 758 955,félicité@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Oui,7j/7 — 08h00–20h00
+KIN0211,Centre de Rééducation Saint-Augustin,Douala,Douala III,Nzeng-Ayong,4.003006,9.699288,+237 698 992 436,augustin@yahoo.fr,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+KIN0212,Cabinet Kiné Belinga,Yaoundé,Yaoundé II,Ngousso,3.853164,11.540152,+237 692 751 760,kinébelinga@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+KIN0213,Centre de Rééducation Alliance,Douala,Douala IV,Sodiko,4.11039,9.748036,+237 691 096 318,alliance@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+KIN0214,Centre de Rééducation Saint-Luc,Yaoundé,Yaoundé VI,Santa Barbara,3.775049,11.467109,+237 697 010 143,luc@kine.cm,Oui,Oui,Non,Oui,Oui,Oui,Non,Lun–Sam 07h30–19h00
+KIN0215,Centre de Rééducation Saint-Pierre,Yaoundé,Yaoundé VI,Nkol-Afeme,3.870315,11.574785,+237 698 614 277,pierre@kine.cm,Oui,Non,Non,Non,Non,Non,Oui,Lun–Dim 08h00–18h00
+KIN0216,Physiothérapie Ondoa,Yaoundé,Yaoundé VII,Essos,3.802459,11.477697,+237 699 418 449,physiothérapie@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+KIN0217,Cabinet de Kinésithérapie Jean,Yaoundé,Yaoundé IV,Efoulan,3.874292,11.467189,+237 696 409 698,jean@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0218,Centre de Rééducation Saint-Gabriel,Douala,Douala III,Mboppi,4.053837,9.682248,+237 653 192 699,gabriel@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Oui,Lun–Ven 08h00–18h00
+KIN0219,Cabinet Kiné Mbarga,Yaoundé,Yaoundé I,Mokolo,3.931988,11.53072,+237 699 119 869,kinémbarga@gmail.com,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Ven 07h30–17h30
+KIN0220,Cabinet Kiné Mvé,Douala,Douala VI,Ndog-Passi III,4.060329,9.679779,+237 651 516 746,kinémvé@kine.cm,Oui,Oui,Non,Non,Non,Oui,Non,Lun–Sam 07h30–19h00
+KIN0221,Centre de Kinésithérapie de Mboppi,Douala,Douala III,Akwa,4.11559,9.659091,+237 655 920 200,mboppi@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0222,Cabinet de Kinésithérapie Anne,Yaoundé,Yaoundé III,Obili,3.811922,11.427319,+237 679 054 473,anne@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0223,Centre de Kinésithérapie de Sodiko,Douala,Douala IV,Sodiko,4.082118,9.656886,+237 690 440 310,sodiko@gmail.com,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0224,Cabinet Kiné Eba,Yaoundé,Yaoundé VII,Mendong,3.900612,11.461797,+237 698 809 010,kinéeba@kine.cm,Oui,Non,Oui,Non,Oui,Non,Non,Lun–Sam 07h30–19h00
+KIN0225,Centre de Kinésithérapie de Ndog-Passi III,Douala,Douala II,Ndog-Passi III,4.095332,9.735851,+237 693 957 706,ndog-passiiii@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 07h00–20h00
+KIN0226,Cabinet Kiné Bello,Yaoundé,Yaoundé VI,Elig-Essono,3.833838,11.517806,+237 654 245 943,kinébello@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Non,Lun–Dim 08h00–18h00
+KIN0227,Centre de Kinésithérapie de Bepanda,Douala,Douala III,Sodiko,3.994656,9.744722,+237 653 748 352,bepanda@yahoo.fr,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+KIN0228,Cabinet de Kinésithérapie Jean,Douala,Douala II,Bangue,4.112551,9.728953,+237 655 308 361,jean@hotmail.com,Oui,Non,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0229,Centre de Rééducation Saint-André,Douala,Douala III,Youpwé,4.045401,9.716776,+237 694 606 969,andré@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 07h30–19h00
+KIN0230,Centre de Kinésithérapie de Nkongmondo,Douala,Douala V,Nkongmondo,4.021657,9.710875,+237 694 695 858,nkongmondo@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+KIN0231,Cabinet Kiné Djoumbi,Yaoundé,Yaoundé III,Efoulan,3.806324,11.455614,+237 699 289 832,kinédjoumbi@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0232,Centre de Kinésithérapie de Obili,Yaoundé,Yaoundé V,Obili,3.829768,11.490243,+237 650 556 536,obili@gmail.com,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Ven 07h30–17h30
+KIN0233,Cabinet de Kinésithérapie Patrick,Douala,Douala III,Nkongmondo,4.038599,9.647286,+237 654 072 492,patrick@kine.cm,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Sam 08h30–18h30
+KIN0234,Centre de Kinésithérapie de Essos,Yaoundé,Yaoundé IV,Essos,3.924899,11.469762,+237 695 849 415,essos@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0235,Cabinet de Kinésithérapie Jean,Douala,Douala I,Ndog-Bong,4.063755,9.67488,+237 692 269 431,jean@kine.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0236,Centre de Rééducation Saint-Bernadette,Yaoundé,Yaoundé VII,Nkomo,3.822933,11.579168,+237 679 072 190,bernadette@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Non,Lun–Dim 08h00–18h00
+KIN0237,Centre de Kinésithérapie de Village,Douala,Douala VI,Japoma,4.047329,9.669321,+237 697 845 783,village@hotmail.com,Oui,Non,Non,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+KIN0238,Centre de Kinésithérapie de Bassa,Douala,Douala V,Bassa,4.091862,9.690958,+237 699 985 241,bassa@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0239,Cabinet Kiné Tchoupo,Douala,Douala II,Deido,4.117652,9.688802,+237 242 854 665,kinétchoupo@hotmail.com,Oui,Non,Non,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+KIN0240,Physiothérapie Assamba,Yaoundé,Yaoundé V,Mvan,3.812049,11.500754,+237 699 365 978,physiothérapie@gmail.com,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Sam 08h00–17h00
+KIN0241,Cabinet Kiné Feudjio,Douala,Douala II,PK10,3.988187,9.70213,+237 653 238 238,kinéfeudjio@yahoo.fr,Oui,Oui,Non,Non,Non,Oui,Non,Lun–Sam 07h00–20h00
+KIN0242,Centre de Rééducation Saint-Raphaël,Yaoundé,Yaoundé III,Nkol-Afeme,3.918965,11.551012,+237 679 124 684,raphaël@gmail.com,Oui,Non,Non,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+KIN0243,Centre de Kinésithérapie de Logbessou,Douala,Douala IV,PK14,4.065173,9.654959,+237 654 276 533,logbessou@gmail.com,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 08h30–18h30
+KIN0244,Centre de Kinésithérapie de Mvog-Beti,Yaoundé,Yaoundé I,Tsinga,3.759098,11.49967,+237 692 691 586,mvog-beti@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Oui,Lun–Dim 08h00–18h00
+KIN0245,Centre de Rééducation Saint-Damien,Douala,Douala II,Bassa,4.074543,9.718854,+237 694 139 209,damien@kine.cm,Oui,Non,Oui,Non,Oui,Non,Non,Lun–Sam 08h30–18h30
+KIN0246,Cabinet de Kinésithérapie Luc,Douala,Douala II,Nyalla,4.065278,9.657242,+237 653 348 435,luc@gmail.com,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 07h00–20h00
+KIN0247,Cabinet de Kinésithérapie Claire,Yaoundé,Yaoundé III,Nkol-Eton,3.894991,11.461968,+237 697 984 014,claire@gmail.com,Oui,Non,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0248,Centre de Rééducation Saint-Anne,Yaoundé,Yaoundé VII,Efoulan,3.851435,11.572783,+237 233 090 601,anne@gmail.com,Oui,Oui,Non,Non,Non,Oui,Oui,7j/7 — 08h00–20h00
+KIN0249,Cabinet de Kinésithérapie Cyprien,Yaoundé,Yaoundé V,Étoa-Meki,3.839138,11.537279,+237 652 204 858,cyprien@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+KIN0250,Cabinet de Kinésithérapie Thérèse,Douala,Douala III,Ndogpassi,4.006448,9.676417,+237 654 698 816,thérèse@hotmail.com,Oui,Non,Non,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0251,Cabinet de Kinésithérapie Élisabeth,Yaoundé,Yaoundé III,Obili,3.921142,11.506297,+237 694 562 884,élisabeth@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+KIN0252,Physiothérapie Mvé,Yaoundé,Yaoundé III,Santa Barbara,3.882878,11.52036,+237 699 169 855,physiothérapie@kine.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0253,Centre de Rééducation Saint-Jean,Douala,Douala IV,PK8,4.025162,9.791381,+237 678 239 079,jean@kine.cm,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Ven 07h30–17h30
+KIN0254,Centre de Kinésithérapie de Ndogbong,Douala,Douala V,PK12,3.995165,9.775993,+237 695 535 115,ndogbong@gmail.com,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+KIN0255,Centre de Rééducation Espoir,Yaoundé,Yaoundé VII,Efoulan,3.814925,11.533372,+237 652 249 394,espoir@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 07h00–20h00
+KIN0256,Cabinet de Kinésithérapie Michel,Yaoundé,Yaoundé III,Mimboman,3.919091,11.490268,+237 677 737 976,michel@gmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+KIN0257,Centre de Rééducation Saint-Étienne,Yaoundé,Yaoundé VII,Nkoldongo,3.810644,11.506402,+237 654 879 584,étienne@gmail.com,Oui,Non,Non,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0258,Physiothérapie Zang,Yaoundé,Yaoundé V,Carrière,3.803291,11.591824,+237 698 932 835,physiothérapie@gmail.com,Oui,Oui,Oui,Non,Non,Oui,Oui,Lun–Ven 07h30–17h30
+KIN0259,Physiothérapie Bikié,Yaoundé,Yaoundé I,Nlongkak,3.85791,11.417291,+237 652 896 745,physiothérapie@hotmail.com,Oui,Non,Oui,Non,Oui,Oui,Oui,Lun–Sam 08h00–17h00
+KIN0260,Centre de Rééducation Confiance,Douala,Douala I,Kotto,4.053695,9.762691,+237 697 381 884,confiance@hotmail.com,Oui,Non,Non,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+KIN0261,Cabinet de Kinésithérapie François,Douala,Douala V,Ndogbong,3.983994,9.676003,+237 222 316 007,françois@yahoo.fr,Oui,Non,Non,Non,Oui,Non,Non,Lun–Sam 07h30–19h00
+KIN0262,Centre de Rééducation Saint-Bruno,Yaoundé,Yaoundé VII,Mvog-Ada,3.890537,11.482665,+237 690 133 201,bruno@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Oui,7j/7 — 08h00–20h00
+KIN0263,Centre de Kinésithérapie de Odza,Yaoundé,Yaoundé VI,Essos,3.798452,11.411895,+237 698 134 496,odza@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Dim 08h00–18h00
+KIN0264,Physiothérapie Ndjock,Yaoundé,Yaoundé VI,Nkol-Eton,3.905495,11.523283,+237 692 079 091,physiothérapie@gmail.com,Oui,Oui,Non,Oui,Non,Oui,Oui,Lun–Sam 07h00–20h00
+KIN0265,Cabinet de Kinésithérapie Paul,Yaoundé,Yaoundé II,Messa,3.801355,11.554907,+237 652 653 382,paul@hotmail.com,Oui,Non,Non,Oui,Non,Non,Oui,Lun–Sam 08h00–17h00
+KIN0266,Cabinet Kiné Ngoa,Yaoundé,Yaoundé III,Mvan,3.948798,11.477655,+237 651 195 995,kinéngoa@kine.cm,Oui,Oui,Non,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0267,Cabinet de Kinésithérapie Dominique,Yaoundé,Yaoundé VII,Tsinga,3.821887,11.447148,+237 696 252 449,dominique@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0268,Physiothérapie Biyiti,Douala,Douala III,Village,4.079769,9.644964,+237 698 457 790,physiothérapie@kine.cm,Oui,Non,Non,Oui,Non,Non,Oui,Lun–Dim 08h00–18h00
+KIN0269,Cabinet de Kinésithérapie Raphaël,Douala,Douala IV,Nkongmondo,4.073428,9.64192,+237 696 106 242,raphaël@gmail.com,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Ven 07h30–17h30
+KIN0270,Centre de Kinésithérapie de Étoa-Meki,Yaoundé,Yaoundé IV,Mvog-Mbi,3.857434,11.581775,+237 695 066 796,étoa-meki@kine.cm,Oui,Oui,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0271,Cabinet de Kinésithérapie Louis,Yaoundé,Yaoundé VI,Essos,3.944261,11.529563,+237 698 670 766,louis@hotmail.com,Oui,Non,Non,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+KIN0272,Centre de Kinésithérapie de Nsam,Yaoundé,Yaoundé II,Nsam,3.792628,11.579815,+237 692 452 884,nsam@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Oui,Lun–Sam 07h30–19h00
+KIN0273,Cabinet Kiné Zang,Yaoundé,Yaoundé V,Biyem-Assi,3.801099,11.519474,+237 694 295 819,kinézang@yahoo.fr,Oui,Non,Oui,Non,Non,Non,Oui,Lun–Sam 07h30–19h00
+KIN0274,Centre de Kinésithérapie de New Bell,Douala,Douala I,Ndogbong,4.026638,9.71354,+237 243 335 583,newbell@kine.cm,Oui,Non,Non,Non,Oui,Non,Non,Lun–Sam 07h00–20h00
+KIN0275,Centre de Kinésithérapie de Briqueterie,Yaoundé,Yaoundé II,Briqueterie,3.898592,11.59406,+237 655 120 100,briqueterie@gmail.com,Oui,Non,Non,Non,Non,Non,Oui,Lun–Ven 07h30–17h30
+KIN0276,Cabinet Kiné Abega,Douala,Douala V,Village,4.096423,9.653748,+237 691 066 933,kinéabega@gmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0277,Cabinet Kiné Assamba,Yaoundé,Yaoundé II,Mvog-Mbi,3.75742,11.462784,+237 677 929 848,kinéassamba@kine.cm,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0278,Centre de Rééducation Saint-Jeanne,Douala,Douala IV,Bonapriso,4.052627,9.783688,+237 652 897 947,jeanne@gmail.com,Oui,Non,Oui,Non,Non,Non,Oui,Lun–Sam 07h00–20h00
+KIN0279,Centre de Rééducation Secours,Yaoundé,Yaoundé V,Kondengui,3.817919,11.400911,+237 698 897 237,secours@kine.cm,Oui,Non,Oui,Non,Non,Non,Oui,Lun–Sam 07h00–20h00
+KIN0280,Physiothérapie Mbassi,Douala,Douala I,Youpwé,4.128059,9.737731,+237 695 883 545,physiothérapie@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Oui,7j/7 — 08h00–20h00
+KIN0281,Centre de Rééducation Lumière,Yaoundé,Yaoundé V,Nkol-Afeme,3.874253,11.470571,+237 222 019 554,lumière@gmail.com,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 08h00–17h00
+KIN0282,Cabinet Kiné Manga,Douala,Douala I,Bassa,4.105029,9.770763,+237 652 997 377,kinémanga@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Dim 08h00–18h00
+KIN0283,Centre de Kinésithérapie de Makepe,Douala,Douala II,Makepe,4.044654,9.739396,+237 650 970 181,makepe@kine.cm,Oui,Oui,Oui,Non,Non,Non,Oui,7j/7 — 08h00–20h00
+KIN0284,Centre de Rééducation Saint-Claire,Yaoundé,Yaoundé II,Bastos,3.853565,11.471859,+237 698 412 624,claire@kine.cm,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0285,Centre de Rééducation Saint-André,Douala,Douala V,Bangue,3.979151,9.660571,+237 692 785 723,andré@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Ven 08h00–18h00
+KIN0286,Centre de Kinésithérapie de PK14,Douala,Douala III,Bonaloka,4.000513,9.72504,+237 698 566 590,pk14@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+KIN0287,Cabinet de Kinésithérapie Thérèse,Douala,Douala VI,PK8,4.055573,9.749581,+237 693 368 661,thérèse@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+KIN0288,Centre de Rééducation Vie,Douala,Douala III,Ndogbong,4.069484,9.664178,+237 242 956 120,vie@kine.cm,Oui,Oui,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0289,Cabinet de Kinésithérapie Monique,Douala,Douala V,Village,4.094267,9.739186,+237 678 467 122,monique@kine.cm,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Ven 07h30–17h30
+KIN0290,Physiothérapie Ndoumbe,Douala,Douala II,PK14,4.129261,9.682273,+237 699 553 668,physiothérapie@gmail.com,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Sam 07h00–20h00
+KIN0291,Centre de Rééducation Santé,Douala,Douala III,Nkongmondo,4.081916,9.63949,+237 655 468 025,santé@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Oui,Lun–Sam 07h00–20h00
+KIN0292,Physiothérapie Tchoupo,Yaoundé,Yaoundé III,Nkol-Eton,3.832945,11.536512,+237 233 725 320,physiothérapie@kine.cm,Oui,Non,Non,Non,Oui,Non,Non,Lun–Sam 08h30–18h30
+KIN0293,Centre de Kinésithérapie de New Bell,Douala,Douala V,PK10,4.057391,9.771377,+237 233 414 371,newbell@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+KIN0294,Cabinet de Kinésithérapie Cécile,Yaoundé,Yaoundé VII,Djoungolo,3.834963,11.476509,+237 650 406 593,cécile@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,7j/7 — 08h00–20h00
+KIN0295,Centre de Kinésithérapie de Sodiko,Douala,Douala IV,PK10,4.053035,9.715529,+237 653 205 124,sodiko@hotmail.com,Oui,Non,Oui,Non,Oui,Oui,Oui,7j/7 — 08h00–20h00
+KIN0296,Physiothérapie Tchoupo,Douala,Douala I,Bonaberi,3.975243,9.704328,+237 242 719 139,physiothérapie@yahoo.fr,Oui,Oui,Non,Non,Non,Oui,Non,Lun–Sam 07h30–19h00
+KIN0297,Centre de Kinésithérapie de Nzeng-Ayong,Douala,Douala VI,Ndokoti,3.98825,9.749264,+237 699 960 943,nzeng-ayong@gmail.com,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+KIN0298,Centre de Kinésithérapie de Youpwé,Douala,Douala V,Youpwé,4.023066,9.657889,+237 655 128 574,youpwé@gmail.com,Oui,Oui,Oui,Non,Non,Oui,Oui,Lun–Sam 08h00–17h00
+KIN0299,Cabinet de Kinésithérapie André,Douala,Douala V,Bali,4.07628,9.74977,+237 699 186 413,andré@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 07h00–20h00
+KIN0300,Physiothérapie Bikié,Douala,Douala IV,Village,3.970286,9.684597,+237 691 329 264,physiothérapie@kine.cm,Oui,Non,Non,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+KIN0301,Centre de Rééducation Bien-être,Yaoundé,Yaoundé III,Biyem-Assi,3.815124,11.509489,+237 693 742 991,bien-être@gmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0302,Cabinet Kiné Hamadou,Yaoundé,Yaoundé IV,Mvog-Mbi,3.834512,11.487419,+237 694 306 533,kinéhamadou@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Non,Lun–Dim 08h00–18h00
+KIN0303,Centre de Rééducation Saint-Patrick,Yaoundé,Yaoundé III,Nkoabang,3.899144,11.441648,+237 655 528 002,patrick@hotmail.com,Oui,Oui,Oui,Non,Non,Oui,Oui,Lun–Ven 07h30–17h30
+KIN0304,Centre de Rééducation Secours,Douala,Douala III,Ndog-Passi III,4.140192,9.704612,+237 697 582 485,secours@kine.cm,Oui,Non,Oui,Non,Oui,Non,Non,Lun–Ven 07h30–17h30
+KIN0305,Centre de Kinésithérapie de New Bell,Douala,Douala IV,Ndoghem,4.098374,9.755025,+237 693 552 204,newbell@gmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+KIN0306,Cabinet Kiné Djoumbi,Douala,Douala IV,Bonanjo,4.076229,9.693431,+237 233 277 163,kinédjoumbi@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0307,Centre de Rééducation Saint-Félicité,Yaoundé,Yaoundé VII,Nkol-Afeme,3.956538,11.487468,+237 690 089 119,félicité@kine.cm,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0308,Centre de Kinésithérapie de Mboppi,Douala,Douala IV,Boko,4.032344,9.783059,+237 693 191 714,mboppi@hotmail.com,Oui,Non,Non,Non,Oui,Non,Oui,Lun–Sam 08h00–17h00
+KIN0309,Centre de Kinésithérapie de Mbanya,Douala,Douala I,Kotto,3.976082,9.672724,+237 655 104 173,mbanya@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0310,Centre de Rééducation Saint-Félicité,Yaoundé,Yaoundé VI,Émana,3.858572,11.501881,+237 696 062 194,félicité@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0311,Centre de Rééducation Saint-François,Yaoundé,Yaoundé II,Nkol-Eton,3.784372,11.550204,+237 678 124 522,françois@gmail.com,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Sam 07h00–20h00
+KIN0312,Centre de Kinésithérapie de Bessengue,Douala,Douala V,Ndogbong,4.052556,9.619683,+237 694 292 314,bessengue@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+KIN0313,Centre de Kinésithérapie de PK14,Douala,Douala III,Cité des Palmiers,4.066014,9.722556,+237 651 497 183,pk14@hotmail.com,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Dim 08h00–18h00
+KIN0314,Centre de Kinésithérapie de Elig-Essono,Yaoundé,Yaoundé II,Olembe,3.818885,11.569017,+237 693 198 409,elig-essono@gmail.com,Oui,Oui,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0315,Cabinet de Kinésithérapie Pierre,Yaoundé,Yaoundé VI,Cité Verte,3.927948,11.476933,+237 697 974 207,pierre@gmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+KIN0316,Physiothérapie Nguele,Douala,Douala VI,Bassa,4.047882,9.622313,+237 699 610 785,physiothérapie@kine.cm,Oui,Non,Oui,Non,Non,Non,Oui,Lun–Sam 07h30–19h00
+KIN0317,Centre de Rééducation Saint-Dominique,Yaoundé,Yaoundé VI,Étoa-Meki,3.91774,11.483323,+237 691 019 080,dominique@hotmail.com,Oui,Non,Non,Non,Non,Non,Non,Lun–Sam 07h00–20h00
+KIN0318,Cabinet Kiné Nkoa,Yaoundé,Yaoundé VII,Nkol-Eton,3.825259,11.568546,+237 679 699 352,kinénkoa@gmail.com,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Sam 08h00–17h00
+KIN0319,Centre de Kinésithérapie de Bonaloka,Douala,Douala I,Akwa,4.073696,9.699804,+237 691 048 260,bonaloka@kine.cm,Oui,Non,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0320,Physiothérapie Elong,Yaoundé,Yaoundé III,Nkomo,3.824467,11.48278,+237 242 024 327,physiothérapie@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 07h30–19h00
+KIN0321,Centre de Kinésithérapie de Mvan,Yaoundé,Yaoundé I,Madagascar,3.894823,11.524282,+237 650 412 810,mvan@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+KIN0322,Physiothérapie Mbassi,Douala,Douala I,Nkongmondo,4.118945,9.680533,+237 691 604 931,physiothérapie@kine.cm,Oui,Oui,Non,Non,Non,Oui,Oui,Lun–Sam 08h30–18h30
+KIN0323,Centre de Kinésithérapie de Bonaberi,Douala,Douala I,Bassa,4.118591,9.765153,+237 650 710 292,bonaberi@yahoo.fr,Oui,Non,Non,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0324,Centre de Rééducation Vie,Douala,Douala III,Koumassi,4.068844,9.742071,+237 691 066 708,vie@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0325,Physiothérapie Kamga,Yaoundé,Yaoundé IV,Étoa-Meki,3.875536,11.413894,+237 692 641 185,physiothérapie@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+KIN0326,Cabinet de Kinésithérapie André,Yaoundé,Yaoundé IV,Biteng,3.900107,11.587616,+237 650 830 241,andré@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Oui,Lun–Sam 08h30–18h30
+KIN0327,Cabinet de Kinésithérapie Dominique,Douala,Douala III,Japoma,3.990568,9.744577,+237 697 858 800,dominique@yahoo.fr,Oui,Non,Non,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0328,Cabinet Kiné Nlend,Yaoundé,Yaoundé I,Nsam,3.880289,11.41525,+237 693 794 594,kinénlend@gmail.com,Oui,Non,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0329,Centre de Rééducation Saint-Jean,Yaoundé,Yaoundé VI,Ekounou,3.837848,11.520236,+237 243 079 429,jean@yahoo.fr,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0330,Centre de Kinésithérapie de Akwa,Douala,Douala III,Bali,3.966044,9.729296,+237 651 332 392,akwa@gmail.com,Oui,Oui,Oui,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0331,Cabinet Kiné Feudjio,Yaoundé,Yaoundé VI,Nkoabang,3.777277,11.446745,+237 691 190 525,kinéfeudjio@gmail.com,Oui,Oui,Non,Non,Non,Oui,Oui,Lun–Ven 08h00–18h00
+KIN0332,Centre de Kinésithérapie de Ndog-Bong,Douala,Douala II,Koumassi,3.98674,9.771083,+237 697 221 174,ndog-bong@kine.cm,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 08h00–17h00
+KIN0333,Cabinet Kiné Ndoumbe,Yaoundé,Yaoundé VI,Elig-Essono,3.906301,11.51849,+237 222 958 007,kinéndoumbe@kine.cm,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+KIN0334,Cabinet de Kinésithérapie Luc,Yaoundé,Yaoundé VII,Djoungolo,3.935792,11.44578,+237 699 159 714,luc@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+KIN0335,Cabinet Kiné Kamga,Douala,Douala I,Village,4.112467,9.668961,+237 242 380 895,kinékamga@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0336,Centre de Rééducation Saint-Marc,Yaoundé,Yaoundé VI,Étoa-Meki,3.791987,11.548187,+237 697 034 082,marc@kine.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+KIN0337,Centre de Kinésithérapie de Logbessou,Douala,Douala III,Boko,4.084463,9.755806,+237 678 681 673,logbessou@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 07h30–19h00
+KIN0338,Centre de Rééducation Salut,Yaoundé,Yaoundé IV,Efoulan,3.838927,11.427182,+237 695 193 284,salut@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0339,Centre de Kinésithérapie de Biyem-Assi,Yaoundé,Yaoundé VI,Biyem-Assi,3.879042,11.542948,+237 691 352 544,biyem-assi@kine.cm,Oui,Non,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+KIN0340,Centre de Rééducation Saint-Jeanne,Douala,Douala III,Sodiko,3.987656,9.649423,+237 655 771 770,jeanne@kine.cm,Oui,Oui,Oui,Non,Non,Oui,Oui,Lun–Sam 07h00–20h00
+KIN0341,Centre de Kinésithérapie de PK12,Douala,Douala IV,PK8,4.103337,9.732967,+237 677 270 055,pk12@yahoo.fr,Oui,Non,Oui,Non,Oui,Oui,Non,Lun–Dim 08h00–18h00
+KIN0342,Centre de Kinésithérapie de PK10,Douala,Douala VI,Cité des Palmiers,4.033467,9.628054,+237 655 168 243,pk10@hotmail.com,Oui,Non,Non,Non,Oui,Non,Oui,Lun–Sam 08h30–18h30
+KIN0343,Centre de Rééducation Providence,Douala,Douala II,Bali,4.023309,9.706655,+237 654 628 996,providence@kine.cm,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Sam 08h30–18h30
+KIN0344,Cabinet de Kinésithérapie Monique,Yaoundé,Yaoundé I,Tsinga,3.875733,11.579344,+237 699 382 120,monique@kine.cm,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0345,Centre de Rééducation Saint-Joseph,Douala,Douala VI,Bonaberi,4.008947,9.782664,+237 698 392 019,joseph@gmail.com,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Sam 08h30–18h30
+KIN0346,Centre de Rééducation Saint-Monique,Yaoundé,Yaoundé III,Nkol-Eton,3.877098,11.525803,+237 692 523 725,monique@kine.cm,Oui,Non,Non,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+KIN0347,Physiothérapie Nkoa,Douala,Douala V,PK8,4.080489,9.720814,+237 679 198 429,physiothérapie@kine.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+KIN0348,Centre de Kinésithérapie de Olembe,Yaoundé,Yaoundé III,Olembe,3.91484,11.511392,+237 654 664 301,olembe@hotmail.com,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+KIN0349,Centre de Rééducation Saint-Cécile,Yaoundé,Yaoundé V,Kondengui,3.851793,11.430621,+237 699 580 526,cécile@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,7j/7 — 08h00–20h00
+KIN0350,Centre de Kinésithérapie de Nyalla,Douala,Douala IV,PK17,4.053812,9.637046,+237 243 651 337,nyalla@gmail.com,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Sam 07h30–19h00

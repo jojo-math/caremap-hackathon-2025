@@ -1,0 +1,351 @@
+id,nom,ville,arrondissement,quartier,latitude,longitude,telephone,email,agree_minsante,phytotherapie,acupuncture,massage_therapeutique,traitement_paludisme,traitement_diabete,traitement_hypertension,plante_principale,horaires
+TRD0001,Cabinet Traditionnel Belinga,Douala,Douala VI,Koumassi,4.028151,9.689673,+237 699 831 117,traditionnelbe@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Gingembre,Lun–Ven 07h30–17h30
+TRD0002,Centre Traditionnel Michel,Yaoundé,Yaoundé I,Madagascar,3.827068,11.505954,+237 233 494 020,traditionnelmi@sante.cm,Oui,Oui,Oui,Non,Oui,Oui,Oui,Kinkeliba,Lun–Sam 07h30–19h00
+TRD0003,Centre de Médecine Traditionnelle de Biyem-Assi,Yaoundé,Yaoundé III,Mvog-Atangana,3.952832,11.476062,+237 696 448 780,traditionnelbi@gmail.com,Non,Oui,Non,Oui,Oui,Non,Oui,Gingembre,Lun–Sam 08h30–18h30
+TRD0004,Centre de Phytothérapie de Nkongmondo,Douala,Douala III,Japoma,3.989133,9.669289,+237 679 080 165,phytothérapien@sante.cm,Oui,Oui,Oui,Oui,Oui,Non,Oui,Hibiscus,Lun–Sam 07h00–20h00
+TRD0005,Centre de Médecine Traditionnelle de Carrière,Yaoundé,Yaoundé I,Carrière,3.905223,11.439079,+237 653 322 918,traditionnelca@hotmail.com,Non,Oui,Non,Non,Oui,Oui,Oui,Gingembre,Lun–Sam 07h00–20h00
+TRD0006,Centre de Médecine Traditionnelle de PK12,Douala,Douala IV,Akwa,4.039247,9.68639,+237 690 370 077,traditionnelpk@yahoo.fr,Non,Oui,Non,Non,Oui,Non,Non,Papayer,Lun–Sam 08h00–17h00
+TRD0007,Médecine Naturelle Mbassi,Douala,Douala VI,Bali,4.022214,9.704613,+237 655 602 998,naturelmbassi@gmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Neem,Lun–Sam 08h30–18h30
+TRD0008,Centre de Médecine Traditionnelle de Mvog-Atangana,Yaoundé,Yaoundé VII,Mvog-Atangana,3.836363,11.525576,+237 694 453 463,traditionnelmv@gmail.com,Oui,Oui,Non,Non,Oui,Oui,Oui,Aloe Vera,Lun–Sam 07h00–20h00
+TRD0009,Centre de Médecine Traditionnelle de Logbessou,Douala,Douala V,PK17,4.00159,9.677772,+237 690 319 428,traditionnello@sante.cm,Non,Oui,Non,Oui,Oui,Oui,Oui,Aloe Vera,Lun–Ven 07h30–17h30
+TRD0010,Centre de Médecine Traditionnelle de Bangue,Douala,Douala II,Makepe,3.981043,9.763887,+237 651 705 060,traditionnelba@sante.cm,Non,Oui,Oui,Oui,Non,Oui,Oui,Neem,Lun–Sam 07h00–20h00
+TRD0011,Centre de Médecine Traditionnelle de Nkoabang,Yaoundé,Yaoundé IV,Nkoabang,3.887077,11.473712,+237 653 409 818,traditionnelnk@yahoo.fr,Oui,Oui,Non,Non,Non,Oui,Oui,Aloe Vera,Lun–Dim 08h00–18h00
+TRD0012,Centre de Médecine Traditionnelle de Soboum,Douala,Douala IV,Ndokoti,3.969771,9.730984,+237 699 168 331,traditionnelso@sante.cm,Oui,Oui,Non,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Sam 07h00–20h00
+TRD0013,Cabinet Traditionnel Biyiti,Yaoundé,Yaoundé IV,Mvog-Ada,3.856236,11.415016,+237 243 444 186,traditionnelbi@sante.cm,Oui,Oui,Oui,Non,Oui,Oui,Oui,Neem,Lun–Dim 08h00–18h00
+TRD0014,Centre de Phytothérapie de Bonanjo,Douala,Douala II,Mboppi,4.007586,9.750722,+237 654 805 652,phytothérapieb@gmail.com,Non,Oui,Non,Non,Non,Oui,Oui,Aloe Vera,Lun–Sam 08h30–18h30
+TRD0015,Centre de Médecine Traditionnelle de Mimboman,Yaoundé,Yaoundé III,Mimboman,3.843448,11.470002,+237 696 446 348,traditionnelmi@hotmail.com,Oui,Oui,Non,Non,Oui,Oui,Non,Aloe Vera,Lun–Sam 07h30–19h00
+TRD0016,Médecine Naturelle Simo,Yaoundé,Yaoundé V,Nkol-Eton,3.827555,11.580686,+237 678 406 818,naturelsimo@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Kinkeliba,Lun–Sam 08h30–18h30
+TRD0017,Médecine Naturelle Fotso,Yaoundé,Yaoundé I,Biyem-Assi,3.876431,11.517205,+237 652 152 148,naturelfotso@yahoo.fr,Oui,Oui,Non,Oui,Non,Oui,Oui,Kinkeliba,Lun–Ven 08h00–18h00
+TRD0018,Centre de Médecine Traditionnelle de Ngoa-Ekélé,Yaoundé,Yaoundé III,Mvog-Beti,3.813112,11.41865,+237 698 022 699,traditionnelng@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Sam 07h30–19h00
+TRD0019,Médecine Naturelle Moussa,Yaoundé,Yaoundé I,Carrière,3.921085,11.499696,+237 679 400 568,naturelmoussa@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Hibiscus,Lun–Sam 07h30–19h00
+TRD0020,Centre de Phytothérapie de PK10,Douala,Douala III,Bonaloka,4.055287,9.695118,+237 695 082 537,phytothérapiep@gmail.com,Non,Oui,Non,Non,Oui,Oui,Oui,Hibiscus,Lun–Ven 08h00–18h00
+TRD0021,Médecine Naturelle Feudjio,Yaoundé,Yaoundé III,Ekounou,3.747846,11.502948,+237 654 712 022,naturelfeudjio@sante.cm,Non,Oui,Non,Oui,Oui,Non,Non,Kinkeliba,7j/7 — 08h00–20h00
+TRD0022,Centre Traditionnel Félicité,Douala,Douala III,Nzeng-Ayong,3.989405,9.665169,+237 222 904 873,traditionnelfé@sante.cm,Oui,Oui,Non,Oui,Oui,Oui,Non,Neem,Lun–Sam 07h00–20h00
+TRD0023,Cabinet Traditionnel Djoumbi,Douala,Douala I,Logbessou,4.05624,9.768724,+237 653 056 721,traditionneldj@sante.cm,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Sam 07h30–19h00
+TRD0024,Phytothérapie Santé,Douala,Douala V,Akwa,3.993889,9.729944,+237 692 992 072,phytothérapies@gmail.com,Oui,Oui,Oui,Non,Non,Oui,Oui,Prunus Africana,Lun–Sam 07h30–19h00
+TRD0025,Centre Traditionnel Jean,Douala,Douala I,Sodiko,4.015679,9.74603,+237 696 980 065,traditionnelje@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Non,Aloe Vera,7j/7 — 08h00–20h00
+TRD0026,Centre de Médecine Traditionnelle de Melen,Yaoundé,Yaoundé I,Melen,3.79191,11.500375,+237 233 897 883,traditionnelme@yahoo.fr,Oui,Oui,Non,Non,Oui,Oui,Oui,Moringa,Lun–Ven 08h00–18h00
+TRD0027,Centre de Phytothérapie de Messa,Yaoundé,Yaoundé VI,Messa,3.793378,11.430108,+237 655 442 777,phytothérapiem@gmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Ven 07h30–17h30
+TRD0028,Centre de Médecine Traditionnelle de Nlongkak,Yaoundé,Yaoundé VII,Mvog-Atangana,3.80668,11.47063,+237 695 328 538,traditionnelnl@yahoo.fr,Non,Oui,Non,Non,Oui,Oui,Oui,Neem,Lun–Sam 07h00–20h00
+TRD0029,Phytothérapie Lumière,Douala,Douala V,Soboum,4.07089,9.71546,+237 677 541 264,phytothérapiel@sante.cm,Oui,Oui,Non,Oui,Oui,Oui,Oui,Kinkeliba,Lun–Ven 08h00–18h00
+TRD0030,Centre de Médecine Traditionnelle de Akwa,Douala,Douala II,Bassa,4.081546,9.646621,+237 699 327 549,traditionnelak@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Oui,Papayer,Lun–Ven 08h00–18h00
+TRD0031,Centre Traditionnel Raphaël,Yaoundé,Yaoundé III,Briqueterie,3.898435,11.445473,+237 651 658 123,traditionnelra@yahoo.fr,Non,Oui,Non,Non,Oui,Oui,Oui,Rauwolfia,Lun–Sam 08h00–17h00
+TRD0032,Phytothérapie Lumière,Yaoundé,Yaoundé VI,Mendong,3.784583,11.440847,+237 677 908 517,phytothérapiel@yahoo.fr,Non,Oui,Non,Oui,Oui,Non,Oui,Prunus Africana,7j/7 — 08h00–20h00
+TRD0033,Centre de Phytothérapie de Simbock,Yaoundé,Yaoundé VI,Simbock,3.828484,11.475452,+237 652 069 705,phytothérapies@sante.cm,Oui,Oui,Non,Non,Oui,Non,Oui,Kinkeliba,Lun–Dim 08h00–18h00
+TRD0034,Centre Traditionnel Cyprien,Douala,Douala I,PK17,4.027617,9.795264,+237 679 472 015,traditionnelcy@yahoo.fr,Oui,Oui,Oui,Non,Non,Oui,Oui,Moringa,7j/7 — 08h00–20h00
+TRD0035,Cabinet Traditionnel Nkeng,Douala,Douala VI,Bonamoussadi,3.971287,9.691908,+237 695 503 141,traditionnelnk@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Non,Moringa,Lun–Sam 07h30–19h00
+TRD0036,Centre de Phytothérapie de Ndog-Bong,Douala,Douala I,Ndoghem,3.981508,9.7472,+237 242 124 175,phytothérapien@yahoo.fr,Oui,Oui,Oui,Oui,Non,Oui,Oui,Prunus Africana,7j/7 — 08h00–20h00
+TRD0037,Centre de Phytothérapie de Bali,Douala,Douala II,Bessengue,4.05828,9.742706,+237 242 648 257,phytothérapieb@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Non,Moringa,Lun–Ven 07h30–17h30
+TRD0038,Centre Traditionnel Anne,Yaoundé,Yaoundé V,Nlongkak,3.840876,11.566577,+237 679 328 946,traditionnelan@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Oui,Moringa,7j/7 — 08h00–20h00
+TRD0039,Centre de Médecine Traditionnelle de Nzeng-Ayong,Douala,Douala III,PK8,4.023226,9.661643,+237 698 285 481,traditionnelnz@sante.cm,Non,Oui,Non,Oui,Oui,Oui,Oui,Aloe Vera,Lun–Sam 08h30–18h30
+TRD0040,Centre de Phytothérapie de Kondengui,Yaoundé,Yaoundé IV,Kondengui,3.857477,11.41623,+237 650 446 902,phytothérapiek@sante.cm,Oui,Oui,Non,Oui,Oui,Non,Non,Aloe Vera,Lun–Sam 07h30–19h00
+TRD0041,Centre de Médecine Traditionnelle de Nkoldongo,Yaoundé,Yaoundé I,Nkoldongo,3.809,11.591602,+237 222 183 249,traditionnelnk@gmail.com,Non,Oui,Non,Oui,Oui,Non,Non,Kinkeliba,Lun–Sam 08h30–18h30
+TRD0042,Centre de Phytothérapie de Youpwé,Douala,Douala V,Makepe,4.061194,9.724979,+237 243 839 457,phytothérapiey@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Gingembre,Lun–Ven 07h30–17h30
+TRD0043,Centre de Phytothérapie de Nyalla,Douala,Douala I,Bonanjo,4.124698,9.71224,+237 697 374 774,phytothérapien@hotmail.com,Oui,Oui,Non,Non,Non,Non,Oui,Kinkeliba,Lun–Sam 07h00–20h00
+TRD0044,Centre de Phytothérapie de PK17,Douala,Douala V,PK17,3.987428,9.725725,+237 695 903 697,phytothérapiep@sante.cm,Oui,Oui,Non,Oui,Non,Oui,Oui,Prunus Africana,Lun–Ven 07h30–17h30
+TRD0045,Centre Traditionnel Damien,Douala,Douala I,Ndogbong,4.135758,9.680922,+237 233 535 516,traditionnelda@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Kinkeliba,Lun–Ven 08h00–18h00
+TRD0046,Médecine Naturelle Tabi,Yaoundé,Yaoundé IV,Ngoa-Ekélé,3.885925,11.472188,+237 654 389 742,natureltabi@gmail.com,Oui,Oui,Oui,Oui,Non,Oui,Oui,Aloe Vera,7j/7 — 08h00–20h00
+TRD0047,Centre de Médecine Traditionnelle de PK17,Douala,Douala VI,Ndog-Bong,4.101454,9.668323,+237 243 781 820,traditionnelpk@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Oui,Papayer,Lun–Sam 07h00–20h00
+TRD0048,Médecine Naturelle Essomba,Yaoundé,Yaoundé VII,Briqueterie,3.858846,11.562801,+237 654 403 447,naturelessomba@hotmail.com,Oui,Oui,Oui,Non,Non,Oui,Non,Gingembre,Lun–Sam 08h00–17h00
+TRD0049,Centre Traditionnel Dominique,Yaoundé,Yaoundé V,Omnisports,3.871495,11.583556,+237 651 939 874,traditionneldo@gmail.com,Non,Oui,Non,Oui,Oui,Non,Oui,Papayer,Lun–Sam 08h30–18h30
+TRD0050,Phytothérapie Bonheur,Douala,Douala II,Bonamoussadi,3.99572,9.638468,+237 697 422 630,phytothérapieb@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Sam 07h30–19h00
+TRD0051,Médecine Naturelle Nkeng,Yaoundé,Yaoundé I,Kondengui,3.848099,11.466891,+237 243 645 414,naturelnkeng@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Aloe Vera,Lun–Sam 08h00–17h00
+TRD0052,Centre de Médecine Traditionnelle de Mvog-Beti,Yaoundé,Yaoundé I,Mvog-Beti,3.762843,11.565964,+237 692 085 109,traditionnelmv@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Oui,Neem,Lun–Ven 07h30–17h30
+TRD0053,Centre de Phytothérapie de Nkoldongo,Yaoundé,Yaoundé I,Nkoldongo,3.76365,11.451595,+237 677 337 846,phytothérapien@gmail.com,Oui,Oui,Non,Non,Oui,Non,Non,Kinkeliba,7j/7 — 08h00–20h00
+TRD0054,Phytothérapie Harmonie,Yaoundé,Yaoundé VII,Essos,3.878468,11.55071,+237 699 304 204,phytothérapieh@sante.cm,Non,Oui,Non,Non,Non,Oui,Oui,Hibiscus,Lun–Sam 08h00–17h00
+TRD0055,Phytothérapie Vie,Yaoundé,Yaoundé V,Mvog-Beti,3.77368,11.527212,+237 690 142 721,phytothérapiev@gmail.com,Non,Oui,Non,Non,Oui,Non,Non,Prunus Africana,Lun–Sam 08h30–18h30
+TRD0056,Centre Traditionnel Gabriel,Douala,Douala II,PK10,3.983222,9.685077,+237 695 698 108,traditionnelga@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Hibiscus,Lun–Sam 07h30–19h00
+TRD0057,Médecine Naturelle Mvogo,Douala,Douala III,Makepe,4.036354,9.749382,+237 243 158 391,naturelmvogo@hotmail.com,Non,Oui,Non,Non,Oui,Oui,Oui,Moringa,Lun–Sam 07h30–19h00
+TRD0058,Centre de Médecine Traditionnelle de Mvog-Atangana,Yaoundé,Yaoundé IV,Nkomo,3.861268,11.596855,+237 677 404 518,traditionnelmv@sante.cm,Non,Oui,Non,Non,Oui,Oui,Non,Aloe Vera,Lun–Dim 08h00–18h00
+TRD0059,Cabinet Traditionnel Nlend,Yaoundé,Yaoundé VI,Mimboman,3.911436,11.519026,+237 698 751 006,traditionnelnl@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Oui,Papayer,Lun–Sam 08h00–17h00
+TRD0060,Centre de Phytothérapie de Mendong,Yaoundé,Yaoundé VI,Émana,3.805819,11.501199,+237 655 805 372,phytothérapiem@yahoo.fr,Oui,Oui,Non,Non,Oui,Oui,Oui,Rauwolfia,Lun–Sam 07h30–19h00
+TRD0061,Phytothérapie Bonheur,Douala,Douala V,Cité des Palmiers,4.116349,9.700171,+237 655 591 249,phytothérapieb@sante.cm,Oui,Oui,Non,Non,Oui,Non,Oui,Moringa,7j/7 — 08h00–20h00
+TRD0062,Médecine Naturelle Abega,Yaoundé,Yaoundé II,Essos,3.794872,11.441753,+237 696 743 706,naturelabega@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Non,Rauwolfia,Lun–Ven 07h30–17h30
+TRD0063,Centre de Phytothérapie de Ndoghem,Douala,Douala IV,Akwa,4.000122,9.646262,+237 692 797 238,phytothérapien@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Neem,Lun–Sam 08h30–18h30
+TRD0064,Centre Traditionnel Louis,Yaoundé,Yaoundé VI,Simbock,3.911336,11.448371,+237 650 050 789,traditionnello@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Hibiscus,Lun–Ven 07h30–17h30
+TRD0065,Centre de Médecine Traditionnelle de Koumassi,Douala,Douala III,Bonapriso,4.032849,9.744522,+237 651 657 105,traditionnelko@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Gingembre,7j/7 — 08h00–20h00
+TRD0066,Médecine Naturelle Abega,Douala,Douala VI,Bangue,4.068057,9.654833,+237 677 382 983,naturelabega@sante.cm,Oui,Oui,Non,Oui,Oui,Oui,Non,Papayer,Lun–Sam 07h00–20h00
+TRD0067,Cabinet Traditionnel Simo,Douala,Douala II,Kotto,4.001125,9.637838,+237 652 562 784,traditionnelsi@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Non,Aloe Vera,7j/7 — 08h00–20h00
+TRD0068,Centre de Médecine Traditionnelle de Ndoghem,Douala,Douala IV,Bonamoussadi,4.104429,9.645376,+237 697 501 244,traditionnelnd@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Kinkeliba,Lun–Sam 07h00–20h00
+TRD0069,Centre de Phytothérapie de Mendong,Yaoundé,Yaoundé IV,Mendong,3.947653,11.460116,+237 243 932 204,phytothérapiem@hotmail.com,Oui,Oui,Non,Non,Oui,Oui,Oui,Moringa,Lun–Sam 07h30–19h00
+TRD0070,Centre de Médecine Traditionnelle de Ahala,Yaoundé,Yaoundé VI,Mvog-Ada,3.819009,11.60036,+237 695 077 623,traditionnelah@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Oui,Rauwolfia,Lun–Sam 07h00–20h00
+TRD0071,Cabinet Traditionnel Mvé,Yaoundé,Yaoundé V,Nsam,3.937067,11.459087,+237 677 258 744,traditionnelmv@hotmail.com,Oui,Oui,Non,Oui,Non,Oui,Oui,Moringa,Lun–Sam 08h30–18h30
+TRD0072,Phytothérapie Bien-être,Douala,Douala V,Mbanya,4.074718,9.718444,+237 678 751 617,phytothérapieb@hotmail.com,Non,Oui,Non,Non,Oui,Oui,Oui,Prunus Africana,Lun–Sam 08h00–17h00
+TRD0073,Cabinet Traditionnel Eba,Yaoundé,Yaoundé III,Ekounou,3.782741,11.464587,+237 696 974 292,traditionneleb@sante.cm,Oui,Oui,Non,Oui,Non,Oui,Oui,Papayer,7j/7 — 08h00–20h00
+TRD0074,Médecine Naturelle Kuitche,Yaoundé,Yaoundé VII,Étoa-Meki,3.851872,11.602671,+237 651 979 781,naturelkuitche@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Non,Papayer,Lun–Sam 07h30–19h00
+TRD0075,Cabinet Traditionnel Fotso,Douala,Douala II,Bepanda,4.101706,9.725709,+237 242 046 873,traditionnelfo@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Non,Kinkeliba,Lun–Sam 08h30–18h30
+TRD0076,Centre de Phytothérapie de Bonapriso,Douala,Douala III,Deido,4.002381,9.718895,+237 694 052 815,phytothérapieb@hotmail.com,Non,Oui,Non,Oui,Oui,Oui,Non,Moringa,Lun–Sam 08h30–18h30
+TRD0077,Centre de Médecine Traditionnelle de Elig-Essono,Yaoundé,Yaoundé VI,Elig-Essono,3.786741,11.550791,+237 651 458 900,traditionnelel@hotmail.com,Non,Oui,Non,Oui,Non,Oui,Non,Hibiscus,Lun–Sam 08h30–18h30
+TRD0078,Centre Traditionnel Paul,Yaoundé,Yaoundé III,Tsinga,3.807165,11.493882,+237 691 633 702,traditionnelpa@sante.cm,Oui,Oui,Non,Non,Oui,Oui,Oui,Rauwolfia,Lun–Sam 07h30–19h00
+TRD0079,Phytothérapie Bonheur,Douala,Douala I,Boko,4.034666,9.705711,+237 692 064 561,phytothérapieb@sante.cm,Oui,Oui,Non,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Dim 08h00–18h00
+TRD0080,Médecine Naturelle Ekani,Douala,Douala IV,Nzeng-Ayong,4.057347,9.776464,+237 243 241 497,naturelekani@hotmail.com,Non,Oui,Non,Non,Oui,Non,Oui,Neem,Lun–Sam 07h30–19h00
+TRD0081,Médecine Naturelle Hamadou,Yaoundé,Yaoundé I,Briqueterie,3.798135,11.489087,+237 691 639 112,naturelhamadou@sante.cm,Oui,Oui,Oui,Non,Oui,Non,Oui,Neem,Lun–Sam 07h00–20h00
+TRD0082,Centre de Phytothérapie de New Bell,Douala,Douala IV,Ndokoti,4.009705,9.736113,+237 243 738 459,phytothérapien@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Kinkeliba,Lun–Dim 08h00–18h00
+TRD0083,Médecine Naturelle Ngoa,Yaoundé,Yaoundé VI,Omnisports,3.781189,11.488177,+237 692 999 226,naturelngoa@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Aloe Vera,Lun–Sam 07h30–19h00
+TRD0084,Médecine Naturelle Mvé,Yaoundé,Yaoundé IV,Mvog-Ada,3.744696,11.500109,+237 699 178 865,naturelmvé@sante.cm,Oui,Oui,Non,Oui,Oui,Oui,Non,Papayer,Lun–Sam 07h00–20h00
+TRD0085,Centre de Phytothérapie de Mbanya,Douala,Douala II,Bonanjo,4.043967,9.79323,+237 697 868 317,phytothérapiem@yahoo.fr,Oui,Oui,Oui,Non,Oui,Oui,Oui,Neem,Lun–Ven 08h00–18h00
+TRD0086,Centre Traditionnel Monique,Yaoundé,Yaoundé VI,Essos,3.87398,11.439147,+237 652 388 871,traditionnelmo@sante.cm,Oui,Oui,Non,Non,Non,Oui,Oui,Hibiscus,Lun–Sam 07h00–20h00
+TRD0087,Centre de Phytothérapie de Bonaberi,Douala,Douala IV,Bonaberi,4.020192,9.792041,+237 696 878 758,phytothérapieb@sante.cm,Non,Oui,Non,Oui,Non,Non,Non,Papayer,Lun–Dim 08h00–18h00
+TRD0088,Centre de Phytothérapie de Bali,Douala,Douala IV,Logbessou,4.093803,9.71071,+237 690 608 267,phytothérapieb@sante.cm,Oui,Oui,Non,Non,Non,Oui,Non,Moringa,Lun–Sam 08h00–17h00
+TRD0089,Centre de Phytothérapie de Cité des Palmiers,Douala,Douala VI,Cité des Palmiers,4.065923,9.748583,+237 653 865 910,phytothérapiec@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Kinkeliba,Lun–Ven 08h00–18h00
+TRD0090,Centre de Phytothérapie de Ndogpassi,Douala,Douala VI,Ndoghem,4.116942,9.695936,+237 242 716 925,phytothérapien@gmail.com,Oui,Oui,Non,Non,Oui,Oui,Oui,Neem,Lun–Dim 08h00–18h00
+TRD0091,Centre Traditionnel François,Yaoundé,Yaoundé I,Bastos,3.804606,11.412689,+237 650 924 880,traditionnelfr@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Aloe Vera,Lun–Sam 08h00–17h00
+TRD0092,Centre de Médecine Traditionnelle de Mvan,Yaoundé,Yaoundé VI,Mendong,3.880213,11.584003,+237 692 414 846,traditionnelmv@sante.cm,Oui,Oui,Oui,Non,Non,Oui,Non,Moringa,Lun–Sam 08h00–17h00
+TRD0093,Phytothérapie Confiance,Douala,Douala V,Japoma,4.11028,9.670762,+237 690 647 813,phytothérapiec@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Oui,Papayer,Lun–Ven 08h00–18h00
+TRD0094,Centre Traditionnel Bernadette,Douala,Douala IV,Akwa,4.123659,9.66416,+237 653 216 136,traditionnelbe@yahoo.fr,Non,Oui,Non,Non,Oui,Non,Non,Aloe Vera,Lun–Sam 07h30–19h00
+TRD0095,Phytothérapie Lumière,Douala,Douala IV,Village,3.993333,9.743935,+237 698 092 792,phytothérapiel@yahoo.fr,Oui,Oui,Non,Non,Oui,Oui,Oui,Hibiscus,Lun–Sam 07h00–20h00
+TRD0096,Médecine Naturelle Bello,Yaoundé,Yaoundé VI,Mvog-Atangana,3.860528,11.596276,+237 678 129 750,naturelbello@hotmail.com,Oui,Oui,Non,Non,Oui,Oui,Oui,Hibiscus,Lun–Sam 07h30–19h00
+TRD0097,Centre de Médecine Traditionnelle de Émana,Yaoundé,Yaoundé II,Émana,3.805334,11.409025,+237 242 153 916,traditionnelém@sante.cm,Oui,Oui,Non,Oui,Non,Non,Oui,Prunus Africana,Lun–Dim 08h00–18h00
+TRD0098,Centre de Phytothérapie de New Bell,Douala,Douala II,Sodiko,4.033559,9.638297,+237 652 241 151,phytothérapien@sante.cm,Non,Oui,Non,Non,Oui,Non,Non,Hibiscus,Lun–Sam 08h00–17h00
+TRD0099,Cabinet Traditionnel Tabi,Yaoundé,Yaoundé III,Mendong,3.827627,11.505235,+237 695 879 868,traditionnelta@sante.cm,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Rauwolfia,Lun–Sam 08h30–18h30
+TRD0100,Centre de Médecine Traditionnelle de Bali,Douala,Douala IV,Ndog-Passi III,4.084155,9.656085,+237 698 791 985,traditionnelba@gmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Rauwolfia,Lun–Sam 07h00–20h00
+TRD0101,Médecine Naturelle Ateba,Douala,Douala I,New Bell,3.979772,9.762732,+237 679 087 384,naturelateba@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Oui,Kinkeliba,Lun–Sam 07h30–19h00
+TRD0102,Centre de Médecine Traditionnelle de Messa,Yaoundé,Yaoundé VI,Elig-Essono,3.855797,11.586024,+237 243 046 350,traditionnelme@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,Gingembre,7j/7 — 08h00–20h00
+TRD0103,Centre de Médecine Traditionnelle de Nkomo,Yaoundé,Yaoundé III,Nkomo,3.822017,11.547705,+237 698 132 518,traditionnelnk@sante.cm,Non,Oui,Non,Non,Oui,Non,Non,Aloe Vera,Lun–Sam 08h00–17h00
+TRD0104,Phytothérapie Providence,Yaoundé,Yaoundé VII,Olembe,3.79991,11.453884,+237 233 178 269,phytothérapiep@hotmail.com,Non,Oui,Non,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Sam 07h30–19h00
+TRD0105,Phytothérapie Avenir,Yaoundé,Yaoundé III,Ekounou,3.868931,11.51477,+237 694 487 245,phytothérapiea@yahoo.fr,Non,Oui,Oui,Non,Oui,Non,Oui,Rauwolfia,Lun–Dim 08h00–18h00
+TRD0106,Centre de Phytothérapie de Madagascar,Yaoundé,Yaoundé VI,Madagascar,3.82951,11.490615,+237 698 751 472,phytothérapiem@gmail.com,Oui,Oui,Oui,Non,Oui,Oui,Non,Aloe Vera,Lun–Dim 08h00–18h00
+TRD0107,Cabinet Traditionnel Hamadou,Yaoundé,Yaoundé VI,Omnisports,3.846352,11.476734,+237 698 538 922,traditionnelha@gmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Dim 08h00–18h00
+TRD0108,Centre de Phytothérapie de PK8,Douala,Douala V,Sodiko,3.978398,9.752189,+237 690 088 654,phytothérapiep@sante.cm,Oui,Oui,Non,Non,Oui,Oui,Oui,Moringa,Lun–Sam 07h30–19h00
+TRD0109,Centre de Phytothérapie de Koumassi,Douala,Douala II,Ndog-Passi III,4.036977,9.683499,+237 694 889 018,phytothérapiek@yahoo.fr,Non,Oui,Oui,Oui,Oui,Non,Non,Moringa,Lun–Sam 07h30–19h00
+TRD0110,Centre de Phytothérapie de Mvog-Beti,Yaoundé,Yaoundé V,Cité Verte,3.753504,11.465554,+237 690 906 401,phytothérapiem@hotmail.com,Non,Oui,Non,Oui,Oui,Non,Oui,Kinkeliba,Lun–Sam 07h30–19h00
+TRD0111,Cabinet Traditionnel Nkoa,Yaoundé,Yaoundé VII,Omnisports,3.913964,11.512588,+237 654 817 653,traditionnelnk@gmail.com,Non,Oui,Non,Oui,Oui,Oui,Oui,Moringa,Lun–Ven 08h00–18h00
+TRD0112,Centre de Phytothérapie de Mvog-Ada,Yaoundé,Yaoundé I,Mvog-Ada,3.774271,11.489551,+237 690 952 813,phytothérapiem@hotmail.com,Non,Oui,Oui,Oui,Oui,Oui,Non,Aloe Vera,Lun–Dim 08h00–18h00
+TRD0113,Centre de Phytothérapie de Mvog-Atangana,Yaoundé,Yaoundé III,Mvog-Atangana,3.755883,11.517983,+237 699 374 370,phytothérapiem@yahoo.fr,Non,Oui,Oui,Non,Oui,Oui,Non,Hibiscus,Lun–Sam 07h00–20h00
+TRD0114,Centre de Médecine Traditionnelle de Nkol-Eton,Yaoundé,Yaoundé III,Kondengui,3.922438,11.563244,+237 222 682 070,traditionnelnk@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Oui,Moringa,Lun–Ven 08h00–18h00
+TRD0115,Centre Traditionnel Élisabeth,Yaoundé,Yaoundé II,Mokolo,3.775297,11.561309,+237 696 183 014,traditionnelél@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Neem,Lun–Sam 07h30–19h00
+TRD0116,Centre Traditionnel Luc,Yaoundé,Yaoundé VII,Étoa-Meki,3.832815,11.443871,+237 652 674 281,traditionnellu@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Oui,Gingembre,Lun–Sam 08h00–17h00
+TRD0117,Centre de Médecine Traditionnelle de PK8,Douala,Douala IV,Akwa,4.065627,9.719097,+237 693 990 866,traditionnelpk@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Non,Papayer,Lun–Sam 07h00–20h00
+TRD0118,Centre Traditionnel Joachim,Douala,Douala I,Bepanda,3.97983,9.749494,+237 678 157 660,traditionneljo@hotmail.com,Non,Oui,Non,Non,Oui,Non,Non,Rauwolfia,Lun–Ven 07h30–17h30
+TRD0119,Centre Traditionnel Cyprien,Douala,Douala V,Soboum,4.031131,9.652273,+237 233 190 894,traditionnelcy@yahoo.fr,Oui,Oui,Non,Oui,Non,Oui,Oui,Neem,Lun–Sam 07h00–20h00
+TRD0120,Centre de Phytothérapie de Biyem-Assi,Yaoundé,Yaoundé III,Djoungolo,3.932959,11.520793,+237 697 777 776,phytothérapieb@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Gingembre,7j/7 — 08h00–20h00
+TRD0121,Centre de Phytothérapie de Nkol-Eton,Yaoundé,Yaoundé I,Ahala,3.785322,11.471279,+237 694 981 316,phytothérapien@gmail.com,Non,Oui,Non,Non,Non,Oui,Oui,Moringa,Lun–Sam 07h00–20h00
+TRD0122,Centre Traditionnel Félicité,Yaoundé,Yaoundé II,Mokolo,3.907313,11.523741,+237 692 301 446,traditionnelfé@yahoo.fr,Oui,Oui,Non,Non,Oui,Oui,Oui,Rauwolfia,Lun–Dim 08h00–18h00
+TRD0123,Centre de Médecine Traditionnelle de Bonamoussadi,Douala,Douala IV,PK8,4.008638,9.767769,+237 653 387 271,traditionnelbo@sante.cm,Non,Oui,Oui,Non,Oui,Oui,Oui,Prunus Africana,Lun–Sam 07h30–19h00
+TRD0124,Phytothérapie Espoir,Douala,Douala VI,Sodiko,3.99478,9.691846,+237 694 424 282,phytothérapiee@sante.cm,Oui,Oui,Non,Oui,Oui,Oui,Oui,Neem,Lun–Ven 08h00–18h00
+TRD0125,Cabinet Traditionnel Kamga,Yaoundé,Yaoundé VI,Simbock,3.926295,11.504714,+237 678 975 791,traditionnelka@gmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Prunus Africana,7j/7 — 08h00–20h00
+TRD0126,Médecine Naturelle Tchoupo,Yaoundé,Yaoundé V,Nkol-Eton,3.782738,11.505618,+237 677 367 140,natureltchoupo@sante.cm,Oui,Oui,Oui,Non,Oui,Oui,Oui,Gingembre,Lun–Sam 07h00–20h00
+TRD0127,Cabinet Traditionnel Bello,Yaoundé,Yaoundé II,Mvog-Ada,3.797438,11.44245,+237 654 990 246,traditionnelbe@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Aloe Vera,Lun–Sam 07h30–19h00
+TRD0128,Centre Traditionnel Cécile,Yaoundé,Yaoundé V,Mokolo,3.790686,11.496788,+237 242 832 152,traditionnelcé@sante.cm,Non,Oui,Non,Non,Oui,Oui,Non,Moringa,Lun–Ven 08h00–18h00
+TRD0129,Centre Traditionnel Louis,Yaoundé,Yaoundé I,Efoulan,3.911681,11.452855,+237 654 562 602,traditionnello@sante.cm,Oui,Oui,Non,Non,Oui,Non,Oui,Gingembre,Lun–Ven 07h30–17h30
+TRD0130,Médecine Naturelle Bello,Douala,Douala III,Bessengue,3.998691,9.653793,+237 677 105 770,naturelbello@yahoo.fr,Non,Oui,Non,Oui,Non,Non,Oui,Prunus Africana,Lun–Sam 08h00–17h00
+TRD0131,Centre de Phytothérapie de Biyem-Assi,Yaoundé,Yaoundé V,Biyem-Assi,3.825758,11.566245,+237 696 650 299,phytothérapieb@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Non,Rauwolfia,Lun–Sam 08h30–18h30
+TRD0132,Centre de Phytothérapie de Ngoa-Ekélé,Yaoundé,Yaoundé I,Ngoa-Ekélé,3.883324,11.545016,+237 652 458 814,phytothérapien@hotmail.com,Non,Oui,Non,Non,Oui,Oui,Non,Rauwolfia,Lun–Sam 08h30–18h30
+TRD0133,Centre de Médecine Traditionnelle de Mbanya,Douala,Douala II,Mbanya,4.06895,9.693784,+237 233 146 491,traditionnelmb@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Aloe Vera,Lun–Dim 08h00–18h00
+TRD0134,Centre de Médecine Traditionnelle de Bonaberi,Douala,Douala I,PK17,3.992761,9.74624,+237 652 261 347,traditionnelbo@hotmail.com,Oui,Oui,Non,Non,Oui,Oui,Oui,Neem,Lun–Ven 08h00–18h00
+TRD0135,Phytothérapie Grâce,Yaoundé,Yaoundé I,Ekounou,3.858454,11.421534,+237 690 298 249,phytothérapieg@hotmail.com,Oui,Oui,Oui,Non,Oui,Oui,Oui,Aloe Vera,Lun–Dim 08h00–18h00
+TRD0136,Cabinet Traditionnel Nguele,Yaoundé,Yaoundé III,Mvog-Beti,3.779167,11.539815,+237 655 477 826,traditionnelng@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,Non,Papayer,7j/7 — 08h00–20h00
+TRD0137,Centre de Phytothérapie de Akwa,Douala,Douala II,Bonaloka,4.088098,9.778747,+237 690 806 654,phytothérapiea@sante.cm,Oui,Oui,Non,Oui,Oui,Oui,Oui,Moringa,Lun–Dim 08h00–18h00
+TRD0138,Centre Traditionnel Bruno,Yaoundé,Yaoundé II,Tsinga,3.831577,11.488289,+237 695 505 006,traditionnelbr@sante.cm,Oui,Oui,Non,Oui,Non,Non,Non,Aloe Vera,Lun–Ven 08h00–18h00
+TRD0139,Phytothérapie Harmonie,Douala,Douala VI,Bessengue,4.066921,9.738319,+237 677 563 561,phytothérapieh@yahoo.fr,Non,Oui,Oui,Oui,Oui,Oui,Oui,Gingembre,Lun–Dim 08h00–18h00
+TRD0140,Centre de Phytothérapie de Soboum,Douala,Douala VI,Mbanya,4.065656,9.632185,+237 242 258 143,phytothérapies@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Sam 07h00–20h00
+TRD0141,Centre de Phytothérapie de Ndog-Passi III,Douala,Douala V,Ndokoti,3.994883,9.773169,+237 654 012 585,phytothérapien@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Oui,Kinkeliba,Lun–Ven 08h00–18h00
+TRD0142,Phytothérapie Bien-être,Yaoundé,Yaoundé IV,Nlongkak,3.768841,11.49944,+237 697 999 502,phytothérapieb@hotmail.com,Non,Oui,Non,Oui,Oui,Non,Oui,Moringa,Lun–Sam 08h30–18h30
+TRD0143,Centre de Médecine Traditionnelle de Makepe,Douala,Douala III,PK12,4.035952,9.696498,+237 653 725 088,traditionnelma@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Neem,7j/7 — 08h00–20h00
+TRD0144,Centre de Médecine Traditionnelle de Ngousso,Yaoundé,Yaoundé I,Ngousso,3.757862,11.443891,+237 694 094 186,traditionnelng@yahoo.fr,Non,Oui,Non,Oui,Oui,Oui,Oui,Aloe Vera,Lun–Sam 07h00–20h00
+TRD0145,Centre de Médecine Traditionnelle de Bonanjo,Douala,Douala VI,PK10,3.981507,9.678695,+237 650 729 758,traditionnelbo@sante.cm,Oui,Oui,Non,Oui,Oui,Oui,Oui,Neem,Lun–Ven 08h00–18h00
+TRD0146,Centre de Médecine Traditionnelle de Ndog-Passi III,Douala,Douala V,Ndog-Passi III,4.100852,9.734847,+237 699 028 917,traditionnelnd@sante.cm,Oui,Oui,Oui,Non,Oui,Non,Oui,Hibiscus,Lun–Sam 08h30–18h30
+TRD0147,Centre de Médecine Traditionnelle de PK8,Douala,Douala VI,PK17,4.031715,9.766859,+237 697 231 762,traditionnelpk@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Moringa,Lun–Sam 07h00–20h00
+TRD0148,Centre Traditionnel Élisabeth,Yaoundé,Yaoundé I,Messa,3.76956,11.514858,+237 222 586 401,traditionnelél@yahoo.fr,Non,Oui,Non,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Ven 08h00–18h00
+TRD0149,Médecine Naturelle Djoumbi,Yaoundé,Yaoundé I,Nsam,3.81754,11.590762,+237 677 627 565,natureldjoumbi@hotmail.com,Oui,Oui,Oui,Non,Oui,Oui,Oui,Hibiscus,7j/7 — 08h00–20h00
+TRD0150,Centre de Phytothérapie de Ndogbong,Douala,Douala I,Ndog-Bong,4.096497,9.682921,+237 699 854 859,phytothérapien@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Non,Rauwolfia,Lun–Sam 07h30–19h00
+TRD0151,Centre Traditionnel Claire,Yaoundé,Yaoundé V,Mvog-Atangana,3.835979,11.569485,+237 233 340 364,traditionnelcl@hotmail.com,Non,Oui,Non,Non,Oui,Non,Oui,Moringa,Lun–Sam 08h00–17h00
+TRD0152,Centre de Médecine Traditionnelle de Bonapriso,Douala,Douala III,PK17,4.129536,9.737358,+237 692 686 955,traditionnelbo@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Moringa,Lun–Ven 08h00–18h00
+TRD0153,Centre de Phytothérapie de Cité Verte,Yaoundé,Yaoundé II,Cité Verte,3.845551,11.608855,+237 693 950 773,phytothérapiec@sante.cm,Non,Oui,Non,Oui,Oui,Oui,Oui,Gingembre,Lun–Sam 08h30–18h30
+TRD0154,Centre de Médecine Traditionnelle de Sodiko,Douala,Douala II,Sodiko,4.051269,9.690803,+237 679 730 563,traditionnelso@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Papayer,Lun–Sam 07h00–20h00
+TRD0155,Centre de Médecine Traditionnelle de Nkongmondo,Douala,Douala II,Nkongmondo,4.074463,9.70732,+237 696 104 401,traditionnelnk@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Hibiscus,Lun–Sam 07h00–20h00
+TRD0156,Centre de Phytothérapie de Deido,Douala,Douala V,Ndokoti,3.981412,9.662868,+237 692 346 264,phytothérapied@gmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Kinkeliba,7j/7 — 08h00–20h00
+TRD0157,Médecine Naturelle Mbarga,Yaoundé,Yaoundé V,Mvog-Atangana,3.802842,11.476891,+237 698 318 344,naturelmbarga@gmail.com,Oui,Oui,Oui,Non,Non,Oui,Oui,Gingembre,Lun–Sam 08h00–17h00
+TRD0158,Médecine Naturelle Zang,Yaoundé,Yaoundé II,Cité Verte,3.889105,11.413611,+237 233 201 921,naturelzang@sante.cm,Non,Oui,Non,Oui,Oui,Oui,Oui,Aloe Vera,Lun–Sam 07h30–19h00
+TRD0159,Cabinet Traditionnel Mbassi,Yaoundé,Yaoundé I,Santa Barbara,3.887301,11.444677,+237 233 085 664,traditionnelmb@gmail.com,Non,Oui,Non,Oui,Oui,Oui,Oui,Gingembre,Lun–Ven 07h30–17h30
+TRD0160,Centre de Phytothérapie de Étoa-Meki,Yaoundé,Yaoundé II,Étoa-Meki,3.803392,11.526717,+237 653 624 152,phytothérapieé@sante.cm,Non,Oui,Oui,Non,Oui,Non,Oui,Gingembre,Lun–Sam 07h00–20h00
+TRD0161,Cabinet Traditionnel Assamba,Yaoundé,Yaoundé II,Briqueterie,3.820893,11.607565,+237 651 057 648,traditionnelas@yahoo.fr,Oui,Oui,Oui,Non,Oui,Non,Non,Moringa,Lun–Ven 07h30–17h30
+TRD0162,Cabinet Traditionnel Zang,Yaoundé,Yaoundé II,Tsinga,3.932739,11.441677,+237 233 861 946,traditionnelza@yahoo.fr,Oui,Oui,Non,Non,Oui,Oui,Non,Neem,Lun–Sam 08h30–18h30
+TRD0163,Médecine Naturelle Mbarga,Douala,Douala V,Deido,4.037026,9.699894,+237 653 911 608,naturelmbarga@gmail.com,Non,Oui,Non,Non,Oui,Oui,Non,Gingembre,Lun–Dim 08h00–18h00
+TRD0164,Cabinet Traditionnel Abega,Yaoundé,Yaoundé V,Tsinga,3.91073,11.50537,+237 695 345 178,traditionnelab@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Kinkeliba,Lun–Dim 08h00–18h00
+TRD0165,Centre de Phytothérapie de Ndog-Passi III,Douala,Douala V,Japoma,4.049938,9.690672,+237 652 975 479,phytothérapien@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Non,Neem,Lun–Sam 07h30–19h00
+TRD0166,Phytothérapie Salut,Douala,Douala VI,New Bell,4.02206,9.690085,+237 697 141 145,phytothérapies@sante.cm,Oui,Oui,Non,Oui,Oui,Non,Non,Hibiscus,Lun–Sam 08h30–18h30
+TRD0167,Phytothérapie Progrès,Yaoundé,Yaoundé II,Mvog-Atangana,3.929885,11.549138,+237 694 468 717,phytothérapiep@sante.cm,Oui,Oui,Non,Oui,Oui,Non,Oui,Prunus Africana,Lun–Sam 08h00–17h00
+TRD0168,Phytothérapie Harmonie,Douala,Douala III,Cité des Palmiers,3.985663,9.764857,+237 233 389 145,phytothérapieh@yahoo.fr,Oui,Oui,Non,Non,Oui,Oui,Oui,Hibiscus,Lun–Ven 08h00–18h00
+TRD0169,Centre Traditionnel Anne,Douala,Douala II,Mboppi,4.011322,9.733031,+237 650 801 636,traditionnelan@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Oui,Aloe Vera,Lun–Sam 07h00–20h00
+TRD0170,Centre Traditionnel Patrick,Yaoundé,Yaoundé VII,Carrière,3.936228,11.466891,+237 650 061 102,traditionnelpa@sante.cm,Non,Oui,Non,Oui,Oui,Oui,Non,Kinkeliba,Lun–Ven 07h30–17h30
+TRD0171,Centre de Médecine Traditionnelle de Ndogbong,Douala,Douala V,Makepe,4.093607,9.693525,+237 242 528 202,traditionnelnd@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Hibiscus,Lun–Sam 07h30–19h00
+TRD0172,Centre de Médecine Traditionnelle de Tsinga,Yaoundé,Yaoundé VI,Briqueterie,3.882909,11.445971,+237 650 037 546,traditionnelts@yahoo.fr,Non,Oui,Non,Oui,Oui,Oui,Oui,Papayer,Lun–Ven 08h00–18h00
+TRD0173,Cabinet Traditionnel Fouda,Yaoundé,Yaoundé V,Bastos,3.833799,11.600051,+237 653 101 877,traditionnelfo@sante.cm,Oui,Oui,Non,Oui,Oui,Non,Oui,Kinkeliba,Lun–Ven 07h30–17h30
+TRD0174,Médecine Naturelle Mvogo,Yaoundé,Yaoundé V,Nkomo,3.874873,11.559303,+237 697 395 293,naturelmvogo@sante.cm,Oui,Oui,Non,Oui,Oui,Non,Oui,Gingembre,7j/7 — 08h00–20h00
+TRD0175,Centre Traditionnel Joachim,Yaoundé,Yaoundé I,Melen,3.84014,11.448161,+237 699 683 740,traditionneljo@yahoo.fr,Non,Oui,Non,Oui,Oui,Oui,Oui,Moringa,Lun–Sam 08h30–18h30
+TRD0176,Centre de Phytothérapie de Bessengue,Douala,Douala IV,Bessengue,4.081637,9.7535,+237 696 727 758,phytothérapieb@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Oui,Moringa,Lun–Sam 08h30–18h30
+TRD0177,Centre Traditionnel Marc,Yaoundé,Yaoundé VII,Biyem-Assi,3.815027,11.60641,+237 679 969 596,traditionnelma@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Hibiscus,Lun–Sam 07h30–19h00
+TRD0178,Phytothérapie Santé,Yaoundé,Yaoundé V,Kondengui,3.807072,11.435378,+237 692 310 048,phytothérapies@sante.cm,Non,Oui,Non,Oui,Oui,Non,Non,Hibiscus,Lun–Ven 08h00–18h00
+TRD0179,Centre Traditionnel Pierre,Douala,Douala V,PK8,4.073101,9.672121,+237 696 774 521,traditionnelpi@gmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Papayer,7j/7 — 08h00–20h00
+TRD0180,Médecine Naturelle Zang,Douala,Douala III,Bonaloka,3.986888,9.660959,+237 679 216 056,naturelzang@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Neem,Lun–Ven 08h00–18h00
+TRD0181,Cabinet Traditionnel Fotso,Yaoundé,Yaoundé VI,Nkol-Afeme,3.855241,11.467424,+237 695 443 240,traditionnelfo@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Oui,Aloe Vera,Lun–Ven 07h30–17h30
+TRD0182,Médecine Naturelle Onana,Yaoundé,Yaoundé I,Mvog-Beti,3.769954,11.429505,+237 699 161 811,naturelonana@sante.cm,Non,Oui,Non,Oui,Oui,Non,Non,Neem,Lun–Ven 07h30–17h30
+TRD0183,Centre de Médecine Traditionnelle de PK10,Douala,Douala II,Bonaberi,4.068641,9.658749,+237 694 953 732,traditionnelpk@sante.cm,Oui,Oui,Non,Oui,Oui,Oui,Oui,Aloe Vera,Lun–Sam 07h00–20h00
+TRD0184,Centre de Phytothérapie de Bangue,Douala,Douala III,Bangue,4.140377,9.714064,+237 650 716 886,phytothérapieb@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Rauwolfia,Lun–Dim 08h00–18h00
+TRD0185,Centre de Phytothérapie de Tsinga,Yaoundé,Yaoundé II,Tsinga,3.90443,11.593383,+237 243 514 351,phytothérapiet@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,Non,Rauwolfia,Lun–Sam 07h30–19h00
+TRD0186,Centre de Médecine Traditionnelle de Simbock,Yaoundé,Yaoundé IV,Simbock,3.762043,11.51798,+237 655 319 221,traditionnelsi@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Non,Prunus Africana,7j/7 — 08h00–20h00
+TRD0187,Centre de Médecine Traditionnelle de Bangue,Douala,Douala VI,Ndokoti,4.022909,9.636025,+237 678 934 874,traditionnelba@hotmail.com,Oui,Oui,Oui,Non,Oui,Oui,Oui,Moringa,Lun–Sam 07h00–20h00
+TRD0188,Phytothérapie Lumière,Douala,Douala IV,Bangue,4.116791,9.684346,+237 677 539 973,phytothérapiel@sante.cm,Oui,Oui,Non,Oui,Non,Non,Oui,Gingembre,Lun–Sam 07h00–20h00
+TRD0189,Centre de Médecine Traditionnelle de Cité Verte,Yaoundé,Yaoundé VII,Cité Verte,3.826976,11.506852,+237 694 195 553,traditionnelci@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Non,Rauwolfia,Lun–Ven 08h00–18h00
+TRD0190,Centre de Phytothérapie de Sodiko,Douala,Douala VI,Makepe,4.029269,9.731919,+237 222 849 763,phytothérapies@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Oui,Hibiscus,Lun–Sam 07h00–20h00
+TRD0191,Centre de Phytothérapie de Bonapriso,Douala,Douala I,Bonapriso,4.041074,9.687328,+237 650 775 442,phytothérapieb@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Oui,Gingembre,Lun–Sam 07h30–19h00
+TRD0192,Centre de Médecine Traditionnelle de Youpwé,Douala,Douala III,PK12,4.057315,9.722742,+237 696 397 181,traditionnelyo@gmail.com,Non,Oui,Non,Oui,Oui,Non,Non,Moringa,Lun–Sam 07h00–20h00
+TRD0193,Centre de Médecine Traditionnelle de Essos,Yaoundé,Yaoundé III,Essos,3.755649,11.473171,+237 692 921 917,traditionneles@yahoo.fr,Non,Oui,Non,Oui,Oui,Non,Non,Kinkeliba,Lun–Ven 08h00–18h00
+TRD0194,Cabinet Traditionnel Owona,Yaoundé,Yaoundé III,Nkoldongo,3.837236,11.540615,+237 678 835 464,traditionnelow@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Moringa,Lun–Sam 08h30–18h30
+TRD0195,Médecine Naturelle Wamba,Yaoundé,Yaoundé VI,Mimboman,3.832381,11.583442,+237 678 036 703,naturelwamba@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Oui,Kinkeliba,Lun–Dim 08h00–18h00
+TRD0196,Centre Traditionnel Pierre,Yaoundé,Yaoundé V,Nsam,3.873773,11.470264,+237 243 178 123,traditionnelpi@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Non,Moringa,Lun–Sam 07h30–19h00
+TRD0197,Médecine Naturelle Manga,Yaoundé,Yaoundé IV,Émana,3.796763,11.523093,+237 651 918 442,naturelmanga@gmail.com,Non,Oui,Oui,Non,Oui,Non,Non,Papayer,7j/7 — 08h00–20h00
+TRD0198,Centre de Médecine Traditionnelle de Ndoghem,Douala,Douala V,Ndogbong,4.034858,9.707593,+237 233 907 452,traditionnelnd@gmail.com,Oui,Oui,Non,Non,Oui,Oui,Non,Papayer,Lun–Ven 07h30–17h30
+TRD0199,Centre Traditionnel Damien,Douala,Douala V,PK14,4.047174,9.680268,+237 243 307 521,traditionnelda@gmail.com,Non,Oui,Non,Oui,Oui,Oui,Oui,Aloe Vera,Lun–Dim 08h00–18h00
+TRD0200,Centre de Médecine Traditionnelle de Kondengui,Yaoundé,Yaoundé IV,Ngousso,3.840254,11.400711,+237 691 566 750,traditionnelko@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Non,Prunus Africana,Lun–Sam 08h00–17h00
+TRD0201,Centre de Phytothérapie de Obili,Yaoundé,Yaoundé IV,Étoa-Meki,3.774393,11.456652,+237 679 804 500,phytothérapieo@gmail.com,Non,Oui,Non,Oui,Oui,Oui,Oui,Papayer,Lun–Sam 07h30–19h00
+TRD0202,Médecine Naturelle Engoulou,Yaoundé,Yaoundé V,Émana,3.903255,11.423176,+237 678 644 588,naturelengoulo@hotmail.com,Non,Oui,Non,Oui,Oui,Non,Oui,Gingembre,Lun–Sam 07h30–19h00
+TRD0203,Cabinet Traditionnel Mbarga,Yaoundé,Yaoundé II,Émana,3.910434,11.417005,+237 650 968 883,traditionnelmb@yahoo.fr,Non,Oui,Non,Oui,Oui,Oui,Oui,Hibiscus,Lun–Sam 07h30–19h00
+TRD0204,Médecine Naturelle Eba,Douala,Douala II,Ndokoti,4.080328,9.691742,+237 691 281 369,natureleba@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Sam 08h30–18h30
+TRD0205,Médecine Naturelle Nguele,Yaoundé,Yaoundé VII,Ngousso,3.81865,11.537576,+237 243 931 267,naturelnguele@sante.cm,Non,Oui,Non,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Dim 08h00–18h00
+TRD0206,Médecine Naturelle Fotso,Douala,Douala II,Bonapriso,4.104584,9.772458,+237 651 627 132,naturelfotso@hotmail.com,Oui,Oui,Non,Non,Oui,Oui,Oui,Prunus Africana,Lun–Ven 07h30–17h30
+TRD0207,Centre de Phytothérapie de Ndog-Passi III,Douala,Douala II,Ndog-Bong,4.040397,9.631543,+237 650 192 252,phytothérapien@gmail.com,Non,Oui,Non,Oui,Non,Oui,Non,Aloe Vera,Lun–Ven 08h00–18h00
+TRD0208,Cabinet Traditionnel Belinga,Douala,Douala VI,Nyalla,4.042308,9.723944,+237 690 846 355,traditionnelbe@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Sam 07h30–19h00
+TRD0209,Centre de Médecine Traditionnelle de Mvog-Ada,Yaoundé,Yaoundé VI,Mvog-Ada,3.823737,11.601289,+237 695 664 143,traditionnelmv@gmail.com,Oui,Oui,Non,Oui,Non,Non,Oui,Neem,Lun–Sam 07h00–20h00
+TRD0210,Médecine Naturelle Ndjock,Douala,Douala III,Logbessou,4.132755,9.694161,+237 691 570 321,naturelndjock@gmail.com,Non,Oui,Oui,Oui,Oui,Non,Non,Rauwolfia,Lun–Ven 08h00–18h00
+TRD0211,Centre de Phytothérapie de Briqueterie,Yaoundé,Yaoundé V,Biyem-Assi,3.843707,11.435348,+237 652 578 801,phytothérapieb@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Rauwolfia,Lun–Dim 08h00–18h00
+TRD0212,Phytothérapie Confiance,Yaoundé,Yaoundé IV,Madagascar,3.86091,11.439315,+237 654 127 292,phytothérapiec@sante.cm,Oui,Oui,Non,Non,Oui,Non,Non,Hibiscus,Lun–Dim 08h00–18h00
+TRD0213,Cabinet Traditionnel Engoulou,Douala,Douala II,Japoma,4.018971,9.631947,+237 699 358 970,traditionnelen@sante.cm,Non,Oui,Non,Non,Oui,Non,Non,Kinkeliba,Lun–Sam 07h30–19h00
+TRD0214,Centre de Médecine Traditionnelle de Étoa-Meki,Yaoundé,Yaoundé VI,Étoa-Meki,3.89795,11.525812,+237 655 412 188,traditionnelét@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Oui,Neem,Lun–Sam 08h00–17h00
+TRD0215,Cabinet Traditionnel Ndoumbe,Yaoundé,Yaoundé V,Carrière,3.891263,11.591939,+237 222 651 942,traditionnelnd@yahoo.fr,Oui,Oui,Non,Non,Oui,Oui,Non,Rauwolfia,Lun–Dim 08h00–18h00
+TRD0216,Médecine Naturelle Tabi,Douala,Douala III,Kotto,4.00059,9.741425,+237 242 985 776,natureltabi@yahoo.fr,Non,Oui,Non,Oui,Non,Non,Non,Papayer,Lun–Sam 07h00–20h00
+TRD0217,Phytothérapie Harmonie,Douala,Douala V,Bepanda,3.991013,9.738403,+237 692 708 852,phytothérapieh@sante.cm,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Moringa,Lun–Sam 07h00–20h00
+TRD0218,Phytothérapie Salut,Yaoundé,Yaoundé VII,Ekounou,3.854664,11.470441,+237 677 850 768,phytothérapies@hotmail.com,Non,Oui,Non,Non,Oui,Non,Oui,Rauwolfia,Lun–Sam 07h00–20h00
+TRD0219,Centre de Phytothérapie de PK12,Douala,Douala IV,Bepanda,4.040135,9.653594,+237 696 851 995,phytothérapiep@sante.cm,Oui,Oui,Non,Oui,Non,Oui,Non,Kinkeliba,Lun–Sam 08h30–18h30
+TRD0220,Centre de Phytothérapie de Ndokoti,Douala,Douala II,Ndog-Passi III,3.987653,9.698886,+237 653 756 195,phytothérapien@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Kinkeliba,Lun–Ven 08h00–18h00
+TRD0221,Cabinet Traditionnel Ngoa,Douala,Douala IV,Kotto,4.061592,9.640034,+237 242 678 904,traditionnelng@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Neem,Lun–Ven 07h30–17h30
+TRD0222,Centre de Phytothérapie de Bepanda,Douala,Douala III,Ndokoti,4.012947,9.661121,+237 699 209 303,phytothérapieb@gmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Sam 08h00–17h00
+TRD0223,Centre de Phytothérapie de Bonamoussadi,Douala,Douala II,Ndokoti,4.104709,9.641697,+237 653 227 011,phytothérapieb@hotmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Prunus Africana,Lun–Sam 08h30–18h30
+TRD0224,Centre de Médecine Traditionnelle de Bonaloka,Douala,Douala II,Bangue,4.054924,9.697916,+237 690 418 342,traditionnelbo@yahoo.fr,Non,Oui,Non,Oui,Oui,Oui,Oui,Papayer,Lun–Ven 07h30–17h30
+TRD0225,Centre Traditionnel Gabriel,Douala,Douala VI,Ndogpassi,3.990634,9.716717,+237 693 245 970,traditionnelga@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Moringa,Lun–Sam 07h00–20h00
+TRD0226,Cabinet Traditionnel Wamba,Yaoundé,Yaoundé II,Madagascar,3.903506,11.471783,+237 655 957 342,traditionnelwa@gmail.com,Non,Oui,Non,Non,Oui,Oui,Oui,Papayer,Lun–Ven 08h00–18h00
+TRD0227,Centre de Médecine Traditionnelle de Deido,Douala,Douala II,Deido,4.000818,9.68048,+237 691 794 822,traditionnelde@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Oui,Neem,7j/7 — 08h00–20h00
+TRD0228,Médecine Naturelle Abega,Yaoundé,Yaoundé V,Ahala,3.89358,11.449487,+237 690 524 445,naturelabega@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Non,Kinkeliba,Lun–Sam 07h30–19h00
+TRD0229,Cabinet Traditionnel Engoulou,Yaoundé,Yaoundé VI,Djoungolo,3.916513,11.46491,+237 677 877 468,traditionnelen@sante.cm,Oui,Oui,Oui,Oui,Oui,Non,Oui,Moringa,Lun–Dim 08h00–18h00
+TRD0230,Phytothérapie Bonheur,Yaoundé,Yaoundé III,Kondengui,3.8059,11.485289,+237 698 548 274,phytothérapieb@hotmail.com,Non,Oui,Oui,Oui,Oui,Non,Oui,Aloe Vera,7j/7 — 08h00–20h00
+TRD0231,Cabinet Traditionnel Mvogo,Yaoundé,Yaoundé VI,Ahala,3.785551,11.587046,+237 698 485 932,traditionnelmv@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Oui,Prunus Africana,Lun–Sam 07h00–20h00
+TRD0232,Phytothérapie Harmonie,Douala,Douala VI,Koumassi,4.080852,9.69128,+237 242 959 895,phytothérapieh@gmail.com,Non,Oui,Oui,Non,Oui,Non,Oui,Moringa,Lun–Ven 07h30–17h30
+TRD0233,Cabinet Traditionnel Moussa,Yaoundé,Yaoundé I,Émana,3.870379,11.510504,+237 653 282 453,traditionnelmo@sante.cm,Non,Oui,Non,Non,Oui,Non,Non,Papayer,Lun–Sam 08h00–17h00
+TRD0234,Centre de Phytothérapie de Briqueterie,Yaoundé,Yaoundé II,Melen,3.845221,11.467393,+237 679 463 614,phytothérapieb@gmail.com,Non,Oui,Non,Oui,Oui,Oui,Non,Prunus Africana,Lun–Sam 07h30–19h00
+TRD0235,Centre Traditionnel Luc,Douala,Douala II,PK17,3.989949,9.722851,+237 698 159 545,traditionnellu@gmail.com,Oui,Oui,Non,Non,Oui,Non,Non,Papayer,Lun–Ven 08h00–18h00
+TRD0236,Cabinet Traditionnel Ndjock,Yaoundé,Yaoundé III,Messa,3.744372,11.476212,+237 699 734 654,traditionnelnd@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Prunus Africana,Lun–Sam 07h30–19h00
+TRD0237,Centre de Médecine Traditionnelle de PK14,Douala,Douala I,PK10,4.051412,9.786297,+237 653 216 374,traditionnelpk@hotmail.com,Oui,Oui,Non,Non,Oui,Oui,Oui,Gingembre,Lun–Sam 08h00–17h00
+TRD0238,Centre de Médecine Traditionnelle de Mboppi,Douala,Douala III,Koumassi,4.046408,9.735936,+237 653 398 228,traditionnelmb@gmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Gingembre,Lun–Sam 08h30–18h30
+TRD0239,Cabinet Traditionnel Elong,Douala,Douala II,Koumassi,4.089461,9.638061,+237 652 170 316,traditionnelel@sante.cm,Oui,Oui,Non,Oui,Oui,Non,Oui,Aloe Vera,Lun–Sam 08h00–17h00
+TRD0240,Centre Traditionnel Anne,Douala,Douala I,Ndog-Passi III,4.099542,9.683748,+237 222 085 103,traditionnelan@sante.cm,Oui,Oui,Non,Oui,Non,Non,Non,Kinkeliba,7j/7 — 08h00–20h00
+TRD0241,Centre de Médecine Traditionnelle de Boko,Douala,Douala V,Boko,4.029173,9.675968,+237 692 176 066,traditionnelbo@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Aloe Vera,Lun–Sam 07h00–20h00
+TRD0242,Centre de Médecine Traditionnelle de Nyalla,Douala,Douala IV,Bonamoussadi,4.076896,9.787797,+237 651 326 581,traditionnelny@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,Aloe Vera,Lun–Ven 08h00–18h00
+TRD0243,Cabinet Traditionnel Ondoa,Yaoundé,Yaoundé VII,Madagascar,3.800503,11.543771,+237 695 516 670,traditionnelon@gmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Kinkeliba,Lun–Ven 07h30–17h30
+TRD0244,Médecine Naturelle Engoulou,Douala,Douala II,Bonanjo,4.012217,9.76556,+237 679 812 259,naturelengoulo@gmail.com,Non,Oui,Non,Non,Non,Non,Non,Gingembre,Lun–Ven 07h30–17h30
+TRD0245,Cabinet Traditionnel Manga,Yaoundé,Yaoundé III,Nkol-Afeme,3.812548,11.427333,+237 697 115 232,traditionnelma@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Papayer,Lun–Sam 08h30–18h30
+TRD0246,Centre de Médecine Traditionnelle de Briqueterie,Yaoundé,Yaoundé V,Briqueterie,3.780887,11.565235,+237 655 499 303,traditionnelbr@yahoo.fr,Non,Oui,Non,Oui,Oui,Oui,Non,Kinkeliba,Lun–Ven 07h30–17h30
+TRD0247,Centre de Médecine Traditionnelle de Ndogpassi,Douala,Douala V,Boko,4.07208,9.710602,+237 222 136 650,traditionnelnd@yahoo.fr,Oui,Oui,Non,Non,Non,Oui,Oui,Papayer,Lun–Sam 07h30–19h00
+TRD0248,Centre de Phytothérapie de Mbanya,Douala,Douala III,Bassa,4.023037,9.634519,+237 694 523 589,phytothérapiem@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Papayer,7j/7 — 08h00–20h00
+TRD0249,Centre de Médecine Traditionnelle de Mendong,Yaoundé,Yaoundé IV,Mendong,3.816653,11.521451,+237 692 837 783,traditionnelme@sante.cm,Oui,Oui,Non,Non,Oui,Non,Oui,Kinkeliba,Lun–Ven 07h30–17h30
+TRD0250,Cabinet Traditionnel Ekani,Douala,Douala I,Ndoghem,4.101959,9.65361,+237 233 137 084,traditionnelek@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,Aloe Vera,Lun–Sam 07h00–20h00
+TRD0251,Centre de Phytothérapie de Logbessou,Douala,Douala II,Cité des Palmiers,4.000369,9.73967,+237 679 194 543,phytothérapiel@sante.cm,Oui,Oui,Oui,Oui,Oui,Oui,Non,Papayer,Lun–Dim 08h00–18h00
+TRD0252,Cabinet Traditionnel Feudjio,Yaoundé,Yaoundé VII,Olembe,3.922918,11.505874,+237 690 262 493,traditionnelfe@gmail.com,Oui,Oui,Non,Non,Non,Oui,Oui,Hibiscus,Lun–Ven 08h00–18h00
+TRD0253,Médecine Naturelle Fouda,Yaoundé,Yaoundé VI,Mvog-Mbi,3.888013,11.433144,+237 678 316 924,naturelfouda@sante.cm,Oui,Oui,Non,Non,Oui,Oui,Oui,Papayer,Lun–Dim 08h00–18h00
+TRD0254,Cabinet Traditionnel Essomba,Yaoundé,Yaoundé VII,Messa,3.800665,11.549124,+237 691 368 872,traditionneles@sante.cm,Oui,Oui,Non,Oui,Oui,Non,Oui,Neem,Lun–Ven 08h00–18h00
+TRD0255,Médecine Naturelle Tabi,Douala,Douala V,Kotto,4.090207,9.756336,+237 697 983 557,natureltabi@gmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Papayer,Lun–Sam 08h00–17h00
+TRD0256,Centre de Phytothérapie de Bangue,Douala,Douala III,Bonapriso,3.995067,9.671562,+237 243 263 672,phytothérapieb@sante.cm,Non,Oui,Oui,Oui,Oui,Non,Oui,Prunus Africana,Lun–Sam 07h00–20h00
+TRD0257,Médecine Naturelle Ndoumbe,Yaoundé,Yaoundé IV,Nsam,3.842814,11.436047,+237 696 993 496,naturelndoumbe@gmail.com,Non,Oui,Non,Non,Oui,Non,Oui,Hibiscus,Lun–Dim 08h00–18h00
+TRD0258,Cabinet Traditionnel Nlend,Douala,Douala VI,Nzeng-Ayong,4.103255,9.639928,+237 222 076 519,traditionnelnl@hotmail.com,Non,Oui,Non,Oui,Oui,Non,Oui,Gingembre,Lun–Sam 07h00–20h00
+TRD0259,Centre de Phytothérapie de Boko,Douala,Douala IV,Nzeng-Ayong,3.976387,9.751624,+237 652 616 551,phytothérapieb@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Non,Kinkeliba,Lun–Sam 07h30–19h00
+TRD0260,Centre de Phytothérapie de Elig-Essono,Yaoundé,Yaoundé V,Elig-Essono,3.773355,11.56283,+237 696 669 015,phytothérapiee@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Papayer,Lun–Ven 08h00–18h00
+TRD0261,Médecine Naturelle Kamga,Douala,Douala VI,Bonanjo,4.07928,9.661367,+237 690 292 576,naturelkamga@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Hibiscus,Lun–Dim 08h00–18h00
+TRD0262,Centre Traditionnel Augustin,Yaoundé,Yaoundé VII,Nkol-Afeme,3.870346,11.578756,+237 677 053 175,traditionnelau@yahoo.fr,Non,Oui,Non,Oui,Oui,Oui,Oui,Prunus Africana,7j/7 — 08h00–20h00
+TRD0263,Centre de Médecine Traditionnelle de Akwa,Douala,Douala IV,PK8,4.080044,9.670586,+237 695 647 281,traditionnelak@gmail.com,Oui,Oui,Non,Oui,Non,Oui,Non,Kinkeliba,Lun–Sam 07h00–20h00
+TRD0264,Centre Traditionnel Joseph,Douala,Douala I,Boko,4.00452,9.727554,+237 677 124 623,traditionneljo@gmail.com,Non,Oui,Non,Oui,Oui,Oui,Oui,Gingembre,Lun–Dim 08h00–18h00
+TRD0265,Médecine Naturelle Assamba,Yaoundé,Yaoundé I,Nlongkak,3.832296,11.431358,+237 651 439 833,naturelassamba@sante.cm,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Rauwolfia,Lun–Sam 08h30–18h30
+TRD0266,Centre de Médecine Traditionnelle de Obili,Yaoundé,Yaoundé II,Obili,3.871929,11.484464,+237 655 270 259,traditionnelob@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Non,Hibiscus,Lun–Sam 08h30–18h30
+TRD0267,Médecine Naturelle Nkeng,Douala,Douala VI,PK10,4.054256,9.758986,+237 243 911 281,naturelnkeng@gmail.com,Oui,Oui,Non,Non,Oui,Non,Oui,Moringa,Lun–Ven 07h30–17h30
+TRD0268,Centre de Phytothérapie de PK14,Douala,Douala V,Ndogpassi,4.117636,9.718831,+237 697 417 598,phytothérapiep@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Aloe Vera,7j/7 — 08h00–20h00
+TRD0269,Centre de Phytothérapie de Olembe,Yaoundé,Yaoundé VII,Olembe,3.83311,11.454674,+237 692 017 615,phytothérapieo@gmail.com,Non,Oui,Non,Non,Oui,Non,Oui,Papayer,Lun–Ven 07h30–17h30
+TRD0270,Centre Traditionnel Étienne,Douala,Douala V,Makepe,4.080592,9.686034,+237 650 589 625,traditionnelét@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Prunus Africana,Lun–Ven 08h00–18h00
+TRD0271,Médecine Naturelle Elong,Yaoundé,Yaoundé II,Mvog-Atangana,3.784689,11.499999,+237 652 241 129,naturelelong@sante.cm,Oui,Oui,Non,Oui,Oui,Non,Oui,Hibiscus,Lun–Dim 08h00–18h00
+TRD0272,Phytothérapie Harmonie,Douala,Douala III,Youpwé,4.007121,9.65651,+237 679 007 627,phytothérapieh@gmail.com,Oui,Oui,Non,Non,Oui,Non,Oui,Neem,Lun–Dim 08h00–18h00
+TRD0273,Centre de Médecine Traditionnelle de Odza,Yaoundé,Yaoundé IV,Odza,3.892586,11.418532,+237 655 181 193,traditionnelod@sante.cm,Non,Oui,Non,Non,Oui,Oui,Non,Kinkeliba,Lun–Sam 07h30–19h00
+TRD0274,Centre de Phytothérapie de Nzeng-Ayong,Douala,Douala IV,Nzeng-Ayong,4.008415,9.785293,+237 678 274 649,phytothérapien@gmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Neem,Lun–Sam 08h00–17h00
+TRD0275,Centre Traditionnel Jean,Douala,Douala I,Akwa,4.095155,9.644875,+237 691 828 206,traditionnelje@hotmail.com,Oui,Oui,Non,Non,Oui,Oui,Non,Rauwolfia,Lun–Sam 07h30–19h00
+TRD0276,Médecine Naturelle Nkeng,Douala,Douala VI,Bonaloka,4.029506,9.782372,+237 690 299 151,naturelnkeng@hotmail.com,Oui,Oui,Oui,Non,Oui,Oui,Non,Aloe Vera,Lun–Sam 08h30–18h30
+TRD0277,Centre de Médecine Traditionnelle de Bassa,Douala,Douala V,Soboum,4.101555,9.770069,+237 677 257 764,traditionnelba@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Neem,Lun–Ven 08h00–18h00
+TRD0278,Centre Traditionnel Félicité,Douala,Douala III,Koumassi,4.002827,9.723979,+237 677 457 174,traditionnelfé@hotmail.com,Oui,Oui,Non,Oui,Non,Oui,Non,Prunus Africana,Lun–Ven 07h30–17h30
+TRD0279,Centre de Phytothérapie de Bali,Douala,Douala VI,Bepanda,4.100764,9.778287,+237 677 678 600,phytothérapieb@hotmail.com,Non,Oui,Non,Non,Non,Oui,Oui,Aloe Vera,Lun–Ven 08h00–18h00
+TRD0280,Médecine Naturelle Fotso,Douala,Douala IV,Bonamoussadi,4.040418,9.7946,+237 679 606 660,naturelfotso@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Ven 08h00–18h00
+TRD0281,Médecine Naturelle Essomba,Yaoundé,Yaoundé II,Efoulan,3.944033,11.493274,+237 677 724 006,naturelessomba@sante.cm,Oui,Oui,Non,Oui,Oui,Oui,Non,Prunus Africana,Lun–Sam 08h30–18h30
+TRD0282,Centre de Médecine Traditionnelle de Santa Barbara,Yaoundé,Yaoundé IV,Bastos,3.903181,11.540413,+237 651 672 585,traditionnelsa@yahoo.fr,Non,Oui,Oui,Oui,Non,Non,Oui,Prunus Africana,Lun–Sam 07h00–20h00
+TRD0283,Centre Traditionnel Bruno,Douala,Douala IV,Bonanjo,4.032966,9.725242,+237 233 297 498,traditionnelbr@sante.cm,Non,Oui,Non,Non,Oui,Non,Oui,Kinkeliba,Lun–Sam 08h30–18h30
+TRD0284,Centre de Phytothérapie de Santa Barbara,Yaoundé,Yaoundé II,Santa Barbara,3.882898,11.575799,+237 655 425 193,phytothérapies@gmail.com,Oui,Oui,Non,Non,Oui,Oui,Non,Aloe Vera,Lun–Ven 08h00–18h00
+TRD0285,Phytothérapie Progrès,Douala,Douala V,PK8,4.082942,9.709913,+237 655 380 800,phytothérapiep@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Aloe Vera,7j/7 — 08h00–20h00
+TRD0286,Médecine Naturelle Ondoa,Yaoundé,Yaoundé II,Messa,3.898763,11.551714,+237 696 124 452,naturelondoa@sante.cm,Oui,Oui,Non,Oui,Oui,Non,Non,Gingembre,Lun–Sam 07h30–19h00
+TRD0287,Médecine Naturelle Nkeng,Yaoundé,Yaoundé III,Essos,3.755158,11.487779,+237 696 141 228,naturelnkeng@gmail.com,Oui,Oui,Non,Non,Oui,Oui,Non,Moringa,Lun–Sam 08h00–17h00
+TRD0288,Centre Traditionnel Cyprien,Douala,Douala VI,Bonanjo,4.001522,9.659495,+237 651 353 278,traditionnelcy@hotmail.com,Non,Oui,Non,Non,Oui,Oui,Non,Aloe Vera,Lun–Ven 07h30–17h30
+TRD0289,Cabinet Traditionnel Bikié,Yaoundé,Yaoundé II,Nkomo,3.835982,11.433415,+237 691 528 539,traditionnelbi@gmail.com,Oui,Oui,Non,Non,Oui,Oui,Oui,Neem,Lun–Sam 07h00–20h00
+TRD0290,Phytothérapie Progrès,Douala,Douala I,Makepe,3.98455,9.750394,+237 695 499 313,phytothérapiep@sante.cm,Non,Oui,Non,Non,Oui,Non,Non,Gingembre,7j/7 — 08h00–20h00
+TRD0291,Cabinet Traditionnel Ateba,Yaoundé,Yaoundé V,Kondengui,3.906874,11.564221,+237 677 055 909,traditionnelat@gmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Aloe Vera,Lun–Ven 07h30–17h30
+TRD0292,Centre de Médecine Traditionnelle de Omnisports,Yaoundé,Yaoundé II,Nlongkak,3.823568,11.51316,+237 222 171 043,traditionnelom@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Oui,Rauwolfia,Lun–Ven 07h30–17h30
+TRD0293,Centre de Médecine Traditionnelle de Bassa,Douala,Douala IV,PK8,4.060243,9.721182,+237 650 828 646,traditionnelba@hotmail.com,Non,Oui,Non,Oui,Oui,Oui,Non,Prunus Africana,Lun–Sam 07h30–19h00
+TRD0294,Centre de Médecine Traditionnelle de Bangue,Douala,Douala V,Soboum,3.965725,9.706581,+237 699 106 602,traditionnelba@yahoo.fr,Oui,Oui,Non,Non,Non,Oui,Oui,Rauwolfia,Lun–Dim 08h00–18h00
+TRD0295,Centre de Médecine Traditionnelle de Olembe,Yaoundé,Yaoundé V,Santa Barbara,3.82412,11.559167,+237 696 374 117,traditionnelol@hotmail.com,Oui,Oui,Non,Oui,Non,Oui,Non,Neem,Lun–Ven 08h00–18h00
+TRD0296,Centre de Phytothérapie de Melen,Yaoundé,Yaoundé I,Melen,3.847172,11.580419,+237 699 195 818,phytothérapiem@sante.cm,Non,Oui,Oui,Non,Oui,Oui,Oui,Hibiscus,Lun–Sam 07h00–20h00
+TRD0297,Cabinet Traditionnel Simo,Douala,Douala VI,Nzeng-Ayong,4.043103,9.62631,+237 699 606 676,traditionnelsi@gmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Kinkeliba,Lun–Ven 08h00–18h00
+TRD0298,Centre de Phytothérapie de Ekounou,Yaoundé,Yaoundé I,Ekounou,3.840715,11.566129,+237 694 801 417,phytothérapiee@yahoo.fr,Non,Oui,Non,Oui,Oui,Non,Oui,Aloe Vera,Lun–Sam 08h00–17h00
+TRD0299,Médecine Naturelle Nlend,Yaoundé,Yaoundé IV,Elig-Essono,3.91149,11.584176,+237 691 066 567,naturelnlend@yahoo.fr,Oui,Oui,Non,Non,Oui,Oui,Non,Kinkeliba,Lun–Sam 08h00–17h00
+TRD0300,Centre de Médecine Traditionnelle de Ndokoti,Douala,Douala I,Bangue,3.991535,9.6518,+237 696 210 781,traditionnelnd@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Non,Papayer,Lun–Ven 07h30–17h30
+TRD0301,Centre de Phytothérapie de Odza,Yaoundé,Yaoundé IV,Odza,3.834589,11.444589,+237 242 437 932,phytothérapieo@gmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Prunus Africana,Lun–Sam 08h30–18h30
+TRD0302,Centre Traditionnel Bruno,Douala,Douala IV,Mbanya,4.083299,9.755648,+237 694 055 680,traditionnelbr@gmail.com,Oui,Oui,Non,Non,Oui,Oui,Non,Neem,Lun–Ven 07h30–17h30
+TRD0303,Centre de Phytothérapie de Ahala,Yaoundé,Yaoundé VII,Ahala,3.852542,11.476264,+237 697 375 482,phytothérapiea@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Moringa,Lun–Sam 07h30–19h00
+TRD0304,Centre de Phytothérapie de Ndogpassi,Douala,Douala II,PK12,4.102099,9.710611,+237 698 741 118,phytothérapien@sante.cm,Oui,Oui,Non,Oui,Oui,Non,Oui,Gingembre,Lun–Ven 08h00–18h00
+TRD0305,Centre de Phytothérapie de Bessengue,Douala,Douala I,PK8,4.004861,9.699984,+237 692 799 492,phytothérapieb@sante.cm,Oui,Oui,Non,Non,Oui,Oui,Oui,Aloe Vera,Lun–Sam 08h30–18h30
+TRD0306,Centre de Phytothérapie de Koumassi,Douala,Douala I,Boko,3.998803,9.698202,+237 242 443 849,phytothérapiek@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Oui,Aloe Vera,Lun–Sam 08h30–18h30
+TRD0307,Centre de Médecine Traditionnelle de New Bell,Douala,Douala III,New Bell,3.996655,9.673109,+237 655 406 202,traditionnelne@sante.cm,Oui,Oui,Non,Non,Oui,Oui,Non,Papayer,Lun–Sam 08h30–18h30
+TRD0308,Centre de Médecine Traditionnelle de Kotto,Douala,Douala VI,Ndokoti,4.056029,9.77756,+237 695 340 310,traditionnelko@sante.cm,Oui,Oui,Oui,Non,Oui,Oui,Oui,Neem,Lun–Sam 07h00–20h00
+TRD0309,Phytothérapie Alliance,Yaoundé,Yaoundé V,Ekounou,3.904746,11.422303,+237 655 569 842,phytothérapiea@sante.cm,Non,Oui,Oui,Oui,Non,Non,Non,Moringa,Lun–Ven 07h30–17h30
+TRD0310,Médecine Naturelle Belinga,Douala,Douala III,Bessengue,3.999064,9.757882,+237 692 653 789,naturelbelinga@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Sam 08h30–18h30
+TRD0311,Centre de Phytothérapie de Djoungolo,Yaoundé,Yaoundé VII,Djoungolo,3.80182,11.408323,+237 691 830 570,phytothérapied@gmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Prunus Africana,Lun–Sam 07h30–19h00
+TRD0312,Phytothérapie Grâce,Douala,Douala II,Nkongmondo,4.114881,9.693947,+237 692 257 468,phytothérapieg@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Oui,Hibiscus,7j/7 — 08h00–20h00
+TRD0313,Centre de Médecine Traditionnelle de Bangue,Douala,Douala II,Bessengue,4.121206,9.731084,+237 651 369 803,traditionnelba@yahoo.fr,Oui,Oui,Oui,Oui,Non,Oui,Non,Prunus Africana,Lun–Sam 07h00–20h00
+TRD0314,Centre Traditionnel Marie,Yaoundé,Yaoundé I,Nkol-Eton,3.806352,11.503796,+237 697 691 157,traditionnelma@gmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Moringa,Lun–Sam 08h30–18h30
+TRD0315,Centre de Phytothérapie de Ndog-Passi III,Douala,Douala I,Nzeng-Ayong,4.042642,9.749127,+237 697 129 424,phytothérapien@hotmail.com,Non,Oui,Oui,Oui,Oui,Oui,Oui,Rauwolfia,Lun–Sam 08h00–17h00
+TRD0316,Phytothérapie Vie,Douala,Douala I,Bassa,4.086571,9.646696,+237 242 229 186,phytothérapiev@gmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Papayer,Lun–Sam 08h00–17h00
+TRD0317,Centre de Médecine Traditionnelle de Bessengue,Douala,Douala II,Mbanya,3.983572,9.65158,+237 650 390 884,traditionnelbe@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Oui,Papayer,Lun–Sam 07h00–20h00
+TRD0318,Centre Traditionnel Michel,Yaoundé,Yaoundé VI,Tsinga,3.950373,11.490504,+237 696 949 828,traditionnelmi@gmail.com,Non,Oui,Oui,Oui,Oui,Oui,Oui,Neem,Lun–Sam 08h30–18h30
+TRD0319,Cabinet Traditionnel Kuitche,Yaoundé,Yaoundé III,Djoungolo,3.76329,11.47268,+237 650 961 239,traditionnelku@sante.cm,Oui,Oui,Non,Non,Non,Non,Oui,Hibiscus,Lun–Sam 07h00–20h00
+TRD0320,Centre de Médecine Traditionnelle de Cité des Palmiers,Douala,Douala VI,Cité des Palmiers,4.072429,9.784231,+237 242 792 215,traditionnelci@gmail.com,Non,Oui,Non,Oui,Oui,Non,Oui,Rauwolfia,Lun–Sam 08h30–18h30
+TRD0321,Centre Traditionnel Jeanne,Yaoundé,Yaoundé IV,Olembe,3.793778,11.546604,+237 243 980 554,traditionnelje@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Oui,Moringa,Lun–Sam 08h00–17h00
+TRD0322,Médecine Naturelle Biyiti,Yaoundé,Yaoundé VI,Biteng,3.783777,11.433596,+237 679 454 160,naturelbiyiti@gmail.com,Non,Oui,Non,Oui,Oui,Oui,Oui,Hibiscus,Lun–Dim 08h00–18h00
+TRD0323,Centre de Médecine Traditionnelle de PK8,Douala,Douala I,Nzeng-Ayong,4.108522,9.714727,+237 653 662 912,traditionnelpk@sante.cm,Oui,Oui,Non,Non,Oui,Oui,Oui,Neem,Lun–Sam 08h30–18h30
+TRD0324,Centre de Médecine Traditionnelle de Ndog-Bong,Douala,Douala VI,Nyalla,4.054103,9.776665,+237 243 857 279,traditionnelnd@hotmail.com,Oui,Oui,Non,Non,Oui,Oui,Oui,Aloe Vera,Lun–Sam 07h30–19h00
+TRD0325,Centre de Phytothérapie de Mboppi,Douala,Douala III,PK12,4.115173,9.720567,+237 698 849 015,phytothérapiem@sante.cm,Oui,Oui,Non,Non,Oui,Oui,Oui,Prunus Africana,Lun–Ven 07h30–17h30
+TRD0326,Phytothérapie Bonheur,Douala,Douala I,Deido,3.991192,9.733634,+237 693 652 872,phytothérapieb@yahoo.fr,Non,Oui,Non,Oui,Non,Oui,Oui,Kinkeliba,Lun–Ven 08h00–18h00
+TRD0327,Centre de Médecine Traditionnelle de Bepanda,Douala,Douala II,Ndokoti,4.11262,9.770843,+237 678 615 303,traditionnelbe@sante.cm,Oui,Oui,Non,Non,Oui,Oui,Oui,Hibiscus,Lun–Dim 08h00–18h00
+TRD0328,Centre de Médecine Traditionnelle de Biyem-Assi,Yaoundé,Yaoundé VI,Émana,3.776464,11.445098,+237 651 674 376,traditionnelbi@sante.cm,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Moringa,Lun–Dim 08h00–18h00
+TRD0329,Centre de Phytothérapie de Makepe,Douala,Douala V,Deido,4.047505,9.627688,+237 222 022 195,phytothérapiem@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Hibiscus,Lun–Sam 07h00–20h00
+TRD0330,Centre de Médecine Traditionnelle de Boko,Douala,Douala IV,Bonanjo,4.035249,9.633309,+237 233 072 289,traditionnelbo@yahoo.fr,Non,Oui,Oui,Oui,Oui,Oui,Oui,Papayer,Lun–Ven 07h30–17h30
+TRD0331,Phytothérapie Espoir,Yaoundé,Yaoundé II,Biyem-Assi,3.860781,11.40434,+237 698 115 065,phytothérapiee@sante.cm,Oui,Oui,Non,Oui,Oui,Oui,Non,Hibiscus,Lun–Sam 07h30–19h00
+TRD0332,Cabinet Traditionnel Tchoupo,Yaoundé,Yaoundé III,Ngoa-Ekélé,3.858029,11.438155,+237 694 762 983,traditionneltc@gmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Non,Moringa,Lun–Sam 07h00–20h00
+TRD0333,Centre de Phytothérapie de Village,Douala,Douala IV,Ndog-Bong,4.073081,9.72336,+237 233 702 698,phytothérapiev@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Non,Hibiscus,Lun–Sam 08h30–18h30
+TRD0334,Cabinet Traditionnel Belinga,Yaoundé,Yaoundé VII,Mvan,3.812634,11.482086,+237 653 040 343,traditionnelbe@sante.cm,Non,Oui,Non,Oui,Oui,Non,Oui,Kinkeliba,Lun–Sam 07h30–19h00
+TRD0335,Médecine Naturelle Owona,Yaoundé,Yaoundé VI,Mvog-Atangana,3.908057,11.458855,+237 699 555 358,naturelowona@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Non,Kinkeliba,Lun–Sam 08h00–17h00
+TRD0336,Phytothérapie Secours,Yaoundé,Yaoundé IV,Omnisports,3.803082,11.502941,+237 650 505 837,phytothérapies@hotmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Rauwolfia,Lun–Sam 08h30–18h30
+TRD0337,Centre de Médecine Traditionnelle de Bali,Douala,Douala I,Nyalla,4.037576,9.762464,+237 233 644 561,traditionnelba@yahoo.fr,Non,Oui,Non,Oui,Oui,Oui,Non,Gingembre,7j/7 — 08h00–20h00
+TRD0338,Centre Traditionnel André,Yaoundé,Yaoundé VII,Djoungolo,3.889218,11.55,+237 696 044 927,traditionnelan@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Prunus Africana,Lun–Dim 08h00–18h00
+TRD0339,Centre de Phytothérapie de Bassa,Douala,Douala VI,Bessengue,4.028487,9.630212,+237 695 540 531,phytothérapieb@gmail.com,Non,Oui,Non,Oui,Oui,Non,Oui,Kinkeliba,Lun–Ven 08h00–18h00
+TRD0340,Centre Traditionnel Thérèse,Yaoundé,Yaoundé VII,Ngousso,3.811559,11.558732,+237 655 031 430,traditionnelth@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Papayer,Lun–Dim 08h00–18h00
+TRD0341,Cabinet Traditionnel Ateba,Douala,Douala IV,New Bell,4.119015,9.760691,+237 697 920 200,traditionnelat@sante.cm,Non,Oui,Non,Non,Oui,Oui,Oui,Gingembre,Lun–Sam 07h00–20h00
+TRD0342,Médecine Naturelle Nkoa,Yaoundé,Yaoundé IV,Mvog-Beti,3.805004,11.407847,+237 691 995 357,naturelnkoa@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Oui,Moringa,Lun–Sam 08h00–17h00
+TRD0343,Centre de Médecine Traditionnelle de Bonapriso,Douala,Douala IV,Nkongmondo,4.058594,9.775776,+237 692 772 471,traditionnelbo@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Oui,Moringa,Lun–Sam 08h00–17h00
+TRD0344,Centre de Phytothérapie de Bonanjo,Douala,Douala IV,Bassa,4.067625,9.759685,+237 691 080 138,phytothérapieb@sante.cm,Oui,Oui,Non,Oui,Non,Oui,Oui,Moringa,7j/7 — 08h00–20h00
+TRD0345,Centre de Médecine Traditionnelle de Village,Douala,Douala V,Bangue,4.053598,9.796517,+237 654 113 191,traditionnelvi@sante.cm,Oui,Oui,Non,Oui,Non,Non,Non,Aloe Vera,7j/7 — 08h00–20h00
+TRD0346,Centre de Phytothérapie de Mvan,Yaoundé,Yaoundé III,Efoulan,3.82641,11.430259,+237 692 971 735,phytothérapiem@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Oui,Rauwolfia,Lun–Sam 07h00–20h00
+TRD0347,Cabinet Traditionnel Assamba,Douala,Douala IV,Ndogpassi,4.068,9.674586,+237 691 264 238,traditionnelas@gmail.com,Non,Oui,Non,Oui,Oui,Non,Oui,Prunus Africana,Lun–Ven 07h30–17h30
+TRD0348,Centre de Phytothérapie de Mokolo,Yaoundé,Yaoundé VI,Omnisports,3.809242,11.505478,+237 677 070 957,phytothérapiem@sante.cm,Non,Oui,Non,Non,Non,Non,Oui,Gingembre,Lun–Ven 08h00–18h00
+TRD0349,Centre de Médecine Traditionnelle de Madagascar,Yaoundé,Yaoundé V,Madagascar,3.760093,11.489345,+237 655 116 285,traditionnelma@sante.cm,Non,Oui,Oui,Oui,Oui,Oui,Non,Papayer,Lun–Sam 07h00–20h00
+TRD0350,Centre de Phytothérapie de Nlongkak,Yaoundé,Yaoundé I,Biteng,3.796548,11.545755,+237 222 706 702,phytothérapien@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Non,Prunus Africana,Lun–Ven 08h00–18h00

@@ -1,0 +1,1001 @@
+id,nom,ville,arrondissement,quartier,latitude,longitude,telephone,email,pharmacie_de_garde,type_garde,horaires,livraison_domicile,parapharmacie,materiel_medical
+PHA0001,Officine Bikié de Koumassi,Douala,Douala III,Koumassi,4.050674,9.737699,+237 692 679 444,bikiékoumassi@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Oui
+PHA0002,Officine Wamba de Kotto,Douala,Douala IV,Kotto,4.039945,9.795175,+237 650 450 476,wambakotto@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0003,Officine Kamga de Bastos,Yaoundé,Yaoundé I,Bastos,3.914475,11.584143,+237 693 117 245,kamgabastos@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0004,Pharmacie Camille Bangue,Douala,Douala III,Bangue,4.022901,9.725745,+237 694 447 946,camilbangue@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0005,Officine Nguele de Bonapriso,Douala,Douala IV,Bonapriso,4.050074,9.761431,+237 692 902 235,nguebonapriso@pharmacie.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0006,Pharmacie du Elig-Essono,Yaoundé,Yaoundé III,Elig-Essono,3.92686,11.436115,+237 692 211 384,elig-essono@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0007,Officine Ekani de PK17,Douala,Douala VI,PK17,4.091514,9.687873,+237 222 298 283,ekanipk17@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0008,Officine Mvé de Bonapriso,Douala,Douala II,Bonapriso,4.051214,9.648138,+237 678 309 923,mvébonapriso@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0009,Officine Mbarga de Mbanya,Douala,Douala III,Mbanya,4.063569,9.634082,+237 694 602 160,mbargambanya@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Non
+PHA0010,Pharmacie Claire Ndog-Passi III,Douala,Douala VI,Ndog-Passi III,4.081866,9.743512,+237 243 599 350,clairendog-pas@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0011,Pharmacie de Djoungolo,Yaoundé,Yaoundé V,Djoungolo,3.94069,11.504581,+237 691 727 894,djoungolo@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0012,Officine Moussa de Mendong,Yaoundé,Yaoundé I,Mendong,3.947455,11.511753,+237 694 493 495,moussamendong@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0013,Officine Nguele de Ndog-Passi III,Douala,Douala VI,Ndog-Passi III,4.065316,9.757943,+237 679 186 969,nguendog-passi@sante.cm,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0014,Officine Owona de Nkongmondo,Douala,Douala VI,Nkongmondo,4.057278,9.79411,+237 678 526 506,owonankongmond@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0015,Pharmacie Bernadette Tsinga,Yaoundé,Yaoundé I,Tsinga,3.844248,11.427031,+237 243 689 573,bernadettetsin@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Oui,Non,Non
+PHA0016,Pharmacie Paul Elig-Essono,Yaoundé,Yaoundé IV,Elig-Essono,3.858228,11.604431,+237 697 674 357,paulelig-esson@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Oui
+PHA0017,Pharmacie du Mvan,Yaoundé,Yaoundé II,Mvan,3.856941,11.517057,+237 699 967 849,mvan@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0018,Officine Hamadou de Ekounou,Yaoundé,Yaoundé IV,Ekounou,3.748205,11.477998,+237 699 228 345,hamadouekounou@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Oui
+PHA0019,Pharmacie du Mimboman,Yaoundé,Yaoundé III,Mimboman,3.842529,11.478356,+237 243 094 097,mimboman@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Oui
+PHA0020,Officine Nguele de Kotto,Douala,Douala I,Kotto,4.073012,9.63998,+237 652 929 925,nguekotto@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Oui,Oui,Non
+PHA0021,Officine Mvé de Obili,Yaoundé,Yaoundé VII,Obili,3.843877,11.555399,+237 655 105 599,mvéobili@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0022,Pharmacie de PK12,Douala,Douala II,PK12,4.103346,9.67131,+237 695 699 383,pk12@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Non
+PHA0023,Pharmacie Paul Bessengue,Douala,Douala IV,Bessengue,3.996807,9.690314,+237 242 513 699,paulbessengue@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0024,Pharmacie Saint-Paul,Yaoundé,Yaoundé III,Mvog-Atangana,3.840602,11.394883,+237 678 648 339,paul@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0025,Officine Kuitche de Étoa-Meki,Yaoundé,Yaoundé II,Étoa-Meki,3.869684,11.50402,+237 243 685 397,kuitcheétoa-me@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0026,Officine Mvé de Sodiko,Douala,Douala V,Sodiko,4.050325,9.659153,+237 679 067 918,mvésodiko@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0027,Pharmacie Jeanne Ndog-Passi III,Douala,Douala V,Ndog-Passi III,4.066498,9.661805,+237 677 227 326,jeannendog-pas@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0028,Pharmacie du Tsinga,Yaoundé,Yaoundé I,Tsinga,3.79061,11.547055,+237 222 257 084,tsinga@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0029,Officine Ekani de Youpwé,Douala,Douala IV,Youpwé,3.982146,9.701713,+237 652 740 314,ekaniyoupwé@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0030,Pharmacie du Melen,Yaoundé,Yaoundé IV,Melen,3.852759,11.547945,+237 697 987 051,melen@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0031,Pharmacie Marc Bonamoussadi,Douala,Douala VI,Bonamoussadi,4.083196,9.692771,+237 651 626 309,marcbonamoussa@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0032,Officine Nguele de Boko,Douala,Douala VI,Boko,4.062909,9.651957,+237 653 180 130,ngueboko@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0033,Pharmacie du Nyalla,Douala,Douala III,Nyalla,4.071761,9.672938,+237 693 084 639,nyalla@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0034,Officine Wamba de Bonamoussadi,Douala,Douala VI,Bonamoussadi,3.971683,9.720722,+237 222 908 670,wambabonamouss@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0035,Officine Assamba de Bonapriso,Douala,Douala IV,Bonapriso,3.978209,9.74879,+237 692 513 542,assambabonapri@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Non
+PHA0036,Officine Tabi de Ndog-Bong,Douala,Douala IV,Ndog-Bong,3.981603,9.716511,+237 695 276 281,tabindog-bong@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Oui
+PHA0037,Officine Elong de Nsam,Yaoundé,Yaoundé II,Nsam,3.853831,11.577732,+237 678 804 856,elongnsam@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0038,Pharmacie de la Bonheur,Yaoundé,Yaoundé I,Ngousso,3.789798,11.546575,+237 690 210 119,bonheur@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0039,Pharmacie Étienne Mvan,Yaoundé,Yaoundé III,Mvan,3.858526,11.591397,+237 653 406 574,étiennemvan@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0040,Pharmacie de Tsinga,Yaoundé,Yaoundé III,Tsinga,3.863712,11.547817,+237 694 804 072,tsinga@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0041,Pharmacie du Biyem-Assi,Yaoundé,Yaoundé I,Biyem-Assi,3.758072,11.445618,+237 678 410 765,biyem-assi@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Non
+PHA0042,Pharmacie Raphaël Logbessou,Douala,Douala V,Logbessou,4.02764,9.651185,+237 692 349 343,raphaëllogbess@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Non
+PHA0043,Pharmacie de Mendong,Yaoundé,Yaoundé III,Mendong,3.882142,11.55513,+237 677 018 876,mendong@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Oui
+PHA0044,Officine Ateba de Cité Verte,Yaoundé,Yaoundé VII,Cité Verte,3.873858,11.545917,+237 694 392 762,atebacitéverte@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0045,Pharmacie Augustin Bonaloka,Douala,Douala I,Bonaloka,4.078144,9.641523,+237 654 654 986,augustinbonalo@yahoo.fr,Oui,Nuit,20h00 — 08h00,Oui,Oui,Non
+PHA0046,Pharmacie du Nlongkak,Yaoundé,Yaoundé II,Nlongkak,3.896361,11.541784,+237 693 827 397,nlongkak@hotmail.com,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0047,Officine Wamba de Boko,Douala,Douala IV,Boko,3.971963,9.666896,+237 693 790 267,wambaboko@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Oui,Oui,Oui
+PHA0048,Officine Bikié de Étoa-Meki,Yaoundé,Yaoundé IV,Étoa-Meki,3.909249,11.537197,+237 695 733 958,bikiéétoa-meki@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0049,Officine Essomba de Youpwé,Douala,Douala I,Youpwé,3.99074,9.705346,+237 691 825 114,essombayoupwé@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0050,Pharmacie Hamadou,Yaoundé,Yaoundé II,Tsinga,3.920152,11.561434,+237 654 430 262,hamadou@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0051,Pharmacie Kuitche,Yaoundé,Yaoundé I,Obili,3.850036,11.531072,+237 696 425 989,kuitche@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0052,Officine Mvogo de Nkol-Eton,Yaoundé,Yaoundé II,Nkol-Eton,3.873794,11.425003,+237 697 764 871,mvogonkol-eton@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0053,Pharmacie Michel Nkolbisson,Yaoundé,Yaoundé III,Nkolbisson,3.929256,11.556788,+237 690 109 790,michelnkolbiss@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0054,Officine Onana de Logbessou,Douala,Douala III,Logbessou,4.07036,9.673196,+237 696 951 342,onanalogbessou@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Oui,Oui,Non
+PHA0055,Pharmacie de Ndokoti,Douala,Douala IV,Ndokoti,4.105276,9.687208,+237 691 643 588,ndokoti@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0056,Officine Ateba de Bassa,Douala,Douala V,Bassa,4.046584,9.649371,+237 696 141 202,atebabassa@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0057,Pharmacie Claire Odza,Yaoundé,Yaoundé I,Odza,3.755146,11.451232,+237 678 376 103,claireodza@sante.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0058,Pharmacie de Efoulan,Yaoundé,Yaoundé IV,Efoulan,3.906368,11.412408,+237 693 887 133,efoulan@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0059,Pharmacie du Biteng,Yaoundé,Yaoundé II,Biteng,3.845388,11.435962,+237 690 991 798,biteng@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0060,Pharmacie Bruno Bessengue,Douala,Douala II,Bessengue,3.983807,9.766247,+237 653 073 638,brunobessengue@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Non
+PHA0061,Officine Kamga de Village,Douala,Douala II,Village,4.026218,9.685285,+237 691 147 221,kamgavillage@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Non
+PHA0062,Officine Ndjock de Nlongkak,Yaoundé,Yaoundé III,Nlongkak,3.851506,11.611148,+237 699 730 746,ndjocknlongkak@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0063,Officine Nlend de Japoma,Douala,Douala III,Japoma,4.026333,9.780894,+237 654 918 654,nlendjapoma@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0064,Pharmacie Camille Boko,Douala,Douala III,Boko,4.028124,9.695531,+237 696 164 818,camilboko@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0065,Officine Ndoumbe de Youpwé,Douala,Douala VI,Youpwé,4.140597,9.713841,+237 696 020 714,ndoumbeyoupwé@sante.cm,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Oui
+PHA0066,Officine Nkeng de Mvan,Yaoundé,Yaoundé V,Mvan,3.771475,11.440502,+237 697 473 386,nkengmvan@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0067,Officine Manga de Akwa,Douala,Douala II,Akwa,4.011166,9.695768,+237 679 144 928,mangaakwa@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Non
+PHA0068,Officine Elong de Bepanda,Douala,Douala III,Bepanda,4.063224,9.733384,+237 222 859 422,elongbepanda@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0069,Pharmacie Raphaël Mboppi,Douala,Douala III,Mboppi,4.03909,9.730983,+237 696 641 283,raphaëlmboppi@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Oui
+PHA0070,Officine Mbassi de Briqueterie,Yaoundé,Yaoundé VI,Briqueterie,3.903118,11.547448,+237 651 099 713,mbassibriquete@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Oui
+PHA0071,Officine Kuitche de Japoma,Douala,Douala IV,Japoma,4.01484,9.7222,+237 677 890 742,kuitchejapoma@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0072,Pharmacie Saint-Camille,Yaoundé,Yaoundé III,Omnisports,3.854431,11.540063,+237 692 386 284,camille@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0073,Officine Mvé de Efoulan,Yaoundé,Yaoundé II,Efoulan,3.872944,11.489403,+237 679 560 063,mvéefoulan@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Oui
+PHA0074,Officine Nkoa de Kondengui,Yaoundé,Yaoundé II,Kondengui,3.821829,11.470268,+237 699 564 638,nkoakondengui@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Oui
+PHA0075,Pharmacie du Ngoa-Ekélé,Yaoundé,Yaoundé V,Ngoa-Ekélé,3.887676,11.446222,+237 692 745 006,ngoa-ekélé@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Non
+PHA0076,Officine Moussa de Youpwé,Douala,Douala III,Youpwé,4.108512,9.772728,+237 650 511 448,moussayoupwé@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0077,Pharmacie Paul Mboppi,Douala,Douala I,Mboppi,4.035585,9.791048,+237 679 980 759,paulmboppi@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0078,Officine Engoulou de Bonaberi,Douala,Douala V,Bonaberi,4.067784,9.657204,+237 698 288 478,engouloubonabe@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0079,Officine Onana de Bepanda,Douala,Douala IV,Bepanda,4.024038,9.718978,+237 678 430 749,onanabepanda@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0080,Pharmacie Félicité Sodiko,Douala,Douala IV,Sodiko,4.034664,9.784343,+237 697 605 724,félicitésodiko@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Non
+PHA0081,Pharmacie de Nsam,Yaoundé,Yaoundé IV,Nsam,3.770172,11.513926,+237 650 333 034,nsam@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0082,Pharmacie Augustin Japoma,Douala,Douala IV,Japoma,4.089731,9.677051,+237 697 975 083,augustinjapoma@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0083,Pharmacie Augustin Kondengui,Yaoundé,Yaoundé VII,Kondengui,3.888011,11.537165,+237 699 245 308,augustinkonden@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0084,Pharmacie du Deido,Douala,Douala VI,Deido,3.997259,9.673998,+237 243 739 508,deido@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Oui,Oui,Non
+PHA0085,Pharmacie Saint-Damien,Yaoundé,Yaoundé I,Santa Barbara,3.886555,11.415129,+237 652 063 553,damien@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Oui,Non,Non
+PHA0086,Officine Fotso de Bonamoussadi,Douala,Douala IV,Bonamoussadi,4.067771,9.711337,+237 651 393 026,fotsobonamouss@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Non
+PHA0087,Pharmacie de la Alliance,Yaoundé,Yaoundé VI,Nkol-Eton,3.890584,11.511857,+237 698 325 017,alliance@gmail.com,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0088,Officine Feudjio de PK14,Douala,Douala VI,PK14,3.969967,9.724733,+237 696 416 917,feudjiopk14@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Oui
+PHA0089,Pharmacie Félicité Soboum,Douala,Douala I,Soboum,4.000334,9.666579,+237 654 269 076,félicitésoboum@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Oui
+PHA0090,Officine Tabi de PK14,Douala,Douala II,PK14,4.099931,9.70654,+237 693 367 893,tabipk14@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0091,Officine Kuitche de Bonanjo,Douala,Douala VI,Bonanjo,4.078382,9.675081,+237 650 510 362,kuitchebonanjo@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Oui,Oui,Non
+PHA0092,Pharmacie Luc Mvog-Atangana,Yaoundé,Yaoundé II,Mvog-Atangana,3.781161,11.493613,+237 693 993 567,lucmvog-atanga@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Oui
+PHA0093,Officine Ateba de Akwa,Douala,Douala II,Akwa,4.057285,9.691024,+237 677 540 294,atebaakwa@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Oui
+PHA0094,Officine Mvé de Mimboman,Yaoundé,Yaoundé VI,Mimboman,3.755182,11.468707,+237 679 739 489,mvémimboman@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Oui
+PHA0095,Officine Fouda de Cité Verte,Yaoundé,Yaoundé VI,Cité Verte,3.862992,11.412142,+237 243 097 570,foudacitéverte@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Non
+PHA0096,Officine Nkeng de Biteng,Yaoundé,Yaoundé II,Biteng,3.768643,11.509054,+237 653 698 917,nkengbiteng@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0097,Officine Engoulou de Soboum,Douala,Douala I,Soboum,4.093834,9.760031,+237 222 738 651,engoulousoboum@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0098,Pharmacie Saint-Jean,Yaoundé,Yaoundé IV,Efoulan,3.849639,11.460887,+237 679 588 734,jean@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0099,Pharmacie du PK17,Douala,Douala II,PK17,4.085767,9.730273,+237 692 184 800,pk17@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0100,Officine Manga de Boko,Douala,Douala V,Boko,4.046202,9.785414,+237 694 097 173,mangaboko@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0101,Officine Mvé de PK14,Douala,Douala V,PK14,4.031511,9.622253,+237 650 074 343,mvépk14@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0102,Officine Abega de Ndogbong,Douala,Douala VI,Ndogbong,4.113132,9.693547,+237 695 404 568,abegandogbong@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0103,Pharmacie de Melen,Yaoundé,Yaoundé III,Melen,3.876661,11.501325,+237 651 371 486,melen@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0104,Pharmacie Camille Cité des Palmiers,Douala,Douala II,Cité des Palmiers,4.061287,9.637971,+237 654 058 534,camilcitédespa@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0105,Pharmacie de Nkol-Eton,Yaoundé,Yaoundé I,Nkol-Eton,3.777536,11.520144,+237 650 140 382,nkol-eton@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0106,Pharmacie Jeanne Japoma,Douala,Douala IV,Japoma,4.047497,9.67067,+237 693 515 472,jeannejapoma@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0107,Pharmacie Marie Ndokoti,Douala,Douala III,Ndokoti,4.021368,9.720223,+237 678 735 194,mariendokoti@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0108,Pharmacie Marc Ndokoti,Douala,Douala IV,Ndokoti,4.060312,9.752327,+237 243 737 767,marcndokoti@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Non
+PHA0109,Pharmacie de Nzeng-Ayong,Douala,Douala I,Nzeng-Ayong,4.08894,9.738489,+237 653 794 127,nzeng-ayong@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0110,Officine Nkeng de Cité Verte,Yaoundé,Yaoundé VII,Cité Verte,3.92844,11.525346,+237 653 404 484,nkengcitéverte@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Non
+PHA0111,Pharmacie de Messa,Yaoundé,Yaoundé III,Messa,3.815123,11.564104,+237 696 749 041,messa@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Oui
+PHA0112,Officine Hamadou de PK10,Douala,Douala II,PK10,3.980995,9.681233,+237 696 256 211,hamadoupk10@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Non
+PHA0113,Officine Wamba de Bassa,Douala,Douala I,Bassa,4.03487,9.689288,+237 242 628 935,wambabassa@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0114,Pharmacie Thérèse PK17,Douala,Douala I,PK17,4.056182,9.677994,+237 697 303 183,thérèsepk17@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0115,Pharmacie Jean Bonanjo,Douala,Douala III,Bonanjo,4.003433,9.691599,+237 242 217 306,jeanbonanjo@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Oui
+PHA0116,Officine Belinga de Ndog-Passi III,Douala,Douala IV,Ndog-Passi III,4.01875,9.785325,+237 678 776 950,belingandog-pa@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Oui,Non,Non
+PHA0117,Pharmacie Nlend,Yaoundé,Yaoundé VI,Mvog-Mbi,3.780833,11.506014,+237 233 189 658,nlend@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0118,Pharmacie de Mvog-Beti,Yaoundé,Yaoundé VI,Mvog-Beti,3.853594,11.611791,+237 679 697 054,mvog-beti@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0119,Pharmacie Bruno Ngoa-Ekélé,Yaoundé,Yaoundé VII,Ngoa-Ekélé,3.879042,11.476171,+237 677 640 742,brunongoa-ekél@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0120,Officine Mbarga de Bepanda,Douala,Douala II,Bepanda,4.04793,9.703359,+237 652 164 418,mbargabepanda@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0121,Pharmacie Augustin Simbock,Yaoundé,Yaoundé IV,Simbock,3.880052,11.483693,+237 650 932 546,augustinsimboc@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Oui,Non,Non
+PHA0122,Officine Zang de Biyem-Assi,Yaoundé,Yaoundé VII,Biyem-Assi,3.815663,11.568951,+237 694 220 214,zangbiyem-assi@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0123,Pharmacie Saint-Augustin,Yaoundé,Yaoundé IV,Omnisports,3.777109,11.470952,+237 233 535 840,augustin@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0124,Officine Tchoupo de Omnisports,Yaoundé,Yaoundé III,Omnisports,3.882749,11.433069,+237 694 238 639,tchoupoomnispo@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0125,Pharmacie Pierre PK17,Douala,Douala I,PK17,4.09394,9.751935,+237 243 738 371,pierrepk17@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0126,Pharmacie de Boko,Douala,Douala V,Boko,4.05159,9.778892,+237 222 443 043,boko@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0127,Pharmacie Engoulou,Yaoundé,Yaoundé IV,Etoudi,3.817788,11.508544,+237 699 252 282,engoulou@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0128,Officine Onana de Tsinga,Yaoundé,Yaoundé VI,Tsinga,3.843704,11.570366,+237 692 732 417,onanatsinga@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Oui,Oui,Non
+PHA0129,Pharmacie Jeanne PK17,Douala,Douala III,PK17,4.029747,9.766954,+237 654 976 511,jeannepk17@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Oui,Oui,Non
+PHA0130,Pharmacie Saint-Gabriel,Yaoundé,Yaoundé III,Santa Barbara,3.782687,11.460998,+237 655 645 219,gabriel@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0131,Officine Mvogo de Nkoldongo,Yaoundé,Yaoundé VII,Nkoldongo,3.945129,11.486224,+237 653 940 148,mvogonkoldongo@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0132,Officine Zang de Boko,Douala,Douala V,Boko,4.082531,9.788088,+237 692 813 948,zangboko@sante.cm,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0133,Pharmacie François Ndoghem,Douala,Douala IV,Ndoghem,4.054399,9.7047,+237 242 628 103,françoisndoghe@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0134,Pharmacie du Nzeng-Ayong,Douala,Douala IV,Nzeng-Ayong,4.064447,9.682496,+237 690 127 760,nzeng-ayong@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0135,Officine Nkoa de Bonapriso,Douala,Douala III,Bonapriso,4.051364,9.687879,+237 691 624 986,nkoabonapriso@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0136,Pharmacie Fotso,Yaoundé,Yaoundé VI,Briqueterie,3.811564,11.40587,+237 651 803 856,fotso@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0137,Officine Fotso de Village,Douala,Douala V,Village,4.027903,9.788199,+237 678 973 786,fotsovillage@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Oui
+PHA0138,Pharmacie Joseph Bonaloka,Douala,Douala III,Bonaloka,4.109571,9.659993,+237 243 198 027,josephbonaloka@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0139,Officine Onana de Nsam,Yaoundé,Yaoundé I,Nsam,3.917501,11.586503,+237 692 546 061,onanansam@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Non
+PHA0140,Pharmacie Saint-Anne,Yaoundé,Yaoundé II,Mokolo,3.868198,11.509569,+237 693 347 159,anne@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0141,Pharmacie de la Harmonie,Yaoundé,Yaoundé VI,Santa Barbara,3.925336,11.557921,+237 651 168 160,harmonie@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Oui
+PHA0142,Pharmacie du Koumassi,Douala,Douala VI,Koumassi,4.130731,9.696367,+237 655 300 739,koumassi@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0143,Pharmacie Paul Omnisports,Yaoundé,Yaoundé VII,Omnisports,3.926552,11.541053,+237 652 027 844,paulomnisports@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Non
+PHA0144,Pharmacie Bernadette Nlongkak,Yaoundé,Yaoundé IV,Nlongkak,3.866507,11.440323,+237 655 617 845,bernadettenlon@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0145,Officine Tabi de Bassa,Douala,Douala IV,Bassa,4.010061,9.656446,+237 679 420 392,tabibassa@hotmail.com,Oui,Nuit,20h00 — 08h00,Oui,Non,Non
+PHA0146,Pharmacie Saint-Félicité,Yaoundé,Yaoundé IV,Messa,3.745552,11.487932,+237 679 779 011,félicité@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0147,Pharmacie Monique Carrière,Yaoundé,Yaoundé IV,Carrière,3.814946,11.511835,+237 233 494 517,moniquecarrièr@yahoo.fr,Oui,Nuit,20h00 — 08h00,Oui,Non,Non
+PHA0148,Pharmacie Damien Ndokoti,Douala,Douala II,Ndokoti,4.057847,9.772782,+237 233 209 162,damienndokoti@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0149,Pharmacie Jean Ndokoti,Douala,Douala V,Ndokoti,4.061738,9.694386,+237 695 595 410,jeanndokoti@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Oui,Non,Oui
+PHA0150,Pharmacie Louis Ndoghem,Douala,Douala IV,Ndoghem,4.010119,9.75605,+237 691 120 957,louisndoghem@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0151,Officine Zang de Deido,Douala,Douala III,Deido,4.10533,9.69268,+237 222 875 980,zangdeido@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Oui
+PHA0152,Pharmacie Bruno Ndokoti,Douala,Douala V,Ndokoti,4.091134,9.743507,+237 243 910 774,brunondokoti@gmail.com,Oui,Nuit,20h00 — 08h00,Oui,Oui,Non
+PHA0153,Pharmacie du New Bell,Douala,Douala I,New Bell,3.975382,9.684467,+237 698 245 458,newbell@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0154,Officine Manga de Nkoabang,Yaoundé,Yaoundé I,Nkoabang,3.807782,11.532152,+237 651 257 038,mangankoabang@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0155,Officine Nkeng de Cité des Palmiers,Douala,Douala VI,Cité des Palmiers,4.092879,9.670137,+237 699 008 793,nkengcitédespa@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0156,Pharmacie Cécile Bonaloka,Douala,Douala II,Bonaloka,3.995517,9.682551,+237 654 290 150,cécibonaloka@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0157,Pharmacie du Odza,Yaoundé,Yaoundé III,Odza,3.818871,11.517897,+237 694 470 067,odza@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Oui
+PHA0158,Pharmacie Monique Japoma,Douala,Douala VI,Japoma,4.039472,9.723556,+237 650 283 754,moniquejapoma@pharmacie.cm,Non,Standard,Lun–Dim 08h00–20h00,Oui,Oui,Non
+PHA0159,Officine Essomba de Ndog-Passi III,Douala,Douala I,Ndog-Passi III,4.020028,9.672481,+237 694 130 088,essombandog-pa@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0160,Officine Fotso de Deido,Douala,Douala V,Deido,4.028673,9.644388,+237 697 540 984,fotsodeido@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0161,Officine Mvogo de Bessengue,Douala,Douala IV,Bessengue,4.055422,9.748914,+237 655 600 883,mvogobessengue@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0162,Officine Abega de Biyem-Assi,Yaoundé,Yaoundé VII,Biyem-Assi,3.773515,11.421352,+237 699 811 420,abegabiyem-ass@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Oui,Non,Non
+PHA0163,Officine Mvogo de Ndokoti,Douala,Douala III,Ndokoti,4.031503,9.738267,+237 692 399 221,mvogondokoti@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0164,Pharmacie Damien PK14,Douala,Douala III,PK14,4.030942,9.777456,+237 222 517 484,damienpk14@gmail.com,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Oui
+PHA0165,Pharmacie de Mvog-Ada,Yaoundé,Yaoundé IV,Mvog-Ada,3.842404,11.539477,+237 692 727 728,mvog-ada@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0166,Officine Nguele de PK14,Douala,Douala II,PK14,3.987747,9.74067,+237 694 923 495,nguepk14@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Oui
+PHA0167,Pharmacie de Mvan,Yaoundé,Yaoundé II,Mvan,3.79075,11.42743,+237 694 870 443,mvan@pharmacie.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0168,Pharmacie du Nkolmesseng,Yaoundé,Yaoundé III,Nkolmesseng,3.948909,11.464847,+237 652 972 616,nkolmesseng@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0169,Pharmacie Luc Bonapriso,Douala,Douala II,Bonapriso,4.009403,9.746984,+237 650 909 999,lucbonapriso@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0170,Pharmacie Joseph Nsam,Yaoundé,Yaoundé I,Nsam,3.906114,11.409872,+237 694 147 815,josephnsam@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0171,Pharmacie Camille PK12,Douala,Douala I,PK12,4.083364,9.748141,+237 696 725 528,camilpk12@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0172,Officine Onana de Madagascar,Yaoundé,Yaoundé VII,Madagascar,3.818748,11.553336,+237 697 806 887,onanamadagasca@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0173,Pharmacie Marc Bangue,Douala,Douala III,Bangue,4.013206,9.764826,+237 651 803 331,marcbangue@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0174,Officine Moussa de Bali,Douala,Douala II,Bali,4.094896,9.76027,+237 692 931 512,moussabali@yahoo.fr,Oui,Nuit,20h00 — 08h00,Oui,Non,Non
+PHA0175,Officine Ekani de Nzeng-Ayong,Douala,Douala VI,Nzeng-Ayong,4.089163,9.628453,+237 651 365 938,ekaninzeng-ayo@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0176,Officine Djoumbi de Bonaberi,Douala,Douala I,Bonaberi,4.010565,9.63506,+237 697 862 082,djoumbibonaber@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0177,Pharmacie Eba,Yaoundé,Yaoundé VII,Nlongkak,3.827089,11.403991,+237 222 428 965,eba@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0178,Pharmacie Ondoa,Yaoundé,Yaoundé III,Mvog-Atangana,3.85015,11.503989,+237 242 197 042,ondoa@sante.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0179,Officine Mbassi de Boko,Douala,Douala VI,Boko,4.094105,9.711121,+237 655 928 271,mbassiboko@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Non
+PHA0180,Pharmacie du Mvog-Beti,Yaoundé,Yaoundé VII,Mvog-Beti,3.875298,11.494936,+237 697 630 094,mvog-beti@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0181,Pharmacie Augustin Étoa-Meki,Yaoundé,Yaoundé I,Étoa-Meki,3.771298,11.56611,+237 698 323 183,augustinétoa-m@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Oui
+PHA0182,Pharmacie Gabriel Nzeng-Ayong,Douala,Douala I,Nzeng-Ayong,4.085707,9.641086,+237 692 956 547,gabrielnzeng-a@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Oui,Non,Oui
+PHA0183,Officine Moussa de Omnisports,Yaoundé,Yaoundé IV,Omnisports,3.927071,11.508608,+237 699 234 832,moussaomnispor@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0184,Officine Ekani de Ngousso,Yaoundé,Yaoundé VI,Ngousso,3.874205,11.539398,+237 699 079 758,ekaningousso@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0185,Pharmacie du Olembe,Yaoundé,Yaoundé II,Olembe,3.749687,11.457881,+237 690 065 521,olembe@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Oui
+PHA0186,Pharmacie Anne PK14,Douala,Douala III,PK14,4.065333,9.764878,+237 695 517 745,annepk14@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0187,Pharmacie Paul Cité Verte,Yaoundé,Yaoundé VI,Cité Verte,3.838072,11.526616,+237 651 971 574,paulcitéverte@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0188,Officine Ndjock de Bonanjo,Douala,Douala II,Bonanjo,4.126006,9.66276,+237 243 626 898,ndjockbonanjo@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0189,Pharmacie du Mvog-Atangana,Yaoundé,Yaoundé IV,Mvog-Atangana,3.864447,11.471776,+237 691 433 065,mvog-atangana@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Oui,Non,Non
+PHA0190,Pharmacie Joseph Ndog-Passi III,Douala,Douala III,Ndog-Passi III,3.99702,9.757648,+237 222 061 675,josephndog-pas@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0191,Officine Zang de Mboppi,Douala,Douala I,Mboppi,4.008898,9.666921,+237 650 240 894,zangmboppi@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0192,Officine Ngoa de PK17,Douala,Douala IV,PK17,4.01057,9.739809,+237 652 686 092,ngoapk17@gmail.com,Oui,Nuit,20h00 — 08h00,Oui,Non,Non
+PHA0193,Pharmacie Saint-Jeanne,Yaoundé,Yaoundé IV,Mvog-Atangana,3.943021,11.53418,+237 655 432 635,jeanne@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0194,Officine Nguele de Messa,Yaoundé,Yaoundé IV,Messa,3.793442,11.46344,+237 242 175 478,nguemessa@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Oui,Oui,Oui
+PHA0195,Pharmacie Patrick Village,Douala,Douala III,Village,4.09025,9.760271,+237 699 367 846,patrickvillage@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Non
+PHA0196,Officine Zang de Bonaberi,Douala,Douala IV,Bonaberi,4.134664,9.68398,+237 651 706 528,zangbonaberi@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Oui
+PHA0197,Pharmacie de Makepe,Douala,Douala VI,Makepe,4.11446,9.676958,+237 654 990 073,makepe@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0198,Officine Ndjock de Bastos,Yaoundé,Yaoundé II,Bastos,3.869226,11.575663,+237 690 384 875,ndjockbastos@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0199,Pharmacie Félicité PK8,Douala,Douala III,PK8,4.071782,9.651009,+237 222 879 705,félicitépk8@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0200,Pharmacie Marc Nyalla,Douala,Douala III,Nyalla,4.099687,9.700448,+237 695 160 862,marcnyalla@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0201,Pharmacie Saint-Luc,Yaoundé,Yaoundé IV,Cité Verte,3.887882,11.565242,+237 653 694 012,luc@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0202,Pharmacie Félicité Japoma,Douala,Douala VI,Japoma,4.002199,9.644908,+237 692 158 422,félicitéjapoma@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0203,Pharmacie Raphaël Nsam,Yaoundé,Yaoundé IV,Nsam,3.823145,11.481073,+237 650 299 064,raphaëlnsam@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0204,Pharmacie de Bepanda,Douala,Douala I,Bepanda,4.100875,9.689412,+237 652 835 660,bepanda@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0205,Pharmacie Élisabeth Makepe,Douala,Douala I,Makepe,4.113306,9.706104,+237 677 692 261,élisabethmakep@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Oui,Oui,Non
+PHA0206,Officine Kuitche de Djoungolo,Yaoundé,Yaoundé V,Djoungolo,3.760022,11.449369,+237 653 212 609,kuitchedjoungo@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0207,Pharmacie Bello,Yaoundé,Yaoundé I,Émana,3.850962,11.553767,+237 654 036 032,bello@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0208,Officine Manga de Bastos,Yaoundé,Yaoundé VI,Bastos,3.8367,11.418671,+237 243 563 466,mangabastos@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0209,Officine Kuitche de Bessengue,Douala,Douala V,Bessengue,3.973702,9.734724,+237 695 084 880,kuitchebesseng@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Non
+PHA0210,Pharmacie Louis Madagascar,Yaoundé,Yaoundé II,Madagascar,3.889565,11.551943,+237 695 451 739,louismadagasca@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0211,Pharmacie Luc Olembe,Yaoundé,Yaoundé I,Olembe,3.891222,11.481477,+237 678 709 813,lucolembe@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0212,Officine Ateba de Nyalla,Douala,Douala III,Nyalla,4.053128,9.794487,+237 691 214 011,atebanyalla@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Oui
+PHA0213,Officine Feudjio de Mvog-Beti,Yaoundé,Yaoundé VII,Mvog-Beti,3.834539,11.414615,+237 698 100 015,feudjiomvog-be@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0214,Officine Eba de Mokolo,Yaoundé,Yaoundé VI,Mokolo,3.88754,11.436692,+237 695 700 359,ebamokolo@sante.cm,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0215,Officine Djoumbi de PK10,Douala,Douala II,PK10,4.10201,9.780847,+237 694 757 233,djoumbipk10@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0216,Officine Eba de Efoulan,Yaoundé,Yaoundé VI,Efoulan,3.86771,11.519206,+237 693 266 394,ebaefoulan@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Oui
+PHA0217,Officine Mvogo de Mvog-Ada,Yaoundé,Yaoundé II,Mvog-Ada,3.872659,11.455829,+237 690 665 796,mvogomvog-ada@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0218,Pharmacie du Bonaberi,Douala,Douala V,Bonaberi,4.027687,9.673455,+237 650 858 085,bonaberi@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0219,Pharmacie Paul Bonaberi,Douala,Douala I,Bonaberi,4.136742,9.699461,+237 697 714 157,paulbonaberi@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Oui
+PHA0220,Pharmacie Anne Youpwé,Douala,Douala II,Youpwé,4.013219,9.656671,+237 651 409 874,anneyoupwé@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0221,Pharmacie André Bessengue,Douala,Douala VI,Bessengue,4.018013,9.638848,+237 655 718 664,andrébessengue@hotmail.com,Oui,Nuit,20h00 — 08h00,Oui,Oui,Non
+PHA0222,Pharmacie de Cité Verte,Yaoundé,Yaoundé IV,Cité Verte,3.83478,11.462542,+237 650 256 079,citéverte@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0223,Officine Mbassi de Ndokoti,Douala,Douala III,Ndokoti,4.089193,9.700345,+237 699 023 803,mbassindokoti@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0224,Officine Nlend de Melen,Yaoundé,Yaoundé II,Melen,3.791713,11.561319,+237 696 082 904,nlendmelen@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0225,Officine Biyiti de Messa,Yaoundé,Yaoundé I,Messa,3.78259,11.488962,+237 650 852 478,biyitimessa@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0226,Pharmacie du Nkol-Afeme,Yaoundé,Yaoundé VII,Nkol-Afeme,3.810288,11.559012,+237 655 382 930,nkol-afeme@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Oui,Non,Non
+PHA0227,Pharmacie François Etoudi,Yaoundé,Yaoundé V,Etoudi,3.8791,11.493088,+237 233 727 681,françoisetoudi@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0228,Officine Fotso de Ndogbong,Douala,Douala II,Ndogbong,4.026204,9.757118,+237 233 631 157,fotsondogbong@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0229,Officine Mvogo de Boko,Douala,Douala IV,Boko,4.112819,9.704796,+237 233 805 993,mvogoboko@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0230,Pharmacie du Boko,Douala,Douala II,Boko,4.069005,9.697441,+237 651 339 685,boko@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0231,Pharmacie Anne Nkongmondo,Douala,Douala III,Nkongmondo,4.002266,9.686753,+237 650 975 473,annenkongmondo@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0232,Pharmacie Monique Émana,Yaoundé,Yaoundé VI,Émana,3.803229,11.522601,+237 690 010 057,moniqueémana@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0233,Pharmacie Camille Deido,Douala,Douala V,Deido,4.115977,9.649204,+237 243 154 222,camildeido@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0234,Pharmacie de PK14,Douala,Douala III,PK14,4.045528,9.642701,+237 654 753 689,pk14@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0235,Officine Tabi de Obili,Yaoundé,Yaoundé VII,Obili,3.90478,11.489664,+237 222 169 109,tabiobili@gmail.com,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Oui
+PHA0236,Officine Simo de Santa Barbara,Yaoundé,Yaoundé VII,Santa Barbara,3.923775,11.539973,+237 233 376 381,simosantabarba@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0237,Pharmacie Anne Mvog-Beti,Yaoundé,Yaoundé II,Mvog-Beti,3.864082,11.597157,+237 652 423 530,annemvog-beti@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0238,Pharmacie du Efoulan,Yaoundé,Yaoundé VII,Efoulan,3.863099,11.586246,+237 692 675 854,efoulan@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0239,Officine Mvé de Nkolmesseng,Yaoundé,Yaoundé II,Nkolmesseng,3.949525,11.474396,+237 243 239 163,mvénkolmesseng@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Oui
+PHA0240,Officine Hamadou de Village,Douala,Douala II,Village,4.130804,9.740649,+237 694 691 533,hamadouvillage@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0241,Pharmacie Bernadette Bonanjo,Douala,Douala III,Bonanjo,4.044832,9.772747,+237 678 675 446,bernadettebona@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0242,Pharmacie Anne Bonamoussadi,Douala,Douala VI,Bonamoussadi,4.074802,9.747598,+237 693 496 212,annebonamoussa@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0243,Pharmacie Félicité Biteng,Yaoundé,Yaoundé VI,Biteng,3.832103,11.424993,+237 650 058 078,félicitébiteng@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0244,Pharmacie Augustin Bonaberi,Douala,Douala II,Bonaberi,4.004497,9.695654,+237 677 785 239,augustinbonabe@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0245,Pharmacie André Ndogpassi,Douala,Douala II,Ndogpassi,4.102342,9.712378,+237 698 205 655,andréndogpassi@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0246,Pharmacie de Mboppi,Douala,Douala III,Mboppi,4.002389,9.714928,+237 233 493 969,mboppi@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0247,Pharmacie de Briqueterie,Yaoundé,Yaoundé VII,Briqueterie,3.887207,11.442178,+237 699 601 605,briqueterie@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0248,Pharmacie Étienne Elig-Essono,Yaoundé,Yaoundé III,Elig-Essono,3.884426,11.526834,+237 699 993 259,étienneelig-es@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Non
+PHA0249,Pharmacie Damien Ndog-Bong,Douala,Douala III,Ndog-Bong,4.120119,9.762418,+237 696 791 996,damienndog-bon@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0250,Officine Ateba de Ndoghem,Douala,Douala IV,Ndoghem,4.027404,9.756828,+237 222 046 571,atebandoghem@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Non
+PHA0251,Pharmacie de Nyalla,Douala,Douala V,Nyalla,4.011456,9.776731,+237 242 598 623,nyalla@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0252,Pharmacie Nkoa,Yaoundé,Yaoundé III,Nkoabang,3.810175,11.50648,+237 691 798 513,nkoa@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Oui,Non,Non
+PHA0253,Pharmacie du Bali,Douala,Douala III,Bali,4.026145,9.657754,+237 691 261 065,bali@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0254,Officine Bello de Etoudi,Yaoundé,Yaoundé I,Etoudi,3.789245,11.567621,+237 695 066 430,belloetoudi@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Oui
+PHA0255,Officine Bikié de Ndogbong,Douala,Douala I,Ndogbong,4.039283,9.653794,+237 655 257 212,bikiéndogbong@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0256,Pharmacie du Cité Verte,Yaoundé,Yaoundé VII,Cité Verte,3.83347,11.574682,+237 651 901 386,citéverte@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0257,Officine Ondoa de Biteng,Yaoundé,Yaoundé I,Biteng,3.865056,11.609392,+237 655 305 933,ondoabiteng@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Oui
+PHA0258,Pharmacie Jeanne Mvog-Beti,Yaoundé,Yaoundé VII,Mvog-Beti,3.864804,11.418444,+237 692 960 379,jeannemvog-bet@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0259,Officine Fouda de Ndokoti,Douala,Douala III,Ndokoti,4.015464,9.767961,+237 650 697 130,foudandokoti@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0260,Pharmacie du Ndog-Passi III,Douala,Douala IV,Ndog-Passi III,4.043578,9.634963,+237 691 087 413,ndog-passiiii@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Non
+PHA0261,Officine Essomba de New Bell,Douala,Douala VI,New Bell,4.025231,9.674579,+237 242 222 908,essombanewbell@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0262,Pharmacie Onana,Yaoundé,Yaoundé I,Santa Barbara,3.829648,11.422234,+237 243 214 268,onana@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0263,Pharmacie Feudjio,Yaoundé,Yaoundé V,Mvog-Ada,3.778358,11.543277,+237 222 118 316,feudjio@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Oui
+PHA0264,Officine Mbassi de PK14,Douala,Douala II,PK14,4.077321,9.674488,+237 698 122 325,mbassipk14@yahoo.fr,Oui,Nuit,20h00 — 08h00,Oui,Non,Non
+PHA0265,Pharmacie du Simbock,Yaoundé,Yaoundé VII,Simbock,3.831149,11.454323,+237 695 124 250,simbock@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0266,Pharmacie Claire Santa Barbara,Yaoundé,Yaoundé VII,Santa Barbara,3.87478,11.537604,+237 678 492 362,clairesantabar@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Non
+PHA0267,Pharmacie de Ndogbong,Douala,Douala IV,Ndogbong,3.995217,9.775005,+237 690 135 570,ndogbong@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Non
+PHA0268,Pharmacie de Akwa,Douala,Douala IV,Akwa,4.014216,9.711173,+237 692 331 359,akwa@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0269,Officine Mbarga de PK14,Douala,Douala IV,PK14,3.97476,9.735105,+237 696 060 296,mbargapk14@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0270,Pharmacie Raphaël Nlongkak,Yaoundé,Yaoundé III,Nlongkak,3.809699,11.590626,+237 652 021 406,raphaëlnlongka@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Non
+PHA0271,Officine Onana de Mbanya,Douala,Douala II,Mbanya,4.094851,9.724428,+237 651 975 948,onanambanya@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0272,Pharmacie Cécile Bonaberi,Douala,Douala III,Bonaberi,4.006921,9.638589,+237 652 437 877,cécibonaberi@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0273,Pharmacie Dominique Kotto,Douala,Douala II,Kotto,4.103395,9.768903,+237 222 131 959,dominiquekotto@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0274,Pharmacie Louis Kotto,Douala,Douala I,Kotto,4.088039,9.777743,+237 691 700 962,louiskotto@yahoo.fr,Oui,Nuit,20h00 — 08h00,Oui,Non,Oui
+PHA0275,Officine Djoumbi de Bonapriso,Douala,Douala IV,Bonapriso,4.04004,9.688166,+237 692 291 670,djoumbibonapri@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0276,Pharmacie de Bangue,Douala,Douala VI,Bangue,3.996831,9.645489,+237 697 408 066,bangue@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Oui
+PHA0277,Officine Bello de Djoungolo,Yaoundé,Yaoundé VII,Djoungolo,3.847882,11.547513,+237 651 691 738,bellodjoungolo@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0278,Pharmacie Nguele,Yaoundé,Yaoundé III,Elig-Essono,3.832073,11.401082,+237 222 099 072,nguele@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0279,Officine Nlend de Bangue,Douala,Douala I,Bangue,4.020603,9.767226,+237 693 483 317,nlendbangue@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Oui,Non,Oui
+PHA0280,Pharmacie Saint-Étienne,Yaoundé,Yaoundé V,Ahala,3.844318,11.430943,+237 696 644 650,étienne@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Oui,Non,Non
+PHA0281,Officine Ndoumbe de Bonamoussadi,Douala,Douala VI,Bonamoussadi,4.065559,9.626798,+237 242 926 631,ndoumbebonamou@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0282,Officine Ondoa de Briqueterie,Yaoundé,Yaoundé II,Briqueterie,3.931195,11.523762,+237 691 548 312,ondoabriqueter@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0283,Pharmacie du Bassa,Douala,Douala III,Bassa,4.123061,9.754231,+237 650 582 259,bassa@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0284,Pharmacie Paul Bonapriso,Douala,Douala II,Bonapriso,4.094427,9.672239,+237 650 178 684,paulbonapriso@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0285,Pharmacie du Briqueterie,Yaoundé,Yaoundé VI,Briqueterie,3.760559,11.462122,+237 652 621 690,briqueterie@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0286,Pharmacie Augustin Nsam,Yaoundé,Yaoundé II,Nsam,3.93381,11.434501,+237 677 348 165,augustinnsam@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0287,Pharmacie Joseph Mokolo,Yaoundé,Yaoundé III,Mokolo,3.788846,11.511252,+237 233 975 983,josephmokolo@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Oui
+PHA0288,Officine Kamga de Mvog-Ada,Yaoundé,Yaoundé III,Mvog-Ada,3.882272,11.505682,+237 222 893 211,kamgamvog-ada@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0289,Officine Moussa de Boko,Douala,Douala IV,Boko,4.121324,9.663978,+237 695 709 977,moussaboko@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Non
+PHA0290,Pharmacie de la Lumière,Yaoundé,Yaoundé II,Bastos,3.829792,11.572928,+237 698 200 663,lumière@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Oui,Oui,Non
+PHA0291,Pharmacie Étienne Ndoghem,Douala,Douala I,Ndoghem,4.003532,9.712882,+237 653 928 917,étiennendoghem@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Oui
+PHA0292,Pharmacie Félicité Ndog-Passi III,Douala,Douala III,Ndog-Passi III,4.058919,9.72846,+237 696 922 744,féliciténdog-p@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0293,Officine Bello de Kotto,Douala,Douala I,Kotto,3.984133,9.763456,+237 651 500 707,bellokotto@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0294,Pharmacie de la Salut,Yaoundé,Yaoundé V,Nkoldongo,3.740873,11.504264,+237 678 748 781,salut@hotmail.com,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0295,Officine Elong de Émana,Yaoundé,Yaoundé II,Émana,3.839643,11.598376,+237 652 223 770,elongémana@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0296,Officine Belinga de Bonapriso,Douala,Douala III,Bonapriso,4.027444,9.713925,+237 233 820 825,belingabonapri@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0297,Pharmacie de Nkol-Afeme,Yaoundé,Yaoundé VI,Nkol-Afeme,3.934886,11.560527,+237 677 945 743,nkol-afeme@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0298,Pharmacie de Ngoa-Ekélé,Yaoundé,Yaoundé VII,Ngoa-Ekélé,3.763931,11.47352,+237 692 575 164,ngoa-ekélé@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0299,Pharmacie du Makepe,Douala,Douala IV,Makepe,4.071468,9.651654,+237 695 146 801,makepe@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Oui
+PHA0300,Pharmacie Dominique Ndogpassi,Douala,Douala V,Ndogpassi,4.039697,9.742055,+237 699 806 396,dominiquendogp@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0301,Officine Ndjock de Nkolmesseng,Yaoundé,Yaoundé V,Nkolmesseng,3.832764,11.533924,+237 652 330 969,ndjocknkolmess@sante.cm,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Non
+PHA0302,Officine Ndjock de Biteng,Yaoundé,Yaoundé VI,Biteng,3.880835,11.593393,+237 233 402 189,ndjockbiteng@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0303,Pharmacie Ekani,Yaoundé,Yaoundé IV,Santa Barbara,3.748297,11.480135,+237 694 530 921,ekani@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Non
+PHA0304,Pharmacie Luc Djoungolo,Yaoundé,Yaoundé III,Djoungolo,3.862102,11.395731,+237 679 238 115,lucdjoungolo@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0305,Pharmacie Marc Mendong,Yaoundé,Yaoundé VII,Mendong,3.91413,11.558504,+237 694 878 235,marcmendong@sante.cm,Non,Standard,Lun–Sam 08h00–18h30,Oui,Non,Oui
+PHA0306,Pharmacie Gabriel Nkol-Eton,Yaoundé,Yaoundé III,Nkol-Eton,3.859557,11.535885,+237 654 690 444,gabrielnkol-et@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0307,Pharmacie Damien Simbock,Yaoundé,Yaoundé III,Simbock,3.841628,11.604765,+237 691 472 292,damiensimbock@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0308,Pharmacie Augustin Djoungolo,Yaoundé,Yaoundé IV,Djoungolo,3.895366,11.468489,+237 652 979 615,augustindjoung@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Non
+PHA0309,Officine Mbassi de Etoudi,Yaoundé,Yaoundé VII,Etoudi,3.857281,11.398661,+237 698 254 811,mbassietoudi@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Oui,Oui,Oui
+PHA0310,Pharmacie Camille Sodiko,Douala,Douala II,Sodiko,3.999619,9.672689,+237 692 919 591,camilsodiko@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0311,Pharmacie Gabriel PK17,Douala,Douala IV,PK17,4.02674,9.683019,+237 243 060 338,gabrielpk17@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Non
+PHA0312,Officine Ateba de Ndokoti,Douala,Douala VI,Ndokoti,4.085079,9.743224,+237 652 708 364,atebandokoti@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Oui,Non,Oui
+PHA0313,Officine Engoulou de Bonaloka,Douala,Douala II,Bonaloka,4.085361,9.710623,+237 698 437 392,engouloubonalo@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0314,Pharmacie Bernadette Djoungolo,Yaoundé,Yaoundé VII,Djoungolo,3.820052,11.500746,+237 697 701 326,bernadettedjou@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0315,Pharmacie Belinga,Yaoundé,Yaoundé II,Madagascar,3.844805,11.577558,+237 678 216 279,belinga@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0316,Pharmacie Anne PK10,Douala,Douala IV,PK10,4.058305,9.655548,+237 243 248 097,annepk10@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0317,Pharmacie Élisabeth Mvog-Beti,Yaoundé,Yaoundé I,Mvog-Beti,3.869901,11.565087,+237 233 137 489,élisabethmvog-@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0318,Pharmacie Essomba,Yaoundé,Yaoundé II,Nkol-Eton,3.81778,11.551,+237 690 266 620,essomba@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0319,Officine Biyiti de Nkolbisson,Yaoundé,Yaoundé I,Nkolbisson,3.749527,11.477631,+237 677 654 306,biyitinkolbiss@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0320,Officine Zang de Nyalla,Douala,Douala V,Nyalla,4.008429,9.64639,+237 699 122 489,zangnyalla@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0321,Pharmacie Moussa,Yaoundé,Yaoundé IV,Omnisports,3.826503,11.588161,+237 694 467 239,moussa@pharmacie.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0322,Officine Biyiti de Japoma,Douala,Douala I,Japoma,4.046794,9.762441,+237 233 767 847,biyitijapoma@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Oui
+PHA0323,Officine Mvé de Simbock,Yaoundé,Yaoundé VII,Simbock,3.818509,11.564187,+237 651 342 920,mvésimbock@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Non
+PHA0324,Pharmacie Gabriel Bonaberi,Douala,Douala III,Bonaberi,4.02207,9.677317,+237 651 668 998,gabrielbonaber@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0325,Pharmacie Bruno Mvog-Mbi,Yaoundé,Yaoundé II,Mvog-Mbi,3.782383,11.472372,+237 679 864 347,brunomvog-mbi@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0326,Officine Ateba de Émana,Yaoundé,Yaoundé II,Émana,3.950875,11.495815,+237 695 777 963,atebaémana@gmail.com,Oui,Nuit,20h00 — 08h00,Oui,Non,Non
+PHA0327,Officine Fotso de Bonapriso,Douala,Douala V,Bonapriso,4.051277,9.649799,+237 243 343 630,fotsobonapriso@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Oui
+PHA0328,Pharmacie de Bessengue,Douala,Douala I,Bessengue,4.063465,9.735755,+237 677 209 174,bessengue@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0329,Officine Hamadou de Nzeng-Ayong,Douala,Douala VI,Nzeng-Ayong,4.084144,9.759454,+237 678 617 183,hamadounzeng-a@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0330,Officine Assamba de Nzeng-Ayong,Douala,Douala IV,Nzeng-Ayong,4.107676,9.707718,+237 699 508 296,assambanzeng-a@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Oui,Non,Non
+PHA0331,Pharmacie Saint-André,Yaoundé,Yaoundé I,Ngousso,3.854581,11.522256,+237 678 989 822,andré@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Non
+PHA0332,Pharmacie André Makepe,Douala,Douala III,Makepe,4.050124,9.638954,+237 654 406 478,andrémakepe@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Oui,Non,Non
+PHA0333,Pharmacie de la Confiance,Yaoundé,Yaoundé I,Ekounou,3.84177,11.601523,+237 696 070 700,confiance@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0334,Pharmacie du Mboppi,Douala,Douala I,Mboppi,3.994397,9.73279,+237 699 399 697,mboppi@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0335,Pharmacie du Mbanya,Douala,Douala V,Mbanya,4.04348,9.69684,+237 651 261 020,mbanya@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0336,Pharmacie Élisabeth Omnisports,Yaoundé,Yaoundé VII,Omnisports,3.79157,11.479409,+237 222 853 819,élisabethomnis@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0337,Officine Mvogo de Biyem-Assi,Yaoundé,Yaoundé IV,Biyem-Assi,3.888802,11.489845,+237 655 825 270,mvogobiyem-ass@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Non
+PHA0338,Pharmacie Étienne Bassa,Douala,Douala VI,Bassa,4.059795,9.712039,+237 695 386 862,étiennebassa@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0339,Pharmacie de la Vie,Yaoundé,Yaoundé VI,Mvog-Beti,3.925298,11.443766,+237 696 659 069,vie@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0340,Pharmacie Cécile Nyalla,Douala,Douala V,Nyalla,4.08438,9.651427,+237 697 895 812,cécinyalla@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0341,Officine Ekani de Kondengui,Yaoundé,Yaoundé VII,Kondengui,3.833365,11.461612,+237 697 986 797,ekanikondengui@sante.cm,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Oui
+PHA0342,Pharmacie du Mvog-Mbi,Yaoundé,Yaoundé IV,Mvog-Mbi,3.851106,11.501455,+237 651 938 149,mvog-mbi@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0343,Officine Tabi de Tsinga,Yaoundé,Yaoundé I,Tsinga,3.865424,11.598604,+237 679 783 892,tabitsinga@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0344,Pharmacie de Kondengui,Yaoundé,Yaoundé VI,Kondengui,3.827344,11.496503,+237 697 788 548,kondengui@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0345,Pharmacie Pierre Madagascar,Yaoundé,Yaoundé V,Madagascar,3.846162,11.540674,+237 654 756 519,pierremadagasc@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Oui
+PHA0346,Pharmacie Félicité PK12,Douala,Douala IV,PK12,4.045921,9.71122,+237 650 204 230,félicitépk12@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0347,Pharmacie de Nkomo,Yaoundé,Yaoundé I,Nkomo,3.766744,11.539407,+237 693 403 657,nkomo@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Oui
+PHA0348,Officine Tchoupo de Nkolmesseng,Yaoundé,Yaoundé II,Nkolmesseng,3.850412,11.502355,+237 693 107 738,tchouponkolmes@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Oui,Non,Non
+PHA0349,Pharmacie Joseph Cité des Palmiers,Douala,Douala V,Cité des Palmiers,4.119187,9.765327,+237 691 300 724,josephcitédesp@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Oui
+PHA0350,Pharmacie Mbassi,Yaoundé,Yaoundé VII,Obili,3.79776,11.53863,+237 650 586 174,mbassi@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0351,Pharmacie Thérèse Mboppi,Douala,Douala IV,Mboppi,4.129012,9.741599,+237 699 298 262,thérèsemboppi@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0352,Officine Bikié de Mvog-Beti,Yaoundé,Yaoundé IV,Mvog-Beti,3.799611,11.467447,+237 690 051 255,bikiémvog-beti@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0353,Officine Assamba de Ndoghem,Douala,Douala III,Ndoghem,4.087864,9.694425,+237 693 310 804,assambandoghem@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0354,Pharmacie du Carrière,Yaoundé,Yaoundé III,Carrière,3.936411,11.469782,+237 655 248 090,carrière@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0355,Pharmacie Dominique Mokolo,Yaoundé,Yaoundé I,Mokolo,3.86048,11.56301,+237 696 421 128,dominiquemokol@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Oui
+PHA0356,Officine Simo de Mendong,Yaoundé,Yaoundé IV,Mendong,3.760205,11.536537,+237 692 107 550,simomendong@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0357,Officine Mbarga de PK10,Douala,Douala II,PK10,3.983302,9.732717,+237 697 967 447,mbargapk10@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Non
+PHA0358,Officine Tabi de Mvan,Yaoundé,Yaoundé III,Mvan,3.805417,11.439802,+237 695 480 872,tabimvan@pharmacie.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0359,Pharmacie Jean Youpwé,Douala,Douala V,Youpwé,4.057101,9.793593,+237 698 119 321,jeanyoupwé@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0360,Officine Manga de Deido,Douala,Douala II,Deido,4.030117,9.681011,+237 233 693 771,mangadeido@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Non
+PHA0361,Pharmacie de Bastos,Yaoundé,Yaoundé I,Bastos,3.94331,11.521193,+237 697 281 108,bastos@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0362,Officine Abega de Bali,Douala,Douala I,Bali,4.015669,9.770948,+237 695 012 486,abegabali@gmail.com,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0363,Officine Eba de PK8,Douala,Douala VI,PK8,4.077358,9.633287,+237 696 533 261,ebapk8@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Non
+PHA0364,Officine Belinga de Obili,Yaoundé,Yaoundé VII,Obili,3.762451,11.448925,+237 655 967 962,belingaobili@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Oui
+PHA0365,Pharmacie André Bastos,Yaoundé,Yaoundé III,Bastos,3.907839,11.422403,+237 222 222 186,andrébastos@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0366,Officine Tabi de Mokolo,Yaoundé,Yaoundé II,Mokolo,3.885219,11.421146,+237 233 346 390,tabimokolo@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0367,Officine Owona de Bepanda,Douala,Douala VI,Bepanda,4.065972,9.70099,+237 696 644 342,owonabepanda@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0368,Pharmacie André Mbanya,Douala,Douala V,Mbanya,4.061625,9.75094,+237 654 745 724,andrémbanya@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Oui
+PHA0369,Officine Assamba de Nkol-Eton,Yaoundé,Yaoundé I,Nkol-Eton,3.848387,11.449748,+237 698 565 343,assambankol-et@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Non
+PHA0370,Officine Mbassi de Mboppi,Douala,Douala II,Mboppi,4.070995,9.651042,+237 678 211 698,mbassimboppi@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0371,Pharmacie de Mokolo,Yaoundé,Yaoundé V,Mokolo,3.85894,11.597951,+237 242 550 090,mokolo@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0372,Pharmacie Claire Sodiko,Douala,Douala VI,Sodiko,3.97242,9.746681,+237 699 708 415,clairesodiko@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0373,Pharmacie du Messa,Yaoundé,Yaoundé I,Messa,3.934953,11.454516,+237 653 846 120,messa@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0374,Officine Moussa de PK17,Douala,Douala II,PK17,4.029722,9.729173,+237 697 093 806,moussapk17@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Oui,Non,Oui
+PHA0375,Pharmacie du Bangue,Douala,Douala II,Bangue,4.031757,9.730269,+237 651 068 547,bangue@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0376,Pharmacie Augustin Bastos,Yaoundé,Yaoundé I,Bastos,3.792802,11.490019,+237 678 679 901,augustinbastos@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Non
+PHA0377,Officine Zang de Nkolmesseng,Yaoundé,Yaoundé I,Nkolmesseng,3.862103,11.437081,+237 652 009 770,zangnkolmessen@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Oui
+PHA0378,Pharmacie Monique PK14,Douala,Douala VI,PK14,4.068462,9.730144,+237 242 081 533,moniquepk14@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0379,Pharmacie Joseph Deido,Douala,Douala II,Deido,4.113447,9.667224,+237 233 832 005,josephdeido@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0380,Pharmacie Camille New Bell,Douala,Douala I,New Bell,4.11142,9.693664,+237 679 574 366,camilnewbell@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0381,Pharmacie Augustin Essos,Yaoundé,Yaoundé III,Essos,3.75041,11.509148,+237 692 437 733,augustinessos@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0382,Officine Nkeng de PK8,Douala,Douala IV,PK8,4.06196,9.676251,+237 697 623 875,nkengpk8@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0383,Officine Bikié de Obili,Yaoundé,Yaoundé VI,Obili,3.775823,11.58076,+237 679 913 591,bikiéobili@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0384,Pharmacie Anne Ekounou,Yaoundé,Yaoundé VII,Ekounou,3.852295,11.421066,+237 243 156 503,anneekounou@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0385,Officine Engoulou de PK10,Douala,Douala VI,PK10,4.088942,9.783752,+237 697 648 847,engouloupk10@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Oui,Non,Non
+PHA0386,Pharmacie Monique Santa Barbara,Yaoundé,Yaoundé V,Santa Barbara,3.883686,11.444294,+237 243 617 004,moniquesantaba@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0387,Officine Bello de Melen,Yaoundé,Yaoundé V,Melen,3.850492,11.4126,+237 652 099 911,bellomelen@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Oui
+PHA0388,Pharmacie du Nkongmondo,Douala,Douala V,Nkongmondo,4.071567,9.657226,+237 652 391 932,nkongmondo@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Oui
+PHA0389,Pharmacie Cyprien Bassa,Douala,Douala V,Bassa,4.013081,9.695481,+237 691 219 504,cyprienbassa@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Non
+PHA0390,Officine Mbassi de Japoma,Douala,Douala III,Japoma,4.048027,9.688502,+237 677 739 068,mbassijapoma@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0391,Pharmacie Étienne Ngoa-Ekélé,Yaoundé,Yaoundé VI,Ngoa-Ekélé,3.794812,11.596127,+237 691 650 249,étiennengoa-ek@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Oui
+PHA0392,Officine Ndjock de Carrière,Yaoundé,Yaoundé III,Carrière,3.823854,11.52918,+237 679 109 512,ndjockcarrière@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0393,Officine Bikié de Tsinga,Yaoundé,Yaoundé V,Tsinga,3.873291,11.447977,+237 696 380 651,bikiétsinga@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0394,Pharmacie Bruno Mendong,Yaoundé,Yaoundé I,Mendong,3.878212,11.585514,+237 222 140 643,brunomendong@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Oui,Non,Oui
+PHA0395,Pharmacie Saint-Élisabeth,Yaoundé,Yaoundé VII,Nkol-Afeme,3.90354,11.430043,+237 654 526 754,élisabeth@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0396,Pharmacie du Nsam,Yaoundé,Yaoundé VII,Nsam,3.855119,11.442209,+237 690 100 988,nsam@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0397,Pharmacie Simo,Yaoundé,Yaoundé VII,Nkoldongo,3.760373,11.483177,+237 695 345 462,simo@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Oui,Oui,Oui
+PHA0398,Officine Eba de Nyalla,Douala,Douala III,Nyalla,3.976118,9.737451,+237 690 765 161,ebanyalla@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0399,Officine Kuitche de Nkol-Eton,Yaoundé,Yaoundé II,Nkol-Eton,3.793952,11.43055,+237 697 926 151,kuitchenkol-et@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0400,Pharmacie du Santa Barbara,Yaoundé,Yaoundé I,Santa Barbara,3.934143,11.462993,+237 679 147 593,santabarbara@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0401,Officine Simo de Bali,Douala,Douala I,Bali,4.124449,9.714166,+237 696 572 417,simobali@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Non
+PHA0402,Officine Elong de Ndogbong,Douala,Douala I,Ndogbong,4.104038,9.755762,+237 679 363 848,elongndogbong@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Oui,Non,Oui
+PHA0403,Pharmacie de Ekounou,Yaoundé,Yaoundé II,Ekounou,3.89658,11.449906,+237 679 502 780,ekounou@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0404,Pharmacie Camille Nkongmondo,Douala,Douala I,Nkongmondo,4.048966,9.744794,+237 691 185 429,camilnkongmond@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0405,Officine Nkoa de Nkol-Afeme,Yaoundé,Yaoundé V,Nkol-Afeme,3.762928,11.516578,+237 679 903 624,nkoankol-afeme@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0406,Pharmacie du Ndogpassi,Douala,Douala V,Ndogpassi,4.114521,9.652394,+237 243 717 290,ndogpassi@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0407,Officine Nlend de Ngousso,Yaoundé,Yaoundé II,Ngousso,3.785985,11.507608,+237 654 865 151,nlendngousso@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0408,Pharmacie de Nkongmondo,Douala,Douala IV,Nkongmondo,4.127836,9.686523,+237 699 096 903,nkongmondo@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0409,Officine Moussa de Nkomo,Yaoundé,Yaoundé II,Nkomo,3.81815,11.589696,+237 233 315 734,moussankomo@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0410,Pharmacie Marc PK10,Douala,Douala VI,PK10,4.090698,9.741657,+237 243 323 332,marcpk10@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0411,Pharmacie Saint-Michel,Yaoundé,Yaoundé VI,Essos,3.816957,11.492996,+237 692 766 971,michel@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0412,Pharmacie Monique Bali,Douala,Douala I,Bali,4.035913,9.752711,+237 698 633 181,moniquebali@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0413,Pharmacie de PK8,Douala,Douala III,PK8,3.982053,9.652673,+237 698 530 608,pk8@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0414,Pharmacie Élisabeth Simbock,Yaoundé,Yaoundé V,Simbock,3.875145,11.600602,+237 693 425 797,élisabethsimbo@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Non
+PHA0415,Pharmacie Gabriel Nkongmondo,Douala,Douala IV,Nkongmondo,4.114654,9.735757,+237 679 278 675,gabrielnkongmo@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0416,Officine Biyiti de Odza,Yaoundé,Yaoundé VII,Odza,3.9039,11.458336,+237 222 540 477,biyitiodza@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0417,Pharmacie Anne Ndoghem,Douala,Douala III,Ndoghem,4.071503,9.630754,+237 690 888 509,annendoghem@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0418,Officine Eba de Briqueterie,Yaoundé,Yaoundé I,Briqueterie,3.895444,11.415446,+237 651 261 280,ebabriqueterie@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Oui,Non,Oui
+PHA0419,Pharmacie Jean Bonapriso,Douala,Douala VI,Bonapriso,4.066383,9.651736,+237 690 011 700,jeanbonapriso@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0420,Officine Biyiti de Mvog-Ada,Yaoundé,Yaoundé III,Mvog-Ada,3.815918,11.570167,+237 690 506 700,biyitimvog-ada@gmail.com,Oui,Nuit,20h00 — 08h00,Oui,Oui,Non
+PHA0421,Officine Onana de Kondengui,Yaoundé,Yaoundé II,Kondengui,3.808122,11.515627,+237 678 446 353,onanakondengui@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Oui,Non,Oui
+PHA0422,Officine Wamba de Djoungolo,Yaoundé,Yaoundé V,Djoungolo,3.859749,11.610652,+237 655 894 437,wambadjoungolo@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0423,Officine Belinga de Bali,Douala,Douala II,Bali,4.022569,9.677539,+237 697 998 052,belingabali@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0424,Pharmacie Monique Cité Verte,Yaoundé,Yaoundé III,Cité Verte,3.855812,11.42873,+237 698 578 906,moniquecitéver@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0425,Pharmacie Jean Ahala,Yaoundé,Yaoundé VI,Ahala,3.805822,11.564959,+237 690 488 005,jeanahala@gmail.com,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Non
+PHA0426,Pharmacie Étienne Ahala,Yaoundé,Yaoundé V,Ahala,3.93534,11.489358,+237 678 632 491,étienneahala@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0427,Pharmacie Joseph PK14,Douala,Douala I,PK14,4.112298,9.662467,+237 693 713 531,josephpk14@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0428,Officine Tchoupo de Simbock,Yaoundé,Yaoundé V,Simbock,3.815482,11.429513,+237 242 056 003,tchouposimbock@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0429,Officine Ateba de Nkongmondo,Douala,Douala V,Nkongmondo,4.011398,9.72383,+237 695 293 070,atebankongmond@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Oui,Non,Non
+PHA0430,Pharmacie du PK12,Douala,Douala II,PK12,4.043776,9.743659,+237 650 767 021,pk12@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0431,Pharmacie de Deido,Douala,Douala VI,Deido,4.119336,9.732345,+237 694 792 245,deido@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0432,Pharmacie Gabriel Mboppi,Douala,Douala V,Mboppi,4.007627,9.640456,+237 651 175 843,gabrielmboppi@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0433,Pharmacie André Bangue,Douala,Douala III,Bangue,4.097784,9.747798,+237 677 000 073,andrébangue@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Oui
+PHA0434,Pharmacie Claire Soboum,Douala,Douala I,Soboum,4.094973,9.736885,+237 655 038 999,clairesoboum@sante.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0435,Officine Abega de Bonanjo,Douala,Douala III,Bonanjo,4.050326,9.745858,+237 243 885 774,abegabonanjo@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0436,Pharmacie du Ndokoti,Douala,Douala V,Ndokoti,3.996494,9.728597,+237 242 992 210,ndokoti@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0437,Pharmacie du PK10,Douala,Douala III,PK10,3.969864,9.704501,+237 679 264 459,pk10@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0438,Pharmacie du Bonaloka,Douala,Douala III,Bonaloka,4.086371,9.742113,+237 698 960 711,bonaloka@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0439,Officine Assamba de New Bell,Douala,Douala VI,New Bell,4.066609,9.628528,+237 653 299 557,assambanewbell@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0440,Pharmacie de Bonaloka,Douala,Douala II,Bonaloka,4.120435,9.69828,+237 694 793 387,bonaloka@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Oui
+PHA0441,Pharmacie Cécile Nkol-Afeme,Yaoundé,Yaoundé II,Nkol-Afeme,3.926154,11.455947,+237 692 080 958,cécinkol-afeme@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0442,Officine Mbarga de Ngoa-Ekélé,Yaoundé,Yaoundé III,Ngoa-Ekélé,3.82182,11.493827,+237 652 039 121,mbargangoa-eké@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0443,Pharmacie de Ndoghem,Douala,Douala II,Ndoghem,4.019928,9.736104,+237 691 678 633,ndoghem@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Oui
+PHA0444,Pharmacie du Akwa,Douala,Douala III,Akwa,4.083042,9.651995,+237 243 336 524,akwa@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Oui,Non,Non
+PHA0445,Pharmacie Bruno Madagascar,Yaoundé,Yaoundé V,Madagascar,3.853,11.599123,+237 678 827 792,brunomadagasca@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Non
+PHA0446,Pharmacie du Kotto,Douala,Douala II,Kotto,4.057412,9.732101,+237 691 575 821,kotto@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Oui
+PHA0447,Pharmacie Biyiti,Yaoundé,Yaoundé I,Simbock,3.890823,11.452044,+237 655 569 958,biyiti@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0448,Officine Nkeng de Bastos,Yaoundé,Yaoundé IV,Bastos,3.910762,11.573695,+237 690 318 014,nkengbastos@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0449,Pharmacie de Omnisports,Yaoundé,Yaoundé VI,Omnisports,3.907766,11.460818,+237 696 793 140,omnisports@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Non
+PHA0450,Pharmacie Marie Obili,Yaoundé,Yaoundé IV,Obili,3.82084,11.554402,+237 696 209 921,marieobili@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0451,Pharmacie Marc Nkoldongo,Yaoundé,Yaoundé VI,Nkoldongo,3.794878,11.450738,+237 650 586 650,marcnkoldongo@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0452,Pharmacie Zang,Yaoundé,Yaoundé V,Biteng,3.908144,11.512577,+237 242 598 366,zang@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0453,Pharmacie de Village,Douala,Douala VI,Village,4.09837,9.728951,+237 243 857 778,village@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0454,Pharmacie Mvogo,Yaoundé,Yaoundé VI,Omnisports,3.949189,11.498794,+237 678 467 636,mvogo@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0455,Pharmacie Louis Carrière,Yaoundé,Yaoundé II,Carrière,3.786003,11.565671,+237 654 103 758,louiscarrière@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0456,Pharmacie Saint-Dominique,Yaoundé,Yaoundé VII,Ekounou,3.935372,11.503028,+237 653 368 954,dominique@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0457,Pharmacie du Nkoabang,Yaoundé,Yaoundé I,Nkoabang,3.908828,11.486362,+237 695 206 360,nkoabang@hotmail.com,Oui,Nuit,20h00 — 08h00,Oui,Non,Non
+PHA0458,Officine Mvé de PK10,Douala,Douala V,PK10,4.102337,9.740526,+237 696 135 845,mvépk10@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0459,Officine Wamba de Bangue,Douala,Douala I,Bangue,4.098122,9.702196,+237 652 660 584,wambabangue@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0460,Pharmacie de la Grâce,Yaoundé,Yaoundé III,Ngoa-Ekélé,3.877031,11.432773,+237 699 128 236,grâce@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0461,Pharmacie Cécile Efoulan,Yaoundé,Yaoundé I,Efoulan,3.7844,11.499155,+237 654 086 398,céciefoulan@hotmail.com,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0462,Pharmacie Marie Nkomo,Yaoundé,Yaoundé V,Nkomo,3.889675,11.538291,+237 650 041 005,marienkomo@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0463,Pharmacie Cyprien PK14,Douala,Douala V,PK14,4.045795,9.6347,+237 692 806 255,cyprienpk14@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Oui
+PHA0464,Pharmacie Gabriel Biteng,Yaoundé,Yaoundé IV,Biteng,3.768075,11.505442,+237 696 429 753,gabrielbiteng@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0465,Pharmacie Gabriel Bonamoussadi,Douala,Douala IV,Bonamoussadi,4.105851,9.706164,+237 655 026 739,gabrielbonamou@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0466,Officine Ndjock de Koumassi,Douala,Douala II,Koumassi,4.096119,9.748702,+237 697 098 309,ndjockkoumassi@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Oui
+PHA0467,Officine Assamba de Olembe,Yaoundé,Yaoundé VII,Olembe,3.937186,11.478367,+237 233 308 328,assambaolembe@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Non
+PHA0468,Officine Mbarga de Odza,Yaoundé,Yaoundé I,Odza,3.911997,11.483898,+237 695 527 293,mbargaodza@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0469,Pharmacie Saint-Claire,Yaoundé,Yaoundé V,Nkoldongo,3.827948,11.395389,+237 650 269 070,claire@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0470,Pharmacie Bruno Carrière,Yaoundé,Yaoundé IV,Carrière,3.782771,11.432748,+237 654 465 048,brunocarrière@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0471,Pharmacie François Bonaloka,Douala,Douala VI,Bonaloka,4.017961,9.769535,+237 693 225 598,françoisbonalo@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0472,Pharmacie Raphaël Sodiko,Douala,Douala II,Sodiko,3.998352,9.702771,+237 697 120 083,raphaëlsodiko@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Oui
+PHA0473,Pharmacie Tabi,Yaoundé,Yaoundé I,Olembe,3.863149,11.597905,+237 233 029 525,tabi@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0474,Pharmacie Damien Akwa,Douala,Douala III,Akwa,4.108806,9.754645,+237 697 788 689,damienakwa@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Oui
+PHA0475,Officine Simo de Nkolbisson,Yaoundé,Yaoundé III,Nkolbisson,3.888279,11.462949,+237 654 301 726,simonkolbisson@gmail.com,Oui,Nuit,20h00 — 08h00,Oui,Non,Oui
+PHA0476,Officine Nguele de Nlongkak,Yaoundé,Yaoundé V,Nlongkak,3.919486,11.563496,+237 694 112 270,nguenlongkak@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0477,Pharmacie Saint-Cécile,Yaoundé,Yaoundé II,Odza,3.839513,11.463549,+237 678 927 760,cécile@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0478,Pharmacie Tchoupo,Yaoundé,Yaoundé I,Tsinga,3.907481,11.48969,+237 677 549 155,tchoupo@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0479,Officine Bello de Boko,Douala,Douala III,Boko,3.978367,9.734838,+237 654 367 497,belloboko@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Oui
+PHA0480,Officine Nkoa de Ndog-Passi III,Douala,Douala II,Ndog-Passi III,4.099866,9.755506,+237 650 803 701,nkoandog-passi@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0481,Officine Engoulou de Nyalla,Douala,Douala IV,Nyalla,3.971284,9.695608,+237 697 522 543,engoulounyalla@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0482,Pharmacie Gabriel Akwa,Douala,Douala IV,Akwa,4.052408,9.690065,+237 650 412 520,gabrielakwa@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Oui
+PHA0483,Pharmacie du Bonapriso,Douala,Douala I,Bonapriso,3.993209,9.655589,+237 695 920 603,bonapriso@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0484,Pharmacie Gabriel Bassa,Douala,Douala V,Bassa,4.072001,9.642844,+237 692 725 757,gabrielbassa@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0485,Officine Simo de Messa,Yaoundé,Yaoundé II,Messa,3.881575,11.474678,+237 653 815 216,simomessa@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0486,Pharmacie Mbarga,Yaoundé,Yaoundé VI,Essos,3.801492,11.45904,+237 694 692 541,mbarga@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0487,Pharmacie Patrick Bonaberi,Douala,Douala III,Bonaberi,4.018514,9.698357,+237 699 660 674,patrickbonaber@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0488,Officine Bikié de Kotto,Douala,Douala IV,Kotto,3.998468,9.7422,+237 690 780 528,bikiékotto@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0489,Pharmacie Marie Mimboman,Yaoundé,Yaoundé IV,Mimboman,3.85399,11.512574,+237 690 704 667,mariemimboman@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Non
+PHA0490,Officine Wamba de Sodiko,Douala,Douala VI,Sodiko,4.107464,9.691281,+237 653 701 416,wambasodiko@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0491,Officine Ondoa de Ndog-Bong,Douala,Douala VI,Ndog-Bong,3.980565,9.684844,+237 691 334 326,ondoandog-bong@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0492,Officine Nkeng de PK14,Douala,Douala I,PK14,4.079493,9.760714,+237 679 688 804,nkengpk14@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0493,Officine Essomba de Japoma,Douala,Douala IV,Japoma,4.128067,9.685365,+237 693 122 598,essombajapoma@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Oui,Oui,Non
+PHA0494,Pharmacie Gabriel Ndog-Passi III,Douala,Douala III,Ndog-Passi III,4.022307,9.681195,+237 243 374 767,gabrielndog-pa@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0495,Pharmacie Anne Bastos,Yaoundé,Yaoundé V,Bastos,3.939572,11.562432,+237 694 001 145,annebastos@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0496,Pharmacie Raphaël Simbock,Yaoundé,Yaoundé V,Simbock,3.934521,11.476569,+237 654 677 152,raphaëlsimbock@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0497,Pharmacie de Essos,Yaoundé,Yaoundé I,Essos,3.778454,11.498897,+237 654 452 018,essos@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Oui,Oui,Non
+PHA0498,Pharmacie Monique Bessengue,Douala,Douala IV,Bessengue,4.064552,9.626259,+237 654 924 772,moniquebesseng@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0499,Officine Tchoupo de Bonamoussadi,Douala,Douala I,Bonamoussadi,4.047511,9.632176,+237 653 908 692,tchoupobonamou@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Oui,Non,Non
+PHA0500,Officine Feudjio de Ndog-Bong,Douala,Douala II,Ndog-Bong,3.981598,9.686135,+237 233 008 679,feudjiondog-bo@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0501,Officine Nguele de Mbanya,Douala,Douala V,Mbanya,4.034868,9.753595,+237 654 733 601,nguembanya@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0502,Pharmacie de Etoudi,Yaoundé,Yaoundé V,Etoudi,3.889318,11.463226,+237 690 698 441,etoudi@sante.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0503,Pharmacie Patrick Biyem-Assi,Yaoundé,Yaoundé I,Biyem-Assi,3.942801,11.504603,+237 651 515 816,patrickbiyem-a@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Oui,Oui,Oui
+PHA0504,Pharmacie de la Bien-être,Yaoundé,Yaoundé VII,Olembe,3.791624,11.505367,+237 693 151 308,bien-être@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0505,Officine Nkoa de Ahala,Yaoundé,Yaoundé I,Ahala,3.829279,11.595348,+237 678 227 208,nkoaahala@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0506,Pharmacie de Bonapriso,Douala,Douala II,Bonapriso,4.012519,9.685112,+237 222 388 146,bonapriso@gmail.com,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Non
+PHA0507,Officine Tabi de Mimboman,Yaoundé,Yaoundé IV,Mimboman,3.854741,11.610226,+237 692 235 642,tabimimboman@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Non
+PHA0508,Officine Abega de Tsinga,Yaoundé,Yaoundé VII,Tsinga,3.825031,11.425005,+237 654 381 741,abegatsinga@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Oui
+PHA0509,Officine Elong de Mvog-Beti,Yaoundé,Yaoundé III,Mvog-Beti,3.814322,11.472237,+237 233 866 984,elongmvog-beti@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0510,Officine Bikié de Ndog-Passi III,Douala,Douala I,Ndog-Passi III,3.984889,9.707102,+237 677 813 217,bikiéndog-pass@sante.cm,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Non
+PHA0511,Officine Abega de Nlongkak,Yaoundé,Yaoundé VI,Nlongkak,3.905395,11.447759,+237 653 646 855,abeganlongkak@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0512,Officine Onana de Etoudi,Yaoundé,Yaoundé V,Etoudi,3.852555,11.522334,+237 693 060 273,onanaetoudi@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0513,Pharmacie Augustin Youpwé,Douala,Douala II,Youpwé,4.118936,9.656844,+237 696 112 948,augustinyoupwé@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0514,Pharmacie de Nkoabang,Yaoundé,Yaoundé IV,Nkoabang,3.847298,11.571973,+237 690 459 915,nkoabang@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Oui
+PHA0515,Officine Feudjio de Bassa,Douala,Douala III,Bassa,4.081112,9.664305,+237 650 890 470,feudjiobassa@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0516,Pharmacie François Mimboman,Yaoundé,Yaoundé VII,Mimboman,3.796491,11.410572,+237 654 340 555,françoismimbom@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0517,Officine Feudjio de Bali,Douala,Douala V,Bali,4.090462,9.777965,+237 696 300 177,feudjiobali@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0518,Officine Eba de Boko,Douala,Douala II,Boko,4.022138,9.788592,+237 654 107 216,ebaboko@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Oui
+PHA0519,Officine Djoumbi de Simbock,Yaoundé,Yaoundé I,Simbock,3.813449,11.550504,+237 651 025 013,djoumbisimbock@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0520,Pharmacie Pierre Efoulan,Yaoundé,Yaoundé VII,Efoulan,3.781247,11.453067,+237 692 293 883,pierreefoulan@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Oui,Oui,Non
+PHA0521,Pharmacie Gabriel Essos,Yaoundé,Yaoundé III,Essos,3.91549,11.455859,+237 243 435 920,gabrielessos@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Oui,Non,Non
+PHA0522,Officine Hamadou de Omnisports,Yaoundé,Yaoundé II,Omnisports,3.778097,11.42786,+237 678 159 973,hamadouomnispo@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0523,Pharmacie Joseph PK8,Douala,Douala VI,PK8,3.981033,9.686377,+237 699 181 978,josephpk8@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0524,Pharmacie Marie Soboum,Douala,Douala II,Soboum,3.971802,9.667694,+237 699 599 221,mariesoboum@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0525,Pharmacie François Bassa,Douala,Douala VI,Bassa,4.026157,9.718476,+237 691 156 592,françoisbassa@sante.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0526,Pharmacie Claire Boko,Douala,Douala III,Boko,4.120028,9.686384,+237 695 711 612,claireboko@sante.cm,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Non
+PHA0527,Officine Nlend de Santa Barbara,Yaoundé,Yaoundé VII,Santa Barbara,3.846202,11.434936,+237 697 017 535,nlendsantabarb@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Oui
+PHA0528,Pharmacie Dominique Japoma,Douala,Douala VI,Japoma,4.075239,9.667071,+237 222 747 701,dominiquejapom@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0529,Pharmacie de Ahala,Yaoundé,Yaoundé I,Ahala,3.930771,11.517964,+237 690 210 546,ahala@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Oui,Oui,Non
+PHA0530,Pharmacie Cyprien PK8,Douala,Douala I,PK8,4.133134,9.719296,+237 242 372 978,cyprienpk8@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0531,Pharmacie Bruno PK8,Douala,Douala V,PK8,4.1049,9.767452,+237 693 264 862,brunopk8@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Oui,Non,Oui
+PHA0532,Pharmacie de la Secours,Yaoundé,Yaoundé V,Messa,3.88919,11.5173,+237 697 174 911,secours@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0533,Pharmacie Patrick Bonamoussadi,Douala,Douala VI,Bonamoussadi,4.023498,9.63679,+237 650 040 924,patrickbonamou@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0534,Officine Kamga de Nkoabang,Yaoundé,Yaoundé IV,Nkoabang,3.914047,11.48453,+237 694 039 360,kamgankoabang@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0535,Pharmacie du Bessengue,Douala,Douala II,Bessengue,4.106487,9.65591,+237 690 124 939,bessengue@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Oui,Non,Non
+PHA0536,Pharmacie de Elig-Essono,Yaoundé,Yaoundé VI,Elig-Essono,3.860888,11.577944,+237 652 099 453,elig-essono@hotmail.com,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0537,Officine Kuitche de Bonaberi,Douala,Douala III,Bonaberi,4.005137,9.637489,+237 696 664 453,kuitchebonaber@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0538,Pharmacie du Ndogbong,Douala,Douala IV,Ndogbong,3.993285,9.707937,+237 650 079 949,ndogbong@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0539,Pharmacie Raphaël Ndogbong,Douala,Douala I,Ndogbong,4.101806,9.750429,+237 654 605 529,raphaëlndogbon@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Oui
+PHA0540,Pharmacie Jeanne Bassa,Douala,Douala VI,Bassa,4.043621,9.635531,+237 651 979 291,jeannebassa@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0541,Pharmacie du Bonanjo,Douala,Douala IV,Bonanjo,4.066583,9.704743,+237 654 723 902,bonanjo@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0542,Officine Tabi de Melen,Yaoundé,Yaoundé VI,Melen,3.765134,11.483244,+237 694 497 680,tabimelen@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0543,Officine Belinga de Elig-Essono,Yaoundé,Yaoundé IV,Elig-Essono,3.94009,11.458317,+237 242 499 907,belingaelig-es@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Oui
+PHA0544,Officine Nkeng de Bonaloka,Douala,Douala V,Bonaloka,4.008125,9.710481,+237 233 725 423,nkengbonaloka@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0545,Pharmacie Thérèse Mbanya,Douala,Douala VI,Mbanya,4.108092,9.673809,+237 698 366 953,thérèsembanya@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Non
+PHA0546,Pharmacie Bernadette Village,Douala,Douala III,Village,4.017427,9.703711,+237 696 000 832,bernadettevill@yahoo.fr,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0547,Officine Ateba de Mboppi,Douala,Douala IV,Mboppi,4.046406,9.777846,+237 233 142 484,atebamboppi@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0548,Officine Tabi de Nlongkak,Yaoundé,Yaoundé I,Nlongkak,3.943912,11.452641,+237 690 622 774,tabinlongkak@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0549,Pharmacie Cécile Omnisports,Yaoundé,Yaoundé V,Omnisports,3.850697,11.594105,+237 222 534 463,céciomnisports@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0550,Officine Bikié de PK8,Douala,Douala I,PK8,4.120589,9.718315,+237 694 480 611,bikiépk8@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0551,Officine Simo de Ndokoti,Douala,Douala II,Ndokoti,3.991914,9.730879,+237 653 086 419,simondokoti@gmail.com,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Non
+PHA0552,Officine Bello de Ngoa-Ekélé,Yaoundé,Yaoundé II,Ngoa-Ekélé,3.794864,11.458073,+237 699 923 254,bellongoa-ekél@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0553,Pharmacie Saint-Thérèse,Yaoundé,Yaoundé VII,Ahala,3.752832,11.550351,+237 692 472 431,thérèse@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0554,Officine Engoulou de Bangue,Douala,Douala I,Bangue,4.025334,9.736702,+237 698 551 828,engouloubangue@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0555,Pharmacie Augustin Madagascar,Yaoundé,Yaoundé V,Madagascar,3.806309,11.460264,+237 697 460 421,augustinmadaga@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Oui
+PHA0556,Officine Simo de Bepanda,Douala,Douala IV,Bepanda,4.079997,9.725078,+237 692 920 796,simobepanda@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0557,Pharmacie Élisabeth Nkolbisson,Yaoundé,Yaoundé III,Nkolbisson,3.846842,11.424267,+237 655 206 399,élisabethnkolb@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0558,Officine Ndoumbe de PK17,Douala,Douala VI,PK17,3.968332,9.688047,+237 690 005 331,ndoumbepk17@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0559,Pharmacie Bernadette Bessengue,Douala,Douala VI,Bessengue,4.059513,9.643122,+237 242 615 543,bernadettebess@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Non
+PHA0560,Pharmacie Étienne Biyem-Assi,Yaoundé,Yaoundé VI,Biyem-Assi,3.809335,11.466602,+237 697 275 354,étiennebiyem-a@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Non
+PHA0561,Pharmacie de New Bell,Douala,Douala IV,New Bell,4.029849,9.655661,+237 654 839 399,newbell@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Oui
+PHA0562,Pharmacie Bruno Nkol-Afeme,Yaoundé,Yaoundé IV,Nkol-Afeme,3.75018,11.527842,+237 655 439 369,brunonkol-afem@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Non
+PHA0563,Officine Ateba de Ngousso,Yaoundé,Yaoundé VI,Ngousso,3.777908,11.450332,+237 653 870 807,atebangousso@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0564,Pharmacie Dominique Mvog-Mbi,Yaoundé,Yaoundé III,Mvog-Mbi,3.796323,11.418416,+237 694 261 031,dominiquemvog-@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0565,Pharmacie Thérèse PK12,Douala,Douala II,PK12,4.002148,9.708318,+237 696 105 435,thérèsepk12@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Non
+PHA0566,Pharmacie Raphaël Nkol-Afeme,Yaoundé,Yaoundé VII,Nkol-Afeme,3.854768,11.498202,+237 695 016 170,raphaëlnkol-af@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0567,Officine Bello de Bonaloka,Douala,Douala IV,Bonaloka,4.085317,9.720336,+237 651 472 677,bellobonaloka@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0568,Pharmacie de la Espoir,Yaoundé,Yaoundé V,Tsinga,3.905106,11.485444,+237 651 049 668,espoir@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Oui,Non,Oui
+PHA0569,Pharmacie de Émana,Yaoundé,Yaoundé VII,Émana,3.79957,11.542912,+237 652 113 879,émana@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0570,Pharmacie du Etoudi,Yaoundé,Yaoundé IV,Etoudi,3.810845,11.406049,+237 692 626 686,etoudi@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0571,Officine Moussa de Etoudi,Yaoundé,Yaoundé III,Etoudi,3.88146,11.501438,+237 650 529 148,moussaetoudi@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Oui
+PHA0572,Pharmacie Claire Mboppi,Douala,Douala V,Mboppi,4.056069,9.768087,+237 655 019 302,clairemboppi@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0573,Pharmacie Bruno New Bell,Douala,Douala II,New Bell,3.994132,9.733263,+237 654 961 685,brunonewbell@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0574,Pharmacie de Bali,Douala,Douala I,Bali,4.064268,9.706418,+237 243 381 560,bali@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0575,Officine Ngoa de Etoudi,Yaoundé,Yaoundé I,Etoudi,3.907756,11.548166,+237 695 739 760,ngoaetoudi@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0576,Pharmacie Damien Nkongmondo,Douala,Douala I,Nkongmondo,3.973104,9.698976,+237 691 025 028,damiennkongmon@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Oui
+PHA0577,Pharmacie Pierre Mbanya,Douala,Douala IV,Mbanya,4.045485,9.71646,+237 654 387 888,pierrembanya@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0578,Pharmacie Saint-François,Yaoundé,Yaoundé I,Nkoabang,3.796379,11.487686,+237 694 222 287,françois@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0579,Pharmacie François Bangue,Douala,Douala III,Bangue,4.100821,9.773966,+237 653 512 878,françoisbangue@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Oui
+PHA0580,Pharmacie Jeanne Ndog-Bong,Douala,Douala V,Ndog-Bong,3.969219,9.712317,+237 694 245 598,jeannendog-bon@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0581,Pharmacie Bernadette Koumassi,Douala,Douala III,Koumassi,3.977606,9.754516,+237 655 052 039,bernadettekoum@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0582,Pharmacie Louis Japoma,Douala,Douala I,Japoma,4.046113,9.621615,+237 692 145 672,louisjapoma@pharmacie.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0583,Officine Belinga de PK8,Douala,Douala III,PK8,3.973501,9.677519,+237 694 871 184,belingapk8@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0584,Pharmacie Gabriel Mvog-Atangana,Yaoundé,Yaoundé II,Mvog-Atangana,3.888326,11.417823,+237 695 604 893,gabrielmvog-at@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0585,Pharmacie Luc Nkomo,Yaoundé,Yaoundé II,Nkomo,3.816804,11.512689,+237 694 830 421,lucnkomo@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Oui
+PHA0586,Pharmacie du Madagascar,Yaoundé,Yaoundé IV,Madagascar,3.922082,11.500728,+237 691 779 383,madagascar@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0587,Pharmacie Damien PK12,Douala,Douala I,PK12,4.074623,9.752417,+237 654 960 262,damienpk12@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Oui,Non,Non
+PHA0588,Officine Djoumbi de Étoa-Meki,Yaoundé,Yaoundé I,Étoa-Meki,3.77476,11.431874,+237 677 209 960,djoumbiétoa-me@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0589,Pharmacie Saint-Bruno,Yaoundé,Yaoundé II,Nlongkak,3.769019,11.476822,+237 242 717 359,bruno@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0590,Officine Djoumbi de Ndog-Bong,Douala,Douala IV,Ndog-Bong,3.984105,9.689835,+237 653 255 970,djoumbindog-bo@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Oui,Oui,Non
+PHA0591,Pharmacie Bernadette Ndog-Passi III,Douala,Douala VI,Ndog-Passi III,4.03177,9.746596,+237 692 194 169,bernadettendog@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0592,Pharmacie du Ngousso,Yaoundé,Yaoundé V,Ngousso,3.914386,11.575474,+237 697 146 191,ngousso@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0593,Pharmacie de Mvog-Atangana,Yaoundé,Yaoundé V,Mvog-Atangana,3.777683,11.475554,+237 243 640 911,mvog-atangana@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Non
+PHA0594,Pharmacie de Madagascar,Yaoundé,Yaoundé VI,Madagascar,3.864274,11.450924,+237 233 516 984,madagascar@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0595,Officine Mbarga de Nkol-Eton,Yaoundé,Yaoundé IV,Nkol-Eton,3.806256,11.44336,+237 696 320 361,mbargankol-eto@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Oui
+PHA0596,Pharmacie de la Avenir,Yaoundé,Yaoundé VI,Biyem-Assi,3.792239,11.551696,+237 654 418 553,avenir@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0597,Pharmacie Damien Efoulan,Yaoundé,Yaoundé VII,Efoulan,3.846743,11.422505,+237 696 548 696,damienefoulan@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0598,Officine Feudjio de Nyalla,Douala,Douala III,Nyalla,4.036593,9.68272,+237 655 213 933,feudjionyalla@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Oui,Non,Non
+PHA0599,Officine Abega de Deido,Douala,Douala IV,Deido,4.076567,9.660381,+237 693 028 252,abegadeido@gmail.com,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0600,Pharmacie Cyprien Kotto,Douala,Douala IV,Kotto,3.983058,9.688756,+237 692 710 506,cyprienkotto@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0601,Officine Kuitche de Ngousso,Yaoundé,Yaoundé I,Ngousso,3.812186,11.533878,+237 679 089 472,kuitchengousso@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0602,Pharmacie Cécile Sodiko,Douala,Douala VI,Sodiko,4.048705,9.716672,+237 694 143 470,cécisodiko@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Oui
+PHA0603,Officine Fouda de Tsinga,Yaoundé,Yaoundé VI,Tsinga,3.944613,11.476691,+237 695 978 342,foudatsinga@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0604,Pharmacie Saint-Marc,Yaoundé,Yaoundé V,Mvog-Beti,3.779763,11.512903,+237 695 431 891,marc@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0605,Pharmacie Marie Ndogpassi,Douala,Douala III,Ndogpassi,4.065475,9.688553,+237 694 326 489,mariendogpassi@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0606,Officine Tabi de Ndoghem,Douala,Douala VI,Ndoghem,4.04052,9.675856,+237 691 709 522,tabindoghem@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0607,Pharmacie du Cité des Palmiers,Douala,Douala VI,Cité des Palmiers,4.124791,9.722572,+237 695 452 679,citédespalmier@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0608,Officine Essomba de Nkoldongo,Yaoundé,Yaoundé VI,Nkoldongo,3.839318,11.585441,+237 677 569 554,essombankoldon@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0609,Officine Mbarga de Essos,Yaoundé,Yaoundé V,Essos,3.944275,11.48475,+237 654 296 867,mbargaessos@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Oui,Oui,Non
+PHA0610,Officine Engoulou de Village,Douala,Douala IV,Village,4.093249,9.649533,+237 690 485 071,engoulouvillag@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Non
+PHA0611,Pharmacie du Mvog-Ada,Yaoundé,Yaoundé VI,Mvog-Ada,3.898914,11.539714,+237 652 013 879,mvog-ada@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0612,Officine Bello de Sodiko,Douala,Douala II,Sodiko,4.030765,9.794342,+237 653 535 041,bellosodiko@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Non
+PHA0613,Pharmacie Cécile Bonanjo,Douala,Douala V,Bonanjo,4.117705,9.667319,+237 222 048 299,cécibonanjo@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Oui
+PHA0614,Pharmacie Cécile Simbock,Yaoundé,Yaoundé VII,Simbock,3.833579,11.412468,+237 679 841 412,cécisimbock@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0615,Officine Bikié de Nkongmondo,Douala,Douala VI,Nkongmondo,4.067566,9.750862,+237 222 952 084,bikiénkongmond@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0616,Officine Mvogo de Mokolo,Yaoundé,Yaoundé IV,Mokolo,3.780094,11.542748,+237 698 847 065,mvogomokolo@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0617,Pharmacie de Bonanjo,Douala,Douala I,Bonanjo,4.014427,9.759852,+237 690 280 424,bonanjo@pharmacie.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0618,Pharmacie Marc Santa Barbara,Yaoundé,Yaoundé II,Santa Barbara,3.884893,11.574698,+237 655 139 179,marcsantabarba@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Non
+PHA0619,Officine Tabi de Essos,Yaoundé,Yaoundé IV,Essos,3.856209,11.414813,+237 690 419 656,tabiessos@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0620,Officine Ondoa de Bonamoussadi,Douala,Douala I,Bonamoussadi,4.087993,9.633463,+237 692 656 514,ondoabonamouss@sante.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0621,Pharmacie de Mbanya,Douala,Douala IV,Mbanya,4.007862,9.64016,+237 697 629 929,mbanya@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0622,Pharmacie Monique Makepe,Douala,Douala III,Makepe,4.094693,9.712227,+237 695 021 209,moniquemakepe@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0623,Officine Mvogo de Koumassi,Douala,Douala VI,Koumassi,4.085388,9.775148,+237 699 701 999,mvogokoumassi@sante.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0624,Pharmacie de Santa Barbara,Yaoundé,Yaoundé VI,Santa Barbara,3.798395,11.570916,+237 233 069 737,santabarbara@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0625,Officine Moussa de Bepanda,Douala,Douala IV,Bepanda,4.026769,9.784793,+237 652 264 956,moussabepanda@sante.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0626,Officine Ekani de Ekounou,Yaoundé,Yaoundé VII,Ekounou,3.871789,11.471661,+237 242 935 847,ekaniekounou@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0627,Pharmacie du Village,Douala,Douala II,Village,4.107903,9.644997,+237 694 226 848,village@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0628,Pharmacie du Japoma,Douala,Douala III,Japoma,4.032057,9.774973,+237 677 855 689,japoma@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0629,Pharmacie Michel Village,Douala,Douala III,Village,4.059952,9.744474,+237 243 952 720,michelvillage@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Oui
+PHA0630,Pharmacie Étienne Nlongkak,Yaoundé,Yaoundé V,Nlongkak,3.845171,11.430347,+237 692 630 372,étiennenlongka@hotmail.com,Oui,Nuit,20h00 — 08h00,Oui,Non,Oui
+PHA0631,Pharmacie Saint-Cyprien,Yaoundé,Yaoundé II,Messa,3.847509,11.450462,+237 655 684 585,cyprien@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0632,Pharmacie André Bonapriso,Douala,Douala IV,Bonapriso,4.030816,9.651792,+237 690 891 025,andrébonapriso@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Non
+PHA0633,Pharmacie Damien Nkol-Afeme,Yaoundé,Yaoundé II,Nkol-Afeme,3.918609,11.560049,+237 692 399 627,damiennkol-afe@hotmail.com,Oui,Nuit,20h00 — 08h00,Oui,Non,Oui
+PHA0634,Officine Mvogo de Nkolmesseng,Yaoundé,Yaoundé VI,Nkolmesseng,3.874695,11.531645,+237 651 802 023,mvogonkolmesse@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0635,Officine Ateba de Bonanjo,Douala,Douala III,Bonanjo,4.119589,9.755669,+237 679 874 645,atebabonanjo@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0636,Pharmacie Patrick PK10,Douala,Douala II,PK10,4.111184,9.667092,+237 697 001 307,patrickpk10@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0637,Officine Simo de Odza,Yaoundé,Yaoundé IV,Odza,3.793483,11.54113,+237 650 866 571,simoodza@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Oui,Non,Non
+PHA0638,Officine Belinga de New Bell,Douala,Douala III,New Bell,4.022517,9.746714,+237 692 023 141,belinganewbell@pharmacie.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Oui
+PHA0639,Officine Mbarga de Nkongmondo,Douala,Douala III,Nkongmondo,3.989401,9.664302,+237 694 622 298,mbargankongmon@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0640,Pharmacie Saint-Joseph,Yaoundé,Yaoundé I,Obili,3.794991,11.490719,+237 243 018 209,joseph@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0641,Pharmacie Louis Djoungolo,Yaoundé,Yaoundé VI,Djoungolo,3.854796,11.416658,+237 243 482 183,louisdjoungolo@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0642,Officine Ondoa de PK17,Douala,Douala IV,PK17,4.011233,9.737657,+237 678 323 843,ondoapk17@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Oui
+PHA0643,Officine Ngoa de Ngoa-Ekélé,Yaoundé,Yaoundé VII,Ngoa-Ekélé,3.944654,11.534068,+237 693 364 458,ngoangoa-ekélé@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0644,Pharmacie Louis Nkolbisson,Yaoundé,Yaoundé V,Nkolbisson,3.847987,11.535136,+237 695 782 408,louisnkolbisso@pharmacie.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0645,Officine Nlend de Bassa,Douala,Douala II,Bassa,4.092082,9.770971,+237 679 879 877,nlendbassa@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0646,Pharmacie de la Providence,Yaoundé,Yaoundé III,Mimboman,3.864239,11.510317,+237 678 130 787,providence@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0647,Pharmacie François Mokolo,Yaoundé,Yaoundé II,Mokolo,3.839654,11.563488,+237 697 004 638,françoismokolo@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Oui,Oui,Oui
+PHA0648,Pharmacie du PK8,Douala,Douala V,PK8,4.10413,9.652959,+237 653 966 944,pk8@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Non
+PHA0649,Pharmacie Bernadette Sodiko,Douala,Douala I,Sodiko,4.01726,9.716363,+237 654 054 661,bernadettesodi@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0650,Pharmacie Dominique Bessengue,Douala,Douala I,Bessengue,3.966793,9.738456,+237 222 440 631,dominiquebesse@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0651,Officine Onana de Ndog-Bong,Douala,Douala V,Ndog-Bong,4.045448,9.654321,+237 679 191 716,onanandog-bong@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Non
+PHA0652,Officine Nkoa de Elig-Essono,Yaoundé,Yaoundé IV,Elig-Essono,3.855966,11.435142,+237 691 437 454,nkoaelig-esson@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0653,Pharmacie Raphaël PK14,Douala,Douala III,PK14,4.004932,9.714169,+237 694 197 463,raphaëlpk14@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Oui
+PHA0654,Pharmacie de Ngousso,Yaoundé,Yaoundé V,Ngousso,3.877814,11.48095,+237 698 136 970,ngousso@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Oui,Non,Oui
+PHA0655,Pharmacie Thérèse Ndog-Bong,Douala,Douala VI,Ndog-Bong,3.970032,9.737836,+237 243 251 379,thérèsendog-bo@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0656,Officine Ngoa de Nkolbisson,Yaoundé,Yaoundé IV,Nkolbisson,3.800475,11.491804,+237 696 673 676,ngoankolbisson@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Oui,Non,Oui
+PHA0657,Pharmacie Bikié,Yaoundé,Yaoundé V,Omnisports,3.917151,11.548659,+237 699 502 182,bikié@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0658,Officine Fotso de Nkolbisson,Yaoundé,Yaoundé VII,Nkolbisson,3.839062,11.449299,+237 242 538 033,fotsonkolbisso@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0659,Pharmacie de Biteng,Yaoundé,Yaoundé VI,Biteng,3.866405,11.523764,+237 679 428 370,biteng@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0660,Pharmacie Bruno PK17,Douala,Douala IV,PK17,4.019789,9.685103,+237 242 839 164,brunopk17@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0661,Pharmacie Joseph Biyem-Assi,Yaoundé,Yaoundé V,Biyem-Assi,3.893668,11.596679,+237 697 819 657,josephbiyem-as@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0662,Pharmacie de Kotto,Douala,Douala I,Kotto,4.070777,9.766485,+237 699 010 658,kotto@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0663,Pharmacie Saint-Patrick,Yaoundé,Yaoundé VI,Émana,3.933085,11.543151,+237 695 696 836,patrick@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0664,Pharmacie Camille Nkol-Eton,Yaoundé,Yaoundé III,Nkol-Eton,3.803828,11.472207,+237 678 308 657,camilnkol-eton@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0665,Officine Mvé de Bessengue,Douala,Douala III,Bessengue,4.025245,9.664145,+237 694 433 937,mvébessengue@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0666,Pharmacie Pierre Elig-Essono,Yaoundé,Yaoundé VI,Elig-Essono,3.857883,11.43421,+237 693 771 094,pierreelig-ess@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0667,Pharmacie Félicité Odza,Yaoundé,Yaoundé V,Odza,3.834899,11.536143,+237 699 425 852,félicitéodza@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0668,Officine Ateba de Ahala,Yaoundé,Yaoundé VII,Ahala,3.793862,11.487908,+237 222 903 194,atebaahala@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Non
+PHA0669,Officine Ateba de PK17,Douala,Douala VI,PK17,4.02793,9.754592,+237 679 212 150,atebapk17@pharmacie.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0670,Officine Kuitche de Etoudi,Yaoundé,Yaoundé II,Etoudi,3.861109,11.517252,+237 655 142 114,kuitcheetoudi@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Oui
+PHA0671,Pharmacie Camille Bastos,Yaoundé,Yaoundé II,Bastos,3.814574,11.502621,+237 233 063 102,camilbastos@sante.cm,Non,Standard,Lun–Sam 08h00–18h30,Oui,Non,Non
+PHA0672,Officine Biyiti de Bonanjo,Douala,Douala VI,Bonanjo,4.069829,9.729942,+237 243 364 249,biyitibonanjo@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0673,Officine Moussa de Akwa,Douala,Douala II,Akwa,4.005526,9.777459,+237 677 269 708,moussaakwa@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0674,Officine Mvé de Kotto,Douala,Douala I,Kotto,4.046996,9.689987,+237 690 392 236,mvékotto@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Non
+PHA0675,Pharmacie Nkeng,Yaoundé,Yaoundé IV,Santa Barbara,3.788389,11.547037,+237 233 734 750,nkeng@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Oui
+PHA0676,Pharmacie Claire Elig-Essono,Yaoundé,Yaoundé I,Elig-Essono,3.858979,11.48429,+237 692 964 379,claireelig-ess@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Non
+PHA0677,Pharmacie de Mimboman,Yaoundé,Yaoundé III,Mimboman,3.841717,11.605188,+237 697 823 092,mimboman@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0678,Officine Mbassi de Djoungolo,Yaoundé,Yaoundé V,Djoungolo,3.748032,11.534057,+237 692 714 482,mbassidjoungol@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0679,Officine Eba de Bangue,Douala,Douala VI,Bangue,4.032925,9.636203,+237 654 833 568,ebabangue@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0680,Pharmacie Bruno Cité Verte,Yaoundé,Yaoundé III,Cité Verte,3.853615,11.571266,+237 655 675 495,brunocitéverte@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0681,Pharmacie de Carrière,Yaoundé,Yaoundé VI,Carrière,3.921161,11.448685,+237 652 669 784,carrière@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0682,Officine Elong de Mvog-Atangana,Yaoundé,Yaoundé I,Mvog-Atangana,3.765788,11.562165,+237 692 187 122,elongmvog-atan@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Oui,Non,Non
+PHA0683,Pharmacie Augustin Nkomo,Yaoundé,Yaoundé IV,Nkomo,3.936169,11.543109,+237 692 181 247,augustinnkomo@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0684,Pharmacie Cyprien Ngoa-Ekélé,Yaoundé,Yaoundé II,Ngoa-Ekélé,3.90558,11.556761,+237 677 918 183,cyprienngoa-ek@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0685,Pharmacie du PK14,Douala,Douala II,PK14,4.068427,9.657346,+237 652 718 754,pk14@pharmacie.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0686,Pharmacie de Odza,Yaoundé,Yaoundé I,Odza,3.940766,11.543184,+237 655 758 102,odza@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0687,Pharmacie de Ndog-Passi III,Douala,Douala V,Ndog-Passi III,4.047207,9.676517,+237 693 855 449,ndog-passiiii@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Oui,Oui,Non
+PHA0688,Pharmacie François Ndokoti,Douala,Douala IV,Ndokoti,4.138045,9.73126,+237 690 138 319,françoisndokot@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0689,Pharmacie Élisabeth Sodiko,Douala,Douala III,Sodiko,4.063944,9.724515,+237 655 747 807,élisabethsodik@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Oui
+PHA0690,Pharmacie de Soboum,Douala,Douala IV,Soboum,3.995921,9.681231,+237 691 826 520,soboum@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Oui,Oui,Oui
+PHA0691,Pharmacie André Mboppi,Douala,Douala VI,Mboppi,4.001961,9.71318,+237 242 042 433,andrémboppi@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0692,Pharmacie André Nkolmesseng,Yaoundé,Yaoundé VII,Nkolmesseng,3.945502,11.524007,+237 242 239 540,andrénkolmesse@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0693,Pharmacie Elong,Douala,Douala IV,PK14,3.999332,9.683304,+237 698 232 916,elong@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Oui
+PHA0694,Officine Bikié de Ngoa-Ekélé,Yaoundé,Yaoundé VI,Ngoa-Ekélé,3.786563,11.445555,+237 695 252 508,bikiéngoa-ekél@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Non
+PHA0695,Pharmacie Saint-Raphaël,Yaoundé,Yaoundé V,Biteng,3.79013,11.558804,+237 242 849 285,raphaël@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Oui,Oui,Non
+PHA0696,Officine Wamba de Ngoa-Ekélé,Yaoundé,Yaoundé II,Ngoa-Ekélé,3.802473,11.460354,+237 653 462 586,wambangoa-ekél@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0697,Officine Nlend de Bonapriso,Douala,Douala II,Bonapriso,4.081394,9.769929,+237 233 116 439,nlendbonapriso@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0698,Pharmacie de Biyem-Assi,Yaoundé,Yaoundé IV,Biyem-Assi,3.891073,11.43482,+237 679 083 695,biyem-assi@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0699,Officine Onana de Cité Verte,Yaoundé,Yaoundé V,Cité Verte,3.789643,11.520386,+237 243 539 044,onanacitéverte@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0700,Pharmacie Jean Mbanya,Douala,Douala IV,Mbanya,4.126334,9.704387,+237 679 135 578,jeanmbanya@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0701,Pharmacie Luc Melen,Yaoundé,Yaoundé IV,Melen,3.869871,11.466228,+237 243 316 648,lucmelen@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Oui,Non,Oui
+PHA0702,Officine Ndoumbe de Nkolbisson,Yaoundé,Yaoundé I,Nkolbisson,3.947361,11.488714,+237 243 064 003,ndoumbenkolbis@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0703,Officine Owona de Ngoa-Ekélé,Yaoundé,Yaoundé III,Ngoa-Ekélé,3.800159,11.522568,+237 677 841 963,owonangoa-ekél@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Non
+PHA0704,Pharmacie du Nkomo,Yaoundé,Yaoundé IV,Nkomo,3.810066,11.523116,+237 242 236 332,nkomo@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Oui
+PHA0705,Pharmacie Paul Kondengui,Yaoundé,Yaoundé II,Kondengui,3.834369,11.520158,+237 652 492 945,paulkondengui@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0706,Pharmacie Ndoumbe,Yaoundé,Yaoundé III,Nkomo,3.854208,11.483752,+237 233 390 831,ndoumbe@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0707,Pharmacie Gabriel Mendong,Yaoundé,Yaoundé III,Mendong,3.900335,11.45875,+237 691 887 180,gabrielmendong@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Oui
+PHA0708,Officine Tchoupo de PK12,Douala,Douala II,PK12,3.978477,9.672883,+237 692 410 666,tchoupopk12@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0709,Officine Tabi de Mboppi,Douala,Douala VI,Mboppi,4.104942,9.636636,+237 654 751 010,tabimboppi@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0710,Officine Assamba de Soboum,Douala,Douala II,Soboum,4.006696,9.775226,+237 654 187 605,assambasoboum@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Non
+PHA0711,Pharmacie Ateba,Yaoundé,Yaoundé V,Nkol-Eton,3.903199,11.474418,+237 697 492 162,ateba@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0712,Pharmacie Monique Bastos,Yaoundé,Yaoundé I,Bastos,3.786367,11.511671,+237 678 151 988,moniquebastos@pharmacie.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0713,Pharmacie Pierre Bessengue,Douala,Douala VI,Bessengue,4.098068,9.657866,+237 693 641 641,pierrebessengu@sante.cm,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Non
+PHA0714,Pharmacie du Nkol-Eton,Yaoundé,Yaoundé V,Nkol-Eton,3.864098,11.486134,+237 243 471 478,nkol-eton@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0715,Pharmacie Gabriel PK14,Douala,Douala V,PK14,4.092094,9.664277,+237 697 680 019,gabrielpk14@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Oui,Non,Non
+PHA0716,Pharmacie du Kondengui,Yaoundé,Yaoundé I,Kondengui,3.813946,11.461275,+237 678 530 008,kondengui@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Oui
+PHA0717,Officine Elong de Bonapriso,Douala,Douala V,Bonapriso,4.055786,9.721294,+237 652 410 171,elongbonapriso@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Oui,Oui,Oui
+PHA0718,Pharmacie Augustin Sodiko,Douala,Douala VI,Sodiko,3.981837,9.717637,+237 651 748 483,augustinsodiko@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0719,Pharmacie Raphaël Nkoabang,Yaoundé,Yaoundé V,Nkoabang,3.761763,11.495461,+237 696 236 789,raphaëlnkoaban@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Non
+PHA0720,Pharmacie Michel Ndog-Passi III,Douala,Douala VI,Ndog-Passi III,4.081387,9.698589,+237 698 628 220,michelndog-pas@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0721,Pharmacie Gabriel Bepanda,Douala,Douala IV,Bepanda,4.122132,9.660026,+237 652 269 046,gabrielbepanda@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Non
+PHA0722,Pharmacie Pierre Logbessou,Douala,Douala V,Logbessou,4.070368,9.778695,+237 677 165 431,pierrelogbesso@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0723,Officine Ndoumbe de Boko,Douala,Douala V,Boko,4.046288,9.704573,+237 699 565 003,ndoumbeboko@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0724,Pharmacie Augustin Ndog-Passi III,Douala,Douala I,Ndog-Passi III,3.973169,9.672139,+237 699 309 932,augustinndog-p@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0725,Pharmacie du Mendong,Yaoundé,Yaoundé IV,Mendong,3.87551,11.519135,+237 654 335 276,mendong@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0726,Officine Nkoa de Mbanya,Douala,Douala VI,Mbanya,4.116239,9.672129,+237 695 479 185,nkoambanya@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0727,Pharmacie Cécile PK8,Douala,Douala III,PK8,4.005541,9.63918,+237 691 386 111,cécipk8@sante.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0728,Officine Mvogo de Nkomo,Yaoundé,Yaoundé IV,Nkomo,3.763272,11.497119,+237 242 420 942,mvogonkomo@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Non
+PHA0729,Pharmacie Damien Mvog-Ada,Yaoundé,Yaoundé IV,Mvog-Ada,3.877293,11.40324,+237 693 939 903,damienmvog-ada@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0730,Pharmacie Bernadette Akwa,Douala,Douala IV,Akwa,4.021555,9.793398,+237 693 617 353,bernadetteakwa@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0731,Pharmacie Wamba,Yaoundé,Yaoundé II,Madagascar,3.752476,11.540402,+237 696 751 792,wamba@sante.cm,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Oui
+PHA0732,Pharmacie André Bassa,Douala,Douala IV,Bassa,3.977016,9.740803,+237 652 118 506,andrébassa@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0733,Officine Ndjock de Essos,Yaoundé,Yaoundé III,Essos,3.790795,11.45174,+237 651 717 747,ndjockessos@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0734,Officine Moussa de Bassa,Douala,Douala I,Bassa,4.0453,9.794039,+237 677 395 703,moussabassa@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0735,Pharmacie Jeanne Odza,Yaoundé,Yaoundé I,Odza,3.843848,11.485586,+237 654 752 865,jeanneodza@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0736,Pharmacie Bernadette Madagascar,Yaoundé,Yaoundé VII,Madagascar,3.843683,11.479121,+237 693 426 698,bernadettemada@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0737,Pharmacie Paul Ndogpassi,Douala,Douala IV,Ndogpassi,3.995866,9.650793,+237 679 769 389,paulndogpassi@sante.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0738,Officine Engoulou de Omnisports,Yaoundé,Yaoundé I,Omnisports,3.943751,11.450124,+237 691 003 886,engoulouomnisp@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Oui
+PHA0739,Pharmacie du Soboum,Douala,Douala V,Soboum,4.107039,9.707669,+237 691 835 406,soboum@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0740,Pharmacie Luc Nkongmondo,Douala,Douala II,Nkongmondo,4.029099,9.73919,+237 651 726 726,lucnkongmondo@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0741,Pharmacie de Simbock,Yaoundé,Yaoundé VI,Simbock,3.801388,11.559723,+237 652 708 793,simbock@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0742,Officine Nguele de Djoungolo,Yaoundé,Yaoundé IV,Djoungolo,3.811674,11.575401,+237 678 417 052,nguedjoungolo@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Oui
+PHA0743,Officine Belinga de Mokolo,Yaoundé,Yaoundé V,Mokolo,3.913736,11.585957,+237 655 641 034,belingamokolo@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Oui
+PHA0744,Officine Assamba de Bangue,Douala,Douala III,Bangue,3.990157,9.667317,+237 690 854 257,assambabangue@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0745,Pharmacie Cécile Kondengui,Yaoundé,Yaoundé II,Kondengui,3.77978,11.502657,+237 692 346 073,cécikondengui@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0746,Officine Eba de Odza,Yaoundé,Yaoundé VI,Odza,3.765954,11.561036,+237 690 309 011,ebaodza@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0747,Pharmacie Pierre Mvog-Beti,Yaoundé,Yaoundé V,Mvog-Beti,3.808329,11.571385,+237 695 482 409,pierremvog-bet@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Oui
+PHA0748,Officine Mvogo de Ngousso,Yaoundé,Yaoundé I,Ngousso,3.827944,11.514239,+237 694 937 409,mvogongousso@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0749,Pharmacie Camille Nkol-Afeme,Yaoundé,Yaoundé II,Nkol-Afeme,3.792648,11.544849,+237 655 511 070,camilnkol-afem@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0750,Officine Zang de Mvog-Mbi,Yaoundé,Yaoundé I,Mvog-Mbi,3.867644,11.599357,+237 697 549 765,zangmvog-mbi@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Oui,Non,Non
+PHA0751,Officine Ndoumbe de Cité Verte,Yaoundé,Yaoundé VII,Cité Verte,3.890484,11.502356,+237 233 732 199,ndoumbecitéver@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0752,Pharmacie Michel PK14,Douala,Douala II,PK14,4.033817,9.756952,+237 654 169 340,michelpk14@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0753,Officine Engoulou de Ndokoti,Douala,Douala VI,Ndokoti,4.061004,9.64685,+237 691 677 476,engouloundokot@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0754,Pharmacie du Bonamoussadi,Douala,Douala I,Bonamoussadi,3.99199,9.756207,+237 651 458 077,bonamoussadi@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0755,Pharmacie du Logbessou,Douala,Douala I,Logbessou,4.035135,9.622724,+237 243 619 682,logbessou@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0756,Pharmacie Joseph Bali,Douala,Douala V,Bali,4.039873,9.702443,+237 243 801 011,josephbali@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0757,Officine Elong de Nyalla,Douala,Douala IV,Nyalla,4.094092,9.758573,+237 233 539 866,elongnyalla@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Non
+PHA0758,Officine Fotso de Bessengue,Douala,Douala VI,Bessengue,4.088586,9.655344,+237 694 830 414,fotsobessengue@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0759,Pharmacie Paul Essos,Yaoundé,Yaoundé VII,Essos,3.892966,11.59421,+237 222 503 321,paulessos@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0760,Officine Mbarga de Madagascar,Yaoundé,Yaoundé II,Madagascar,3.800383,11.533749,+237 650 238 165,mbargamadagasc@yahoo.fr,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0761,Officine Nlend de Youpwé,Douala,Douala IV,Youpwé,4.083608,9.70139,+237 699 004 434,nlendyoupwé@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0762,Pharmacie Camille Bonaloka,Douala,Douala IV,Bonaloka,4.045739,9.780917,+237 655 563 622,camilbonaloka@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0763,Pharmacie de Olembe,Yaoundé,Yaoundé V,Olembe,3.935265,11.468664,+237 693 295 506,olembe@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0764,Pharmacie Marc Ndog-Passi III,Douala,Douala IV,Ndog-Passi III,4.084764,9.692041,+237 690 800 485,marcndog-passi@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Oui
+PHA0765,Pharmacie du Ekounou,Yaoundé,Yaoundé V,Ekounou,3.91257,11.461751,+237 677 305 109,ekounou@pharmacie.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0766,Officine Engoulou de Émana,Yaoundé,Yaoundé VII,Émana,3.760279,11.56298,+237 692 164 290,engoulouémana@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0767,Officine Ondoa de Japoma,Douala,Douala VI,Japoma,4.044996,9.666274,+237 653 782 422,ondoajapoma@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0768,Pharmacie Étienne Efoulan,Yaoundé,Yaoundé IV,Efoulan,3.793597,11.539496,+237 696 144 176,étienneefoulan@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0769,Officine Eba de Nsam,Yaoundé,Yaoundé V,Nsam,3.907879,11.48486,+237 653 848 819,ebansam@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0770,Officine Mbarga de Cité Verte,Yaoundé,Yaoundé VI,Cité Verte,3.862004,11.393777,+237 651 819 836,mbargacitévert@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0771,Pharmacie Jeanne New Bell,Douala,Douala IV,New Bell,4.036928,9.795996,+237 655 388 032,jeannenewbell@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Oui,Oui,Non
+PHA0772,Pharmacie Félicité Bessengue,Douala,Douala V,Bessengue,3.967686,9.693845,+237 233 250 052,félicitébessen@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Oui
+PHA0773,Pharmacie Kamga,Yaoundé,Yaoundé I,Bastos,3.82928,11.462072,+237 652 236 488,kamga@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Oui
+PHA0774,Pharmacie Ngoa,Yaoundé,Yaoundé III,Santa Barbara,3.925527,11.544846,+237 690 431 317,ngoa@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0775,Pharmacie de Nkolmesseng,Yaoundé,Yaoundé IV,Nkolmesseng,3.884214,11.514293,+237 691 559 911,nkolmesseng@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0776,Pharmacie de Ndog-Bong,Douala,Douala I,Ndog-Bong,3.987685,9.730255,+237 650 823 593,ndog-bong@gmail.com,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Non
+PHA0777,Officine Ondoa de Bonanjo,Douala,Douala II,Bonanjo,4.11199,9.653775,+237 242 465 243,ondoabonanjo@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Oui
+PHA0778,Pharmacie de Koumassi,Douala,Douala IV,Koumassi,4.058521,9.670184,+237 652 733 380,koumassi@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0779,Officine Bello de Cité Verte,Yaoundé,Yaoundé V,Cité Verte,3.932069,11.437946,+237 651 140 495,bellocitéverte@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Oui
+PHA0780,Pharmacie Raphaël Bali,Douala,Douala V,Bali,4.023086,9.672243,+237 690 923 327,raphaëlbali@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0781,Pharmacie Marc Cité Verte,Yaoundé,Yaoundé VII,Cité Verte,3.869239,11.529565,+237 694 326 556,marccitéverte@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0782,Officine Mvogo de Makepe,Douala,Douala III,Makepe,4.129981,9.745231,+237 652 661 948,mvogomakepe@hotmail.com,Oui,Nuit,20h00 — 08h00,Oui,Non,Non
+PHA0783,Pharmacie du Youpwé,Douala,Douala II,Youpwé,4.1058,9.662341,+237 696 916 910,youpwé@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Non
+PHA0784,Pharmacie Bruno Nkongmondo,Douala,Douala IV,Nkongmondo,4.043559,9.714895,+237 697 202 838,brunonkongmond@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Oui,Non,Non
+PHA0785,Officine Fotso de Olembe,Yaoundé,Yaoundé III,Olembe,3.93888,11.506104,+237 652 518 606,fotsoolembe@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0786,Pharmacie du Sodiko,Douala,Douala VI,Sodiko,4.030099,9.684119,+237 679 787 553,sodiko@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0787,Pharmacie du Étoa-Meki,Yaoundé,Yaoundé IV,Étoa-Meki,3.881277,11.549171,+237 243 151 927,étoa-meki@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0788,Officine Nguele de Tsinga,Yaoundé,Yaoundé V,Tsinga,3.753268,11.485185,+237 694 525 509,nguetsinga@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Non
+PHA0789,Pharmacie André Odza,Yaoundé,Yaoundé III,Odza,3.849096,11.559107,+237 677 035 787,andréodza@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Oui,Oui,Non
+PHA0790,Pharmacie Fouda,Yaoundé,Yaoundé I,Ngousso,3.763945,11.48298,+237 690 292 550,fouda@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0791,Pharmacie Bruno Youpwé,Douala,Douala II,Youpwé,4.123853,9.737709,+237 650 679 570,brunoyoupwé@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Oui
+PHA0792,Officine Nguele de Youpwé,Douala,Douala III,Youpwé,4.040692,9.666934,+237 678 055 456,ngueyoupwé@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0793,Officine Kuitche de Bali,Douala,Douala VI,Bali,3.996184,9.663122,+237 678 860 055,kuitchebali@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0794,Pharmacie Étienne Bonaberi,Douala,Douala II,Bonaberi,3.997762,9.716167,+237 696 032 772,étiennebonaber@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0795,Pharmacie Saint-Louis,Yaoundé,Yaoundé III,Ekounou,3.809495,11.512905,+237 692 632 445,louis@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0796,Pharmacie Élisabeth Bassa,Douala,Douala III,Bassa,4.07922,9.638649,+237 677 665 823,élisabethbassa@gmail.com,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Non
+PHA0797,Pharmacie du Bastos,Yaoundé,Yaoundé I,Bastos,3.859519,11.461613,+237 243 671 234,bastos@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Oui,Oui,Oui
+PHA0798,Pharmacie du Essos,Yaoundé,Yaoundé VII,Essos,3.907948,11.411591,+237 650 600 070,essos@hotmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0799,Pharmacie Augustin Nkol-Afeme,Yaoundé,Yaoundé VI,Nkol-Afeme,3.910763,11.50331,+237 678 663 205,augustinnkol-a@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Oui
+PHA0800,Pharmacie Paul PK14,Douala,Douala III,PK14,4.009356,9.65944,+237 655 610 787,paulpk14@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0801,Pharmacie du Obili,Yaoundé,Yaoundé VI,Obili,3.854363,11.610016,+237 651 269 242,obili@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0802,Pharmacie Cyprien Boko,Douala,Douala II,Boko,4.076509,9.779835,+237 677 598 925,cyprienboko@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0803,Pharmacie Marie Ndoghem,Douala,Douala V,Ndoghem,4.03937,9.793195,+237 655 027 354,mariendoghem@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Oui
+PHA0804,Pharmacie Jeanne Bonanjo,Douala,Douala IV,Bonanjo,4.123405,9.753163,+237 654 551 483,jeannebonanjo@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0805,Pharmacie Camille Bessengue,Douala,Douala II,Bessengue,4.127319,9.733304,+237 699 903 939,camilbessengue@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0806,Officine Mvé de Bonaloka,Douala,Douala VI,Bonaloka,3.972535,9.697018,+237 651 124 555,mvébonaloka@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Non
+PHA0807,Pharmacie Patrick PK12,Douala,Douala VI,PK12,4.032449,9.781074,+237 698 884 500,patrickpk12@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0808,Pharmacie Pierre Bassa,Douala,Douala IV,Bassa,4.024178,9.721504,+237 698 172 922,pierrebassa@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0809,Officine Elong de PK12,Douala,Douala I,PK12,3.984156,9.704494,+237 694 260 171,elongpk12@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0810,Pharmacie du Mokolo,Yaoundé,Yaoundé V,Mokolo,3.751081,11.523745,+237 691 187 132,mokolo@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0811,Pharmacie Marie Bonaloka,Douala,Douala VI,Bonaloka,4.061548,9.706168,+237 242 693 156,mariebonaloka@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0812,Officine Nguele de Bonanjo,Douala,Douala I,Bonanjo,4.055436,9.667317,+237 699 893 556,nguebonanjo@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0813,Officine Bello de Nyalla,Douala,Douala II,Nyalla,4.043723,9.781246,+237 695 100 324,bellonyalla@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Non
+PHA0814,Pharmacie Cyprien Essos,Yaoundé,Yaoundé I,Essos,3.839497,11.418194,+237 233 595 726,cyprienessos@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Oui
+PHA0815,Officine Feudjio de Akwa,Douala,Douala V,Akwa,4.074498,9.755231,+237 679 423 658,feudjioakwa@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Oui
+PHA0816,Pharmacie Abega,Yaoundé,Yaoundé VII,Efoulan,3.832709,11.550003,+237 654 764 761,abega@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0817,Officine Tabi de Akwa,Douala,Douala I,Akwa,4.063259,9.656893,+237 697 988 106,tabiakwa@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Non
+PHA0818,Officine Tabi de Nkoabang,Yaoundé,Yaoundé I,Nkoabang,3.795506,11.569974,+237 222 842 150,tabinkoabang@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0819,Officine Nguele de Mimboman,Yaoundé,Yaoundé IV,Mimboman,3.74829,11.511503,+237 233 084 499,nguemimboman@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0820,Pharmacie de Sodiko,Douala,Douala V,Sodiko,4.069666,9.749449,+237 692 044 078,sodiko@sante.cm,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Oui
+PHA0821,Officine Owona de Mbanya,Douala,Douala III,Mbanya,3.98237,9.721348,+237 677 522 696,owonambanya@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0822,Pharmacie François Ndogbong,Douala,Douala V,Ndogbong,4.058443,9.747551,+237 651 251 710,françoisndogbo@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Oui,Non,Non
+PHA0823,Pharmacie Camille PK17,Douala,Douala I,PK17,4.093121,9.662503,+237 651 366 464,camilpk17@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Oui
+PHA0824,Officine Ondoa de Ngoa-Ekélé,Yaoundé,Yaoundé III,Ngoa-Ekélé,3.826975,11.431408,+237 678 487 641,ondoangoa-ekél@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0825,Officine Tchoupo de Bonaloka,Douala,Douala VI,Bonaloka,4.007294,9.746972,+237 652 907 720,tchoupobonalok@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0826,Pharmacie du Nkoldongo,Yaoundé,Yaoundé VII,Nkoldongo,3.877282,11.418217,+237 222 985 234,nkoldongo@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0827,Pharmacie de la Progrès,Yaoundé,Yaoundé VI,Obili,3.899963,11.502044,+237 652 924 913,progrès@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Oui,Oui,Non
+PHA0828,Officine Nkeng de Ndoghem,Douala,Douala IV,Ndoghem,4.0529,9.734044,+237 650 282 392,nkengndoghem@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0829,Pharmacie Pierre Akwa,Douala,Douala II,Akwa,4.017829,9.730097,+237 696 490 384,pierreakwa@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0830,Pharmacie de Bassa,Douala,Douala I,Bassa,3.979953,9.704076,+237 679 743 909,bassa@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Oui
+PHA0831,Officine Ngoa de Melen,Yaoundé,Yaoundé III,Melen,3.769142,11.490915,+237 650 773 390,ngoamelen@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0832,Pharmacie Bruno Mbanya,Douala,Douala I,Mbanya,3.994928,9.757493,+237 655 811 038,brunombanya@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0833,Officine Feudjio de New Bell,Douala,Douala III,New Bell,4.022981,9.7217,+237 691 808 450,feudjionewbell@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0834,Officine Tchoupo de Deido,Douala,Douala VI,Deido,4.030977,9.697468,+237 691 581 794,tchoupodeido@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0835,Officine Bikié de Ndog-Bong,Douala,Douala VI,Ndog-Bong,4.092153,9.643742,+237 222 782 685,bikiéndog-bong@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0836,Pharmacie Michel Mboppi,Douala,Douala V,Mboppi,4.079339,9.632311,+237 242 145 438,michelmboppi@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0837,Pharmacie Jean Mvog-Beti,Yaoundé,Yaoundé I,Mvog-Beti,3.836585,11.40493,+237 695 345 064,jeanmvog-beti@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0838,Officine Ngoa de PK10,Douala,Douala VI,PK10,3.977999,9.705393,+237 695 378 683,ngoapk10@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0839,Officine Djoumbi de Kondengui,Yaoundé,Yaoundé III,Kondengui,3.871042,11.592282,+237 233 148 312,djoumbikondeng@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0840,Pharmacie Dominique Bonanjo,Douala,Douala VI,Bonanjo,3.974012,9.662814,+237 233 124 324,dominiquebonan@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Oui
+PHA0841,Pharmacie de Ndogpassi,Douala,Douala II,Ndogpassi,4.094584,9.713639,+237 653 474 018,ndogpassi@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Non
+PHA0842,Pharmacie Cyprien Ngousso,Yaoundé,Yaoundé VI,Ngousso,3.895132,11.407743,+237 222 428 932,cyprienngousso@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0843,Pharmacie André Essos,Yaoundé,Yaoundé II,Essos,3.86924,11.505894,+237 677 089 671,andréessos@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0844,Pharmacie de Bonaberi,Douala,Douala II,Bonaberi,3.984514,9.652243,+237 692 933 601,bonaberi@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0845,Pharmacie Michel Bessengue,Douala,Douala I,Bessengue,3.987004,9.655494,+237 652 310 645,michelbessengu@gmail.com,Oui,Nuit,20h00 — 08h00,Oui,Non,Non
+PHA0846,Pharmacie Bernadette Mendong,Yaoundé,Yaoundé III,Mendong,3.812273,11.581163,+237 691 343 262,bernadettemend@gmail.com,Oui,Nuit,20h00 — 08h00,Oui,Oui,Non
+PHA0847,Pharmacie Élisabeth Tsinga,Yaoundé,Yaoundé I,Tsinga,3.837977,11.500815,+237 679 726 004,élisabethtsing@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0848,Officine Elong de Bonamoussadi,Douala,Douala IV,Bonamoussadi,4.081361,9.782705,+237 692 612 384,elongbonamouss@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Oui
+PHA0849,Pharmacie de Obili,Yaoundé,Yaoundé I,Obili,3.768654,11.426637,+237 653 212 104,obili@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Non
+PHA0850,Pharmacie Marie Ahala,Yaoundé,Yaoundé V,Ahala,3.75143,11.518862,+237 222 476 447,marieahala@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0851,Pharmacie Damien Mvog-Atangana,Yaoundé,Yaoundé III,Mvog-Atangana,3.922101,11.579249,+237 697 447 170,damienmvog-ata@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0852,Pharmacie Ndjock,Yaoundé,Yaoundé VI,Mvan,3.843995,11.504361,+237 655 456 430,ndjock@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0853,Pharmacie Bernadette Soboum,Douala,Douala II,Soboum,4.07292,9.691555,+237 655 561 452,bernadettesobo@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Oui,Oui,Oui
+PHA0854,Officine Fouda de Ndog-Bong,Douala,Douala IV,Ndog-Bong,4.062515,9.650452,+237 698 319 306,foudandog-bong@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Oui
+PHA0855,Pharmacie du Nkolbisson,Yaoundé,Yaoundé IV,Nkolbisson,3.872883,11.499149,+237 679 225 092,nkolbisson@sante.cm,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0856,Officine Bikié de Briqueterie,Yaoundé,Yaoundé VI,Briqueterie,3.926552,11.554549,+237 650 348 430,bikiébriqueter@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0857,Pharmacie Marie Kotto,Douala,Douala VI,Kotto,4.051245,9.773347,+237 654 593 964,mariekotto@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Oui
+PHA0858,Officine Wamba de Ndogpassi,Douala,Douala VI,Ndogpassi,3.969327,9.741109,+237 694 936 749,wambandogpassi@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Oui
+PHA0859,Pharmacie Raphaël Ndokoti,Douala,Douala IV,Ndokoti,4.117187,9.679633,+237 698 583 692,raphaëlndokoti@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Non
+PHA0860,Pharmacie Claire Nlongkak,Yaoundé,Yaoundé III,Nlongkak,3.806915,11.514767,+237 222 304 606,clairenlongkak@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Non
+PHA0861,Officine Mbassi de Deido,Douala,Douala III,Deido,3.984277,9.6524,+237 678 493 826,mbassideido@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Oui
+PHA0862,Pharmacie François Nkoldongo,Yaoundé,Yaoundé II,Nkoldongo,3.80151,11.428908,+237 222 707 338,françoisnkoldo@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0863,Officine Belinga de Nlongkak,Yaoundé,Yaoundé VII,Nlongkak,3.820978,11.554153,+237 652 176 487,belinganlongka@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0864,Pharmacie Bernadette Ngoa-Ekélé,Yaoundé,Yaoundé VII,Ngoa-Ekélé,3.949316,11.504603,+237 692 208 159,bernadettengoa@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Non
+PHA0865,Pharmacie Bernadette Obili,Yaoundé,Yaoundé IV,Obili,3.817206,11.446514,+237 679 963 388,bernadetteobil@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0866,Officine Wamba de Mimboman,Yaoundé,Yaoundé I,Mimboman,3.845037,11.580137,+237 655 810 756,wambamimboman@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0867,Pharmacie Joseph Youpwé,Douala,Douala III,Youpwé,4.096174,9.637064,+237 697 058 825,josephyoupwé@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Non
+PHA0868,Pharmacie Marie Nlongkak,Yaoundé,Yaoundé II,Nlongkak,3.826042,11.407555,+237 695 202 217,marienlongkak@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0869,Officine Bello de Biteng,Yaoundé,Yaoundé I,Biteng,3.954571,11.517602,+237 694 896 460,bellobiteng@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0870,Pharmacie Patrick Mvog-Beti,Yaoundé,Yaoundé IV,Mvog-Beti,3.913171,11.447354,+237 222 975 894,patrickmvog-be@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0871,Officine Manga de Biteng,Yaoundé,Yaoundé V,Biteng,3.791567,11.498176,+237 651 962 090,mangabiteng@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0872,Pharmacie Damien Cité Verte,Yaoundé,Yaoundé III,Cité Verte,3.794883,11.455945,+237 655 721 295,damiencitévert@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0873,Pharmacie Étienne Mvog-Atangana,Yaoundé,Yaoundé IV,Mvog-Atangana,3.794933,11.484717,+237 652 612 121,étiennemvog-at@gmail.com,Oui,Permanente,24h/24 — 7j/7,Oui,Non,Oui
+PHA0874,Pharmacie Paul Bastos,Yaoundé,Yaoundé II,Bastos,3.876683,11.420624,+237 694 824 946,paulbastos@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0875,Officine Zang de Nkoabang,Yaoundé,Yaoundé II,Nkoabang,3.760211,11.477043,+237 679 445 878,zangnkoabang@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0876,Pharmacie Thérèse Nkol-Afeme,Yaoundé,Yaoundé V,Nkol-Afeme,3.839125,11.523616,+237 242 035 153,thérèsenkol-af@sante.cm,Oui,Nuit,20h00 — 08h00,Oui,Non,Non
+PHA0877,Pharmacie Gabriel Olembe,Yaoundé,Yaoundé I,Olembe,3.888152,11.44738,+237 651 758 452,gabrielolembe@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Non
+PHA0878,Pharmacie Damien Biteng,Yaoundé,Yaoundé III,Biteng,3.771951,11.537604,+237 698 729 486,damienbiteng@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0879,Officine Mbassi de Mvog-Atangana,Yaoundé,Yaoundé V,Mvog-Atangana,3.870865,11.422096,+237 696 385 938,mbassimvog-ata@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0880,Officine Kuitche de Cité Verte,Yaoundé,Yaoundé VI,Cité Verte,3.887397,11.450926,+237 693 502 405,kuitchecitéver@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0881,Pharmacie Élisabeth Nkol-Eton,Yaoundé,Yaoundé VI,Nkol-Eton,3.935556,11.496203,+237 677 237 401,élisabethnkol-@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0882,Officine Essomba de Cité des Palmiers,Douala,Douala V,Cité des Palmiers,4.085557,9.636189,+237 692 507 098,essombacitédes@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0883,Pharmacie de la Santé,Yaoundé,Yaoundé VII,Mimboman,3.765488,11.478069,+237 651 844 158,santé@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0884,Officine Ndoumbe de Etoudi,Yaoundé,Yaoundé II,Etoudi,3.835254,11.542087,+237 243 386 476,ndoumbeetoudi@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Oui,Non,Oui
+PHA0885,Officine Mvogo de Carrière,Yaoundé,Yaoundé I,Carrière,3.839234,11.499738,+237 678 380 862,mvogocarrière@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0886,Pharmacie Manga,Yaoundé,Yaoundé I,Ngousso,3.802025,11.40409,+237 678 417 925,manga@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Oui,Non,Non
+PHA0887,Officine Moussa de Mvog-Ada,Yaoundé,Yaoundé VI,Mvog-Ada,3.809502,11.437241,+237 693 928 560,moussamvog-ada@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0888,Officine Abega de Omnisports,Yaoundé,Yaoundé V,Omnisports,3.907113,11.490714,+237 698 130 840,abegaomnisport@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Oui
+PHA0889,Pharmacie Cécile PK10,Douala,Douala V,PK10,4.087196,9.710243,+237 696 475 902,cécipk10@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0890,Pharmacie Owona,Yaoundé,Yaoundé VII,Santa Barbara,3.765222,11.430155,+237 697 345 325,owona@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0891,Pharmacie Augustin Bali,Douala,Douala II,Bali,3.992685,9.665127,+237 655 584 265,augustinbali@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0892,Officine Manga de Mvog-Mbi,Yaoundé,Yaoundé V,Mvog-Mbi,3.8097,11.408374,+237 694 357 346,mangamvog-mbi@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Non
+PHA0893,Pharmacie de Nkolbisson,Yaoundé,Yaoundé V,Nkolbisson,3.850296,11.584939,+237 694 955 802,nkolbisson@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0894,Pharmacie du Ndoghem,Douala,Douala I,Ndoghem,4.02503,9.747552,+237 653 352 097,ndoghem@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Oui
+PHA0895,Pharmacie Pierre Kotto,Douala,Douala III,Kotto,4.116294,9.705863,+237 693 010 859,pierrekotto@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0896,Pharmacie André Bonaloka,Douala,Douala III,Bonaloka,4.133555,9.672861,+237 222 025 761,andrébonaloka@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0897,Officine Fouda de PK14,Douala,Douala III,PK14,4.016783,9.719733,+237 694 773 464,foudapk14@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Oui
+PHA0898,Pharmacie de Logbessou,Douala,Douala VI,Logbessou,4.019426,9.688793,+237 654 829 720,logbessou@pharmacie.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0899,Officine Ngoa de Cité Verte,Yaoundé,Yaoundé VII,Cité Verte,3.869365,11.521743,+237 699 579 419,ngoacitéverte@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0900,Officine Bello de Deido,Douala,Douala II,Deido,4.049967,9.653466,+237 698 343 414,bellodeido@gmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0901,Pharmacie Patrick Ndokoti,Douala,Douala IV,Ndokoti,4.122809,9.684253,+237 651 795 662,patrickndokoti@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0902,Officine Tchoupo de Etoudi,Yaoundé,Yaoundé VI,Etoudi,3.83493,11.424262,+237 653 114 935,tchoupoetoudi@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Oui
+PHA0903,Pharmacie de Japoma,Douala,Douala V,Japoma,4.055408,9.63439,+237 698 807 950,japoma@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0904,Pharmacie du Ahala,Yaoundé,Yaoundé IV,Ahala,3.925786,11.570345,+237 222 905 221,ahala@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0905,Pharmacie Dominique PK8,Douala,Douala I,PK8,4.133728,9.720239,+237 651 130 251,dominiquepk8@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0906,Officine Ateba de Deido,Douala,Douala I,Deido,4.075316,9.712926,+237 694 367 735,atebadeido@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Non
+PHA0907,Officine Fouda de Ngoa-Ekélé,Yaoundé,Yaoundé IV,Ngoa-Ekélé,3.783184,11.447636,+237 222 668 608,foudangoa-ekél@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Oui
+PHA0908,Pharmacie Marie PK10,Douala,Douala V,PK10,4.069378,9.650274,+237 243 105 293,mariepk10@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0909,Officine Belinga de Ndogpassi,Douala,Douala III,Ndogpassi,3.972209,9.741057,+237 654 067 477,belingandogpas@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0910,Pharmacie Luc Obili,Yaoundé,Yaoundé III,Obili,3.83967,11.491274,+237 653 908 255,lucobili@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0911,Pharmacie Anne Nlongkak,Yaoundé,Yaoundé II,Nlongkak,3.855519,11.570551,+237 677 862 367,annenlongkak@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0912,Pharmacie Saint-Pierre,Yaoundé,Yaoundé V,Mokolo,3.881408,11.479718,+237 651 374 642,pierre@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0913,Officine Mvé de Olembe,Yaoundé,Yaoundé III,Olembe,3.917071,11.424896,+237 233 730 199,mvéolembe@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Oui
+PHA0914,Officine Eba de Deido,Douala,Douala VI,Deido,4.043322,9.648379,+237 690 614 756,ebadeido@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0915,Pharmacie Élisabeth Village,Douala,Douala VI,Village,4.106109,9.720795,+237 699 359 192,élisabethvilla@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0916,Pharmacie de Cité des Palmiers,Douala,Douala II,Cité des Palmiers,3.999226,9.722968,+237 651 749 993,citédespalmier@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Non
+PHA0917,Officine Ngoa de Elig-Essono,Yaoundé,Yaoundé IV,Elig-Essono,3.872899,11.479858,+237 692 514 855,ngoaelig-esson@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0918,Officine Ngoa de Nsam,Yaoundé,Yaoundé V,Nsam,3.869208,11.398854,+237 699 422 717,ngoansam@sante.cm,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Non
+PHA0919,Officine Tchoupo de Tsinga,Yaoundé,Yaoundé II,Tsinga,3.821606,11.570951,+237 654 512 792,tchoupotsinga@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0920,Pharmacie de Mvog-Mbi,Yaoundé,Yaoundé IV,Mvog-Mbi,3.812082,11.485432,+237 699 768 473,mvog-mbi@hotmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Oui
+PHA0921,Officine Ekani de Makepe,Douala,Douala VI,Makepe,4.020772,9.689581,+237 677 999 414,ekanimakepe@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0922,Officine Kamga de Nkolmesseng,Yaoundé,Yaoundé IV,Nkolmesseng,3.790405,11.543274,+237 698 691 755,kamgankolmesse@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0923,Pharmacie Assamba,Yaoundé,Yaoundé III,Elig-Essono,3.792622,11.547681,+237 233 378 463,assamba@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0924,Pharmacie André Kotto,Douala,Douala VI,Kotto,3.999439,9.656249,+237 692 057 089,andrékotto@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0925,Pharmacie Saint-Bernadette,Yaoundé,Yaoundé VII,Bastos,3.877993,11.562645,+237 692 745 345,bernadette@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Oui,Non,Oui
+PHA0926,Officine Ngoa de Soboum,Douala,Douala II,Soboum,4.105388,9.765446,+237 651 259 542,ngoasoboum@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0927,Pharmacie de Bonamoussadi,Douala,Douala I,Bonamoussadi,4.089316,9.772297,+237 692 114 304,bonamoussadi@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Non
+PHA0928,Officine Owona de PK8,Douala,Douala III,PK8,4.09859,9.758331,+237 222 309 903,owonapk8@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Oui,Oui,Oui
+PHA0929,Pharmacie Claire Ndokoti,Douala,Douala VI,Ndokoti,4.051691,9.752592,+237 652 357 543,clairendokoti@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0930,Officine Eba de Ndog-Passi III,Douala,Douala I,Ndog-Passi III,4.026533,9.748314,+237 677 737 003,ebandog-passii@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0931,Pharmacie Mvé,Yaoundé,Yaoundé VI,Ekounou,3.764704,11.469279,+237 691 627 698,mvé@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Non,Oui
+PHA0932,Pharmacie Dominique Nkongmondo,Douala,Douala VI,Nkongmondo,3.984056,9.72966,+237 695 226 282,dominiquenkong@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0933,Pharmacie Pierre Bastos,Yaoundé,Yaoundé VII,Bastos,3.899745,11.588505,+237 679 855 053,pierrebastos@gmail.com,Non,Standard,Lun–Sam 07h00–21h00,Oui,Non,Oui
+PHA0934,Pharmacie Cécile Mvog-Mbi,Yaoundé,Yaoundé VII,Mvog-Mbi,3.807543,11.425743,+237 697 945 685,cécimvog-mbi@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Oui
+PHA0935,Pharmacie Patrick Bessengue,Douala,Douala I,Bessengue,4.01471,9.673005,+237 243 165 586,patrickbesseng@hotmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0936,Officine Nlend de Elig-Essono,Yaoundé,Yaoundé V,Elig-Essono,3.755116,11.505185,+237 242 573 999,nlendelig-esso@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0937,Officine Elong de Ahala,Yaoundé,Yaoundé III,Ahala,3.827833,11.440694,+237 654 673 070,elongahala@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0938,Pharmacie Anne Santa Barbara,Yaoundé,Yaoundé I,Santa Barbara,3.90433,11.514782,+237 695 911 197,annesantabarba@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0939,Officine Ndoumbe de Émana,Yaoundé,Yaoundé II,Émana,3.76479,11.541502,+237 698 153 763,ndoumbeémana@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Non
+PHA0940,Officine Kamga de Nkol-Eton,Yaoundé,Yaoundé VII,Nkol-Eton,3.780272,11.557616,+237 696 747 402,kamgankol-eton@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0941,Pharmacie de Nlongkak,Yaoundé,Yaoundé I,Nlongkak,3.833715,11.457607,+237 694 725 465,nlongkak@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Oui,Oui,Non
+PHA0942,Pharmacie Saint-Monique,Yaoundé,Yaoundé V,Biteng,3.852869,11.610892,+237 696 677 152,monique@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Non
+PHA0943,Pharmacie Élisabeth Mbanya,Douala,Douala III,Mbanya,4.019861,9.716232,+237 651 884 679,élisabethmbany@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0944,Officine Owona de Youpwé,Douala,Douala VI,Youpwé,4.026481,9.677532,+237 699 111 213,owonayoupwé@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Non
+PHA0945,Officine Simo de Bonamoussadi,Douala,Douala III,Bonamoussadi,4.03816,9.739267,+237 699 307 425,simobonamoussa@yahoo.fr,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0946,Pharmacie du Omnisports,Yaoundé,Yaoundé IV,Omnisports,3.768709,11.463245,+237 692 962 688,omnisports@hotmail.com,Oui,Nuit,20h00 — 08h00,Oui,Non,Oui
+PHA0947,Pharmacie Pierre Bepanda,Douala,Douala V,Bepanda,4.043004,9.640965,+237 692 251 686,pierrebepanda@yahoo.fr,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0948,Pharmacie Paul Deido,Douala,Douala I,Deido,4.11344,9.691262,+237 678 624 819,pauldeido@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0949,Officine Ndoumbe de Kotto,Douala,Douala I,Kotto,4.10848,9.719125,+237 653 137 662,ndoumbekotto@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Non,Non,Oui
+PHA0950,Pharmacie Félicité PK14,Douala,Douala V,PK14,4.092407,9.634267,+237 699 528 164,félicitépk14@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Non
+PHA0951,Officine Eba de Nlongkak,Yaoundé,Yaoundé IV,Nlongkak,3.807456,11.455335,+237 690 819 502,ebanlongkak@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Oui
+PHA0952,Officine Bikié de Mendong,Yaoundé,Yaoundé I,Mendong,3.809178,11.499473,+237 691 647 854,bikiémendong@pharmacie.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Oui
+PHA0953,Officine Ndoumbe de Ndokoti,Douala,Douala III,Ndokoti,4.052295,9.636481,+237 242 918 819,ndoumbendokoti@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Non,Non
+PHA0954,Officine Simo de Bessengue,Douala,Douala IV,Bessengue,4.115835,9.65044,+237 678 834 716,simobessengue@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0955,Pharmacie Marc Mokolo,Yaoundé,Yaoundé III,Mokolo,3.759084,11.501559,+237 242 138 311,marcmokolo@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0956,Pharmacie de Étoa-Meki,Yaoundé,Yaoundé IV,Étoa-Meki,3.910708,11.436057,+237 679 805 902,étoa-meki@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Oui,Oui
+PHA0957,Pharmacie Monique Sodiko,Douala,Douala II,Sodiko,4.087695,9.634295,+237 679 968 043,moniquesodiko@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Oui
+PHA0958,Officine Ateba de Bonaberi,Douala,Douala II,Bonaberi,4.011644,9.7026,+237 243 100 820,atebabonaberi@hotmail.com,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA0959,Officine Essomba de Akwa,Douala,Douala IV,Akwa,4.043701,9.753016,+237 233 576 883,essombaakwa@yahoo.fr,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0960,Pharmacie Claire Logbessou,Douala,Douala II,Logbessou,4.041843,9.728731,+237 697 030 672,clairelogbesso@gmail.com,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Oui
+PHA0961,Officine Mvé de Ndoghem,Douala,Douala III,Ndoghem,4.076772,9.757083,+237 691 143 498,mvéndoghem@sante.cm,Non,Standard,Lun–Dim 08h00–20h00,Non,Non,Non
+PHA0962,Pharmacie Joseph Messa,Yaoundé,Yaoundé VII,Messa,3.903534,11.558305,+237 677 643 052,josephmessa@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0963,Pharmacie Gabriel Nkolmesseng,Yaoundé,Yaoundé VII,Nkolmesseng,3.852234,11.399251,+237 677 769 055,gabrielnkolmes@gmail.com,Oui,Nuit,20h00 — 08h00,Oui,Non,Oui
+PHA0964,Pharmacie Michel Bali,Douala,Douala VI,Bali,3.982459,9.736952,+237 651 647 320,michelbali@yahoo.fr,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0965,Pharmacie Cyprien Sodiko,Douala,Douala I,Sodiko,3.987313,9.672159,+237 696 040 194,cypriensodiko@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0966,Officine Assamba de Bessengue,Douala,Douala III,Bessengue,3.968719,9.741018,+237 233 065 235,assambabesseng@sante.cm,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Oui
+PHA0967,Pharmacie Camille Mokolo,Yaoundé,Yaoundé III,Mokolo,3.770984,11.482637,+237 651 160 592,camilmokolo@hotmail.com,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Non
+PHA0968,Pharmacie Saint-Marie,Yaoundé,Yaoundé VI,Émana,3.826891,11.539698,+237 651 465 771,marie@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Non,Oui
+PHA0969,Officine Essomba de Sodiko,Douala,Douala V,Sodiko,4.068295,9.784848,+237 695 278 100,essombasodiko@yahoo.fr,Oui,Nuit,20h00 — 08h00,Oui,Non,Non
+PHA0970,Pharmacie Félicité Mimboman,Yaoundé,Yaoundé VII,Mimboman,3.763998,11.460288,+237 696 657 498,félicitémimbom@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0971,Pharmacie de Youpwé,Douala,Douala II,Youpwé,4.043649,9.692449,+237 652 130 698,youpwé@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0972,Pharmacie Claire Briqueterie,Yaoundé,Yaoundé I,Briqueterie,3.935753,11.508611,+237 695 077 687,clairebriquete@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Oui
+PHA0973,Pharmacie Djoumbi,Yaoundé,Yaoundé III,Nkoabang,3.91533,11.437486,+237 695 972 977,djoumbi@pharmacie.cm,Non,Standard,Lun–Ven 08h00–19h00,Oui,Oui,Oui
+PHA0974,Pharmacie Thérèse Obili,Yaoundé,Yaoundé III,Obili,3.823684,11.557201,+237 697 052 226,thérèseobili@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Oui
+PHA0975,Pharmacie du Djoungolo,Yaoundé,Yaoundé III,Djoungolo,3.794668,11.51186,+237 650 452 268,djoungolo@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Non
+PHA0976,Pharmacie de PK10,Douala,Douala V,PK10,4.085758,9.656585,+237 691 741 295,pk10@yahoo.fr,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0977,Officine Nlend de Mokolo,Yaoundé,Yaoundé II,Mokolo,3.798183,11.505803,+237 652 309 064,nlendmokolo@pharmacie.cm,Oui,Nuit,20h00 — 08h00,Oui,Oui,Oui
+PHA0978,Pharmacie du Ndog-Bong,Douala,Douala VI,Ndog-Bong,3.996897,9.709975,+237 679 501 483,ndog-bong@sante.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0979,Officine Hamadou de Mvog-Beti,Yaoundé,Yaoundé III,Mvog-Beti,3.801081,11.435212,+237 222 063 820,hamadoumvog-be@sante.cm,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0980,Pharmacie de Nkoldongo,Yaoundé,Yaoundé VII,Nkoldongo,3.889727,11.443975,+237 692 345 315,nkoldongo@sante.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Non,Non
+PHA0981,Pharmacie de PK17,Douala,Douala VI,PK17,4.078368,9.700751,+237 650 950 583,pk17@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0982,Officine Fotso de Bepanda,Douala,Douala I,Bepanda,3.980111,9.724606,+237 655 158 493,fotsobepanda@pharmacie.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Oui,Oui
+PHA0983,Officine Djoumbi de Nkol-Eton,Yaoundé,Yaoundé II,Nkol-Eton,3.866621,11.476359,+237 653 005 120,djoumbinkol-et@hotmail.com,Non,Standard,Lun–Sam 07h00–21h00,Non,Oui,Non
+PHA0984,Officine Wamba de Ndog-Passi III,Douala,Douala II,Ndog-Passi III,4.111722,9.713065,+237 222 154 537,wambandog-pass@sante.cm,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Oui,Non
+PHA0985,Pharmacie Augustin Cité des Palmiers,Douala,Douala V,Cité des Palmiers,4.100121,9.639005,+237 652 153 289,augustincitéde@yahoo.fr,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui
+PHA0986,Officine Moussa de Nzeng-Ayong,Douala,Douala V,Nzeng-Ayong,4.012818,9.661436,+237 677 761 080,moussanzeng-ay@hotmail.com,Oui,Nuit,20h00 — 08h00,Oui,Oui,Non
+PHA0987,Pharmacie Paul PK10,Douala,Douala IV,PK10,4.055848,9.618791,+237 679 646 114,paulpk10@yahoo.fr,Oui,Permanente,24h/24 — 7j/7,Non,Non,Non
+PHA0988,Pharmacie Élisabeth Essos,Yaoundé,Yaoundé I,Essos,3.875631,11.485621,+237 677 694 260,élisabethessos@yahoo.fr,Non,Standard,Lun–Ven 08h00–19h00,Non,Non,Non
+PHA0989,Officine Nguele de Nkomo,Yaoundé,Yaoundé IV,Nkomo,3.927859,11.498089,+237 678 325 529,nguenkomo@hotmail.com,Oui,Nuit,20h00 — 08h00,Non,Non,Non
+PHA0990,Pharmacie Gabriel Obili,Yaoundé,Yaoundé VI,Obili,3.948654,11.469215,+237 691 087 920,gabrielobili@gmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Oui,Non,Oui
+PHA0991,Officine Elong de Village,Douala,Douala IV,Village,4.042748,9.688686,+237 243 039 970,elongvillage@gmail.com,Oui,Nuit,20h00 — 08h00,Non,Oui,Oui
+PHA0992,Pharmacie André Etoudi,Yaoundé,Yaoundé II,Etoudi,3.923241,11.567819,+237 677 128 586,andréetoudi@yahoo.fr,Non,Standard,Lun–Sam 07h30–20h00,Oui,Oui,Non
+PHA0993,Pharmacie du Bepanda,Douala,Douala VI,Bepanda,4.0607,9.629341,+237 694 217 702,bepanda@pharmacie.cm,Non,Standard,Lun–Sam 07h30–20h00,Non,Non,Oui
+PHA0994,Pharmacie François Youpwé,Douala,Douala II,Youpwé,4.043656,9.745827,+237 655 561 359,françoisyoupwé@gmail.com,Non,Standard,Lun–Ven 08h00–19h00,Non,Oui,Oui
+PHA0995,Pharmacie Joseph Simbock,Yaoundé,Yaoundé I,Simbock,3.814898,11.487132,+237 652 265 349,josephsimbock@hotmail.com,Oui,Weekend,Sam–Dim 08h00 — 20h00,Non,Non,Non
+PHA0996,Officine Engoulou de Ndogbong,Douala,Douala IV,Ndogbong,4.123039,9.658186,+237 698 492 180,engouloundogbo@pharmacie.cm,Oui,Permanente,24h/24 — 7j/7,Oui,Oui,Non
+PHA0997,Pharmacie Claire PK17,Douala,Douala IV,PK17,3.979429,9.698437,+237 697 635 228,clairepk17@pharmacie.cm,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Oui
+PHA0998,Pharmacie Jeanne Mimboman,Yaoundé,Yaoundé I,Mimboman,3.898244,11.446153,+237 694 554 948,jeannemimboman@gmail.com,Non,Standard,Lun–Sam 08h00–18h30,Non,Oui,Non
+PHA0999,Pharmacie Louis Simbock,Yaoundé,Yaoundé V,Simbock,3.775864,11.434475,+237 651 080 292,louissimbock@sante.cm,Oui,Permanente,24h/24 — 7j/7,Non,Oui,Non
+PHA1000,Officine Ondoa de Mvog-Ada,Yaoundé,Yaoundé I,Mvog-Ada,3.920274,11.548114,+237 695 078 966,ondoamvog-ada@gmail.com,Non,Standard,Lun–Dim 08h00–20h00,Non,Oui,Oui

@@ -1,0 +1,351 @@
+id,nom,ville,arrondissement,quartier,latitude,longitude,telephone,email,analyses_courantes,bilan_complet,bacteriologie,serologie,pcr_covid_paludisme,prelevement_domicile,resultat_en_ligne,horaires
+LAB0001,Laboratoire de Bangue,Douala,Douala I,Cité des Palmiers,4.085134,9.748724,+237 697 181 731,bangue@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+LAB0002,Laboratoire Médical de Koumassi,Douala,Douala III,Youpwé,4.044432,9.737809,+237 699 507 218,médicalkoumass@gmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+LAB0003,Laboratoire de Biyem-Assi,Yaoundé,Yaoundé V,Biyem-Assi,3.813169,11.401119,+237 233 487 850,biyem-assi@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Sam 08h30–18h30
+LAB0004,Laboratoire Médical de PK10,Douala,Douala V,Sodiko,4.102956,9.716127,+237 677 654 328,médicalpk10@hotmail.com,Oui,Non,Non,Non,Oui,Non,Oui,Lun–Sam 07h30–19h00
+LAB0005,Laboratoire Saint-Jean,Douala,Douala IV,Logbessou,4.125536,9.677716,+237 222 035 837,jean@gmail.com,Oui,Non,Oui,Oui,Oui,Non,Oui,Lun–Ven 07h30–17h30
+LAB0006,Laboratoire Manga,Yaoundé,Yaoundé VI,Odza,3.8224,11.438526,+237 653 880 950,manga@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Ven 08h00–18h00
+LAB0007,Laboratoire de Ndog-Bong,Douala,Douala I,Ndog-Bong,4.122714,9.704274,+237 679 482 436,ndog-bong@gmail.com,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+LAB0008,Laboratoire Médical de Logbessou,Douala,Douala III,Logbessou,4.075764,9.691887,+237 233 265 698,médicallogbess@gmail.com,Oui,Oui,Oui,Oui,Non,Oui,Oui,Lun–Sam 08h00–17h00
+LAB0009,Laboratoire Saint-Michel,Yaoundé,Yaoundé V,Bastos,3.805807,11.40986,+237 679 104 355,michel@labo.cm,Oui,Non,Oui,Non,Oui,Non,Oui,Lun–Ven 08h00–18h00
+LAB0010,Laboratoire Vie,Yaoundé,Yaoundé VI,Mendong,3.774259,11.52275,+237 652 712 003,vie@labo.cm,Oui,Non,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+LAB0011,Laboratoire Nkeng,Yaoundé,Yaoundé VII,Santa Barbara,3.811141,11.589688,+237 690 221 491,nkeng@labo.cm,Oui,Oui,Non,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+LAB0012,Laboratoire Owona,Douala,Douala VI,Cité des Palmiers,4.048416,9.771908,+237 222 982 041,owona@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Lun–Dim 08h00–18h00
+LAB0013,Laboratoire Saint-Gabriel,Yaoundé,Yaoundé VI,Mvog-Mbi,3.778143,11.575649,+237 651 125 409,gabriel@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Sam 08h30–18h30
+LAB0014,Laboratoire Feudjio,Yaoundé,Yaoundé V,Mendong,3.913994,11.432213,+237 650 422 952,feudjio@hotmail.com,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Ven 07h30–17h30
+LAB0015,Laboratoire Onana,Yaoundé,Yaoundé VI,Elig-Essono,3.803073,11.438248,+237 692 387 736,onana@labo.cm,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Ven 08h00–18h00
+LAB0016,Laboratoire de Émana,Yaoundé,Yaoundé V,Émana,3.846114,11.433082,+237 653 044 406,émana@hotmail.com,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+LAB0017,Centre d'Analyses de PK17,Douala,Douala VI,Ndogpassi,4.052707,9.773664,+237 652 353 843,pk17@labo.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+LAB0018,Centre d'Analyses de Ndog-Passi III,Douala,Douala I,Makepe,3.984355,9.755045,+237 693 989 884,ndog-passiiii@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+LAB0019,Laboratoire Providence,Yaoundé,Yaoundé I,Omnisports,3.950128,11.47444,+237 650 289 665,providence@hotmail.com,Oui,Non,Non,Oui,Oui,Oui,Oui,Lun–Sam 08h00–17h00
+LAB0020,Laboratoire Moussa,Yaoundé,Yaoundé V,Messa,3.791917,11.489871,+237 651 613 053,moussa@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Ven 08h00–18h00
+LAB0021,Laboratoire Médical de Bonaloka,Douala,Douala VI,Ndog-Passi III,4.017306,9.723989,+237 696 187 572,médicalbonalok@yahoo.fr,Oui,Non,Non,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+LAB0022,Laboratoire Confiance,Yaoundé,Yaoundé VII,Efoulan,3.948243,11.473169,+237 678 014 803,confiance@yahoo.fr,Oui,Non,Oui,Non,Non,Oui,Oui,Lun–Dim 08h00–18h00
+LAB0023,Laboratoire Espoir,Yaoundé,Yaoundé VII,Elig-Essono,3.907515,11.509613,+237 679 133 048,espoir@labo.cm,Oui,Oui,Non,Oui,Oui,Non,Oui,Lun–Sam 08h30–18h30
+LAB0024,Laboratoire Saint-Bruno,Douala,Douala I,Bonanjo,4.113695,9.730844,+237 222 490 582,bruno@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,7j/7 — 08h00–20h00
+LAB0025,Laboratoire Médical de Mvan,Yaoundé,Yaoundé VII,Mvan,3.815305,11.515539,+237 653 616 416,médicalmvan@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+LAB0026,Laboratoire Mvogo,Douala,Douala II,Kotto,4.068442,9.705526,+237 696 701 777,mvogo@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0027,Laboratoire de Bassa,Douala,Douala III,Bonamoussadi,4.121573,9.701296,+237 655 504 858,bassa@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Oui,7j/7 — 08h00–20h00
+LAB0028,Laboratoire de Kotto,Douala,Douala I,Kotto,4.071769,9.719626,+237 696 289 640,kotto@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Lun–Sam 08h30–18h30
+LAB0029,Centre d'Analyses de PK12,Douala,Douala I,Bonamoussadi,4.013663,9.779986,+237 654 375 853,pk12@labo.cm,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+LAB0030,Laboratoire Médical de Odza,Yaoundé,Yaoundé V,Odza,3.820221,11.403223,+237 654 785 577,médicalodza@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Dim 08h00–18h00
+LAB0031,Laboratoire Médical de Kondengui,Yaoundé,Yaoundé I,Kondengui,3.942344,11.478395,+237 233 284 394,médicalkondeng@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+LAB0032,Laboratoire Médical de Cité des Palmiers,Douala,Douala I,Mbanya,4.011599,9.637429,+237 694 674 642,médicalcitédes@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,7j/7 — 08h00–20h00
+LAB0033,Laboratoire de Youpwé,Douala,Douala II,Makepe,4.075512,9.772923,+237 691 210 625,youpwé@labo.cm,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Dim 08h00–18h00
+LAB0034,Centre d'Analyses de Tsinga,Yaoundé,Yaoundé V,Tsinga,3.848576,11.410057,+237 693 848 167,tsinga@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Ven 07h30–17h30
+LAB0035,Laboratoire Mbarga,Yaoundé,Yaoundé IV,Obili,3.911098,11.41625,+237 243 685 363,mbarga@labo.cm,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Dim 08h00–18h00
+LAB0036,Laboratoire Médical de Ndog-Passi III,Douala,Douala I,Kotto,4.094194,9.658731,+237 694 533 613,médicalndog-pa@hotmail.com,Oui,Non,Oui,Oui,Non,Oui,Oui,Lun–Ven 08h00–18h00
+LAB0037,Laboratoire Médical de PK10,Douala,Douala I,Bonamoussadi,4.081963,9.660274,+237 650 613 153,médicalpk10@hotmail.com,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+LAB0038,Laboratoire Abega,Yaoundé,Yaoundé II,Biyem-Assi,3.866912,11.457382,+237 697 998 050,abega@labo.cm,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Ven 08h00–18h00
+LAB0039,Laboratoire de Madagascar,Yaoundé,Yaoundé VII,Madagascar,3.833463,11.606695,+237 222 521 827,madagascar@yahoo.fr,Oui,Non,Oui,Non,Non,Non,Oui,Lun–Ven 07h30–17h30
+LAB0040,Laboratoire Mbarga,Douala,Douala I,Ndogbong,4.085382,9.75425,+237 650 991 371,mbarga@labo.cm,Oui,Oui,Oui,Non,Non,Non,Non,7j/7 — 08h00–20h00
+LAB0041,Laboratoire Médical de Nkongmondo,Douala,Douala II,Sodiko,4.004317,9.75666,+237 677 087 011,médicalnkongmo@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Lun–Ven 07h30–17h30
+LAB0042,Laboratoire Elong,Douala,Douala I,Ndoghem,4.008688,9.76273,+237 695 671 782,elong@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Oui,7j/7 — 08h00–20h00
+LAB0043,Centre d'Analyses de PK8,Douala,Douala IV,Bangue,4.061051,9.656022,+237 652 167 703,pk8@labo.cm,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Sam 08h30–18h30
+LAB0044,Laboratoire Nguele,Douala,Douala V,Nzeng-Ayong,3.976523,9.742728,+237 650 832 728,nguele@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Dim 08h00–18h00
+LAB0045,Laboratoire Médical de Elig-Essono,Yaoundé,Yaoundé V,Santa Barbara,3.775228,11.447706,+237 678 091 807,médicalelig-es@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0046,Centre d'Analyses de Biyem-Assi,Yaoundé,Yaoundé VI,Odza,3.91482,11.571717,+237 690 485 537,biyem-assi@labo.cm,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Sam 07h30–19h00
+LAB0047,Centre d'Analyses de Ahala,Yaoundé,Yaoundé VI,Ahala,3.799632,11.459529,+237 222 016 200,ahala@gmail.com,Oui,Oui,Non,Oui,Non,Oui,Oui,Lun–Ven 07h30–17h30
+LAB0048,Laboratoire Médical de Ahala,Yaoundé,Yaoundé I,Djoungolo,3.827955,11.571713,+237 696 501 226,médicalahala@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+LAB0049,Laboratoire de Mvog-Beti,Yaoundé,Yaoundé V,Melen,3.793668,11.466695,+237 222 648 182,mvog-beti@gmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0050,Laboratoire de Mokolo,Yaoundé,Yaoundé IV,Mokolo,3.821166,11.45982,+237 678 414 923,mokolo@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+LAB0051,Laboratoire Médical de Cité Verte,Yaoundé,Yaoundé I,Cité Verte,3.867842,11.577459,+237 678 991 515,médicalcitéver@labo.cm,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 07h00–20h00
+LAB0052,Laboratoire de PK10,Douala,Douala I,Deido,4.105737,9.706919,+237 655 487 999,pk10@labo.cm,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+LAB0053,Laboratoire de Ngoa-Ekélé,Yaoundé,Yaoundé VII,Ngoa-Ekélé,3.899168,11.408864,+237 242 830 050,ngoa-ekélé@labo.cm,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+LAB0054,Laboratoire Médical de Mbanya,Douala,Douala I,Mbanya,3.994072,9.687737,+237 678 358 094,médicalmbanya@labo.cm,Oui,Oui,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+LAB0055,Centre d'Analyses de Obili,Yaoundé,Yaoundé VI,Obili,3.77135,11.50387,+237 650 884 071,obili@gmail.com,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+LAB0056,Laboratoire de Santa Barbara,Yaoundé,Yaoundé IV,Carrière,3.879223,11.588328,+237 243 223 107,santabarbara@gmail.com,Oui,Non,Oui,Oui,Oui,Oui,Oui,Lun–Sam 08h00–17h00
+LAB0057,Laboratoire de Mbanya,Douala,Douala II,Mbanya,4.085444,9.720771,+237 679 912 756,mbanya@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+LAB0058,Laboratoire de Bessengue,Douala,Douala VI,Mbanya,4.078951,9.773165,+237 698 754 357,bessengue@gmail.com,Oui,Oui,Non,Non,Oui,Non,Oui,Lun–Ven 08h00–18h00
+LAB0059,Laboratoire Médical de Tsinga,Yaoundé,Yaoundé I,Bastos,3.839171,11.554026,+237 654 640 264,médicaltsinga@labo.cm,Oui,Non,Non,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+LAB0060,Laboratoire de Mendong,Yaoundé,Yaoundé VI,Madagascar,3.838021,11.444595,+237 652 897 622,mendong@labo.cm,Oui,Non,Oui,Oui,Oui,Non,Oui,7j/7 — 08h00–20h00
+LAB0061,Laboratoire de Bonanjo,Douala,Douala II,PK10,4.115238,9.747844,+237 243 601 631,bonanjo@labo.cm,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+LAB0062,Laboratoire Médical de Bonaloka,Douala,Douala I,Bali,4.068914,9.64261,+237 243 443 295,médicalbonalok@gmail.com,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+LAB0063,Laboratoire Médical de Mvog-Mbi,Yaoundé,Yaoundé I,Mvog-Mbi,3.804169,11.429646,+237 696 315 319,médicalmvog-mb@gmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 07h00–20h00
+LAB0064,Laboratoire Médical de Essos,Yaoundé,Yaoundé VII,Santa Barbara,3.771199,11.443767,+237 243 870 759,médicalessos@gmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0065,Laboratoire Belinga,Yaoundé,Yaoundé II,Etoudi,3.827329,11.421806,+237 242 910 151,belinga@yahoo.fr,Oui,Non,Oui,Oui,Non,Oui,Oui,Lun–Ven 07h30–17h30
+LAB0066,Centre d'Analyses de Boko,Douala,Douala VI,New Bell,3.964951,9.68993,+237 677 477 510,boko@labo.cm,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+LAB0067,Laboratoire de Nkoabang,Yaoundé,Yaoundé II,Biyem-Assi,3.84618,11.459917,+237 693 195 874,nkoabang@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Sam 08h30–18h30
+LAB0068,Centre d'Analyses de Kondengui,Yaoundé,Yaoundé I,Nsam,3.809932,11.504388,+237 242 163 586,kondengui@gmail.com,Oui,Oui,Non,Oui,Non,Oui,Oui,Lun–Sam 08h00–17h00
+LAB0069,Laboratoire Fouda,Yaoundé,Yaoundé IV,Tsinga,3.785084,11.497148,+237 654 970 482,fouda@labo.cm,Oui,Non,Non,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+LAB0070,Laboratoire Médical de Nkol-Eton,Yaoundé,Yaoundé V,Nkol-Eton,3.828413,11.450815,+237 679 354 240,médicalnkol-et@yahoo.fr,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+LAB0071,Laboratoire Médical de Akwa,Douala,Douala V,Akwa,4.037935,9.665777,+237 242 761 583,médicalakwa@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Dim 08h00–18h00
+LAB0072,Laboratoire de Bonanjo,Douala,Douala II,Bessengue,3.980699,9.701931,+237 692 999 352,bonanjo@gmail.com,Oui,Oui,Non,Non,Oui,Non,Oui,Lun–Dim 08h00–18h00
+LAB0073,Laboratoire de Ahala,Yaoundé,Yaoundé II,Briqueterie,3.955066,11.497246,+237 695 286 446,ahala@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Ven 07h30–17h30
+LAB0074,Laboratoire Espoir,Yaoundé,Yaoundé VI,Nsam,3.881404,11.500029,+237 691 401 618,espoir@yahoo.fr,Oui,Non,Oui,Oui,Oui,Oui,Oui,Lun–Ven 08h00–18h00
+LAB0075,Laboratoire Médical de Ekounou,Yaoundé,Yaoundé IV,Ahala,3.912834,11.559305,+237 694 572 078,médicalekounou@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Oui,Lun–Sam 08h00–17h00
+LAB0076,Laboratoire Bello,Yaoundé,Yaoundé VI,Kondengui,3.799145,11.411187,+237 695 094 330,bello@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Sam 07h30–19h00
+LAB0077,Laboratoire Saint-Joseph,Yaoundé,Yaoundé I,Obili,3.748312,11.526775,+237 677 480 042,joseph@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Non,7j/7 — 08h00–20h00
+LAB0078,Laboratoire Médical de Bonanjo,Douala,Douala VI,Bonanjo,4.027701,9.661963,+237 699 354 101,médicalbonanjo@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Lun–Ven 08h00–18h00
+LAB0079,Laboratoire Kamga,Yaoundé,Yaoundé II,Émana,3.864065,11.524977,+237 654 647 038,kamga@labo.cm,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Sam 08h30–18h30
+LAB0080,Laboratoire de Boko,Douala,Douala VI,Nzeng-Ayong,4.001882,9.70692,+237 243 632 215,boko@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Ven 08h00–18h00
+LAB0081,Centre d'Analyses de Logbessou,Douala,Douala I,Logbessou,4.088077,9.775467,+237 655 645 425,logbessou@labo.cm,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Sam 07h30–19h00
+LAB0082,Laboratoire Essomba,Yaoundé,Yaoundé I,Mvog-Ada,3.900867,11.506455,+237 692 473 464,essomba@yahoo.fr,Oui,Non,Oui,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+LAB0083,Centre d'Analyses de Bastos,Yaoundé,Yaoundé III,Ekounou,3.794729,11.514583,+237 678 598 080,bastos@labo.cm,Oui,Oui,Non,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+LAB0084,Laboratoire Saint-Marc,Douala,Douala II,Ndogpassi,4.0555,9.61992,+237 690 203 345,marc@labo.cm,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0085,Laboratoire Lumière,Yaoundé,Yaoundé I,Djoungolo,3.837434,11.507599,+237 654 769 955,lumière@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+LAB0086,Centre d'Analyses de Bali,Douala,Douala III,Bali,4.027815,9.790892,+237 650 203 051,bali@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+LAB0087,Laboratoire Médical de Bangue,Douala,Douala I,Logbessou,4.052312,9.731141,+237 653 853 566,médicalbangue@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Sam 08h30–18h30
+LAB0088,Centre d'Analyses de Nlongkak,Yaoundé,Yaoundé V,Carrière,3.872729,11.437504,+237 690 757 952,nlongkak@labo.cm,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 07h00–20h00
+LAB0089,Laboratoire Médical de New Bell,Douala,Douala I,New Bell,4.112566,9.764196,+237 677 480 598,médicalnewbell@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+LAB0090,Centre d'Analyses de Bepanda,Douala,Douala IV,Bali,4.010229,9.6898,+237 694 215 453,bepanda@gmail.com,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Dim 08h00–18h00
+LAB0091,Laboratoire de Biteng,Yaoundé,Yaoundé III,Obili,3.788261,11.549251,+237 233 950 432,biteng@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Ven 07h30–17h30
+LAB0092,Laboratoire Ngoa,Yaoundé,Yaoundé V,Briqueterie,3.763428,11.504522,+237 698 461 735,ngoa@gmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+LAB0093,Laboratoire Grâce,Yaoundé,Yaoundé I,Cité Verte,3.763979,11.464493,+237 696 898 318,grâce@yahoo.fr,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Ven 08h00–18h00
+LAB0094,Centre d'Analyses de Deido,Douala,Douala IV,Deido,4.102121,9.743217,+237 651 065 374,deido@gmail.com,Oui,Oui,Oui,Non,Oui,Oui,Non,Lun–Ven 08h00–18h00
+LAB0095,Centre d'Analyses de Mboppi,Douala,Douala I,Bassa,4.134518,9.708456,+237 698 330 808,mboppi@yahoo.fr,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Ven 07h30–17h30
+LAB0096,Centre d'Analyses de Nkongmondo,Douala,Douala III,New Bell,4.070474,9.711815,+237 678 055 960,nkongmondo@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+LAB0097,Laboratoire de Cité des Palmiers,Douala,Douala V,Bessengue,4.077433,9.721952,+237 697 595 144,citédespalmier@labo.cm,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Sam 07h00–20h00
+LAB0098,Laboratoire Saint-Félicité,Yaoundé,Yaoundé IV,Nkol-Afeme,3.839625,11.399824,+237 654 883 245,félicité@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+LAB0099,Laboratoire Médical de Mokolo,Yaoundé,Yaoundé V,Bastos,3.920629,11.477957,+237 653 967 463,médicalmokolo@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,7j/7 — 08h00–20h00
+LAB0100,Centre d'Analyses de Elig-Essono,Yaoundé,Yaoundé I,Elig-Essono,3.851034,11.39506,+237 679 826 829,elig-essono@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+LAB0101,Laboratoire Nlend,Yaoundé,Yaoundé V,Nkolbisson,3.861092,11.499155,+237 677 057 055,nlend@hotmail.com,Oui,Non,Non,Oui,Non,Non,Oui,Lun–Sam 07h30–19h00
+LAB0102,Laboratoire Saint-Louis,Yaoundé,Yaoundé I,Étoa-Meki,3.774739,11.522766,+237 652 592 007,louis@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Ven 08h00–18h00
+LAB0103,Centre d'Analyses de Nkoldongo,Yaoundé,Yaoundé IV,Nsam,3.786325,11.477609,+237 679 220 998,nkoldongo@yahoo.fr,Oui,Oui,Oui,Non,Non,Oui,Oui,Lun–Ven 07h30–17h30
+LAB0104,Laboratoire Médical de Nyalla,Douala,Douala II,PK12,3.999631,9.744087,+237 243 509 054,médicalnyalla@hotmail.com,Oui,Oui,Oui,Non,Non,Oui,Oui,7j/7 — 08h00–20h00
+LAB0105,Laboratoire de Elig-Essono,Yaoundé,Yaoundé IV,Briqueterie,3.810194,11.451593,+237 654 189 259,elig-essono@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 08h30–18h30
+LAB0106,Laboratoire Saint-Patrick,Yaoundé,Yaoundé VII,Ngoa-Ekélé,3.865452,11.439853,+237 651 646 543,patrick@labo.cm,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 07h30–19h00
+LAB0107,Laboratoire Ndjock,Yaoundé,Yaoundé VI,Simbock,3.800934,11.429234,+237 679 750 722,ndjock@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 07h30–19h00
+LAB0108,Laboratoire Bonheur,Yaoundé,Yaoundé VI,Ahala,3.781162,11.579085,+237 694 168 308,bonheur@labo.cm,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+LAB0109,Laboratoire Mbassi,Yaoundé,Yaoundé III,Djoungolo,3.877401,11.498847,+237 222 835 071,mbassi@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Dim 08h00–18h00
+LAB0110,Laboratoire Avenir,Yaoundé,Yaoundé I,Mvog-Beti,3.83405,11.407338,+237 699 555 099,avenir@gmail.com,Oui,Oui,Non,Oui,Non,Oui,Non,7j/7 — 08h00–20h00
+LAB0111,Centre d'Analyses de Nkol-Afeme,Yaoundé,Yaoundé I,Nkol-Afeme,3.818364,11.451323,+237 691 270 034,nkol-afeme@labo.cm,Oui,Oui,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+LAB0112,Laboratoire Saint-Augustin,Yaoundé,Yaoundé IV,Ngousso,3.84114,11.529118,+237 677 009 117,augustin@yahoo.fr,Oui,Non,Non,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+LAB0113,Laboratoire Ngoa,Douala,Douala II,PK12,4.114986,9.703009,+237 233 940 776,ngoa@labo.cm,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+LAB0114,Laboratoire Médical de Messa,Yaoundé,Yaoundé III,Messa,3.819201,11.502683,+237 694 514 368,médicalmessa@labo.cm,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+LAB0115,Laboratoire Saint-Jeanne,Yaoundé,Yaoundé I,Émana,3.823916,11.414988,+237 650 888 838,jeanne@labo.cm,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Sam 07h30–19h00
+LAB0116,Laboratoire Médical de Bonaberi,Douala,Douala II,Bangue,4.062336,9.709975,+237 651 278 876,médicalbonaber@labo.cm,Oui,Non,Non,Oui,Non,Non,Oui,Lun–Sam 07h30–19h00
+LAB0117,Centre d'Analyses de Bonaberi,Douala,Douala V,Akwa,4.10871,9.681762,+237 650 759 821,bonaberi@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 07h30–19h00
+LAB0118,Centre d'Analyses de Mvan,Yaoundé,Yaoundé V,Mvan,3.929439,11.453875,+237 698 166 577,mvan@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Lun–Sam 07h30–19h00
+LAB0119,Laboratoire de Sodiko,Douala,Douala VI,Sodiko,4.050331,9.707223,+237 694 719 547,sodiko@labo.cm,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Dim 08h00–18h00
+LAB0120,Centre d'Analyses de Bonapriso,Douala,Douala III,Bonapriso,4.087386,9.706173,+237 690 134 115,bonapriso@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+LAB0121,Laboratoire de Ndogbong,Douala,Douala II,Bonamoussadi,4.0548,9.648329,+237 677 064 163,ndogbong@yahoo.fr,Oui,Oui,Oui,Non,Oui,Non,Oui,7j/7 — 08h00–20h00
+LAB0122,Laboratoire Médical de Djoungolo,Yaoundé,Yaoundé V,Djoungolo,3.877857,11.448498,+237 650 890 099,médicaldjoungo@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+LAB0123,Centre d'Analyses de Mvog-Atangana,Yaoundé,Yaoundé V,Mvog-Atangana,3.8439,11.452444,+237 698 370 778,mvog-atangana@labo.cm,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Ven 07h30–17h30
+LAB0124,Laboratoire Médical de Bessengue,Douala,Douala IV,Bepanda,4.019809,9.725469,+237 677 838 282,médicalbesseng@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Lun–Sam 08h30–18h30
+LAB0125,Laboratoire Médical de Sodiko,Douala,Douala V,New Bell,3.980389,9.741673,+237 699 270 667,médicalsodiko@hotmail.com,Oui,Oui,Non,Oui,Non,Oui,Oui,Lun–Dim 08h00–18h00
+LAB0126,Laboratoire Saint-Étienne,Douala,Douala I,Boko,3.967283,9.697407,+237 699 599 289,étienne@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Oui,Lun–Dim 08h00–18h00
+LAB0127,Laboratoire Médical de Olembe,Yaoundé,Yaoundé IV,Olembe,3.893765,11.514556,+237 692 810 556,médicalolembe@labo.cm,Oui,Non,Non,Non,Oui,Non,Non,Lun–Sam 07h30–19h00
+LAB0128,Centre d'Analyses de Mvog-Mbi,Yaoundé,Yaoundé I,Mvog-Mbi,3.901943,11.475603,+237 699 958 352,mvog-mbi@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Ven 08h00–18h00
+LAB0129,Centre d'Analyses de Bessengue,Douala,Douala V,New Bell,4.047901,9.708804,+237 694 146 377,bessengue@gmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+LAB0130,Centre d'Analyses de Mvog-Beti,Yaoundé,Yaoundé VII,Mendong,3.756387,11.561285,+237 242 774 743,mvog-beti@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0131,Laboratoire Santé,Yaoundé,Yaoundé VII,Étoa-Meki,3.811899,11.484949,+237 679 157 970,santé@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+LAB0132,Laboratoire de Japoma,Douala,Douala VI,PK10,4.114757,9.731917,+237 695 388 000,japoma@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+LAB0133,Centre d'Analyses de Kotto,Douala,Douala II,Kotto,4.099592,9.750308,+237 651 929 470,kotto@labo.cm,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+LAB0134,Centre d'Analyses de Nkoabang,Yaoundé,Yaoundé III,Nkoabang,3.853591,11.498127,+237 699 375 784,nkoabang@labo.cm,Oui,Oui,Oui,Non,Non,Oui,Oui,Lun–Sam 08h00–17h00
+LAB0135,Centre d'Analyses de Soboum,Douala,Douala VI,Soboum,4.007164,9.684902,+237 243 309 681,soboum@hotmail.com,Oui,Non,Non,Oui,Oui,Oui,Non,7j/7 — 08h00–20h00
+LAB0136,Laboratoire Médical de Japoma,Douala,Douala I,Bonamoussadi,4.04615,9.75148,+237 650 852 010,médicaljapoma@gmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+LAB0137,Laboratoire de Bonanjo,Douala,Douala I,PK8,4.078059,9.70189,+237 699 826 872,bonanjo@yahoo.fr,Oui,Oui,Non,Oui,Non,Oui,Oui,Lun–Sam 08h30–18h30
+LAB0138,Laboratoire Médical de Bassa,Douala,Douala IV,Bassa,4.033089,9.713961,+237 650 915 672,médicalbassa@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Oui,7j/7 — 08h00–20h00
+LAB0139,Laboratoire Bien-être,Yaoundé,Yaoundé VII,Olembe,3.920108,11.484504,+237 655 350 512,bien-être@gmail.com,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+LAB0140,Centre d'Analyses de Akwa,Douala,Douala II,Bessengue,4.011143,9.683268,+237 679 709 349,akwa@labo.cm,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Dim 08h00–18h00
+LAB0141,Laboratoire Saint-Michel,Yaoundé,Yaoundé IV,Nkoldongo,3.826259,11.429856,+237 697 610 503,michel@hotmail.com,Oui,Non,Oui,Non,Non,Non,Non,Lun–Sam 07h00–20h00
+LAB0142,Laboratoire Médical de Village,Douala,Douala II,Village,4.030562,9.75492,+237 679 440 937,médicalvillage@yahoo.fr,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+LAB0143,Laboratoire Saint-Élisabeth,Yaoundé,Yaoundé VII,Biyem-Assi,3.904651,11.435862,+237 698 024 399,élisabeth@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Lun–Ven 08h00–18h00
+LAB0144,Laboratoire Ndoumbe,Yaoundé,Yaoundé III,Efoulan,3.842106,11.554138,+237 651 901 745,ndoumbe@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+LAB0145,Laboratoire de PK17,Douala,Douala III,Bepanda,4.092426,9.784108,+237 691 101 747,pk17@gmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+LAB0146,Laboratoire Médical de Youpwé,Douala,Douala III,Youpwé,4.071135,9.688375,+237 679 362 707,médicalyoupwé@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,7j/7 — 08h00–20h00
+LAB0147,Laboratoire Bien-être,Douala,Douala II,Village,4.067184,9.66607,+237 242 740 303,bien-être@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Oui,Lun–Sam 07h00–20h00
+LAB0148,Centre d'Analyses de Odza,Yaoundé,Yaoundé VI,Olembe,3.785892,11.541299,+237 243 296 579,odza@gmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+LAB0149,Laboratoire Saint-Thérèse,Yaoundé,Yaoundé V,Santa Barbara,3.843326,11.495135,+237 233 222 343,thérèse@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Non,7j/7 — 08h00–20h00
+LAB0150,Laboratoire Médical de Nkongmondo,Douala,Douala III,Soboum,4.140527,9.70792,+237 652 678 974,médicalnkongmo@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+LAB0151,Centre d'Analyses de Ndoghem,Douala,Douala I,Bessengue,4.042858,9.621851,+237 652 052 691,ndoghem@labo.cm,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Dim 08h00–18h00
+LAB0152,Centre d'Analyses de Ndog-Bong,Douala,Douala V,PK8,4.07141,9.625383,+237 697 630 545,ndog-bong@yahoo.fr,Oui,Non,Non,Non,Oui,Non,Non,Lun–Sam 08h30–18h30
+LAB0153,Laboratoire Médical de Ndogpassi,Douala,Douala V,Nkongmondo,3.989791,9.708593,+237 677 847 185,médicalndogpas@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+LAB0154,Laboratoire Bien-être,Yaoundé,Yaoundé III,Djoungolo,3.838632,11.560364,+237 678 726 260,bien-être@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Dim 08h00–18h00
+LAB0155,Laboratoire Salut,Douala,Douala IV,Logbessou,4.116226,9.671911,+237 699 638 131,salut@labo.cm,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+LAB0156,Laboratoire Médical de Youpwé,Douala,Douala V,New Bell,3.993363,9.699198,+237 677 670 067,médicalyoupwé@yahoo.fr,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+LAB0157,Laboratoire Médical de PK10,Douala,Douala II,Bepanda,3.979463,9.670335,+237 651 810 721,médicalpk10@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Ven 08h00–18h00
+LAB0158,Laboratoire Médical de PK8,Douala,Douala I,PK8,4.038352,9.647969,+237 695 333 887,médicalpk8@hotmail.com,Oui,Oui,Non,Non,Oui,Oui,Oui,Lun–Sam 07h30–19h00
+LAB0159,Laboratoire Nlend,Douala,Douala VI,Logbessou,4.093813,9.731159,+237 698 137 217,nlend@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 08h30–18h30
+LAB0160,Laboratoire Médical de Boko,Douala,Douala II,Mboppi,4.038717,9.625499,+237 699 233 235,médicalboko@yahoo.fr,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Ven 08h00–18h00
+LAB0161,Laboratoire Lumière,Yaoundé,Yaoundé V,Mendong,3.798719,11.570221,+237 693 771 654,lumière@yahoo.fr,Oui,Oui,Oui,Oui,Non,Oui,Oui,Lun–Sam 07h00–20h00
+LAB0162,Laboratoire Saint-Cécile,Yaoundé,Yaoundé V,Messa,3.928323,11.439139,+237 696 741 268,cécile@labo.cm,Oui,Non,Non,Oui,Non,Non,Oui,Lun–Sam 07h00–20h00
+LAB0163,Laboratoire Ndjock,Douala,Douala VI,Sodiko,4.088298,9.642227,+237 651 420 138,ndjock@labo.cm,Oui,Oui,Non,Non,Oui,Oui,Non,Lun–Sam 07h30–19h00
+LAB0164,Laboratoire Harmonie,Douala,Douala V,Mbanya,4.140018,9.708351,+237 690 078 029,harmonie@hotmail.com,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Ven 07h30–17h30
+LAB0165,Laboratoire de Boko,Douala,Douala V,Boko,4.010354,9.722724,+237 697 592 898,boko@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 08h00–17h00
+LAB0166,Laboratoire de Cité des Palmiers,Douala,Douala I,Cité des Palmiers,4.083975,9.759892,+237 691 282 202,citédespalmier@yahoo.fr,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Ven 08h00–18h00
+LAB0167,Laboratoire de Ndokoti,Douala,Douala V,Bassa,4.054512,9.655851,+237 243 333 888,ndokoti@labo.cm,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+LAB0168,Laboratoire Médical de Ndokoti,Douala,Douala IV,Bonanjo,4.11894,9.689236,+237 691 899 330,médicalndokoti@labo.cm,Oui,Oui,Oui,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+LAB0169,Laboratoire Bikié,Douala,Douala VI,Ndokoti,3.999745,9.731368,+237 692 080 319,bikié@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+LAB0170,Laboratoire Médical de PK12,Douala,Douala III,PK12,3.970463,9.681413,+237 652 086 088,médicalpk12@yahoo.fr,Oui,Oui,Oui,Non,Oui,Oui,Oui,Lun–Sam 08h30–18h30
+LAB0171,Laboratoire de PK14,Douala,Douala I,Logbessou,4.032605,9.77799,+237 693 176 794,pk14@labo.cm,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 07h30–19h00
+LAB0172,Centre d'Analyses de Japoma,Douala,Douala II,Japoma,4.039666,9.760663,+237 699 448 834,japoma@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Sam 07h00–20h00
+LAB0173,Laboratoire Saint-Anne,Yaoundé,Yaoundé II,Melen,3.772893,11.567874,+237 678 610 653,anne@yahoo.fr,Oui,Oui,Oui,Non,Oui,Oui,Oui,Lun–Ven 07h30–17h30
+LAB0174,Laboratoire Espoir,Douala,Douala V,Bali,4.085546,9.766516,+237 678 167 674,espoir@gmail.com,Oui,Non,Non,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+LAB0175,Laboratoire Mvogo,Yaoundé,Yaoundé IV,Djoungolo,3.903554,11.471631,+237 693 802 060,mvogo@labo.cm,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Ven 08h00–18h00
+LAB0176,Centre d'Analyses de Koumassi,Douala,Douala IV,Koumassi,4.105693,9.741821,+237 696 264 501,koumassi@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+LAB0177,Laboratoire Médical de Ndoghem,Douala,Douala VI,Ndoghem,4.135279,9.704413,+237 678 562 956,médicalndoghem@labo.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0178,Laboratoire Owona,Yaoundé,Yaoundé I,Ngoa-Ekélé,3.897772,11.562807,+237 655 284 148,owona@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Ven 07h30–17h30
+LAB0179,Centre d'Analyses de Youpwé,Douala,Douala IV,Youpwé,4.069415,9.752856,+237 679 549 629,youpwé@gmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 07h00–20h00
+LAB0180,Laboratoire Kuitche,Yaoundé,Yaoundé I,Nkomo,3.78364,11.500727,+237 696 930 488,kuitche@yahoo.fr,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+LAB0181,Laboratoire Mbassi,Yaoundé,Yaoundé IV,Ahala,3.879001,11.446877,+237 679 471 361,mbassi@labo.cm,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+LAB0182,Laboratoire Médical de PK10,Douala,Douala II,Bepanda,4.126541,9.75262,+237 653 132 384,médicalpk10@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+LAB0183,Laboratoire de Etoudi,Yaoundé,Yaoundé VI,Mendong,3.900104,11.54498,+237 697 584 427,etoudi@gmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Lun–Sam 07h30–19h00
+LAB0184,Centre d'Analyses de Carrière,Yaoundé,Yaoundé VII,Mimboman,3.838995,11.569333,+237 654 041 833,carrière@yahoo.fr,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 08h30–18h30
+LAB0185,Laboratoire Alliance,Yaoundé,Yaoundé III,Ekounou,3.918232,11.548103,+237 243 350 464,alliance@hotmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+LAB0186,Laboratoire Médical de Nkoabang,Yaoundé,Yaoundé I,Mokolo,3.856124,11.461872,+237 243 555 799,médicalnkoaban@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+LAB0187,Laboratoire de Bassa,Douala,Douala III,PK17,4.038907,9.796113,+237 693 590 668,bassa@yahoo.fr,Oui,Non,Oui,Non,Non,Oui,Oui,Lun–Sam 07h30–19h00
+LAB0188,Laboratoire Onana,Douala,Douala III,Kotto,4.114314,9.713116,+237 651 652 515,onana@labo.cm,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+LAB0189,Centre d'Analyses de Ndogpassi,Douala,Douala II,PK10,4.127232,9.713058,+237 654 836 923,ndogpassi@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+LAB0190,Laboratoire Hamadou,Yaoundé,Yaoundé V,Mvog-Mbi,3.749853,11.504119,+237 650 493 316,hamadou@labo.cm,Oui,Non,Oui,Non,Non,Non,Non,Lun–Sam 07h00–20h00
+LAB0191,Laboratoire Saint-Joseph,Yaoundé,Yaoundé II,Ekounou,3.938464,11.519878,+237 690 092 881,joseph@gmail.com,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 07h30–19h00
+LAB0192,Centre d'Analyses de Carrière,Yaoundé,Yaoundé VII,Carrière,3.83183,11.436448,+237 679 621 963,carrière@gmail.com,Oui,Non,Oui,Oui,Non,Oui,Oui,Lun–Sam 08h30–18h30
+LAB0193,Laboratoire Santé,Douala,Douala IV,Mboppi,4.071403,9.783464,+237 654 108 406,santé@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 07h00–20h00
+LAB0194,Laboratoire Saint-Bernadette,Douala,Douala VI,PK12,4.043979,9.706039,+237 654 066 850,bernadette@labo.cm,Oui,Oui,Non,Non,Oui,Non,Oui,Lun–Ven 07h30–17h30
+LAB0195,Centre d'Analyses de Nkomo,Yaoundé,Yaoundé VII,Nkomo,3.912915,11.491173,+237 678 566 307,nkomo@labo.cm,Oui,Oui,Non,Non,Non,Oui,Non,7j/7 — 08h00–20h00
+LAB0196,Laboratoire de Bepanda,Douala,Douala IV,Bepanda,4.045845,9.634879,+237 654 728 217,bepanda@yahoo.fr,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Ven 07h30–17h30
+LAB0197,Laboratoire Médical de Mboppi,Douala,Douala I,Mboppi,3.970903,9.7063,+237 678 276 274,médicalmboppi@gmail.com,Oui,Non,Oui,Non,Oui,Non,Non,Lun–Ven 07h30–17h30
+LAB0198,Laboratoire de Ndoghem,Douala,Douala V,Bessengue,4.019946,9.635983,+237 652 797 381,ndoghem@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Oui,Lun–Sam 07h30–19h00
+LAB0199,Centre d'Analyses de Ndokoti,Douala,Douala IV,Ndokoti,3.973243,9.711781,+237 652 831 146,ndokoti@labo.cm,Oui,Non,Non,Non,Oui,Oui,Non,Lun–Dim 08h00–18h00
+LAB0200,Centre d'Analyses de Mboppi,Douala,Douala IV,Mboppi,4.003073,9.762554,+237 693 664 872,mboppi@labo.cm,Oui,Non,Oui,Non,Oui,Non,Oui,Lun–Ven 07h30–17h30
+LAB0201,Centre d'Analyses de PK14,Douala,Douala IV,PK14,4.014906,9.693202,+237 678 393 428,pk14@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+LAB0202,Centre d'Analyses de Sodiko,Douala,Douala III,Cité des Palmiers,3.997544,9.780505,+237 233 525 826,sodiko@labo.cm,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+LAB0203,Laboratoire de Djoungolo,Yaoundé,Yaoundé IV,Djoungolo,3.800973,11.411934,+237 652 680 240,djoungolo@labo.cm,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+LAB0204,Laboratoire Médical de Santa Barbara,Yaoundé,Yaoundé III,Santa Barbara,3.887731,11.428068,+237 677 967 566,médicalsantaba@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Oui,Lun–Sam 08h30–18h30
+LAB0205,Laboratoire Médical de Ndog-Bong,Douala,Douala I,PK17,3.995937,9.677534,+237 243 497 805,médicalndog-bo@gmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0206,Laboratoire Médical de Ngoa-Ekélé,Yaoundé,Yaoundé I,Ngoa-Ekélé,3.796906,11.546141,+237 650 183 294,médicalngoa-ek@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Non,Lun–Ven 08h00–18h00
+LAB0207,Laboratoire Ondoa,Yaoundé,Yaoundé IV,Etoudi,3.812803,11.414366,+237 650 533 935,ondoa@yahoo.fr,Oui,Non,Non,Non,Non,Non,Oui,Lun–Ven 08h00–18h00
+LAB0208,Laboratoire de Nkongmondo,Douala,Douala II,Koumassi,4.05109,9.786174,+237 678 265 138,nkongmondo@labo.cm,Oui,Non,Non,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+LAB0209,Laboratoire de Nyalla,Douala,Douala V,Nyalla,4.097718,9.666739,+237 690 587 595,nyalla@gmail.com,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 07h00–20h00
+LAB0210,Laboratoire Saint-Luc,Yaoundé,Yaoundé V,Biyem-Assi,3.872945,11.601505,+237 691 978 676,luc@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Oui,Lun–Sam 07h00–20h00
+LAB0211,Laboratoire Saint-Cyprien,Douala,Douala IV,Akwa,4.08323,9.734394,+237 690 133 954,cyprien@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 07h00–20h00
+LAB0212,Laboratoire de Bonaberi,Douala,Douala III,Logbessou,4.099577,9.727815,+237 233 226 106,bonaberi@labo.cm,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Ven 07h30–17h30
+LAB0213,Laboratoire de New Bell,Douala,Douala III,New Bell,3.968397,9.717003,+237 653 334 217,newbell@gmail.com,Oui,Oui,Oui,Non,Oui,Oui,Oui,Lun–Dim 08h00–18h00
+LAB0214,Laboratoire Owona,Douala,Douala II,Mboppi,4.106032,9.739237,+237 242 259 120,owona@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Sam 07h00–20h00
+LAB0215,Laboratoire de Mvan,Yaoundé,Yaoundé III,Mvan,3.899572,11.422221,+237 242 578 668,mvan@labo.cm,Oui,Oui,Non,Non,Non,Oui,Oui,Lun–Dim 08h00–18h00
+LAB0216,Centre d'Analyses de PK10,Douala,Douala VI,Mbanya,4.019991,9.733642,+237 697 067 812,pk10@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0217,Laboratoire Médical de Kotto,Douala,Douala V,Soboum,4.065149,9.717664,+237 690 652 195,médicalkotto@labo.cm,Oui,Oui,Non,Oui,Oui,Non,Oui,Lun–Ven 08h00–18h00
+LAB0218,Centre d'Analyses de Bangue,Douala,Douala II,Bonapriso,4.010982,9.708783,+237 677 655 581,bangue@hotmail.com,Oui,Non,Non,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+LAB0219,Laboratoire de Odza,Yaoundé,Yaoundé IV,Odza,3.873875,11.431737,+237 652 208 614,odza@gmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Ven 08h00–18h00
+LAB0220,Laboratoire Saint-Claire,Douala,Douala II,Ndoghem,4.039533,9.742636,+237 696 488 201,claire@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+LAB0221,Laboratoire Saint-François,Douala,Douala V,Bonaberi,4.048279,9.743151,+237 697 113 049,françois@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Oui,Lun–Ven 07h30–17h30
+LAB0222,Centre d'Analyses de Nyalla,Douala,Douala III,Mboppi,4.052811,9.707011,+237 698 117 336,nyalla@yahoo.fr,Oui,Non,Non,Non,Oui,Non,Oui,Lun–Ven 07h30–17h30
+LAB0223,Laboratoire de Olembe,Yaoundé,Yaoundé IV,Ngousso,3.745402,11.496288,+237 233 692 365,olembe@gmail.com,Oui,Oui,Oui,Non,Oui,Oui,Non,Lun–Sam 08h30–18h30
+LAB0224,Laboratoire Médical de Sodiko,Douala,Douala VI,Kotto,4.003168,9.723871,+237 233 120 781,médicalsodiko@yahoo.fr,Oui,Oui,Non,Non,Non,Oui,Non,Lun–Dim 08h00–18h00
+LAB0225,Laboratoire de Makepe,Douala,Douala II,Makepe,4.086251,9.666125,+237 695 664 373,makepe@gmail.com,Oui,Non,Oui,Oui,Non,Non,Oui,Lun–Sam 07h30–19h00
+LAB0226,Laboratoire de Koumassi,Douala,Douala III,Ndokoti,4.048591,9.779057,+237 691 589 783,koumassi@labo.cm,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Dim 08h00–18h00
+LAB0227,Laboratoire Saint-Paul,Yaoundé,Yaoundé II,Émana,3.771494,11.512465,+237 651 396 974,paul@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+LAB0228,Laboratoire de Mvog-Beti,Yaoundé,Yaoundé V,Mvog-Beti,3.867899,11.58838,+237 699 109 665,mvog-beti@labo.cm,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Dim 08h00–18h00
+LAB0229,Centre d'Analyses de Ndogbong,Douala,Douala VI,Makepe,4.121741,9.763876,+237 679 439 711,ndogbong@gmail.com,Oui,Non,Oui,Non,Non,Non,Oui,Lun–Sam 07h30–19h00
+LAB0230,Laboratoire de Deido,Douala,Douala I,Ndogpassi,4.097076,9.701777,+237 233 697 204,deido@labo.cm,Oui,Oui,Non,Oui,Oui,Oui,Non,Lun–Sam 08h30–18h30
+LAB0231,Laboratoire de Tsinga,Yaoundé,Yaoundé VII,Tsinga,3.877337,11.411264,+237 694 239 775,tsinga@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Non,7j/7 — 08h00–20h00
+LAB0232,Laboratoire Médical de Makepe,Douala,Douala V,Bonaberi,4.00724,9.751403,+237 653 266 084,médicalmakepe@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Oui,Lun–Sam 08h30–18h30
+LAB0233,Laboratoire de Kondengui,Yaoundé,Yaoundé II,Kondengui,3.835541,11.535398,+237 693 300 760,kondengui@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Dim 08h00–18h00
+LAB0234,Laboratoire Saint-Joachim,Yaoundé,Yaoundé VI,Mvog-Ada,3.874987,11.583339,+237 698 345 221,joachim@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+LAB0235,Laboratoire Mvé,Yaoundé,Yaoundé IV,Odza,3.934191,11.501704,+237 652 712 362,mvé@gmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+LAB0236,Laboratoire de Mboppi,Douala,Douala IV,Bonaberi,3.961583,9.700421,+237 242 303 550,mboppi@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+LAB0237,Laboratoire Médical de Nyalla,Douala,Douala IV,Bassa,4.038733,9.745183,+237 233 769 557,médicalnyalla@labo.cm,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+LAB0238,Laboratoire Médical de Mvog-Beti,Yaoundé,Yaoundé I,Santa Barbara,3.849322,11.509507,+237 678 244 427,médicalmvog-be@labo.cm,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+LAB0239,Laboratoire Médical de PK8,Douala,Douala VI,PK17,4.041467,9.789661,+237 690 571 275,médicalpk8@labo.cm,Oui,Non,Non,Oui,Oui,Oui,Oui,7j/7 — 08h00–20h00
+LAB0240,Laboratoire Kamga,Douala,Douala II,Ndogpassi,4.102064,9.782221,+237 679 985 380,kamga@labo.cm,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+LAB0241,Centre d'Analyses de Bangue,Douala,Douala III,Koumassi,4.084688,9.785406,+237 694 129 136,bangue@hotmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Ven 08h00–18h00
+LAB0242,Laboratoire Médical de Biteng,Yaoundé,Yaoundé I,Nkol-Afeme,3.932358,11.477126,+237 650 104 034,médicalbiteng@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0243,Centre d'Analyses de Etoudi,Yaoundé,Yaoundé VII,Etoudi,3.780409,11.485636,+237 697 020 390,etoudi@gmail.com,Oui,Oui,Oui,Oui,Non,Oui,Oui,Lun–Sam 08h00–17h00
+LAB0244,Centre d'Analyses de Bassa,Douala,Douala I,Nkongmondo,4.093386,9.721138,+237 653 003 227,bassa@labo.cm,Oui,Non,Oui,Non,Non,Non,Oui,Lun–Ven 07h30–17h30
+LAB0245,Laboratoire de Logbessou,Douala,Douala I,Bonamoussadi,3.989207,9.75611,+237 653 847 548,logbessou@yahoo.fr,Oui,Non,Oui,Non,Oui,Oui,Non,Lun–Ven 07h30–17h30
+LAB0246,Laboratoire de Sodiko,Douala,Douala VI,Youpwé,3.969343,9.674527,+237 694 067 611,sodiko@labo.cm,Oui,Oui,Non,Non,Oui,Non,Non,7j/7 — 08h00–20h00
+LAB0247,Laboratoire Médical de Mvog-Atangana,Yaoundé,Yaoundé V,Mvog-Atangana,3.874623,11.595958,+237 677 502 203,médicalmvog-at@labo.cm,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+LAB0248,Laboratoire Médical de Soboum,Douala,Douala IV,Soboum,4.07514,9.698083,+237 692 580 820,médicalsoboum@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Oui,Lun–Sam 07h00–20h00
+LAB0249,Centre d'Analyses de Biteng,Yaoundé,Yaoundé VII,Ngousso,3.855424,11.591626,+237 698 752 465,biteng@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+LAB0250,Laboratoire Médical de Carrière,Yaoundé,Yaoundé V,Djoungolo,3.911554,11.452351,+237 652 033 330,médicalcarrièr@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Non,Lun–Ven 08h00–18h00
+LAB0251,Centre d'Analyses de Messa,Yaoundé,Yaoundé IV,Messa,3.833714,11.438194,+237 652 476 561,messa@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Oui,Lun–Dim 08h00–18h00
+LAB0252,Laboratoire Saint-Monique,Yaoundé,Yaoundé V,Émana,3.898099,11.519248,+237 697 633 362,monique@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+LAB0253,Laboratoire de Nzeng-Ayong,Douala,Douala I,Logbessou,4.091633,9.666048,+237 243 219 854,nzeng-ayong@gmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+LAB0254,Laboratoire de Cité Verte,Yaoundé,Yaoundé VII,Cité Verte,3.894548,11.528672,+237 651 292 053,citéverte@gmail.com,Oui,Non,Oui,Oui,Oui,Non,Oui,Lun–Ven 07h30–17h30
+LAB0255,Laboratoire Ateba,Douala,Douala V,Bonaloka,4.053013,9.740516,+237 690 685 558,ateba@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Oui,Lun–Ven 08h00–18h00
+LAB0256,Laboratoire Engoulou,Yaoundé,Yaoundé VI,Kondengui,3.945029,11.457833,+237 691 678 347,engoulou@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Ven 08h00–18h00
+LAB0257,Laboratoire Assamba,Yaoundé,Yaoundé III,Carrière,3.759613,11.469464,+237 691 131 039,assamba@labo.cm,Oui,Non,Oui,Oui,Non,Non,Oui,Lun–Sam 07h00–20h00
+LAB0258,Centre d'Analyses de Village,Douala,Douala II,Deido,4.002422,9.714318,+237 694 942 357,village@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0259,Laboratoire Médical de PK17,Douala,Douala III,Ndog-Passi III,4.015647,9.771397,+237 653 820 983,médicalpk17@yahoo.fr,Oui,Oui,Non,Non,Non,Oui,Non,Lun–Sam 07h30–19h00
+LAB0260,Laboratoire de Logbessou,Douala,Douala II,PK12,4.11179,9.735381,+237 222 565 378,logbessou@yahoo.fr,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+LAB0261,Laboratoire Eba,Yaoundé,Yaoundé I,Biteng,3.840936,11.47902,+237 696 842 736,eba@gmail.com,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 08h30–18h30
+LAB0262,Laboratoire de PK8,Douala,Douala II,PK10,4.023007,9.677432,+237 243 974 444,pk8@yahoo.fr,Oui,Non,Oui,Non,Oui,Oui,Non,7j/7 — 08h00–20h00
+LAB0263,Laboratoire de Olembe,Yaoundé,Yaoundé I,Tsinga,3.878358,11.563258,+237 655 340 174,olembe@labo.cm,Oui,Oui,Non,Oui,Oui,Oui,Non,Lun–Sam 08h00–17h00
+LAB0264,Centre d'Analyses de New Bell,Douala,Douala V,PK12,4.011809,9.721921,+237 691 233 888,newbell@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+LAB0265,Laboratoire Zang,Yaoundé,Yaoundé VI,Ngoa-Ekélé,3.901039,11.540126,+237 650 029 141,zang@hotmail.com,Oui,Non,Oui,Non,Non,Non,Oui,Lun–Ven 07h30–17h30
+LAB0266,Centre d'Analyses de Makepe,Douala,Douala I,New Bell,4.063888,9.660987,+237 692 840 623,makepe@gmail.com,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Sam 07h00–20h00
+LAB0267,Laboratoire Médical de Mboppi,Douala,Douala IV,Mboppi,4.106682,9.761132,+237 651 524 053,médicalmboppi@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Oui,Lun–Sam 07h30–19h00
+LAB0268,Laboratoire Tabi,Yaoundé,Yaoundé V,Mendong,3.888089,11.452337,+237 233 890 448,tabi@labo.cm,Oui,Oui,Oui,Non,Oui,Non,Oui,7j/7 — 08h00–20h00
+LAB0269,Centre d'Analyses de Bonanjo,Douala,Douala VI,Ndogbong,4.032923,9.702643,+237 655 915 102,bonanjo@labo.cm,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 08h30–18h30
+LAB0270,Laboratoire Médical de Biyem-Assi,Yaoundé,Yaoundé V,Biyem-Assi,3.761831,11.4491,+237 690 153 442,médicalbiyem-a@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+LAB0271,Centre d'Analyses de Logbessou,Douala,Douala III,Cité des Palmiers,3.997862,9.642091,+237 679 479 558,logbessou@gmail.com,Oui,Oui,Non,Non,Non,Oui,Oui,Lun–Sam 07h00–20h00
+LAB0272,Centre d'Analyses de Mvog-Ada,Yaoundé,Yaoundé II,Madagascar,3.913637,11.574088,+237 695 442 139,mvog-ada@yahoo.fr,Oui,Non,Non,Oui,Oui,Non,Non,Lun–Dim 08h00–18h00
+LAB0273,Laboratoire Saint-Dominique,Yaoundé,Yaoundé VII,Santa Barbara,3.887911,11.4046,+237 655 852 733,dominique@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+LAB0274,Laboratoire Biyiti,Yaoundé,Yaoundé II,Elig-Essono,3.835499,11.571315,+237 653 323 927,biyiti@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 07h00–20h00
+LAB0275,Laboratoire de PK8,Douala,Douala II,Bonaloka,4.105146,9.647049,+237 655 758 837,pk8@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Sam 07h30–19h00
+LAB0276,Laboratoire Elong,Douala,Douala VI,Kotto,4.000673,9.698419,+237 694 562 104,elong@labo.cm,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+LAB0277,Laboratoire Salut,Yaoundé,Yaoundé III,Mvog-Atangana,3.908773,11.436486,+237 650 447 438,salut@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Sam 07h00–20h00
+LAB0278,Laboratoire Saint-Damien,Yaoundé,Yaoundé II,Efoulan,3.831939,11.543366,+237 655 267 991,damien@labo.cm,Oui,Non,Non,Oui,Non,Non,Oui,Lun–Ven 07h30–17h30
+LAB0279,Centre d'Analyses de Efoulan,Yaoundé,Yaoundé I,Efoulan,3.863651,11.514184,+237 233 520 639,efoulan@labo.cm,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Ven 08h00–18h00
+LAB0280,Laboratoire Alliance,Douala,Douala V,New Bell,4.124857,9.660107,+237 654 961 842,alliance@labo.cm,Oui,Non,Non,Oui,Oui,Non,Oui,Lun–Sam 08h00–17h00
+LAB0281,Laboratoire Saint-Pierre,Yaoundé,Yaoundé V,Mokolo,3.779972,11.479258,+237 694 734 609,pierre@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Sam 08h00–17h00
+LAB0282,Laboratoire Médical de Deido,Douala,Douala III,Logbessou,4.033058,9.651571,+237 242 904 458,médicaldeido@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Oui,Lun–Sam 07h00–20h00
+LAB0283,Laboratoire Médical de Youpwé,Douala,Douala I,Japoma,4.055785,9.75387,+237 651 707 316,médicalyoupwé@labo.cm,Oui,Oui,Non,Oui,Oui,Oui,Oui,Lun–Dim 08h00–18h00
+LAB0284,Laboratoire Avenir,Douala,Douala VI,Bonamoussadi,4.038724,9.765223,+237 697 827 929,avenir@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Sam 08h30–18h30
+LAB0285,Centre d'Analyses de Ngousso,Yaoundé,Yaoundé IV,Ngousso,3.944057,11.491442,+237 650 571 542,ngousso@labo.cm,Oui,Oui,Oui,Oui,Non,Oui,Non,7j/7 — 08h00–20h00
+LAB0286,Laboratoire Nkoa,Douala,Douala II,Akwa,4.136658,9.68415,+237 698 680 333,nkoa@labo.cm,Oui,Oui,Non,Oui,Oui,Non,Non,7j/7 — 08h00–20h00
+LAB0287,Laboratoire de Village,Douala,Douala III,Nzeng-Ayong,4.059987,9.667936,+237 677 874 960,village@yahoo.fr,Oui,Oui,Non,Non,Oui,Oui,Oui,Lun–Sam 08h00–17h00
+LAB0288,Laboratoire Médical de Émana,Yaoundé,Yaoundé II,Mvog-Mbi,3.831053,11.467475,+237 243 773 313,médicalémana@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 07h00–20h00
+LAB0289,Centre d'Analyses de Bonaloka,Douala,Douala V,Bassa,4.051644,9.72565,+237 233 759 836,bonaloka@gmail.com,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Ven 08h00–18h00
+LAB0290,Laboratoire de Ndogpassi,Douala,Douala VI,Japoma,3.989241,9.663871,+237 654 861 379,ndogpassi@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+LAB0291,Laboratoire Médical de Bastos,Yaoundé,Yaoundé VI,Bastos,3.895524,11.431652,+237 693 163 262,médicalbastos@yahoo.fr,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 07h30–19h00
+LAB0292,Laboratoire de Mboppi,Douala,Douala III,Mboppi,4.106397,9.744038,+237 655 686 678,mboppi@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+LAB0293,Laboratoire Médical de PK14,Douala,Douala I,New Bell,4.12023,9.659559,+237 677 471 963,médicalpk14@gmail.com,Oui,Oui,Non,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+LAB0294,Laboratoire Médical de Tsinga,Yaoundé,Yaoundé II,Tsinga,3.748731,11.463258,+237 695 522 642,médicaltsinga@labo.cm,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 07h30–19h00
+LAB0295,Laboratoire Médical de Mvog-Ada,Yaoundé,Yaoundé I,Mvog-Ada,3.876955,11.534657,+237 691 108 843,médicalmvog-ad@labo.cm,Oui,Non,Non,Non,Oui,Non,Non,Lun–Ven 08h00–18h00
+LAB0296,Centre d'Analyses de Cité des Palmiers,Douala,Douala III,Bassa,3.980774,9.681643,+237 691 400 199,citédespalmier@hotmail.com,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Sam 08h30–18h30
+LAB0297,Laboratoire Saint-Raphaël,Yaoundé,Yaoundé IV,Mokolo,3.851764,11.484731,+237 654 165 686,raphaël@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Lun–Sam 07h30–19h00
+LAB0298,Laboratoire Saint-Paul,Douala,Douala II,Akwa,4.067952,9.757478,+237 691 138 540,paul@labo.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+LAB0299,Laboratoire Médical de Nkolbisson,Yaoundé,Yaoundé III,Nkolbisson,3.780346,11.467816,+237 677 165 498,médicalnkolbis@labo.cm,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+LAB0300,Laboratoire de Bonaloka,Douala,Douala V,Mboppi,4.009331,9.685503,+237 692 920 608,bonaloka@labo.cm,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Ven 07h30–17h30
+LAB0301,Laboratoire Saint-André,Yaoundé,Yaoundé V,Melen,3.832357,11.499745,+237 677 009 188,andré@labo.cm,Oui,Oui,Non,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+LAB0302,Laboratoire Grâce,Douala,Douala V,Bassa,4.132903,9.735039,+237 692 492 958,grâce@labo.cm,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Ven 07h30–17h30
+LAB0303,Centre d'Analyses de Mokolo,Yaoundé,Yaoundé III,Mokolo,3.79278,11.583173,+237 678 533 608,mokolo@gmail.com,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 08h30–18h30
+LAB0304,Laboratoire de Melen,Yaoundé,Yaoundé V,Melen,3.847116,11.556879,+237 694 959 333,melen@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Sam 08h00–17h00
+LAB0305,Centre d'Analyses de Mendong,Yaoundé,Yaoundé III,Obili,3.751875,11.477404,+237 679 833 708,mendong@hotmail.com,Oui,Non,Oui,Oui,Oui,Non,Oui,Lun–Sam 07h30–19h00
+LAB0306,Laboratoire de Messa,Yaoundé,Yaoundé VII,Messa,3.824398,11.567152,+237 697 113 222,messa@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Oui,Lun–Sam 07h30–19h00
+LAB0307,Laboratoire Médical de Bonamoussadi,Douala,Douala III,Ndog-Passi III,4.065827,9.722654,+237 678 021 302,médicalbonamou@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+LAB0308,Laboratoire Médical de Bessengue,Douala,Douala II,Bessengue,4.054274,9.677784,+237 697 297 256,médicalbesseng@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Sam 08h30–18h30
+LAB0309,Laboratoire Wamba,Yaoundé,Yaoundé VI,Briqueterie,3.756627,11.475844,+237 652 291 739,wamba@hotmail.com,Oui,Non,Non,Non,Oui,Non,Oui,7j/7 — 08h00–20h00
+LAB0310,Laboratoire de Mimboman,Yaoundé,Yaoundé III,Mimboman,3.922416,11.509513,+237 243 213 005,mimboman@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0311,Laboratoire de Mvog-Mbi,Yaoundé,Yaoundé I,Essos,3.838904,11.601424,+237 677 353 377,mvog-mbi@hotmail.com,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 07h00–20h00
+LAB0312,Centre d'Analyses de Olembe,Yaoundé,Yaoundé I,Olembe,3.748535,11.482527,+237 651 074 477,olembe@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Ven 08h00–18h00
+LAB0313,Laboratoire de Étoa-Meki,Yaoundé,Yaoundé III,Étoa-Meki,3.883868,11.465801,+237 651 441 684,étoa-meki@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Sam 08h00–17h00
+LAB0314,Laboratoire Médical de Madagascar,Yaoundé,Yaoundé VI,Bastos,3.788825,11.422131,+237 699 785 734,médicalmadagas@hotmail.com,Oui,Non,Oui,Oui,Non,Oui,Non,7j/7 — 08h00–20h00
+LAB0315,Laboratoire Grâce,Douala,Douala V,Deido,4.081805,9.763691,+237 696 218 559,grâce@hotmail.com,Oui,Non,Non,Non,Non,Non,Oui,Lun–Sam 07h30–19h00
+LAB0316,Laboratoire Fotso,Yaoundé,Yaoundé IV,Mimboman,3.889635,11.549033,+237 695 732 926,fotso@labo.cm,Oui,Oui,Non,Non,Non,Non,Oui,Lun–Ven 08h00–18h00
+LAB0317,Laboratoire Progrès,Yaoundé,Yaoundé VI,Ngousso,3.873978,11.408231,+237 694 381 248,progrès@hotmail.com,Oui,Non,Non,Non,Oui,Non,Non,Lun–Ven 08h00–18h00
+LAB0318,Laboratoire Médical de Briqueterie,Yaoundé,Yaoundé I,Briqueterie,3.829922,11.468234,+237 653 843 971,médicalbriquet@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0319,Laboratoire Médical de Nkol-Afeme,Yaoundé,Yaoundé V,Nkol-Afeme,3.79966,11.581867,+237 679 178 185,médicalnkol-af@yahoo.fr,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 08h30–18h30
+LAB0320,Laboratoire Saint-Marc,Yaoundé,Yaoundé VI,Olembe,3.863598,11.394874,+237 699 971 907,marc@labo.cm,Oui,Oui,Oui,Non,Oui,Oui,Oui,Lun–Dim 08h00–18h00
+LAB0321,Laboratoire Saint-François,Yaoundé,Yaoundé V,Santa Barbara,3.785358,11.498263,+237 692 893 993,françois@yahoo.fr,Oui,Non,Non,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+LAB0322,Centre d'Analyses de Nkongmondo,Douala,Douala III,Koumassi,3.97659,9.744674,+237 697 949 770,nkongmondo@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 08h30–18h30
+LAB0323,Laboratoire Bonheur,Douala,Douala V,Bangue,4.122531,9.694019,+237 652 601 271,bonheur@gmail.com,Oui,Oui,Oui,Oui,Non,Oui,Oui,Lun–Dim 08h00–18h00
+LAB0324,Laboratoire de Mvog-Atangana,Yaoundé,Yaoundé II,Mvog-Atangana,3.921039,11.511916,+237 679 425 743,mvog-atangana@labo.cm,Oui,Oui,Oui,Non,Non,Non,Oui,7j/7 — 08h00–20h00
+LAB0325,Laboratoire Confiance,Douala,Douala II,PK10,3.986475,9.733363,+237 678 655 475,confiance@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Oui,Lun–Ven 08h00–18h00
+LAB0326,Laboratoire Tchoupo,Douala,Douala II,PK12,4.005127,9.642176,+237 694 795 981,tchoupo@labo.cm,Oui,Oui,Non,Non,Oui,Non,Oui,Lun–Sam 08h00–17h00
+LAB0327,Laboratoire Médical de Ndogbong,Douala,Douala I,Ndogbong,4.083127,9.709702,+237 693 334 669,médicalndogbon@gmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+LAB0328,Laboratoire Médical de Mendong,Yaoundé,Yaoundé V,Mendong,3.921695,11.550616,+237 692 732 097,médicalmendong@gmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+LAB0329,Laboratoire de Soboum,Douala,Douala IV,Logbessou,4.006837,9.748308,+237 692 256 621,soboum@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0330,Laboratoire de Mvog-Ada,Yaoundé,Yaoundé VII,Mvog-Ada,3.871897,11.604565,+237 696 602 257,mvog-ada@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0331,Laboratoire Secours,Yaoundé,Yaoundé III,Mvog-Beti,3.856203,11.610057,+237 242 976 406,secours@gmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+LAB0332,Laboratoire de Essos,Yaoundé,Yaoundé V,Essos,3.755709,11.497533,+237 651 146 438,essos@labo.cm,Oui,Oui,Non,Oui,Non,Oui,Oui,Lun–Dim 08h00–18h00
+LAB0333,Laboratoire Nkoa,Yaoundé,Yaoundé V,Santa Barbara,3.776533,11.436714,+237 650 447 582,nkoa@labo.cm,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+LAB0334,Centre d'Analyses de Essos,Yaoundé,Yaoundé II,Nkolbisson,3.770897,11.505424,+237 692 136 281,essos@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+LAB0335,Laboratoire de Logbessou,Douala,Douala I,Nkongmondo,4.130904,9.735485,+237 243 483 619,logbessou@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+LAB0336,Centre d'Analyses de Mbanya,Douala,Douala IV,Makepe,4.018766,9.649277,+237 678 662 023,mbanya@gmail.com,Oui,Oui,Non,Non,Oui,Oui,Oui,7j/7 — 08h00–20h00
+LAB0337,Laboratoire de Carrière,Yaoundé,Yaoundé IV,Olembe,3.827575,11.434813,+237 653 822 074,carrière@labo.cm,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Dim 08h00–18h00
+LAB0338,Centre d'Analyses de Émana,Yaoundé,Yaoundé V,Émana,3.865286,11.414962,+237 222 434 319,émana@hotmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 07h00–20h00
+LAB0339,Laboratoire Saint-Marie,Yaoundé,Yaoundé III,Madagascar,3.908449,11.47225,+237 679 564 603,marie@gmail.com,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Sam 08h00–17h00
+LAB0340,Laboratoire Médical de Omnisports,Yaoundé,Yaoundé I,Omnisports,3.80038,11.469182,+237 694 884 497,médicalomnispo@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Dim 08h00–18h00
+LAB0341,Centre d'Analyses de Ekounou,Yaoundé,Yaoundé III,Mvog-Beti,3.836348,11.541127,+237 652 984 056,ekounou@gmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+LAB0342,Laboratoire de Village,Douala,Douala III,Mbanya,4.070428,9.792547,+237 696 934 305,village@gmail.com,Oui,Non,Non,Oui,Oui,Non,Non,Lun–Dim 08h00–18h00
+LAB0343,Laboratoire Djoumbi,Yaoundé,Yaoundé II,Biyem-Assi,3.778251,11.440366,+237 696 571 801,djoumbi@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+LAB0344,Centre d'Analyses de Santa Barbara,Yaoundé,Yaoundé VII,Simbock,3.785494,11.41509,+237 652 630 432,santabarbara@labo.cm,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Dim 08h00–18h00
+LAB0345,Centre d'Analyses de Ngoa-Ekélé,Yaoundé,Yaoundé IV,Ngoa-Ekélé,3.901772,11.430851,+237 655 494 715,ngoa-ekélé@yahoo.fr,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Sam 07h00–20h00
+LAB0346,Laboratoire Lumière,Douala,Douala I,Logbessou,4.090255,9.716153,+237 697 139 174,lumière@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Dim 08h00–18h00
+LAB0347,Laboratoire Harmonie,Yaoundé,Yaoundé VII,Kondengui,3.932539,11.538025,+237 678 833 347,harmonie@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+LAB0348,Laboratoire Ekani,Douala,Douala II,Kotto,4.031157,9.628621,+237 678 791 639,ekani@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Ven 07h30–17h30
+LAB0349,Laboratoire de Akwa,Douala,Douala VI,PK8,4.049805,9.744223,+237 233 095 200,akwa@labo.cm,Oui,Non,Oui,Oui,Non,Non,Oui,Lun–Ven 07h30–17h30
+LAB0350,Laboratoire Simo,Douala,Douala II,Deido,4.109174,9.690766,+237 679 997 267,simo@yahoo.fr,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 08h30–18h30

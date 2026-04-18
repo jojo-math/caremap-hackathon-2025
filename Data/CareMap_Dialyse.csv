@@ -1,0 +1,351 @@
+id,nom,ville,arrondissement,quartier,latitude,longitude,telephone,email,hemodialyse,dialyse_peritoneale,nb_postes_dialyse,seances_par_semaine,consultation_nephrologue,urgences_renales,prise_en_charge_cnps,prise_en_charge_minsante,horaires
+DIA0001,Centre Rénal Nkoa,Yaoundé,Yaoundé II,Nlongkak,3.779823,11.515455,+237 650 140 896,rénalnkoa@hotmail.com,Oui,Non,3,3 séances/semaine,Oui,Non,Non,Oui,Lun–Ven 07h00–19h00
+DIA0002,Centre de Dialyse Saint-Cécile,Douala,Douala V,Bali,4.065117,9.734426,+237 677 121 725,cécile@hotmail.com,Oui,Non,11,3 séances/semaine,Non,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0003,Dialyse Lumière,Douala,Douala II,Bonapriso,3.990417,9.720575,+237 233 785 017,lumière@yahoo.fr,Oui,Oui,6,Sur rendez-vous,Oui,Oui,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0004,Centre de Dialyse de Étoa-Meki,Yaoundé,Yaoundé II,Nsam,3.789256,11.556651,+237 691 626 972,étoa-meki@yahoo.fr,Oui,Non,16,Sur rendez-vous,Non,Non,Oui,Non,Lun–Ven 07h00–19h00
+DIA0005,Centre de Dialyse de Briqueterie,Yaoundé,Yaoundé III,Briqueterie,3.933926,11.49518,+237 678 070 395,briqueterie@yahoo.fr,Oui,Oui,19,3 séances/semaine,Oui,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0006,Centre de Dialyse Saint-Damien,Yaoundé,Yaoundé IV,Etoudi,3.834348,11.412421,+237 695 391 120,damien@gmail.com,Oui,Non,18,3 séances/semaine,Oui,Oui,Oui,Non,7j/7 — 06h00–22h00
+DIA0007,Centre de Dialyse de New Bell,Douala,Douala I,Cité des Palmiers,4.046565,9.659589,+237 650 201 060,newbell@gmail.com,Oui,Non,2,Sur rendez-vous,Non,Non,Non,Non,Lun–Sam 06h00–20h00
+DIA0008,Centre de Dialyse Saint-Pierre,Yaoundé,Yaoundé III,Essos,3.886795,11.483688,+237 651 341 054,pierre@yahoo.fr,Oui,Non,11,3 séances/semaine,Oui,Non,Oui,Non,7j/7 — 07h00–21h00
+DIA0009,Centre de Dialyse de PK14,Douala,Douala VI,Bonanjo,4.116631,9.721838,+237 243 050 674,pk14@dialyse.cm,Oui,Non,12,3 séances/semaine,Oui,Non,Oui,Non,7j/7 — 07h00–21h00
+DIA0010,Centre Rénal Fouda,Yaoundé,Yaoundé II,Olembe,3.751833,11.537414,+237 679 860 938,rénalfouda@hotmail.com,Oui,Non,9,Sur rendez-vous,Oui,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0011,Centre Rénal Nkeng,Douala,Douala IV,Boko,3.984577,9.679432,+237 698 199 036,rénalnkeng@gmail.com,Oui,Non,15,3 séances/semaine,Non,Non,Non,Non,7j/7 — 07h00–21h00
+DIA0012,Centre de Dialyse de Bangue,Douala,Douala IV,Ndokoti,4.017622,9.683398,+237 693 986 181,bangue@hotmail.com,Oui,Non,13,2 séances/semaine,Non,Non,Non,Oui,Lun–Ven 07h00–19h00
+DIA0013,Centre de Dialyse de Ndog-Passi III,Douala,Douala I,Ndoghem,4.084124,9.739773,+237 242 212 198,ndog-passiiii@hotmail.com,Oui,Non,17,3 séances/semaine,Oui,Oui,Oui,Non,7j/7 — 07h00–21h00
+DIA0014,Centre de Néphrologie de Nlongkak,Yaoundé,Yaoundé II,Mimboman,3.943899,11.457594,+237 222 319 891,néphrologienlo@gmail.com,Oui,Non,7,Sur rendez-vous,Non,Non,Non,Oui,Lun–Sam 06h00–20h00
+DIA0015,Centre de Néphrologie de Bassa,Douala,Douala III,Mbanya,4.058151,9.685637,+237 653 678 554,néphrologiebas@yahoo.fr,Oui,Non,7,Sur rendez-vous,Oui,Oui,Non,Oui,7j/7 — 07h00–21h00
+DIA0016,Centre de Néphrologie de Biteng,Yaoundé,Yaoundé II,Obili,3.834853,11.521513,+237 222 458 889,néphrologiebit@gmail.com,Oui,Oui,17,Sur rendez-vous,Oui,Non,Non,Non,Lun–Ven 07h00–19h00
+DIA0017,Centre de Néphrologie de Etoudi,Yaoundé,Yaoundé III,Etoudi,3.858695,11.515946,+237 655 623 834,néphrologieeto@hotmail.com,Oui,Non,14,Sur rendez-vous,Non,Non,Non,Non,7j/7 — 06h00–22h00
+DIA0018,Centre de Dialyse de Mbanya,Douala,Douala III,Koumassi,4.076727,9.683636,+237 654 791 582,mbanya@hotmail.com,Oui,Non,4,Sur rendez-vous,Non,Oui,Non,Non,7j/7 — 07h00–21h00
+DIA0019,Unité de Dialyse Tchoupo,Douala,Douala IV,Youpwé,4.017568,9.760256,+237 222 334 613,unitétchoupo@yahoo.fr,Oui,Oui,17,3 séances/semaine,Oui,Oui,Oui,Oui,7j/7 — 06h00–22h00
+DIA0020,Centre de Dialyse de Ndokoti,Douala,Douala IV,Bessengue,4.05977,9.634244,+237 243 997 998,ndokoti@yahoo.fr,Oui,Non,12,Sur rendez-vous,Oui,Oui,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0021,Centre de Dialyse Saint-Félicité,Yaoundé,Yaoundé IV,Carrière,3.810935,11.598434,+237 653 495 010,félicité@yahoo.fr,Oui,Non,15,2 séances/semaine,Non,Non,Oui,Non,Lun–Ven 07h00–19h00
+DIA0022,Unité de Dialyse Elong,Douala,Douala V,Logbessou,4.022799,9.707359,+237 696 802 082,unitéelong@hotmail.com,Oui,Oui,9,2 séances/semaine,Oui,Non,Non,Oui,Lun–Sam 06h00–20h00
+DIA0023,Dialyse Grâce,Yaoundé,Yaoundé III,Mvog-Beti,3.859637,11.550472,+237 677 231 335,grâce@gmail.com,Oui,Oui,17,2 séances/semaine,Oui,Oui,Non,Oui,7j/7 — 07h00–21h00
+DIA0024,Centre de Dialyse de PK12,Douala,Douala I,Ndoghem,4.038427,9.652504,+237 691 100 470,pk12@dialyse.cm,Oui,Non,5,2 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0025,Centre de Néphrologie de Makepe,Douala,Douala VI,Makepe,4.124378,9.68008,+237 699 687 753,néphrologiemak@dialyse.cm,Oui,Oui,19,Sur rendez-vous,Oui,Non,Oui,Non,7j/7 — 06h00–22h00
+DIA0026,Centre de Néphrologie de Ndoghem,Douala,Douala I,Soboum,3.978035,9.663695,+237 699 049 668,néphrologiendo@dialyse.cm,Oui,Non,5,3 séances/semaine,Oui,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0027,Centre de Dialyse de Obili,Yaoundé,Yaoundé III,Obili,3.7512,11.50759,+237 222 239 895,obili@gmail.com,Oui,Oui,3,3 séances/semaine,Oui,Oui,Oui,Oui,7j/7 — 06h00–22h00
+DIA0028,Unité de Dialyse Nkoa,Yaoundé,Yaoundé VI,Ekounou,3.906053,11.520744,+237 233 052 860,uniténkoa@yahoo.fr,Oui,Oui,17,2 séances/semaine,Oui,Oui,Non,Oui,Lun–Ven 07h00–19h00
+DIA0029,Centre de Néphrologie de Soboum,Douala,Douala III,PK17,3.986606,9.666429,+237 652 132 070,néphrologiesob@dialyse.cm,Oui,Non,14,Sur rendez-vous,Oui,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0030,Centre de Dialyse de Bepanda,Douala,Douala II,Bepanda,4.061919,9.786833,+237 233 747 242,bepanda@dialyse.cm,Oui,Non,15,3 séances/semaine,Non,Oui,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0031,Unité de Dialyse Ondoa,Douala,Douala II,Village,4.057069,9.732032,+237 677 628 617,unitéondoa@gmail.com,Oui,Non,4,3 séances/semaine,Non,Non,Non,Non,7j/7 — 06h00–22h00
+DIA0032,Centre de Dialyse de Simbock,Yaoundé,Yaoundé II,Simbock,3.838451,11.596578,+237 243 716 933,simbock@gmail.com,Oui,Non,20,Sur rendez-vous,Oui,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0033,Centre de Dialyse de Mbanya,Douala,Douala IV,Boko,4.04886,9.775339,+237 693 677 519,mbanya@hotmail.com,Oui,Non,16,3 séances/semaine,Oui,Oui,Non,Non,Lun–Ven 07h00–19h00
+DIA0034,Dialyse Bonheur,Douala,Douala IV,Ndoghem,4.104187,9.776883,+237 695 535 878,bonheur@hotmail.com,Oui,Non,11,Sur rendez-vous,Non,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0035,Centre de Dialyse de PK8,Douala,Douala II,PK8,3.963921,9.696818,+237 694 579 898,pk8@gmail.com,Oui,Non,3,2 séances/semaine,Oui,Oui,Oui,Oui,7j/7 — 07h00–21h00
+DIA0036,Centre de Néphrologie de Mimboman,Yaoundé,Yaoundé VI,Mimboman,3.912758,11.487481,+237 233 385 224,néphrologiemim@dialyse.cm,Oui,Oui,13,3 séances/semaine,Oui,Non,Non,Non,Lun–Sam 06h00–20h00
+DIA0037,Dialyse Providence,Douala,Douala VI,PK14,3.967679,9.67577,+237 652 472 357,providence@dialyse.cm,Oui,Non,9,3 séances/semaine,Oui,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0038,Centre de Dialyse de Nsam,Yaoundé,Yaoundé V,Nsam,3.793926,11.523945,+237 243 443 420,nsam@dialyse.cm,Oui,Non,4,Sur rendez-vous,Non,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0039,Centre de Dialyse de Bali,Douala,Douala III,Akwa,4.00115,9.729808,+237 222 101 184,bali@yahoo.fr,Oui,Non,19,Sur rendez-vous,Oui,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0040,Centre de Dialyse de Bonanjo,Douala,Douala III,Ndogbong,4.04105,9.657717,+237 233 725 077,bonanjo@gmail.com,Oui,Non,19,2 séances/semaine,Non,Oui,Non,Oui,Lun–Sam 06h00–20h00
+DIA0041,Unité de Dialyse Owona,Douala,Douala III,Bonamoussadi,4.047311,9.669745,+237 679 742 459,unitéowona@dialyse.cm,Oui,Oui,5,Sur rendez-vous,Oui,Oui,Non,Non,Lun–Sam 06h00–20h00
+DIA0042,Centre de Néphrologie de PK12,Douala,Douala V,PK10,4.023958,9.628407,+237 699 916 254,néphrologiepk1@gmail.com,Oui,Non,18,2 séances/semaine,Oui,Oui,Non,Non,Lun–Ven 07h00–19h00
+DIA0043,Centre de Néphrologie de Bangue,Douala,Douala VI,Nyalla,4.033064,9.691614,+237 691 810 271,néphrologieban@gmail.com,Oui,Oui,19,2 séances/semaine,Oui,Oui,Oui,Non,7j/7 — 07h00–21h00
+DIA0044,Unité de Dialyse Kamga,Douala,Douala III,Japoma,3.994245,9.690432,+237 691 571 104,unitékamga@gmail.com,Oui,Non,18,2 séances/semaine,Oui,Oui,Oui,Non,Lun–Sam 06h00–20h00
+DIA0045,Centre de Dialyse de Bessengue,Douala,Douala III,Nkongmondo,4.087132,9.672992,+237 653 370 004,bessengue@yahoo.fr,Oui,Non,12,2 séances/semaine,Non,Oui,Non,Oui,Lun–Ven 07h00–19h00
+DIA0046,Centre de Dialyse Saint-Augustin,Douala,Douala V,Village,4.089211,9.725502,+237 691 765 314,augustin@dialyse.cm,Oui,Oui,20,Sur rendez-vous,Oui,Oui,Non,Oui,7j/7 — 06h00–22h00
+DIA0047,Centre Rénal Feudjio,Yaoundé,Yaoundé III,Mvog-Beti,3.901434,11.594807,+237 650 022 312,rénalfeudjio@yahoo.fr,Oui,Non,10,2 séances/semaine,Oui,Non,Oui,Non,Lun–Ven 07h00–19h00
+DIA0048,Centre de Néphrologie de Étoa-Meki,Yaoundé,Yaoundé III,Mokolo,3.786668,11.446438,+237 690 265 926,néphrologieéto@yahoo.fr,Oui,Oui,12,2 séances/semaine,Oui,Oui,Non,Oui,7j/7 — 07h00–21h00
+DIA0049,Centre Rénal Simo,Yaoundé,Yaoundé IV,Essos,3.80735,11.427326,+237 655 337 227,rénalsimo@yahoo.fr,Oui,Non,15,3 séances/semaine,Oui,Non,Non,Non,Lun–Ven 07h00–19h00
+DIA0050,Centre de Dialyse de Ndokoti,Douala,Douala VI,Ndokoti,4.043985,9.719533,+237 694 217 983,ndokoti@dialyse.cm,Oui,Oui,8,2 séances/semaine,Oui,Non,Oui,Non,Lun–Sam 06h00–20h00
+DIA0051,Centre de Dialyse de Boko,Douala,Douala I,Bali,4.079634,9.719872,+237 694 391 298,boko@gmail.com,Oui,Non,11,Sur rendez-vous,Oui,Non,Non,Oui,Lun–Ven 07h00–19h00
+DIA0052,Centre Rénal Mvogo,Yaoundé,Yaoundé VI,Efoulan,3.896768,11.591518,+237 692 309 418,rénalmvogo@hotmail.com,Oui,Non,15,3 séances/semaine,Non,Oui,Non,Non,Lun–Ven 07h00–19h00
+DIA0053,Unité de Dialyse Ekani,Douala,Douala VI,Nyalla,4.103204,9.760398,+237 694 886 994,unitéekani@dialyse.cm,Oui,Non,17,2 séances/semaine,Oui,Oui,Non,Non,Lun–Ven 07h00–19h00
+DIA0054,Centre Rénal Ndjock,Yaoundé,Yaoundé VI,Nkolbisson,3.92408,11.440227,+237 655 357 384,rénalndjock@hotmail.com,Oui,Oui,4,2 séances/semaine,Non,Oui,Non,Non,7j/7 — 06h00–22h00
+DIA0055,Centre de Dialyse Saint-Cyprien,Yaoundé,Yaoundé V,Efoulan,3.855633,11.432907,+237 222 014 657,cyprien@dialyse.cm,Oui,Non,11,3 séances/semaine,Non,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0056,Centre de Dialyse de Carrière,Yaoundé,Yaoundé VI,Carrière,3.814118,11.490447,+237 655 461 874,carrière@gmail.com,Oui,Non,18,Sur rendez-vous,Non,Oui,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0057,Unité de Dialyse Biyiti,Yaoundé,Yaoundé V,Nkoabang,3.834729,11.582463,+237 691 264 054,unitébiyiti@yahoo.fr,Oui,Non,7,2 séances/semaine,Non,Oui,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0058,Dialyse Progrès,Douala,Douala II,PK14,4.089011,9.645079,+237 655 454 758,progrès@gmail.com,Oui,Non,9,3 séances/semaine,Non,Oui,Oui,Non,7j/7 — 06h00–22h00
+DIA0059,Centre de Dialyse de Bassa,Douala,Douala I,Mbanya,4.085077,9.642922,+237 693 517 831,bassa@dialyse.cm,Oui,Non,4,3 séances/semaine,Oui,Oui,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0060,Centre de Néphrologie de Ndokoti,Douala,Douala I,Akwa,4.118019,9.724069,+237 652 106 332,néphrologiendo@hotmail.com,Oui,Non,11,3 séances/semaine,Non,Oui,Oui,Oui,7j/7 — 06h00–22h00
+DIA0061,Centre de Néphrologie de Ndog-Passi III,Douala,Douala IV,Ndogbong,3.976044,9.660176,+237 698 327 794,néphrologiendo@hotmail.com,Oui,Oui,13,2 séances/semaine,Non,Non,Oui,Non,Lun–Sam 06h00–20h00
+DIA0062,Centre de Dialyse de Odza,Yaoundé,Yaoundé IV,Odza,3.798345,11.453409,+237 243 003 973,odza@yahoo.fr,Oui,Non,16,2 séances/semaine,Oui,Oui,Oui,Non,Lun–Sam 06h00–20h00
+DIA0063,Centre de Néphrologie de Mvog-Beti,Yaoundé,Yaoundé V,Mendong,3.860171,11.459949,+237 677 045 188,néphrologiemvo@gmail.com,Oui,Non,4,Sur rendez-vous,Non,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0064,Centre Rénal Kamga,Douala,Douala II,Ndog-Bong,4.080838,9.701054,+237 694 834 417,rénalkamga@gmail.com,Oui,Non,14,2 séances/semaine,Oui,Oui,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0065,Unité de Dialyse Eba,Yaoundé,Yaoundé II,Efoulan,3.753212,11.486236,+237 652 122 911,unitéeba@gmail.com,Oui,Non,4,3 séances/semaine,Oui,Oui,Oui,Non,7j/7 — 06h00–22h00
+DIA0066,Centre Rénal Djoumbi,Douala,Douala VI,Soboum,4.11931,9.717022,+237 222 716 469,rénaldjoumbi@yahoo.fr,Oui,Non,17,Sur rendez-vous,Oui,Non,Oui,Non,Lun–Ven 07h00–19h00
+DIA0067,Centre de Dialyse de Cité des Palmiers,Douala,Douala III,Koumassi,4.112234,9.645327,+237 692 835 847,citédespalmier@gmail.com,Oui,Non,17,2 séances/semaine,Non,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0068,Centre de Néphrologie de PK17,Douala,Douala I,Nzeng-Ayong,4.000257,9.763108,+237 693 912 466,néphrologiepk1@hotmail.com,Oui,Non,15,2 séances/semaine,Non,Oui,Non,Oui,7j/7 — 07h00–21h00
+DIA0069,Centre de Néphrologie de Elig-Essono,Yaoundé,Yaoundé VII,Elig-Essono,3.873922,11.518769,+237 694 796 129,néphrologieeli@hotmail.com,Oui,Non,4,Sur rendez-vous,Oui,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0070,Centre de Néphrologie de Mvog-Atangana,Yaoundé,Yaoundé IV,Mvog-Atangana,3.889267,11.49349,+237 697 116 654,néphrologiemvo@hotmail.com,Oui,Non,6,Sur rendez-vous,Oui,Oui,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0071,Unité de Dialyse Nlend,Yaoundé,Yaoundé VII,Mvog-Beti,3.797676,11.470935,+237 222 725 507,uniténlend@dialyse.cm,Oui,Oui,15,Sur rendez-vous,Oui,Non,Non,Oui,Lun–Sam 06h00–20h00
+DIA0072,Centre de Dialyse de Mvan,Yaoundé,Yaoundé III,Mvan,3.827025,11.459454,+237 691 934 691,mvan@gmail.com,Oui,Oui,7,Sur rendez-vous,Non,Non,Oui,Non,Lun–Ven 07h00–19h00
+DIA0073,Centre Rénal Assamba,Yaoundé,Yaoundé VI,Carrière,3.888856,11.519015,+237 693 754 310,rénalassamba@yahoo.fr,Oui,Oui,18,2 séances/semaine,Oui,Oui,Non,Non,7j/7 — 06h00–22h00
+DIA0074,Centre de Dialyse Saint-Bruno,Yaoundé,Yaoundé III,Essos,3.83252,11.579893,+237 655 512 242,bruno@gmail.com,Oui,Oui,20,2 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0075,Centre de Dialyse Saint-Marie,Douala,Douala I,Bali,4.025434,9.688078,+237 654 715 686,marie@hotmail.com,Oui,Oui,16,Sur rendez-vous,Oui,Non,Oui,Non,Lun–Ven 07h00–19h00
+DIA0076,Unité de Dialyse Abega,Yaoundé,Yaoundé II,Nlongkak,3.847598,11.52157,+237 694 541 361,unitéabega@gmail.com,Oui,Oui,13,Sur rendez-vous,Non,Non,Non,Oui,Lun–Sam 06h00–20h00
+DIA0077,Centre de Dialyse Saint-Joachim,Yaoundé,Yaoundé V,Efoulan,3.92941,11.451862,+237 694 721 019,joachim@gmail.com,Oui,Oui,3,3 séances/semaine,Oui,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0078,Centre de Dialyse de Efoulan,Yaoundé,Yaoundé II,Elig-Essono,3.798098,11.494266,+237 222 910 142,efoulan@dialyse.cm,Oui,Non,11,3 séances/semaine,Oui,Oui,Oui,Non,7j/7 — 07h00–21h00
+DIA0079,Unité de Dialyse Mbassi,Douala,Douala V,Bonanjo,4.016291,9.789999,+237 651 629 193,unitémbassi@hotmail.com,Oui,Non,12,3 séances/semaine,Oui,Non,Non,Non,Lun–Sam 06h00–20h00
+DIA0080,Centre de Dialyse Saint-Marc,Yaoundé,Yaoundé V,Nkoabang,3.787039,11.460653,+237 653 955 762,marc@yahoo.fr,Oui,Non,14,2 séances/semaine,Non,Non,Non,Non,Lun–Ven 07h00–19h00
+DIA0081,Centre de Néphrologie de Sodiko,Douala,Douala I,Sodiko,3.994941,9.644345,+237 233 798 433,néphrologiesod@gmail.com,Oui,Non,18,Sur rendez-vous,Non,Oui,Non,Oui,Lun–Ven 07h00–19h00
+DIA0082,Centre de Dialyse Saint-François,Douala,Douala I,Ndogbong,4.054281,9.773332,+237 699 250 490,françois@gmail.com,Oui,Non,17,2 séances/semaine,Oui,Non,Oui,Non,Lun–Ven 07h00–19h00
+DIA0083,Centre de Dialyse de Nzeng-Ayong,Douala,Douala II,Bangue,4.031122,9.63622,+237 695 981 623,nzeng-ayong@gmail.com,Oui,Oui,16,3 séances/semaine,Oui,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0084,Unité de Dialyse Ndoumbe,Yaoundé,Yaoundé III,Ngousso,3.893862,11.453932,+237 653 988 724,uniténdoumbe@dialyse.cm,Oui,Non,5,2 séances/semaine,Non,Non,Non,Non,Lun–Ven 07h00–19h00
+DIA0085,Centre Rénal Tchoupo,Yaoundé,Yaoundé II,Nlongkak,3.793966,11.423928,+237 678 496 148,rénaltchoupo@dialyse.cm,Oui,Oui,16,3 séances/semaine,Oui,Oui,Non,Oui,Lun–Sam 06h00–20h00
+DIA0086,Centre Rénal Manga,Douala,Douala IV,Bepanda,3.976708,9.693604,+237 695 005 825,rénalmanga@hotmail.com,Oui,Oui,3,3 séances/semaine,Non,Oui,Non,Oui,Lun–Sam 06h00–20h00
+DIA0087,Centre Rénal Fotso,Douala,Douala III,Kotto,4.037019,9.744456,+237 652 768 781,rénalfotso@gmail.com,Oui,Oui,5,3 séances/semaine,Oui,Non,Non,Non,Lun–Sam 06h00–20h00
+DIA0088,Centre de Dialyse Saint-Marc,Douala,Douala I,Bonaloka,3.996198,9.731868,+237 679 829 771,marc@dialyse.cm,Oui,Non,3,Sur rendez-vous,Oui,Non,Oui,Non,Lun–Sam 06h00–20h00
+DIA0089,Centre de Néphrologie de Cité Verte,Yaoundé,Yaoundé VI,Cité Verte,3.832454,11.598214,+237 696 775 674,néphrologiecit@yahoo.fr,Oui,Non,13,3 séances/semaine,Oui,Oui,Oui,Non,7j/7 — 06h00–22h00
+DIA0090,Centre de Dialyse de Essos,Yaoundé,Yaoundé IV,Essos,3.892741,11.422488,+237 698 985 030,essos@hotmail.com,Oui,Oui,13,2 séances/semaine,Non,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0091,Centre de Dialyse Saint-Paul,Douala,Douala V,PK17,4.104723,9.694484,+237 679 515 516,paul@dialyse.cm,Oui,Non,9,2 séances/semaine,Oui,Oui,Non,Oui,7j/7 — 07h00–21h00
+DIA0092,Centre de Dialyse de Etoudi,Yaoundé,Yaoundé VI,Etoudi,3.836051,11.528184,+237 696 908 194,etoudi@hotmail.com,Oui,Oui,16,2 séances/semaine,Oui,Oui,Non,Non,Lun–Sam 06h00–20h00
+DIA0093,Centre de Néphrologie de Omnisports,Yaoundé,Yaoundé V,Olembe,3.748124,11.464956,+237 691 434 418,néphrologieomn@gmail.com,Oui,Non,8,Sur rendez-vous,Oui,Non,Non,Non,Lun–Sam 06h00–20h00
+DIA0094,Centre de Néphrologie de Youpwé,Douala,Douala IV,Ndogpassi,4.056182,9.770148,+237 690 327 557,néphrologieyou@gmail.com,Oui,Oui,15,2 séances/semaine,Non,Oui,Oui,Oui,7j/7 — 06h00–22h00
+DIA0095,Centre Rénal Zang,Yaoundé,Yaoundé VI,Omnisports,3.874587,11.426949,+237 694 537 965,rénalzang@dialyse.cm,Oui,Non,13,Sur rendez-vous,Oui,Non,Non,Non,7j/7 — 07h00–21h00
+DIA0096,Centre de Dialyse de Nyalla,Douala,Douala IV,Nyalla,3.981561,9.760409,+237 677 864 645,nyalla@hotmail.com,Oui,Oui,15,3 séances/semaine,Non,Non,Non,Non,Lun–Sam 06h00–20h00
+DIA0097,Dialyse Bien-être,Yaoundé,Yaoundé VI,Mendong,3.800884,11.57382,+237 243 011 377,bien-être@hotmail.com,Oui,Non,6,Sur rendez-vous,Non,Oui,Non,Oui,7j/7 — 07h00–21h00
+DIA0098,Centre de Néphrologie de Nzeng-Ayong,Douala,Douala IV,Bonanjo,3.993761,9.744783,+237 694 352 891,néphrologienze@hotmail.com,Oui,Oui,18,Sur rendez-vous,Non,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0099,Centre de Néphrologie de Bonanjo,Douala,Douala V,Cité des Palmiers,4.006503,9.736886,+237 678 947 160,néphrologiebon@gmail.com,Oui,Oui,19,2 séances/semaine,Oui,Oui,Oui,Non,7j/7 — 06h00–22h00
+DIA0100,Centre de Dialyse Saint-Claire,Douala,Douala V,Ndog-Bong,3.966907,9.714321,+237 243 190 500,claire@yahoo.fr,Oui,Non,20,2 séances/semaine,Oui,Oui,Non,Oui,Lun–Sam 06h00–20h00
+DIA0101,Centre de Néphrologie de Carrière,Yaoundé,Yaoundé VI,Carrière,3.803536,11.512534,+237 698 104 750,néphrologiecar@yahoo.fr,Oui,Non,7,3 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0102,Dialyse Espoir,Yaoundé,Yaoundé II,Cité Verte,3.801049,11.585601,+237 654 184 109,espoir@hotmail.com,Oui,Oui,10,2 séances/semaine,Oui,Oui,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0103,Centre de Néphrologie de Nsam,Yaoundé,Yaoundé IV,Nsam,3.798344,11.495053,+237 651 857 495,néphrologiensa@gmail.com,Oui,Non,17,Sur rendez-vous,Oui,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0104,Dialyse Providence,Yaoundé,Yaoundé V,Ngoa-Ekélé,3.769671,11.466672,+237 694 722 907,providence@yahoo.fr,Oui,Oui,4,Sur rendez-vous,Oui,Oui,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0105,Centre de Dialyse Saint-Gabriel,Yaoundé,Yaoundé II,Efoulan,3.932631,11.534139,+237 699 784 388,gabriel@yahoo.fr,Oui,Oui,4,2 séances/semaine,Non,Oui,Oui,Oui,7j/7 — 06h00–22h00
+DIA0106,Centre de Dialyse Saint-Jeanne,Douala,Douala VI,Bonaloka,4.047177,9.701988,+237 695 633 414,jeanne@hotmail.com,Oui,Oui,15,3 séances/semaine,Oui,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0107,Centre de Néphrologie de Japoma,Douala,Douala I,Bangue,4.022699,9.676203,+237 655 879 181,néphrologiejap@yahoo.fr,Oui,Non,19,Sur rendez-vous,Oui,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0108,Unité de Dialyse Mbassi,Yaoundé,Yaoundé VI,Mvog-Beti,3.765323,11.518416,+237 692 780 744,unitémbassi@dialyse.cm,Oui,Non,4,3 séances/semaine,Non,Non,Non,Oui,7j/7 — 07h00–21h00
+DIA0109,Centre Rénal Onana,Yaoundé,Yaoundé VI,Melen,3.764957,11.505001,+237 655 177 188,rénalonana@hotmail.com,Oui,Non,15,Sur rendez-vous,Non,Non,Non,Oui,Lun–Ven 07h00–19h00
+DIA0110,Unité de Dialyse Assamba,Douala,Douala VI,Bassa,4.12724,9.742894,+237 679 511 509,unitéassamba@gmail.com,Oui,Non,8,3 séances/semaine,Oui,Oui,Oui,Non,Lun–Ven 07h00–19h00
+DIA0111,Unité de Dialyse Elong,Douala,Douala VI,Village,4.096941,9.723952,+237 691 069 330,unitéelong@gmail.com,Oui,Non,18,Sur rendez-vous,Non,Oui,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0112,Centre de Dialyse Saint-Jean,Douala,Douala II,Bonamoussadi,4.092126,9.690924,+237 233 371 320,jean@yahoo.fr,Oui,Oui,15,3 séances/semaine,Oui,Non,Non,Oui,Lun–Sam 06h00–20h00
+DIA0113,Centre de Néphrologie de Obili,Yaoundé,Yaoundé VII,Mvog-Ada,3.835111,11.407536,+237 694 538 903,néphrologieobi@hotmail.com,Oui,Non,11,2 séances/semaine,Non,Oui,Oui,Non,Lun–Sam 06h00–20h00
+DIA0114,Centre de Néphrologie de Essos,Yaoundé,Yaoundé II,Elig-Essono,3.854774,11.398873,+237 697 447 758,néphrologieess@hotmail.com,Oui,Non,15,2 séances/semaine,Oui,Oui,Non,Non,Lun–Ven 07h00–19h00
+DIA0115,Unité de Dialyse Ndoumbe,Douala,Douala IV,Akwa,4.054967,9.730462,+237 654 949 697,uniténdoumbe@yahoo.fr,Oui,Oui,20,Sur rendez-vous,Non,Non,Oui,Non,Lun–Ven 07h00–19h00
+DIA0116,Centre Rénal Ateba,Yaoundé,Yaoundé VI,Etoudi,3.873163,11.547715,+237 222 600 272,rénalateba@hotmail.com,Oui,Oui,18,3 séances/semaine,Non,Non,Non,Non,7j/7 — 07h00–21h00
+DIA0117,Centre de Dialyse Saint-Augustin,Yaoundé,Yaoundé I,Mvog-Ada,3.832436,11.529061,+237 677 544 710,augustin@hotmail.com,Oui,Non,15,Sur rendez-vous,Oui,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0118,Centre de Dialyse de Sodiko,Douala,Douala II,Sodiko,4.068625,9.643276,+237 677 975 490,sodiko@yahoo.fr,Oui,Non,18,2 séances/semaine,Oui,Oui,Oui,Non,7j/7 — 07h00–21h00
+DIA0119,Dialyse Confiance,Yaoundé,Yaoundé VII,Melen,3.924669,11.563231,+237 655 180 637,confiance@yahoo.fr,Oui,Oui,13,Sur rendez-vous,Oui,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0120,Centre de Dialyse de Mvog-Ada,Yaoundé,Yaoundé VII,Mvog-Ada,3.940075,11.491356,+237 655 904 514,mvog-ada@gmail.com,Oui,Non,20,3 séances/semaine,Oui,Non,Non,Oui,7j/7 — 07h00–21h00
+DIA0121,Unité de Dialyse Tchoupo,Douala,Douala I,Nkongmondo,4.066161,9.636289,+237 242 566 605,unitétchoupo@hotmail.com,Oui,Non,15,2 séances/semaine,Oui,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0122,Centre Rénal Nkoa,Yaoundé,Yaoundé IV,Mvog-Mbi,3.886256,11.50558,+237 650 524 142,rénalnkoa@yahoo.fr,Oui,Non,7,3 séances/semaine,Oui,Non,Oui,Non,7j/7 — 07h00–21h00
+DIA0123,Centre de Dialyse Saint-Cécile,Douala,Douala VI,Mbanya,4.04756,9.711924,+237 654 754 162,cécile@yahoo.fr,Oui,Non,4,3 séances/semaine,Non,Oui,Oui,Oui,7j/7 — 07h00–21h00
+DIA0124,Centre de Dialyse Saint-André,Yaoundé,Yaoundé I,Nkolbisson,3.81834,11.544146,+237 678 389 383,andré@dialyse.cm,Oui,Non,19,Sur rendez-vous,Oui,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0125,Centre de Néphrologie de Nkoldongo,Yaoundé,Yaoundé VII,Nkoldongo,3.778316,11.448135,+237 677 111 473,néphrologienko@dialyse.cm,Oui,Oui,18,2 séances/semaine,Non,Non,Non,Oui,7j/7 — 07h00–21h00
+DIA0126,Centre de Dialyse de Mboppi,Douala,Douala V,Mbanya,4.015903,9.761049,+237 652 015 394,mboppi@hotmail.com,Oui,Non,14,3 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0127,Unité de Dialyse Tabi,Yaoundé,Yaoundé VII,Ekounou,3.781741,11.510063,+237 696 625 293,unitétabi@hotmail.com,Oui,Oui,20,3 séances/semaine,Non,Oui,Non,Oui,Lun–Ven 07h00–19h00
+DIA0128,Centre de Dialyse de Youpwé,Douala,Douala II,New Bell,4.035301,9.634555,+237 654 946 561,youpwé@hotmail.com,Oui,Non,12,3 séances/semaine,Oui,Oui,Non,Oui,7j/7 — 06h00–22h00
+DIA0129,Centre de Dialyse de Cité des Palmiers,Douala,Douala II,Cité des Palmiers,4.100022,9.680148,+237 694 933 570,citédespalmier@yahoo.fr,Oui,Non,12,Sur rendez-vous,Non,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0130,Centre de Néphrologie de Biyem-Assi,Yaoundé,Yaoundé IV,Mimboman,3.839627,11.397799,+237 654 292 213,néphrologiebiy@hotmail.com,Oui,Non,16,3 séances/semaine,Oui,Oui,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0131,Unité de Dialyse Abega,Douala,Douala VI,PK10,4.01376,9.68518,+237 690 869 748,unitéabega@dialyse.cm,Oui,Non,11,3 séances/semaine,Non,Non,Oui,Non,Lun–Sam 06h00–20h00
+DIA0132,Centre de Néphrologie de Mokolo,Yaoundé,Yaoundé V,Mokolo,3.895404,11.53079,+237 679 261 210,néphrologiemok@yahoo.fr,Oui,Oui,20,2 séances/semaine,Non,Oui,Oui,Non,Lun–Sam 06h00–20h00
+DIA0133,Centre de Dialyse de Djoungolo,Yaoundé,Yaoundé II,Simbock,3.942723,11.485354,+237 695 806 423,djoungolo@hotmail.com,Oui,Oui,18,2 séances/semaine,Oui,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0134,Centre de Dialyse de Japoma,Douala,Douala III,Village,4.111968,9.76901,+237 653 371 149,japoma@dialyse.cm,Oui,Non,8,Sur rendez-vous,Oui,Non,Non,Non,7j/7 — 06h00–22h00
+DIA0135,Centre Rénal Ndoumbe,Yaoundé,Yaoundé VI,Essos,3.841315,11.468893,+237 651 634 594,rénalndoumbe@yahoo.fr,Oui,Non,12,3 séances/semaine,Oui,Oui,Non,Non,7j/7 — 07h00–21h00
+DIA0136,Unité de Dialyse Kuitche,Yaoundé,Yaoundé IV,Biteng,3.890119,11.481753,+237 693 333 426,unitékuitche@hotmail.com,Oui,Non,13,3 séances/semaine,Oui,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0137,Centre de Dialyse Saint-Anne,Douala,Douala VI,Bonanjo,3.966454,9.69058,+237 243 579 915,anne@dialyse.cm,Oui,Oui,14,3 séances/semaine,Oui,Non,Oui,Non,Lun–Sam 06h00–20h00
+DIA0138,Centre de Néphrologie de Bonaloka,Douala,Douala IV,Bonaloka,4.070474,9.721484,+237 650 655 578,néphrologiebon@dialyse.cm,Oui,Oui,12,3 séances/semaine,Non,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0139,Centre de Dialyse Saint-Dominique,Yaoundé,Yaoundé I,Odza,3.905891,11.421542,+237 698 375 333,dominique@hotmail.com,Oui,Non,15,2 séances/semaine,Oui,Non,Non,Non,7j/7 — 06h00–22h00
+DIA0140,Unité de Dialyse Essomba,Yaoundé,Yaoundé VI,Ngoa-Ekélé,3.930551,11.450617,+237 694 927 139,unitéessomba@yahoo.fr,Oui,Non,12,2 séances/semaine,Oui,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0141,Centre de Dialyse de Deido,Douala,Douala I,Bonanjo,4.050655,9.63957,+237 695 095 186,deido@dialyse.cm,Oui,Oui,18,2 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0142,Unité de Dialyse Simo,Douala,Douala IV,Ndog-Passi III,4.016283,9.74361,+237 696 692 321,unitésimo@yahoo.fr,Oui,Non,13,3 séances/semaine,Oui,Non,Non,Oui,Lun–Ven 07h00–19h00
+DIA0143,Centre de Dialyse de Ndogbong,Douala,Douala VI,Mboppi,3.994099,9.69816,+237 697 435 899,ndogbong@dialyse.cm,Oui,Non,4,2 séances/semaine,Non,Non,Oui,Non,Lun–Sam 06h00–20h00
+DIA0144,Centre de Dialyse de Koumassi,Douala,Douala IV,Koumassi,3.97243,9.701848,+237 698 712 656,koumassi@gmail.com,Oui,Oui,13,Sur rendez-vous,Oui,Non,Non,Oui,Lun–Ven 07h00–19h00
+DIA0145,Centre de Néphrologie de Ndoghem,Douala,Douala VI,Ndoghem,4.01586,9.635074,+237 651 436 309,néphrologiendo@gmail.com,Oui,Oui,18,Sur rendez-vous,Oui,Non,Non,Non,7j/7 — 06h00–22h00
+DIA0146,Centre de Dialyse de Nzeng-Ayong,Douala,Douala III,Japoma,4.09909,9.678077,+237 693 750 478,nzeng-ayong@dialyse.cm,Oui,Non,7,Sur rendez-vous,Oui,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0147,Centre de Dialyse de Ndoghem,Douala,Douala I,Nkongmondo,4.011042,9.773826,+237 655 875 665,ndoghem@yahoo.fr,Oui,Non,18,Sur rendez-vous,Non,Oui,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0148,Centre de Dialyse de Mokolo,Yaoundé,Yaoundé V,Mokolo,3.764121,11.549793,+237 697 832 275,mokolo@hotmail.com,Oui,Non,17,2 séances/semaine,Oui,Oui,Non,Oui,Lun–Sam 06h00–20h00
+DIA0149,Centre de Néphrologie de Ndogpassi,Douala,Douala I,Bangue,4.026419,9.750567,+237 233 898 555,néphrologiendo@hotmail.com,Oui,Non,9,Sur rendez-vous,Oui,Oui,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0150,Centre Rénal Belinga,Yaoundé,Yaoundé I,Djoungolo,3.786898,11.471596,+237 652 007 402,rénalbelinga@yahoo.fr,Oui,Non,2,3 séances/semaine,Oui,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0151,Unité de Dialyse Fotso,Douala,Douala VI,Soboum,4.031381,9.653953,+237 653 795 534,unitéfotso@yahoo.fr,Oui,Non,15,Sur rendez-vous,Non,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0152,Centre de Dialyse Saint-Marie,Yaoundé,Yaoundé VI,Ngoa-Ekélé,3.82778,11.472012,+237 697 073 433,marie@yahoo.fr,Oui,Non,13,Sur rendez-vous,Oui,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0153,Unité de Dialyse Moussa,Yaoundé,Yaoundé IV,Mvog-Atangana,3.917818,11.563643,+237 691 387 684,unitémoussa@gmail.com,Oui,Non,5,3 séances/semaine,Oui,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0154,Centre de Dialyse de Mvog-Mbi,Yaoundé,Yaoundé IV,Mvog-Mbi,3.879825,11.416785,+237 677 269 605,mvog-mbi@hotmail.com,Oui,Non,9,Sur rendez-vous,Oui,Oui,Non,Non,7j/7 — 07h00–21h00
+DIA0155,Centre de Dialyse de Bonanjo,Douala,Douala III,Nkongmondo,3.976719,9.658363,+237 698 097 490,bonanjo@gmail.com,Oui,Non,17,2 séances/semaine,Non,Oui,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0156,Centre de Néphrologie de Nkol-Afeme,Yaoundé,Yaoundé III,Nkol-Afeme,3.856093,11.4514,+237 233 971 252,néphrologienko@yahoo.fr,Oui,Non,17,Sur rendez-vous,Oui,Oui,Non,Oui,Lun–Ven 07h00–19h00
+DIA0157,Centre de Néphrologie de Bonapriso,Douala,Douala III,Bonamoussadi,4.04536,9.673207,+237 653 683 683,néphrologiebon@yahoo.fr,Oui,Non,12,Sur rendez-vous,Oui,Non,Non,Non,7j/7 — 06h00–22h00
+DIA0158,Dialyse Bonheur,Yaoundé,Yaoundé VII,Nkoldongo,3.916336,11.539823,+237 650 793 883,bonheur@dialyse.cm,Oui,Oui,10,3 séances/semaine,Oui,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0159,Centre de Néphrologie de Bessengue,Douala,Douala IV,Bepanda,4.019617,9.627906,+237 651 052 669,néphrologiebes@yahoo.fr,Oui,Non,2,3 séances/semaine,Oui,Oui,Non,Oui,Lun–Sam 06h00–20h00
+DIA0160,Centre de Néphrologie de Mbanya,Douala,Douala III,Deido,4.100287,9.742423,+237 242 569 943,néphrologiemba@gmail.com,Oui,Oui,19,3 séances/semaine,Non,Oui,Oui,Oui,7j/7 — 06h00–22h00
+DIA0161,Centre de Néphrologie de Émana,Yaoundé,Yaoundé V,Mvog-Ada,3.780316,11.55734,+237 695 984 906,néphrologieéma@dialyse.cm,Oui,Oui,5,3 séances/semaine,Oui,Non,Non,Oui,Lun–Sam 06h00–20h00
+DIA0162,Centre de Dialyse de Bassa,Douala,Douala I,Bepanda,4.13999,9.707624,+237 679 474 013,bassa@hotmail.com,Oui,Non,2,3 séances/semaine,Oui,Non,Non,Oui,Lun–Ven 07h00–19h00
+DIA0163,Centre de Dialyse Saint-Joachim,Douala,Douala III,Akwa,3.981541,9.728209,+237 233 902 611,joachim@hotmail.com,Oui,Oui,16,3 séances/semaine,Oui,Non,Non,Non,Lun–Ven 07h00–19h00
+DIA0164,Centre de Dialyse Saint-Joseph,Douala,Douala VI,Bonanjo,4.078592,9.713345,+237 691 798 846,joseph@dialyse.cm,Oui,Non,15,Sur rendez-vous,Non,Oui,Oui,Non,7j/7 — 07h00–21h00
+DIA0165,Centre de Néphrologie de Ndog-Bong,Douala,Douala I,Bepanda,4.050812,9.790562,+237 692 414 910,néphrologiendo@gmail.com,Oui,Oui,5,2 séances/semaine,Non,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0166,Centre Rénal Owona,Yaoundé,Yaoundé IV,Kondengui,3.827142,11.500078,+237 242 921 166,rénalowona@hotmail.com,Oui,Non,10,2 séances/semaine,Oui,Non,Non,Non,Lun–Ven 07h00–19h00
+DIA0167,Centre Rénal Ondoa,Yaoundé,Yaoundé II,Ekounou,3.876409,11.51263,+237 243 121 010,rénalondoa@hotmail.com,Oui,Non,10,2 séances/semaine,Oui,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0168,Centre de Dialyse de PK12,Douala,Douala II,PK12,4.102277,9.774024,+237 233 571 286,pk12@dialyse.cm,Oui,Oui,6,3 séances/semaine,Oui,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0169,Dialyse Lumière,Yaoundé,Yaoundé II,Bastos,3.74922,11.501329,+237 233 891 243,lumière@dialyse.cm,Oui,Oui,7,3 séances/semaine,Oui,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0170,Centre de Néphrologie de Ngoa-Ekélé,Yaoundé,Yaoundé VI,Ngoa-Ekélé,3.930322,11.437636,+237 677 130 002,néphrologiengo@yahoo.fr,Oui,Non,10,3 séances/semaine,Oui,Oui,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0171,Centre de Néphrologie de Bonamoussadi,Douala,Douala IV,Kotto,4.075242,9.713776,+237 695 343 802,néphrologiebon@gmail.com,Oui,Non,9,2 séances/semaine,Oui,Non,Non,Oui,Lun–Ven 07h00–19h00
+DIA0172,Centre de Dialyse Saint-Élisabeth,Yaoundé,Yaoundé VI,Tsinga,3.920179,11.565102,+237 233 334 712,élisabeth@gmail.com,Oui,Non,4,3 séances/semaine,Non,Non,Oui,Non,7j/7 — 06h00–22h00
+DIA0173,Centre de Dialyse Saint-Gabriel,Douala,Douala III,Cité des Palmiers,4.078722,9.689608,+237 692 981 018,gabriel@gmail.com,Oui,Non,10,3 séances/semaine,Non,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0174,Centre de Néphrologie de Nzeng-Ayong,Douala,Douala III,Ndogbong,4.121657,9.760761,+237 222 219 360,néphrologienze@gmail.com,Oui,Non,3,Sur rendez-vous,Oui,Oui,Non,Non,7j/7 — 07h00–21h00
+DIA0175,Centre Rénal Ngoa,Yaoundé,Yaoundé I,Madagascar,3.868085,11.577427,+237 694 121 734,rénalngoa@yahoo.fr,Oui,Non,11,3 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0176,Centre Rénal Nlend,Douala,Douala I,Nzeng-Ayong,4.064861,9.726537,+237 692 966 661,rénalnlend@yahoo.fr,Oui,Non,7,Sur rendez-vous,Non,Oui,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0177,Unité de Dialyse Wamba,Yaoundé,Yaoundé V,Djoungolo,3.890031,11.464303,+237 690 772 720,unitéwamba@hotmail.com,Oui,Non,16,3 séances/semaine,Non,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0178,Centre de Dialyse de New Bell,Douala,Douala II,Bonamoussadi,4.063833,9.659923,+237 693 089 897,newbell@yahoo.fr,Oui,Non,17,3 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0179,Centre de Dialyse Saint-Élisabeth,Douala,Douala V,Bessengue,4.113549,9.744478,+237 655 591 870,élisabeth@yahoo.fr,Oui,Non,3,Sur rendez-vous,Oui,Oui,Oui,Oui,7j/7 — 07h00–21h00
+DIA0180,Centre Rénal Mbarga,Yaoundé,Yaoundé II,Obili,3.77311,11.45913,+237 679 015 875,rénalmbarga@yahoo.fr,Oui,Non,15,2 séances/semaine,Oui,Oui,Non,Oui,7j/7 — 06h00–22h00
+DIA0181,Unité de Dialyse Ndoumbe,Yaoundé,Yaoundé VI,Olembe,3.868602,11.459833,+237 693 626 610,uniténdoumbe@dialyse.cm,Oui,Oui,16,Sur rendez-vous,Oui,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0182,Dialyse Alliance,Douala,Douala III,Ndogbong,4.062725,9.710332,+237 679 556 073,alliance@yahoo.fr,Oui,Non,19,Sur rendez-vous,Non,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0183,Centre Rénal Moussa,Yaoundé,Yaoundé V,Biyem-Assi,3.843778,11.417344,+237 697 986 075,rénalmoussa@yahoo.fr,Oui,Oui,11,Sur rendez-vous,Oui,Non,Non,Non,7j/7 — 06h00–22h00
+DIA0184,Centre Rénal Ekani,Yaoundé,Yaoundé V,Omnisports,3.764983,11.473645,+237 222 421 551,rénalekani@dialyse.cm,Oui,Oui,3,2 séances/semaine,Non,Non,Non,Oui,Lun–Ven 07h00–19h00
+DIA0185,Centre de Néphrologie de Mboppi,Douala,Douala I,Ndokoti,4.099919,9.641349,+237 654 706 161,néphrologiembo@dialyse.cm,Oui,Non,10,2 séances/semaine,Oui,Non,Oui,Non,7j/7 — 06h00–22h00
+DIA0186,Centre de Dialyse Saint-Jeanne,Yaoundé,Yaoundé IV,Ekounou,3.814001,11.520587,+237 694 751 264,jeanne@yahoo.fr,Oui,Non,7,Sur rendez-vous,Non,Non,Non,Non,Lun–Ven 07h00–19h00
+DIA0187,Centre de Néphrologie de PK8,Douala,Douala IV,PK8,4.022639,9.785633,+237 697 393 636,néphrologiepk8@dialyse.cm,Oui,Non,5,Sur rendez-vous,Non,Non,Non,Oui,Lun–Sam 06h00–20h00
+DIA0188,Centre Rénal Nlend,Yaoundé,Yaoundé VII,Ngousso,3.886959,11.586594,+237 652 754 393,rénalnlend@dialyse.cm,Oui,Non,8,Sur rendez-vous,Oui,Non,Non,Oui,Lun–Sam 06h00–20h00
+DIA0189,Centre de Dialyse Saint-Anne,Douala,Douala VI,Ndogbong,4.020352,9.711333,+237 691 732 766,anne@hotmail.com,Oui,Non,18,2 séances/semaine,Oui,Non,Non,Oui,7j/7 — 07h00–21h00
+DIA0190,Dialyse Harmonie,Yaoundé,Yaoundé VI,Biteng,3.824729,11.605085,+237 694 421 250,harmonie@dialyse.cm,Oui,Oui,4,2 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0191,Centre de Dialyse de Bali,Douala,Douala II,Mboppi,4.056726,9.786916,+237 697 275 223,bali@gmail.com,Oui,Non,16,Sur rendez-vous,Non,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0192,Unité de Dialyse Fotso,Douala,Douala I,Nkongmondo,3.996708,9.774084,+237 243 838 118,unitéfotso@hotmail.com,Oui,Non,18,2 séances/semaine,Oui,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0193,Centre de Dialyse Saint-Gabriel,Douala,Douala VI,PK10,4.02365,9.726549,+237 654 251 946,gabriel@dialyse.cm,Oui,Non,8,3 séances/semaine,Oui,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0194,Centre Rénal Tabi,Yaoundé,Yaoundé VII,Briqueterie,3.864294,11.476608,+237 233 990 144,rénaltabi@dialyse.cm,Oui,Non,10,Sur rendez-vous,Oui,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0195,Centre de Dialyse de Nkol-Eton,Yaoundé,Yaoundé VII,Nkol-Eton,3.865913,11.525585,+237 695 783 567,nkol-eton@dialyse.cm,Oui,Non,4,Sur rendez-vous,Oui,Non,Non,Non,7j/7 — 07h00–21h00
+DIA0196,Centre de Néphrologie de Village,Douala,Douala I,Bassa,4.086682,9.663351,+237 242 414 467,néphrologievil@dialyse.cm,Oui,Oui,9,3 séances/semaine,Oui,Oui,Oui,Non,Lun–Ven 07h00–19h00
+DIA0197,Centre de Néphrologie de Youpwé,Douala,Douala II,Kotto,3.973037,9.731502,+237 699 016 229,néphrologieyou@hotmail.com,Oui,Oui,18,3 séances/semaine,Oui,Oui,Oui,Oui,7j/7 — 06h00–22h00
+DIA0198,Centre de Dialyse Saint-Claire,Yaoundé,Yaoundé I,Mokolo,3.837452,11.400768,+237 243 060 742,claire@yahoo.fr,Oui,Oui,8,2 séances/semaine,Oui,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0199,Centre Rénal Biyiti,Yaoundé,Yaoundé IV,Mokolo,3.878231,11.43249,+237 690 013 643,rénalbiyiti@hotmail.com,Oui,Non,7,2 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0200,Centre Rénal Mvé,Yaoundé,Yaoundé IV,Bastos,3.839692,11.49847,+237 693 136 499,rénalmvé@hotmail.com,Oui,Oui,18,2 séances/semaine,Oui,Oui,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0201,Centre de Dialyse Saint-Cécile,Yaoundé,Yaoundé VII,Carrière,3.830087,11.453351,+237 679 085 254,cécile@hotmail.com,Oui,Non,4,3 séances/semaine,Oui,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0202,Dialyse Salut,Yaoundé,Yaoundé I,Biyem-Assi,3.782321,11.480544,+237 652 407 883,salut@dialyse.cm,Oui,Non,18,2 séances/semaine,Oui,Oui,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0203,Centre de Néphrologie de Nkongmondo,Douala,Douala II,Kotto,4.0573,9.640292,+237 679 035 393,néphrologienko@dialyse.cm,Oui,Non,13,2 séances/semaine,Oui,Non,Oui,Non,Lun–Ven 07h00–19h00
+DIA0204,Dialyse Alliance,Yaoundé,Yaoundé III,Nkomo,3.812109,11.448564,+237 678 687 019,alliance@yahoo.fr,Oui,Non,3,Sur rendez-vous,Oui,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0205,Centre de Dialyse Saint-Raphaël,Yaoundé,Yaoundé VII,Omnisports,3.917689,11.509424,+237 679 751 565,raphaël@dialyse.cm,Oui,Non,16,2 séances/semaine,Oui,Oui,Oui,Non,7j/7 — 07h00–21h00
+DIA0206,Centre de Dialyse de Elig-Essono,Yaoundé,Yaoundé I,Elig-Essono,3.860023,11.604571,+237 678 656 522,elig-essono@dialyse.cm,Oui,Oui,11,2 séances/semaine,Oui,Oui,Oui,Non,Lun–Ven 07h00–19h00
+DIA0207,Centre de Dialyse de Olembe,Yaoundé,Yaoundé VI,Olembe,3.936399,11.458286,+237 654 432 294,olembe@hotmail.com,Oui,Non,13,Sur rendez-vous,Non,Oui,Oui,Non,7j/7 — 07h00–21h00
+DIA0208,Centre de Dialyse de Bastos,Yaoundé,Yaoundé VII,Bastos,3.833944,11.562957,+237 691 875 759,bastos@gmail.com,Oui,Non,12,3 séances/semaine,Non,Oui,Non,Oui,7j/7 — 07h00–21h00
+DIA0209,Centre de Néphrologie de Koumassi,Douala,Douala III,Bangue,4.09684,9.777386,+237 690 153 110,néphrologiekou@hotmail.com,Oui,Oui,18,2 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0210,Centre de Dialyse de Cité Verte,Yaoundé,Yaoundé VI,Cité Verte,3.8593,11.447655,+237 695 657 334,citéverte@dialyse.cm,Oui,Non,20,3 séances/semaine,Oui,Oui,Non,Oui,Lun–Ven 07h00–19h00
+DIA0211,Centre de Néphrologie de Kotto,Douala,Douala VI,Kotto,4.036331,9.724991,+237 655 361 058,néphrologiekot@dialyse.cm,Oui,Non,3,Sur rendez-vous,Oui,Non,Non,Oui,7j/7 — 07h00–21h00
+DIA0212,Centre de Dialyse Saint-Claire,Douala,Douala III,Bessengue,4.007133,9.761899,+237 243 324 877,claire@gmail.com,Oui,Non,10,2 séances/semaine,Non,Non,Oui,Non,7j/7 — 06h00–22h00
+DIA0213,Centre de Dialyse Saint-Patrick,Yaoundé,Yaoundé IV,Etoudi,3.908889,11.454928,+237 698 075 073,patrick@hotmail.com,Oui,Non,14,2 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0214,Centre de Néphrologie de Makepe,Douala,Douala III,Ndogpassi,4.10262,9.750038,+237 655 544 637,néphrologiemak@yahoo.fr,Oui,Non,3,Sur rendez-vous,Oui,Oui,Non,Oui,Lun–Ven 07h00–19h00
+DIA0215,Unité de Dialyse Zang,Yaoundé,Yaoundé IV,Olembe,3.831502,11.555461,+237 678 860 706,unitézang@dialyse.cm,Oui,Non,9,Sur rendez-vous,Non,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0216,Dialyse Avenir,Douala,Douala V,Boko,4.045269,9.664539,+237 654 619 053,avenir@dialyse.cm,Oui,Non,13,2 séances/semaine,Oui,Non,Non,Non,Lun–Ven 07h00–19h00
+DIA0217,Centre de Néphrologie de PK14,Douala,Douala IV,Bonaberi,4.068296,9.69447,+237 691 050 243,néphrologiepk1@dialyse.cm,Oui,Non,17,2 séances/semaine,Oui,Oui,Non,Non,7j/7 — 06h00–22h00
+DIA0218,Unité de Dialyse Abega,Yaoundé,Yaoundé III,Messa,3.790299,11.511085,+237 693 186 536,unitéabega@gmail.com,Oui,Non,6,3 séances/semaine,Oui,Non,Non,Non,Lun–Sam 06h00–20h00
+DIA0219,Centre de Dialyse de Tsinga,Yaoundé,Yaoundé II,Tsinga,3.884283,11.603498,+237 690 746 962,tsinga@hotmail.com,Oui,Non,18,2 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0220,Centre de Néphrologie de Nyalla,Douala,Douala VI,Cité des Palmiers,4.053788,9.679646,+237 652 014 467,néphrologienya@hotmail.com,Oui,Non,4,Sur rendez-vous,Oui,Oui,Non,Non,7j/7 — 06h00–22h00
+DIA0221,Centre de Dialyse de Nkol-Afeme,Yaoundé,Yaoundé II,Mvog-Atangana,3.826895,11.550613,+237 699 149 844,nkol-afeme@yahoo.fr,Oui,Non,15,2 séances/semaine,Oui,Non,Non,Oui,7j/7 — 07h00–21h00
+DIA0222,Centre de Néphrologie de Messa,Yaoundé,Yaoundé I,Messa,3.896848,11.488631,+237 690 499 056,néphrologiemes@yahoo.fr,Oui,Oui,11,2 séances/semaine,Non,Non,Non,Non,Lun–Sam 06h00–20h00
+DIA0223,Centre de Dialyse de Nlongkak,Yaoundé,Yaoundé III,Émana,3.912475,11.553719,+237 696 509 764,nlongkak@yahoo.fr,Oui,Non,5,3 séances/semaine,Oui,Non,Oui,Non,7j/7 — 07h00–21h00
+DIA0224,Centre Rénal Abega,Yaoundé,Yaoundé I,Omnisports,3.856974,11.463277,+237 678 686 883,rénalabega@hotmail.com,Oui,Oui,15,2 séances/semaine,Oui,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0225,Unité de Dialyse Nkeng,Douala,Douala III,Logbessou,3.978671,9.719166,+237 694 023 038,uniténkeng@yahoo.fr,Oui,Oui,15,2 séances/semaine,Oui,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0226,Unité de Dialyse Bikié,Yaoundé,Yaoundé III,Mvog-Ada,3.954404,11.486777,+237 652 934 131,unitébikié@dialyse.cm,Oui,Oui,18,3 séances/semaine,Oui,Oui,Non,Non,7j/7 — 07h00–21h00
+DIA0227,Centre Rénal Hamadou,Douala,Douala II,Bonapriso,4.105164,9.731569,+237 233 520 784,rénalhamadou@hotmail.com,Oui,Non,15,2 séances/semaine,Oui,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0228,Centre de Dialyse de Mvog-Beti,Yaoundé,Yaoundé VI,Mvog-Beti,3.909627,11.442095,+237 697 115 686,mvog-beti@yahoo.fr,Oui,Non,3,3 séances/semaine,Oui,Non,Non,Non,7j/7 — 06h00–22h00
+DIA0229,Centre de Néphrologie de Akwa,Douala,Douala V,Mbanya,3.970427,9.672982,+237 654 326 266,néphrologieakw@yahoo.fr,Oui,Non,20,2 séances/semaine,Non,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0230,Unité de Dialyse Mvé,Yaoundé,Yaoundé II,Biteng,3.801219,11.437204,+237 651 853 813,unitémvé@hotmail.com,Oui,Non,16,Sur rendez-vous,Oui,Non,Non,Oui,7j/7 — 07h00–21h00
+DIA0231,Centre de Dialyse Saint-Thérèse,Douala,Douala III,Japoma,3.972391,9.713893,+237 691 541 012,thérèse@gmail.com,Oui,Non,14,2 séances/semaine,Oui,Non,Oui,Non,7j/7 — 07h00–21h00
+DIA0232,Centre Rénal Elong,Douala,Douala IV,Cité des Palmiers,3.965459,9.699166,+237 233 273 308,rénalelong@gmail.com,Oui,Non,5,2 séances/semaine,Oui,Oui,Oui,Non,Lun–Ven 07h00–19h00
+DIA0233,Centre de Dialyse Saint-Michel,Yaoundé,Yaoundé III,Obili,3.836528,11.502395,+237 222 835 114,michel@dialyse.cm,Oui,Non,14,Sur rendez-vous,Oui,Non,Non,Oui,7j/7 — 07h00–21h00
+DIA0234,Centre Rénal Bikié,Douala,Douala I,Ndog-Passi III,4.05681,9.702169,+237 242 292 498,rénalbikié@hotmail.com,Oui,Non,3,Sur rendez-vous,Oui,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0235,Unité de Dialyse Ngoa,Yaoundé,Yaoundé VII,Cité Verte,3.916345,11.495699,+237 679 909 517,uniténgoa@dialyse.cm,Oui,Non,20,2 séances/semaine,Oui,Oui,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0236,Unité de Dialyse Wamba,Douala,Douala I,Ndog-Bong,4.080135,9.654236,+237 652 929 142,unitéwamba@yahoo.fr,Oui,Non,10,3 séances/semaine,Oui,Non,Non,Non,7j/7 — 06h00–22h00
+DIA0237,Unité de Dialyse Belinga,Yaoundé,Yaoundé I,Essos,3.903973,11.55326,+237 696 809 844,unitébelinga@hotmail.com,Oui,Oui,15,2 séances/semaine,Oui,Non,Non,Oui,7j/7 — 07h00–21h00
+DIA0238,Unité de Dialyse Simo,Yaoundé,Yaoundé VI,Nkomo,3.824515,11.524925,+237 699 505 697,unitésimo@hotmail.com,Oui,Non,2,3 séances/semaine,Oui,Non,Oui,Non,7j/7 — 06h00–22h00
+DIA0239,Centre de Dialyse de Mboppi,Douala,Douala III,Mboppi,3.992501,9.716144,+237 655 831 062,mboppi@dialyse.cm,Oui,Non,14,3 séances/semaine,Non,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0240,Centre de Néphrologie de Ekounou,Yaoundé,Yaoundé VI,Ekounou,3.815657,11.528272,+237 677 427 782,néphrologieeko@yahoo.fr,Oui,Non,20,2 séances/semaine,Oui,Oui,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0241,Centre de Néphrologie de Efoulan,Yaoundé,Yaoundé IV,Mvog-Atangana,3.938904,11.557858,+237 222 153 915,néphrologieefo@gmail.com,Oui,Non,12,2 séances/semaine,Non,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0242,Centre Rénal Nguele,Yaoundé,Yaoundé I,Biyem-Assi,3.793756,11.437791,+237 698 703 139,rénalnguele@yahoo.fr,Oui,Non,14,3 séances/semaine,Oui,Oui,Oui,Oui,7j/7 — 06h00–22h00
+DIA0243,Unité de Dialyse Djoumbi,Douala,Douala I,Kotto,4.047789,9.650866,+237 696 361 321,unitédjoumbi@gmail.com,Oui,Non,11,Sur rendez-vous,Oui,Oui,Oui,Non,7j/7 — 06h00–22h00
+DIA0244,Centre de Dialyse de Melen,Yaoundé,Yaoundé II,Simbock,3.842691,11.528465,+237 233 397 610,melen@gmail.com,Oui,Non,8,2 séances/semaine,Oui,Oui,Oui,Oui,7j/7 — 07h00–21h00
+DIA0245,Unité de Dialyse Nguele,Yaoundé,Yaoundé VI,Mokolo,3.801517,11.493052,+237 699 499 292,uniténguele@gmail.com,Oui,Non,4,2 séances/semaine,Oui,Oui,Oui,Non,7j/7 — 06h00–22h00
+DIA0246,Unité de Dialyse Onana,Yaoundé,Yaoundé VI,Mvan,3.784081,11.566652,+237 233 947 782,unitéonana@gmail.com,Oui,Oui,20,3 séances/semaine,Oui,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0247,Centre de Dialyse de Madagascar,Yaoundé,Yaoundé I,Madagascar,3.823539,11.478274,+237 679 604 417,madagascar@gmail.com,Oui,Non,11,2 séances/semaine,Oui,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0248,Centre de Néphrologie de Bepanda,Douala,Douala IV,Bonapriso,4.083603,9.628379,+237 691 323 502,néphrologiebep@gmail.com,Oui,Non,3,2 séances/semaine,Oui,Oui,Oui,Non,7j/7 — 06h00–22h00
+DIA0249,Centre de Dialyse Saint-Anne,Yaoundé,Yaoundé VI,Messa,3.828561,11.422624,+237 691 501 130,anne@hotmail.com,Oui,Oui,18,3 séances/semaine,Oui,Oui,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0250,Unité de Dialyse Hamadou,Douala,Douala III,Nkongmondo,3.97946,9.707729,+237 699 494 712,unitéhamadou@dialyse.cm,Oui,Non,14,3 séances/semaine,Oui,Oui,Oui,Non,Lun–Ven 07h00–19h00
+DIA0251,Centre de Dialyse de Bonanjo,Douala,Douala II,Akwa,4.077646,9.764533,+237 679 542 659,bonanjo@yahoo.fr,Oui,Oui,7,Sur rendez-vous,Oui,Oui,Non,Non,Lun–Sam 06h00–20h00
+DIA0252,Centre de Néphrologie de Cité des Palmiers,Douala,Douala VI,Cité des Palmiers,4.014937,9.653597,+237 655 415 598,néphrologiecit@yahoo.fr,Oui,Oui,3,3 séances/semaine,Non,Non,Non,Non,7j/7 — 06h00–22h00
+DIA0253,Centre de Néphrologie de Bali,Douala,Douala IV,PK8,4.103685,9.773787,+237 695 503 491,néphrologiebal@gmail.com,Oui,Oui,19,3 séances/semaine,Non,Oui,Non,Oui,Lun–Ven 07h00–19h00
+DIA0254,Dialyse Bien-être,Douala,Douala III,Bepanda,4.072521,9.712706,+237 699 846 788,bien-être@gmail.com,Oui,Oui,6,3 séances/semaine,Non,Oui,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0255,Unité de Dialyse Manga,Yaoundé,Yaoundé IV,Nsam,3.901759,11.501281,+237 679 477 982,unitémanga@dialyse.cm,Oui,Non,13,2 séances/semaine,Oui,Oui,Oui,Oui,7j/7 — 07h00–21h00
+DIA0256,Centre Rénal Hamadou,Douala,Douala I,Bonaberi,4.077487,9.776481,+237 699 781 754,rénalhamadou@hotmail.com,Oui,Oui,2,3 séances/semaine,Oui,Oui,Oui,Non,7j/7 — 07h00–21h00
+DIA0257,Centre de Dialyse de Ndog-Bong,Douala,Douala V,Ndog-Bong,4.074547,9.766639,+237 699 691 095,ndog-bong@hotmail.com,Oui,Oui,7,3 séances/semaine,Non,Oui,Non,Non,7j/7 — 06h00–22h00
+DIA0258,Centre de Néphrologie de Nkoabang,Yaoundé,Yaoundé VII,Ngousso,3.903273,11.447957,+237 652 351 739,néphrologienko@gmail.com,Oui,Non,20,2 séances/semaine,Non,Non,Non,Oui,Lun–Sam 06h00–20h00
+DIA0259,Unité de Dialyse Kamga,Yaoundé,Yaoundé VII,Obili,3.760374,11.517504,+237 242 709 752,unitékamga@gmail.com,Oui,Non,9,3 séances/semaine,Non,Non,Oui,Non,Lun–Ven 07h00–19h00
+DIA0260,Centre de Dialyse de Logbessou,Douala,Douala IV,Logbessou,3.982264,9.684965,+237 693 329 341,logbessou@dialyse.cm,Oui,Oui,9,Sur rendez-vous,Oui,Non,Non,Oui,Lun–Ven 07h00–19h00
+DIA0261,Centre de Dialyse de Soboum,Douala,Douala VI,Cité des Palmiers,4.089758,9.77464,+237 690 547 832,soboum@dialyse.cm,Oui,Non,9,2 séances/semaine,Oui,Non,Oui,Non,Lun–Sam 06h00–20h00
+DIA0262,Centre de Dialyse de Koumassi,Douala,Douala VI,PK17,4.00759,9.703705,+237 677 620 602,koumassi@dialyse.cm,Oui,Oui,2,3 séances/semaine,Oui,Non,Oui,Non,Lun–Ven 07h00–19h00
+DIA0263,Centre de Néphrologie de Ndokoti,Douala,Douala II,Youpwé,4.064982,9.712949,+237 696 158 337,néphrologiendo@yahoo.fr,Oui,Non,16,3 séances/semaine,Non,Non,Oui,Non,Lun–Sam 06h00–20h00
+DIA0264,Centre Rénal Eba,Yaoundé,Yaoundé VI,Étoa-Meki,3.932513,11.461074,+237 693 248 690,rénaleba@yahoo.fr,Oui,Non,4,Sur rendez-vous,Oui,Oui,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0265,Centre de Dialyse de Nkomo,Yaoundé,Yaoundé IV,Biyem-Assi,3.818685,11.527428,+237 697 952 141,nkomo@hotmail.com,Oui,Non,2,2 séances/semaine,Oui,Oui,Non,Oui,Lun–Ven 07h00–19h00
+DIA0266,Unité de Dialyse Owona,Yaoundé,Yaoundé I,Mvog-Atangana,3.849091,11.593436,+237 691 603 284,unitéowona@gmail.com,Oui,Non,19,2 séances/semaine,Oui,Oui,Non,Non,Lun–Sam 06h00–20h00
+DIA0267,Centre de Dialyse Saint-Luc,Douala,Douala V,PK10,3.993587,9.702385,+237 222 202 249,luc@gmail.com,Oui,Oui,7,3 séances/semaine,Oui,Oui,Oui,Non,7j/7 — 06h00–22h00
+DIA0268,Centre de Dialyse de Omnisports,Yaoundé,Yaoundé VII,Mvan,3.883039,11.512067,+237 677 476 587,omnisports@hotmail.com,Oui,Oui,4,2 séances/semaine,Oui,Oui,Oui,Non,Lun–Ven 07h00–19h00
+DIA0269,Centre de Dialyse de Youpwé,Douala,Douala III,Nyalla,4.064939,9.696457,+237 653 277 710,youpwé@hotmail.com,Oui,Oui,9,Sur rendez-vous,Non,Oui,Oui,Non,Lun–Ven 07h00–19h00
+DIA0270,Centre de Dialyse de Nkongmondo,Douala,Douala II,PK14,4.112253,9.757452,+237 233 473 152,nkongmondo@dialyse.cm,Oui,Non,11,2 séances/semaine,Non,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0271,Centre de Dialyse de Nyalla,Douala,Douala III,Sodiko,3.995367,9.693798,+237 695 039 450,nyalla@gmail.com,Oui,Non,17,2 séances/semaine,Non,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0272,Centre Rénal Kuitche,Douala,Douala I,Mbanya,4.065469,9.712948,+237 222 093 133,rénalkuitche@yahoo.fr,Oui,Non,20,3 séances/semaine,Oui,Oui,Non,Non,Lun–Sam 06h00–20h00
+DIA0273,Centre de Dialyse Saint-Thérèse,Douala,Douala VI,PK14,4.03146,9.740816,+237 692 374 659,thérèse@hotmail.com,Oui,Non,10,3 séances/semaine,Non,Oui,Oui,Non,Lun–Sam 06h00–20h00
+DIA0274,Centre de Dialyse Saint-Étienne,Yaoundé,Yaoundé VI,Ngoa-Ekélé,3.83146,11.431146,+237 654 810 341,étienne@yahoo.fr,Oui,Non,19,3 séances/semaine,Oui,Non,Non,Non,Lun–Ven 07h00–19h00
+DIA0275,Centre de Dialyse de Ekounou,Yaoundé,Yaoundé III,Ekounou,3.83683,11.429877,+237 677 253 069,ekounou@hotmail.com,Oui,Oui,9,2 séances/semaine,Oui,Oui,Oui,Non,7j/7 — 06h00–22h00
+DIA0276,Centre de Néphrologie de Mvan,Yaoundé,Yaoundé II,Mvog-Atangana,3.938199,11.532264,+237 697 712 506,néphrologiemva@dialyse.cm,Oui,Non,12,2 séances/semaine,Non,Oui,Oui,Non,Lun–Ven 07h00–19h00
+DIA0277,Unité de Dialyse Ndjock,Douala,Douala VI,Ndokoti,4.012637,9.683372,+237 653 662 458,uniténdjock@hotmail.com,Oui,Oui,4,Sur rendez-vous,Non,Non,Non,Oui,Lun–Ven 07h00–19h00
+DIA0278,Centre de Néphrologie de Ndogbong,Douala,Douala VI,New Bell,4.115021,9.732807,+237 653 088 236,néphrologiendo@gmail.com,Oui,Non,13,2 séances/semaine,Non,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0279,Dialyse Santé,Yaoundé,Yaoundé III,Biyem-Assi,3.777074,11.557372,+237 222 441 199,santé@yahoo.fr,Oui,Non,13,Sur rendez-vous,Non,Non,Non,Non,7j/7 — 07h00–21h00
+DIA0280,Centre de Dialyse de Ndogpassi,Douala,Douala IV,Youpwé,3.996278,9.659279,+237 651 050 413,ndogpassi@yahoo.fr,Oui,Non,19,Sur rendez-vous,Non,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0281,Centre de Néphrologie de Bonanjo,Douala,Douala I,Ndog-Bong,4.043621,9.701095,+237 678 576 124,néphrologiebon@dialyse.cm,Oui,Non,20,Sur rendez-vous,Non,Non,Non,Oui,7j/7 — 06h00–22h00
+DIA0282,Unité de Dialyse Engoulou,Yaoundé,Yaoundé I,Cité Verte,3.820307,11.489829,+237 652 163 893,unitéengoulou@dialyse.cm,Oui,Oui,13,3 séances/semaine,Oui,Oui,Oui,Oui,7j/7 — 07h00–21h00
+DIA0283,Centre de Néphrologie de Mboppi,Douala,Douala II,Nkongmondo,4.036409,9.779268,+237 678 440 558,néphrologiembo@gmail.com,Oui,Oui,18,3 séances/semaine,Oui,Oui,Non,Oui,7j/7 — 07h00–21h00
+DIA0284,Unité de Dialyse Fouda,Douala,Douala I,Bonapriso,4.028937,9.763603,+237 692 767 232,unitéfouda@gmail.com,Oui,Non,3,3 séances/semaine,Non,Oui,Non,Oui,7j/7 — 07h00–21h00
+DIA0285,Unité de Dialyse Tchoupo,Douala,Douala II,PK14,4.130596,9.727969,+237 678 124 402,unitétchoupo@dialyse.cm,Oui,Oui,19,3 séances/semaine,Oui,Non,Oui,Non,7j/7 — 07h00–21h00
+DIA0286,Centre de Dialyse de Bonaloka,Douala,Douala VI,Cité des Palmiers,4.02112,9.768104,+237 678 119 546,bonaloka@hotmail.com,Oui,Non,7,2 séances/semaine,Oui,Non,Non,Non,7j/7 — 06h00–22h00
+DIA0287,Dialyse Progrès,Yaoundé,Yaoundé III,Djoungolo,3.784317,11.496046,+237 653 752 684,progrès@gmail.com,Oui,Non,15,2 séances/semaine,Oui,Non,Non,Oui,7j/7 — 07h00–21h00
+DIA0288,Centre de Dialyse de Ngoa-Ekélé,Yaoundé,Yaoundé II,Ngoa-Ekélé,3.801269,11.540091,+237 653 870 997,ngoa-ekélé@gmail.com,Oui,Non,10,2 séances/semaine,Oui,Non,Non,Non,Lun–Sam 06h00–20h00
+DIA0289,Centre de Néphrologie de Briqueterie,Yaoundé,Yaoundé I,Simbock,3.914488,11.585636,+237 655 539 153,néphrologiebri@dialyse.cm,Oui,Non,11,Sur rendez-vous,Non,Non,Non,Oui,Lun–Sam 06h00–20h00
+DIA0290,Centre de Dialyse Saint-Marc,Douala,Douala II,PK14,4.097126,9.696759,+237 692 425 106,marc@yahoo.fr,Oui,Non,7,Sur rendez-vous,Non,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0291,Dialyse Vie,Yaoundé,Yaoundé II,Tsinga,3.790752,11.498448,+237 652 968 791,vie@yahoo.fr,Oui,Non,15,Sur rendez-vous,Oui,Non,Oui,Oui,7j/7 — 06h00–22h00
+DIA0292,Centre de Dialyse de Bonamoussadi,Douala,Douala III,Bonamoussadi,4.050935,9.662616,+237 222 439 146,bonamoussadi@gmail.com,Oui,Oui,8,2 séances/semaine,Oui,Non,Oui,Non,7j/7 — 07h00–21h00
+DIA0293,Centre de Néphrologie de Tsinga,Yaoundé,Yaoundé I,Tsinga,3.933933,11.484743,+237 243 472 562,néphrologietsi@hotmail.com,Oui,Non,9,2 séances/semaine,Non,Non,Oui,Non,7j/7 — 06h00–22h00
+DIA0294,Centre de Dialyse de Nkoldongo,Yaoundé,Yaoundé II,Nkoldongo,3.880738,11.476434,+237 691 230 632,nkoldongo@dialyse.cm,Oui,Non,3,Sur rendez-vous,Non,Oui,Oui,Oui,7j/7 — 06h00–22h00
+DIA0295,Centre de Dialyse Saint-Jean,Douala,Douala I,Nyalla,4.018291,9.702011,+237 653 005 748,jean@gmail.com,Oui,Non,19,2 séances/semaine,Oui,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0296,Unité de Dialyse Mbarga,Yaoundé,Yaoundé III,Bastos,3.924466,11.562265,+237 691 133 030,unitémbarga@gmail.com,Oui,Non,5,2 séances/semaine,Oui,Oui,Oui,Oui,7j/7 — 07h00–21h00
+DIA0297,Centre Rénal Mbassi,Douala,Douala V,Bassa,4.037194,9.76893,+237 690 958 302,rénalmbassi@yahoo.fr,Oui,Non,14,2 séances/semaine,Oui,Oui,Non,Oui,Lun–Ven 07h00–19h00
+DIA0298,Centre de Néphrologie de Ahala,Yaoundé,Yaoundé II,Ahala,3.830979,11.537596,+237 697 591 959,néphrologieaha@hotmail.com,Oui,Non,12,Sur rendez-vous,Non,Oui,Non,Oui,Lun–Ven 07h00–19h00
+DIA0299,Centre Rénal Bello,Yaoundé,Yaoundé IV,Biteng,3.89049,11.546869,+237 690 926 301,rénalbello@hotmail.com,Oui,Non,20,2 séances/semaine,Non,Oui,Non,Oui,Lun–Sam 06h00–20h00
+DIA0300,Unité de Dialyse Feudjio,Yaoundé,Yaoundé V,Mvog-Atangana,3.864149,11.524622,+237 692 895 161,unitéfeudjio@hotmail.com,Oui,Non,3,3 séances/semaine,Oui,Oui,Oui,Non,7j/7 — 06h00–22h00
+DIA0301,Centre Rénal Nkoa,Douala,Douala II,Koumassi,4.065561,9.756701,+237 691 969 233,rénalnkoa@dialyse.cm,Oui,Oui,12,3 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0302,Centre de Dialyse Saint-Bernadette,Yaoundé,Yaoundé V,Efoulan,3.817886,11.417726,+237 243 882 229,bernadette@hotmail.com,Oui,Non,15,Sur rendez-vous,Oui,Non,Non,Oui,7j/7 — 07h00–21h00
+DIA0303,Centre de Dialyse de PK17,Douala,Douala I,New Bell,4.047549,9.74102,+237 678 975 606,pk17@hotmail.com,Oui,Non,3,Sur rendez-vous,Oui,Oui,Oui,Oui,7j/7 — 07h00–21h00
+DIA0304,Centre de Néphrologie de Djoungolo,Yaoundé,Yaoundé I,Mvog-Ada,3.790964,11.431794,+237 694 810 655,néphrologiedjo@yahoo.fr,Oui,Non,14,2 séances/semaine,Oui,Non,Non,Oui,7j/7 — 07h00–21h00
+DIA0305,Dialyse Secours,Yaoundé,Yaoundé IV,Mvog-Ada,3.804078,11.581045,+237 655 708 208,secours@hotmail.com,Oui,Non,14,3 séances/semaine,Oui,Non,Non,Non,7j/7 — 06h00–22h00
+DIA0306,Centre Rénal Essomba,Yaoundé,Yaoundé V,Émana,3.828628,11.495172,+237 695 309 952,rénalessomba@gmail.com,Oui,Oui,19,2 séances/semaine,Oui,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0307,Centre de Néphrologie de Nkongmondo,Douala,Douala IV,Deido,4.038036,9.655492,+237 696 171 975,néphrologienko@dialyse.cm,Oui,Non,6,2 séances/semaine,Oui,Non,Non,Non,7j/7 — 06h00–22h00
+DIA0308,Centre de Néphrologie de New Bell,Douala,Douala IV,New Bell,4.085684,9.750749,+237 696 532 220,néphrologienew@yahoo.fr,Oui,Non,18,Sur rendez-vous,Oui,Non,Non,Oui,Lun–Sam 06h00–20h00
+DIA0309,Centre de Dialyse Saint-Jeanne,Yaoundé,Yaoundé III,Mvog-Beti,3.863624,11.393775,+237 678 642 963,jeanne@gmail.com,Oui,Non,15,2 séances/semaine,Oui,Non,Non,Oui,Lun–Sam 06h00–20h00
+DIA0310,Centre de Dialyse de Nkol-Afeme,Yaoundé,Yaoundé III,Nkol-Afeme,3.901435,11.549741,+237 695 576 637,nkol-afeme@hotmail.com,Oui,Non,4,Sur rendez-vous,Oui,Oui,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0311,Centre Rénal Wamba,Douala,Douala VI,Ndogpassi,4.110305,9.735049,+237 690 238 480,rénalwamba@gmail.com,Oui,Oui,11,2 séances/semaine,Non,Oui,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0312,Centre de Néphrologie de Bonaberi,Douala,Douala V,Ndogbong,4.064198,9.708158,+237 695 051 539,néphrologiebon@gmail.com,Oui,Non,13,3 séances/semaine,Oui,Oui,Non,Oui,Lun–Sam 06h00–20h00
+DIA0313,Centre de Dialyse de Santa Barbara,Yaoundé,Yaoundé V,Carrière,3.852123,11.532746,+237 652 255 934,santabarbara@hotmail.com,Oui,Oui,5,Sur rendez-vous,Non,Non,Non,Oui,Lun–Sam 06h00–20h00
+DIA0314,Centre de Néphrologie de Simbock,Yaoundé,Yaoundé IV,Ekounou,3.86635,11.538842,+237 222 494 494,néphrologiesim@yahoo.fr,Oui,Non,7,2 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0315,Unité de Dialyse Assamba,Douala,Douala V,Bonamoussadi,4.011298,9.662081,+237 655 634 748,unitéassamba@dialyse.cm,Oui,Oui,15,Sur rendez-vous,Non,Non,Oui,Non,Lun–Ven 07h00–19h00
+DIA0316,Unité de Dialyse Mvogo,Douala,Douala II,Ndokoti,4.108997,9.765983,+237 222 469 267,unitémvogo@gmail.com,Oui,Oui,3,Sur rendez-vous,Oui,Oui,Oui,Non,7j/7 — 06h00–22h00
+DIA0317,Centre de Dialyse de Biteng,Yaoundé,Yaoundé III,Omnisports,3.910821,11.416411,+237 692 075 925,biteng@dialyse.cm,Oui,Oui,5,3 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0318,Centre de Dialyse de Makepe,Douala,Douala VI,PK10,4.031394,9.739073,+237 651 952 442,makepe@dialyse.cm,Oui,Oui,3,Sur rendez-vous,Non,Oui,Non,Oui,Lun–Ven 07h00–19h00
+DIA0319,Centre de Dialyse Saint-Félicité,Douala,Douala VI,PK17,3.993686,9.67204,+237 693 788 836,félicité@gmail.com,Oui,Non,12,Sur rendez-vous,Oui,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0320,Centre de Néphrologie de Deido,Douala,Douala II,Deido,3.995546,9.72422,+237 653 826 196,néphrologiedei@dialyse.cm,Oui,Non,7,3 séances/semaine,Oui,Non,Non,Non,7j/7 — 06h00–22h00
+DIA0321,Centre Rénal Nkeng,Douala,Douala VI,PK10,4.096608,9.67732,+237 690 987 416,rénalnkeng@yahoo.fr,Oui,Non,16,2 séances/semaine,Oui,Non,Oui,Non,Lun–Ven 07h00–19h00
+DIA0322,Centre de Dialyse Saint-Louis,Yaoundé,Yaoundé I,Ahala,3.930976,11.496111,+237 655 992 023,louis@dialyse.cm,Oui,Non,5,Sur rendez-vous,Non,Non,Oui,Non,Lun–Ven 07h00–19h00
+DIA0323,Centre de Néphrologie de Ngousso,Yaoundé,Yaoundé III,Ngousso,3.748151,11.503909,+237 695 439 222,néphrologiengo@yahoo.fr,Oui,Oui,16,2 séances/semaine,Oui,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0324,Centre Rénal Engoulou,Douala,Douala II,Japoma,4.03605,9.754505,+237 698 476 671,rénalengoulou@gmail.com,Oui,Non,17,2 séances/semaine,Oui,Oui,Oui,Non,Lun–Ven 07h00–19h00
+DIA0325,Unité de Dialyse Kamga,Douala,Douala V,Ndogpassi,4.063006,9.795438,+237 242 222 405,unitékamga@hotmail.com,Oui,Oui,20,3 séances/semaine,Oui,Oui,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0326,Centre Rénal Tabi,Yaoundé,Yaoundé III,Mendong,3.884588,11.460467,+237 696 035 466,rénaltabi@gmail.com,Oui,Non,13,Sur rendez-vous,Oui,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0327,Centre de Dialyse de Messa,Yaoundé,Yaoundé VII,Odza,3.84955,11.498197,+237 677 390 474,messa@hotmail.com,Oui,Non,8,3 séances/semaine,Oui,Non,Oui,Non,Lun–Sam 06h00–20h00
+DIA0328,Centre de Dialyse de Obili,Yaoundé,Yaoundé I,Odza,3.897546,11.568759,+237 693 124 298,obili@yahoo.fr,Oui,Oui,15,2 séances/semaine,Oui,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0329,Centre de Dialyse de Bonaberi,Douala,Douala I,Bonaberi,3.984923,9.653655,+237 690 347 160,bonaberi@hotmail.com,Oui,Oui,6,Sur rendez-vous,Non,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0330,Centre de Néphrologie de Nkol-Eton,Yaoundé,Yaoundé VII,Nkol-Eton,3.84092,11.519883,+237 242 225 152,néphrologienko@yahoo.fr,Oui,Oui,12,Sur rendez-vous,Oui,Oui,Non,Non,Lun–Ven 07h00–19h00
+DIA0331,Centre Rénal Nlend,Douala,Douala III,Makepe,4.010778,9.770775,+237 651 650 038,rénalnlend@hotmail.com,Oui,Non,14,3 séances/semaine,Non,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0332,Centre de Néphrologie de Madagascar,Yaoundé,Yaoundé II,Madagascar,3.930336,11.458883,+237 650 640 852,néphrologiemad@hotmail.com,Oui,Oui,20,Sur rendez-vous,Oui,Oui,Non,Oui,Lun–Ven 07h00–19h00
+DIA0333,Dialyse Avenir,Yaoundé,Yaoundé II,Émana,3.787018,11.519651,+237 695 146 001,avenir@dialyse.cm,Oui,Non,10,Sur rendez-vous,Oui,Oui,Non,Oui,7j/7 — 07h00–21h00
+DIA0334,Unité de Dialyse Moussa,Douala,Douala II,Ndogbong,4.078305,9.668128,+237 699 826 064,unitémoussa@yahoo.fr,Oui,Non,7,3 séances/semaine,Oui,Non,Non,Oui,Lun–Sam 06h00–20h00
+DIA0335,Unité de Dialyse Ateba,Douala,Douala III,Deido,4.004129,9.695022,+237 233 932 553,unitéateba@hotmail.com,Oui,Oui,15,3 séances/semaine,Oui,Non,Oui,Non,7j/7 — 06h00–22h00
+DIA0336,Centre de Dialyse Saint-Élisabeth,Douala,Douala III,Youpwé,3.986111,9.669424,+237 690 105 412,élisabeth@hotmail.com,Oui,Non,20,2 séances/semaine,Non,Oui,Oui,Non,7j/7 — 07h00–21h00
+DIA0337,Centre de Néphrologie de PK10,Douala,Douala II,PK10,4.07935,9.732384,+237 691 499 699,néphrologiepk1@yahoo.fr,Oui,Oui,6,Sur rendez-vous,Oui,Oui,Non,Oui,7j/7 — 06h00–22h00
+DIA0338,Centre de Néphrologie de Olembe,Yaoundé,Yaoundé VI,Olembe,3.758093,11.562925,+237 233 912 981,néphrologieole@hotmail.com,Oui,Non,8,Sur rendez-vous,Oui,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0339,Centre de Néphrologie de Santa Barbara,Yaoundé,Yaoundé V,Omnisports,3.852131,11.511021,+237 651 451 983,néphrologiesan@hotmail.com,Oui,Non,12,2 séances/semaine,Oui,Non,Non,Oui,Lun–Ven 07h00–19h00
+DIA0340,Centre de Dialyse de Village,Douala,Douala VI,Village,4.057589,9.651943,+237 233 373 570,village@dialyse.cm,Oui,Oui,10,Sur rendez-vous,Non,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0341,Centre de Dialyse de Ngousso,Yaoundé,Yaoundé III,Etoudi,3.893893,11.518271,+237 651 301 714,ngousso@gmail.com,Oui,Non,16,3 séances/semaine,Oui,Oui,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0342,Centre de Dialyse Saint-François,Yaoundé,Yaoundé VII,Nsam,3.906696,11.455859,+237 242 413 531,françois@dialyse.cm,Oui,Oui,2,3 séances/semaine,Oui,Non,Oui,Oui,Lun–Ven 07h00–19h00
+DIA0343,Centre de Dialyse Saint-François,Douala,Douala V,New Bell,4.051847,9.786249,+237 233 618 980,françois@hotmail.com,Oui,Non,12,3 séances/semaine,Oui,Non,Non,Oui,Lun–Ven 07h00–19h00
+DIA0344,Centre de Néphrologie de Odza,Yaoundé,Yaoundé VI,Olembe,3.889592,11.544723,+237 242 517 489,néphrologieodz@gmail.com,Oui,Oui,12,Sur rendez-vous,Oui,Oui,Oui,Non,7j/7 — 07h00–21h00
+DIA0345,Centre de Dialyse de Bonapriso,Douala,Douala IV,Sodiko,4.004804,9.633644,+237 650 510 917,bonapriso@hotmail.com,Oui,Non,10,3 séances/semaine,Non,Non,Oui,Oui,7j/7 — 07h00–21h00
+DIA0346,Dialyse Lumière,Douala,Douala II,Soboum,4.123802,9.728767,+237 242 407 081,lumière@gmail.com,Oui,Oui,6,3 séances/semaine,Non,Non,Oui,Oui,Lun–Sam 06h00–20h00
+DIA0347,Centre de Dialyse Saint-Monique,Yaoundé,Yaoundé II,Omnisports,3.853356,11.43869,+237 222 844 601,monique@gmail.com,Oui,Oui,20,2 séances/semaine,Non,Non,Non,Oui,Lun–Ven 07h00–19h00
+DIA0348,Centre de Néphrologie de Melen,Yaoundé,Yaoundé III,Étoa-Meki,3.792992,11.513506,+237 654 100 651,néphrologiemel@hotmail.com,Oui,Non,5,2 séances/semaine,Non,Non,Non,Oui,7j/7 — 07h00–21h00
+DIA0349,Unité de Dialyse Bello,Yaoundé,Yaoundé I,Tsinga,3.849678,11.469676,+237 651 379 043,unitébello@hotmail.com,Oui,Non,8,2 séances/semaine,Oui,Non,Oui,Non,7j/7 — 06h00–22h00
+DIA0350,Centre de Dialyse de Ahala,Yaoundé,Yaoundé IV,Briqueterie,3.9376,11.504054,+237 652 808 540,ahala@hotmail.com,Oui,Non,19,3 séances/semaine,Oui,Oui,Oui,Oui,7j/7 — 06h00–22h00

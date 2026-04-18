@@ -1,0 +1,701 @@
+id,nom,ville,arrondissement,quartier,latitude,longitude,telephone,email,type_hopital,couveuses,bloc_operatoire,urgences_24h,maternite
+HOP0001,Clinique Pierre Essos,Yaoundé,Yaoundé VII,Essos,3.899244,11.465515,+237 695 412 994,pierreessos@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0002,Hôpital Nkoa de Bali,Douala,Douala V,Bali,3.993985,9.71185,+237 655 361 175,nkoabali@yahoo.fr,Hôpital de District,Non,Oui,Non,Non
+HOP0003,Hôpital Saint-Bernadette de Madagascar,Yaoundé,Yaoundé VI,Madagascar,3.816499,11.528697,+237 242 997 036,bernadettemada@minsante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0004,Hôpital de Kondengui,Yaoundé,Yaoundé IV,Kondengui,3.817122,11.407427,+237 654 427 508,kondengui@gmail.com,Hôpital de District,Non,Non,Non,Non
+HOP0005,Hôpital Saint-Barnabé de Nkoabang,Yaoundé,Yaoundé I,Nkoabang,3.86885,11.588145,+237 652 224 042,barnabénkoaban@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0006,Hôpital Saint-Dominique de Koumassi,Douala,Douala III,Koumassi,4.049184,9.75245,+237 677 286 701,dominiquekouma@gmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0007,Centre Hospitalier de Ndogbong,Douala,Douala I,Ndogbong,4.023541,9.659817,+237 677 095 225,ndogbong@hotmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0008,Clinique Anne Nkol-Eton,Yaoundé,Yaoundé III,Nkol-Eton,3.855172,11.544071,+237 693 151 588,annenkol-eton@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0009,Clinique Monique Mvog-Ada,Yaoundé,Yaoundé VI,Mvog-Ada,3.811517,11.581545,+237 695 273 816,moniquemvog-ad@hotmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0010,Clinique Fouda,Yaoundé,Yaoundé VII,Ngousso,3.943094,11.453213,+237 677 630 091,fouda@gmail.com,Hôpital de District,Oui,Non,Non,Non
+HOP0011,Clinique Marie Mvog-Mbi,Yaoundé,Yaoundé VI,Mvog-Mbi,3.853523,11.538211,+237 692 721 834,mariemvog-mbi@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0012,Hôpital Saint-Anne de Youpwé,Douala,Douala I,Youpwé,4.103874,9.710719,+237 243 838 954,anneyoupwé@hopitalcam.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0013,Hôpital Nkeng de Akwa,Douala,Douala IV,Akwa,4.049691,9.669039,+237 698 553 838,nkengakwa@gmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0014,Hôpital Saint-Luc de Simbock,Yaoundé,Yaoundé V,Simbock,3.928676,11.529581,+237 651 553 344,lucsimbock@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0015,Hôpital Kuitche de Simbock,Yaoundé,Yaoundé VI,Simbock,3.95537,11.487388,+237 243 359 489,kuitchesimbock@minsante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0016,Clinique Élisabeth Santa Barbara,Yaoundé,Yaoundé V,Santa Barbara,3.82446,11.472005,+237 650 249 335,élisabethsanta@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0017,Centre Hospitalier de Boko,Douala,Douala III,Boko,4.013276,9.740352,+237 695 866 950,boko@yahoo.fr,Hôpital de District,Oui,Oui,Non,Oui
+HOP0018,Clinique Cécile Bassa,Douala,Douala I,Bassa,3.976989,9.6642,+237 698 584 071,cécibassa@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0019,Hôpital Nkeng de Essos,Yaoundé,Yaoundé VI,Essos,3.808637,11.580582,+237 694 577 755,nkengessos@hotmail.com,Hôpital de District,Oui,Oui,Non,Oui
+HOP0020,Clinique Louis Nkomo,Yaoundé,Yaoundé IV,Nkomo,3.851268,11.403489,+237 654 042 694,louisnkomo@yahoo.fr,Hôpital de District,Non,Oui,Oui,Oui
+HOP0021,Hôpital Saint-Patrick de PK14,Douala,Douala III,PK14,4.046109,9.67423,+237 698 937 415,patrickpk14@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0022,Hôpital Nkoa de Mimboman,Yaoundé,Yaoundé I,Mimboman,3.814211,11.555345,+237 677 562 575,nkoamimboman@hotmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0023,Hôpital Elong de Makepe,Douala,Douala I,Makepe,4.06333,9.679705,+237 242 187 891,elongmakepe@sante.cm,Hôpital de District,Oui,Oui,Oui,Non
+HOP0024,Hôpital de PK12,Douala,Douala IV,PK12,4.109074,9.771409,+237 695 182 627,pk12@hotmail.com,Hôpital de District,Non,Oui,Oui,Non
+HOP0025,Hôpital Mvogo de Koumassi,Douala,Douala III,Koumassi,4.105622,9.741409,+237 693 026 448,mvogokoumassi@gmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0026,Centre Hospitalier de Nkomo,Yaoundé,Yaoundé I,Nkomo,3.891138,11.426541,+237 678 480 081,nkomo@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0027,Clinique Raphaël Bonamoussadi,Douala,Douala III,Bonamoussadi,4.042311,9.703929,+237 678 598 271,raphaëlbonamou@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0028,Hôpital Saint-Bernadette de Japoma,Douala,Douala I,Japoma,4.117918,9.703067,+237 233 109 204,bernadettejapo@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0029,Centre Hospitalier de Makepe,Douala,Douala IV,Makepe,3.971456,9.676769,+237 678 724 769,makepe@hopitalcam.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0030,Clinique Gabriel Bepanda,Douala,Douala II,Bepanda,4.11377,9.669738,+237 697 486 591,gabrielbepanda@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0031,Hôpital de Soboum,Douala,Douala VI,Soboum,4.110145,9.677405,+237 699 752 566,soboum@hotmail.com,Hôpital de District,Oui,Oui,Oui,Non
+HOP0032,Centre Hospitalier de Mboppi,Douala,Douala V,Mboppi,4.083517,9.742013,+237 696 330 230,mboppi@minsante.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0033,Clinique Marie Simbock,Yaoundé,Yaoundé V,Simbock,3.781451,11.420063,+237 698 105 659,mariesimbock@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0034,Centre Hospitalier de Simbock,Yaoundé,Yaoundé IV,Simbock,3.893798,11.425747,+237 692 747 361,simbock@yahoo.fr,Hôpital de District,Oui,Oui,Non,Non
+HOP0035,Hôpital Saint-Patrick de Carrière,Yaoundé,Yaoundé VI,Carrière,3.829954,11.396857,+237 698 286 663,patrickcarrièr@gmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0036,Hôpital Saint-Cyprien de Mvog-Atangana,Yaoundé,Yaoundé VII,Mvog-Atangana,3.798881,11.532467,+237 696 048 190,cyprienmvog-at@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0037,Hôpital de Cité des Palmiers,Douala,Douala V,Cité des Palmiers,3.973794,9.754497,+237 690 460 310,citédespalmier@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0038,Hôpital Saint-Cyprien de Nzeng-Ayong,Douala,Douala III,Nzeng-Ayong,4.138491,9.692875,+237 233 989 480,cypriennzeng-a@hopitalcam.cm,Hôpital de District,Oui,Non,Oui,Non
+HOP0039,Hôpital de Mvog-Beti,Yaoundé,Yaoundé VII,Mvog-Beti,3.87243,11.402616,+237 242 290 159,mvog-beti@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0040,Clinique Damien Odza,Yaoundé,Yaoundé V,Odza,3.884223,11.507567,+237 691 370 902,damienodza@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0041,Hôpital Saint-Thérèse de PK14,Douala,Douala VI,PK14,4.032824,9.657868,+237 692 907 602,thérèsepk14@yahoo.fr,Hôpital de District,Non,Oui,Oui,Oui
+HOP0042,Hôpital Nkoa de Akwa,Douala,Douala II,Akwa,4.019483,9.670232,+237 655 079 488,nkoaakwa@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0043,Hôpital de Boko,Douala,Douala III,Boko,4.115285,9.764468,+237 678 799 933,boko@yahoo.fr,Hôpital de District,Non,Oui,Non,Oui
+HOP0044,Hôpital Kamga de Ekounou,Yaoundé,Yaoundé VI,Ekounou,3.80583,11.482562,+237 691 299 229,kamgaekounou@hotmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0045,Clinique Luc Bonanjo,Douala,Douala I,Bonanjo,4.102963,9.641768,+237 694 466 382,lucbonanjo@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0046,Hôpital Saint-Dominique de Essos,Yaoundé,Yaoundé VII,Essos,3.780653,11.421341,+237 694 935 042,dominiqueessos@sante.cm,Hôpital de District,Non,Non,Non,Non
+HOP0047,Hôpital Essomba de Olembe,Yaoundé,Yaoundé I,Olembe,3.916169,11.529186,+237 693 319 307,essombaolembe@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0048,Clinique Paul Kotto,Douala,Douala V,Kotto,4.029003,9.709762,+237 692 577 811,paulkotto@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0049,Centre Hospitalier de Elig-Essono,Yaoundé,Yaoundé VI,Elig-Essono,3.894187,11.477958,+237 695 839 453,elig-essono@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0050,Hôpital de Ndoghem,Douala,Douala III,Ndoghem,4.039121,9.760036,+237 696 421 461,ndoghem@minsante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0051,Hôpital de Omnisports,Yaoundé,Yaoundé II,Omnisports,3.798584,11.436287,+237 242 895 579,omnisports@sante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0052,Clinique Marc Ngousso,Yaoundé,Yaoundé III,Ngousso,3.916411,11.571756,+237 652 971 823,marcngousso@gmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0053,Hôpital Saint-Paul de Aetemengue,Yaoundé,Yaoundé V,Aetemengue,3.764901,11.45081,+237 678 739 833,paulaetemengue@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0054,Hôpital Saint-Cécile de Bonapriso,Douala,Douala VI,Bonapriso,4.035741,9.791242,+237 650 284 820,cécibonapriso@gmail.com,Hôpital de District,Non,Non,Non,Non
+HOP0055,Hôpital Saint-Raphaël de Ndogbong,Douala,Douala III,Ndogbong,4.037775,9.655667,+237 699 035 867,raphaëlndogbon@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0056,Clinique Moussa,Yaoundé,Yaoundé I,Ekounou,3.920599,11.424889,+237 699 916 091,moussa@minsante.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0057,Centre Hospitalier de Tsinga,Yaoundé,Yaoundé V,Tsinga,3.756451,11.453122,+237 677 595 735,tsinga@minsante.cm,Hôpital de District,Oui,Oui,Oui,Non
+HOP0058,Hôpital de Nkomo,Yaoundé,Yaoundé V,Nkomo,3.843179,11.575929,+237 222 556 382,nkomo@gmail.com,Hôpital de District,Non,Oui,Oui,Non
+HOP0059,Hôpital Saint-Luc de Nyalla,Douala,Douala V,Nyalla,4.113454,9.725221,+237 697 258 601,lucnyalla@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0060,Hôpital Saint-Joseph de Bonaloka,Douala,Douala IV,Bonaloka,4.030052,9.752602,+237 677 376 589,josephbonaloka@yahoo.fr,Hôpital de District,Oui,Non,Oui,Non
+HOP0061,Clinique Bernadette Cité Verte,Yaoundé,Yaoundé I,Cité Verte,3.81781,11.47553,+237 654 716 408,bernadettecité@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0062,Hôpital Saint-Bernadette de Nkoabang,Yaoundé,Yaoundé II,Nkoabang,3.890953,11.500735,+237 655 280 640,bernadettenkoa@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0063,Hôpital Saint-Marc de Mendong,Yaoundé,Yaoundé VII,Mendong,3.8612,11.469862,+237 695 752 260,marcmendong@sante.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0064,Hôpital de Ekounou,Yaoundé,Yaoundé VI,Ekounou,3.885922,11.501574,+237 678 303 263,ekounou@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0065,Hôpital Owona de Sodiko,Douala,Douala II,Sodiko,4.1273,9.748664,+237 243 467 806,owonasodiko@sante.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0066,Hôpital Saint-Jean de Ndogpassi,Douala,Douala V,Ndogpassi,4.066957,9.685716,+237 653 055 952,jeanndogpassi@yahoo.fr,Hôpital de District,Oui,Non,Oui,Oui
+HOP0067,Hôpital Manga de Essos,Yaoundé,Yaoundé III,Essos,3.868985,11.50023,+237 692 744 043,mangaessos@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0068,Hôpital Bello de Nzeng-Ayong,Douala,Douala V,Nzeng-Ayong,4.052007,9.620837,+237 243 126 141,bellonzeng-ayo@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0069,Clinique Louis Mvog-Beti,Yaoundé,Yaoundé I,Mvog-Beti,3.761858,11.435787,+237 655 088 842,louismvog-beti@yahoo.fr,Hôpital de District,Non,Oui,Non,Non
+HOP0070,Clinique Damien Bepanda,Douala,Douala V,Bepanda,4.049797,9.66807,+237 655 848 251,damienbepanda@sante.cm,Hôpital de District,Oui,Oui,Non,Oui
+HOP0071,Clinique Paul Nkongmondo,Douala,Douala VI,Nkongmondo,4.032649,9.675232,+237 678 880 141,paulnkongmondo@yahoo.fr,Hôpital de District,Non,Oui,Oui,Oui
+HOP0072,Clinique Monique Soboum,Douala,Douala I,Soboum,4.038054,9.699647,+237 243 051 538,moniquesoboum@minsante.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0073,Centre Hospitalier de Mokolo,Yaoundé,Yaoundé VII,Mokolo,3.86572,11.551479,+237 222 506 745,mokolo@yahoo.fr,Hôpital de District,Non,Oui,Oui,Non
+HOP0074,Hôpital Saint-Pierre de Cite SIC,Douala,Douala III,Cite SIC,4.028876,9.77284,+237 695 433 734,pierrecitesic@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0075,Hôpital Saint-Damien de Santa Barbara,Yaoundé,Yaoundé VI,Santa Barbara,3.892439,11.444612,+237 698 428 881,damiensantabar@yahoo.fr,Hôpital de District,Non,Oui,Non,Oui
+HOP0076,Hôpital Moussa de Ndogbong,Douala,Douala IV,Ndogbong,4.085927,9.627561,+237 696 488 429,moussandogbong@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0077,Clinique Bernadette Bonaloka,Douala,Douala III,Bonaloka,4.124229,9.70834,+237 691 432 001,bernadettebona@yahoo.fr,Hôpital de District,Non,Oui,Oui,Non
+HOP0078,Hôpital Kamga de Ndog-Bong,Douala,Douala V,Ndog-Bong,4.047949,9.649461,+237 678 381 509,kamgandog-bong@hotmail.com,Hôpital de District,Oui,Oui,Oui,Non
+HOP0079,Clinique Gabriel Cité des Palmiers,Douala,Douala II,Cité des Palmiers,4.028651,9.689393,+237 222 386 261,gabrielcitédes@yahoo.fr,Hôpital de District,Non,Oui,Non,Non
+HOP0080,Hôpital Saint-Pierre de Tsinga,Yaoundé,Yaoundé I,Tsinga,3.872258,11.50191,+237 697 584 918,pierretsinga@hotmail.com,Hôpital de District,Non,Oui,Oui,Non
+HOP0081,Clinique André Youpwé,Douala,Douala II,Youpwé,4.111411,9.668634,+237 652 019 997,andréyoupwé@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0082,Clinique Pierre Olembe,Yaoundé,Yaoundé VII,Olembe,3.812789,11.41519,+237 651 176 688,pierreolembe@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0083,Hôpital Saint-Jean de Mvog-Beti,Yaoundé,Yaoundé IV,Mvog-Beti,3.954258,11.515781,+237 690 105 295,jeanmvog-beti@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0084,Hôpital Fouda de Bepanda,Douala,Douala I,Bepanda,4.017509,9.648875,+237 694 508 012,foudabepanda@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0085,Clinique Damien PK12,Douala,Douala VI,PK12,4.113371,9.751873,+237 654 306 880,damienpk12@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0086,Hôpital Tchoupo de Etoudi,Yaoundé,Yaoundé IV,Etoudi,3.861867,11.426848,+237 677 032 186,tchoupoetoudi@minsante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0087,Hôpital Saint-Anne de Émana,Yaoundé,Yaoundé IV,Émana,3.847028,11.528081,+237 233 294 875,anneémana@sante.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0088,Clinique Cécile Mvan,Yaoundé,Yaoundé I,Mvan,3.830351,11.398047,+237 692 387 515,cécimvan@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0089,Hôpital Engoulou de Youpwé,Douala,Douala II,Youpwé,4.070331,9.697408,+237 693 185 069,engoulouyoupwé@gmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0090,Hôpital de Olembe,Yaoundé,Yaoundé III,Olembe,3.815124,11.450748,+237 697 397 148,olembe@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0091,Centre Hospitalier de Nyalla,Douala,Douala V,Nyalla,4.052814,9.78117,+237 694 207 794,nyalla@hopitalcam.cm,Hôpital de District,Non,Non,Non,Non
+HOP0092,Hôpital Saint-Élisabeth de Deido,Douala,Douala I,Deido,4.10383,9.722722,+237 695 694 194,élisabethdeido@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0093,Clinique Bernadette Simbock,Yaoundé,Yaoundé VII,Simbock,3.840223,11.530241,+237 698 111 794,bernadettesimb@hotmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0094,Clinique Dominique Émana,Yaoundé,Yaoundé I,Émana,3.744321,11.487052,+237 692 224 650,dominiqueémana@yahoo.fr,Hôpital de District,Non,Non,Non,Non
+HOP0095,Hôpital Onana de Bessengue,Douala,Douala II,Bessengue,4.060097,9.679036,+237 651 644 875,onanabessengue@hotmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0096,Hôpital Saint-Bernadette de Étoa-Meki,Yaoundé,Yaoundé V,Étoa-Meki,3.763836,11.434005,+237 655 212 780,bernadetteétoa@yahoo.fr,Hôpital de District,Non,Non,Non,Oui
+HOP0097,Clinique Kuitche,Yaoundé,Yaoundé V,Ngoa-Ekélé,3.94064,11.510705,+237 691 557 990,kuitche@sante.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0098,Clinique Manga,Yaoundé,Yaoundé II,Madagascar,3.85762,11.448182,+237 233 011 990,manga@hopitalcam.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0099,Hôpital Saint-Patrick de Messa,Yaoundé,Yaoundé IV,Messa,3.950728,11.532959,+237 697 197 941,patrickmessa@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0100,Clinique Thérèse Melen,Yaoundé,Yaoundé III,Melen,3.850491,11.546743,+237 696 482 277,thérèsemelen@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0101,Clinique Tchoupo,Yaoundé,Yaoundé II,Elig-Essono,3.86933,11.52336,+237 652 459 189,tchoupo@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0102,Hôpital Saint-Bernadette de Santa Barbara,Yaoundé,Yaoundé III,Santa Barbara,3.808022,11.598693,+237 699 322 159,bernadettesant@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0103,Hôpital de Nkongmondo,Douala,Douala V,Nkongmondo,4.063917,9.629959,+237 653 039 293,nkongmondo@sante.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0104,Hôpital de PK8,Douala,Douala IV,PK8,4.072126,9.708854,+237 678 783 928,pk8@gmail.com,Hôpital de District,Oui,Non,Non,Oui
+HOP0105,Hôpital Saint-Barnabé de Tsinga,Yaoundé,Yaoundé VI,Tsinga,3.907125,11.428083,+237 678 947 287,barnabétsinga@gmail.com,Hôpital de District,Oui,Oui,Non,Non
+HOP0106,Clinique Thérèse Kotto,Douala,Douala I,Kotto,4.069614,9.68493,+237 679 804 085,thérèsekotto@sante.cm,Hôpital de District,Non,Oui,Non,Non
+HOP0107,Centre Hospitalier de Cité des Palmiers,Douala,Douala II,Cité des Palmiers,4.067284,9.657137,+237 655 708 390,citédespalmier@gmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0108,Hôpital Saint-Joseph de Kotto,Douala,Douala VI,Kotto,4.085111,9.723069,+237 233 951 122,josephkotto@hopitalcam.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0109,Hôpital Saint-Anne de Bastos,Yaoundé,Yaoundé I,Bastos,3.91456,11.569784,+237 233 303 393,annebastos@yahoo.fr,Hôpital de District,Non,Oui,Oui,Non
+HOP0110,Hôpital Mbassi de Ngoa-Ekélé,Yaoundé,Yaoundé II,Ngoa-Ekélé,3.775769,11.534595,+237 654 706 077,mbassingoa-eké@gmail.com,Hôpital de District,Non,Oui,Non,Non
+HOP0111,Hôpital Saint-Camille de Bonamoussadi,Douala,Douala VI,Bonamoussadi,4.03913,9.794797,+237 650 251 925,camilbonamouss@yahoo.fr,Hôpital de District,Non,Oui,Non,Oui
+HOP0112,Hôpital Ekani de Étoa-Meki,Yaoundé,Yaoundé VI,Étoa-Meki,3.825548,11.497311,+237 653 225 356,ekaniétoa-meki@sante.cm,Hôpital de District,Non,Non,Non,Non
+HOP0113,Hôpital Djoumbi de Ndoghem,Douala,Douala V,Ndoghem,4.058202,9.769197,+237 694 788 375,djoumbindoghem@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0114,Hôpital Saint-Thérèse de PK8,Douala,Douala VI,PK8,4.029494,9.688347,+237 653 461 280,thérèsepk8@sante.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0115,Hôpital Belinga de Mendong,Yaoundé,Yaoundé III,Mendong,3.880158,11.474545,+237 243 481 732,belingamendong@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0116,Centre Hospitalier de Djoungolo,Yaoundé,Yaoundé IV,Djoungolo,3.856043,11.446497,+237 692 825 398,djoungolo@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0117,Hôpital Nkeng de Nkoldongo,Yaoundé,Yaoundé III,Nkoldongo,3.850259,11.564656,+237 655 933 970,nkengnkoldongo@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0118,Hôpital Saint-Anne de Nyalla,Douala,Douala II,Nyalla,4.111936,9.725245,+237 678 228 004,annenyalla@minsante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0119,Hôpital Saint-Marie de New Bell,Douala,Douala IV,New Bell,4.039971,9.728506,+237 233 718 557,marienewbell@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0120,Centre Hospitalier de Bonaberi,Douala,Douala VI,Bonaberi,4.021308,9.676538,+237 694 726 854,bonaberi@yahoo.fr,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0121,Hôpital Saint-Marc de Makepe,Douala,Douala I,Makepe,3.964806,9.724161,+237 243 925 403,marcmakepe@gmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0122,Clinique André Biteng,Yaoundé,Yaoundé II,Biteng,3.839965,11.466157,+237 697 883 649,andrébiteng@yahoo.fr,Hôpital de District,Oui,Non,Oui,Oui
+HOP0123,Hôpital de Obili,Yaoundé,Yaoundé II,Obili,3.899164,11.523254,+237 695 357 652,obili@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0124,Clinique Marie New Bell,Douala,Douala VI,New Bell,4.01266,9.787914,+237 698 606 020,marienewbell@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0125,Hôpital Kamga de PK12,Douala,Douala I,PK12,4.050091,9.636397,+237 699 695 454,kamgapk12@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0126,Clinique Barnabé Nkolmesseng,Yaoundé,Yaoundé II,Nkolmesseng,3.901842,11.507181,+237 690 094 266,barnabénkolmes@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0127,Hôpital de Nkolmesseng,Yaoundé,Yaoundé III,Nkolmesseng,3.817923,11.559269,+237 677 914 499,nkolmesseng@yahoo.fr,Hôpital de District,Oui,Oui,Non,Oui
+HOP0128,Hôpital Saint-Dominique de Soboum,Douala,Douala VI,Soboum,4.112322,9.719656,+237 698 438 077,dominiquesobou@yahoo.fr,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0129,Clinique Augustin New Bell,Douala,Douala II,New Bell,3.998392,9.780062,+237 655 125 108,augustinnewbel@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0130,Clinique Barnabé Nlongkak,Yaoundé,Yaoundé I,Nlongkak,3.789065,11.429748,+237 652 465 024,barnabénlongka@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0131,Hôpital de Sodiko,Douala,Douala VI,Sodiko,4.010699,9.681373,+237 697 102 499,sodiko@yahoo.fr,Hôpital de District,Non,Oui,Oui,Oui
+HOP0132,Hôpital Saint-Anne de Ndoghem,Douala,Douala V,Ndoghem,4.063574,9.794098,+237 691 082 963,annendoghem@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0133,Hôpital Onana de Mvog-Atangana,Yaoundé,Yaoundé VI,Mvog-Atangana,3.891656,11.504704,+237 691 385 823,onanamvog-atan@gmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0134,Hôpital Saint-Monique de Bali,Douala,Douala IV,Bali,4.072414,9.641441,+237 651 210 346,moniquebali@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0135,Hôpital Wamba de Elig-Essono,Yaoundé,Yaoundé V,Elig-Essono,3.780348,11.536656,+237 677 807 376,wambaelig-esso@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0136,Clinique Ngu,Yaoundé,Yaoundé III,Nkolbisson,3.81495,11.452828,+237 652 370 865,ngu@gmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0137,Centre Hospitalier de Nkongmondo,Douala,Douala III,Nkongmondo,4.094195,9.76077,+237 679 217 280,nkongmondo@hopitalcam.cm,Hôpital de District,Oui,Oui,Non,Oui
+HOP0138,Clinique Claire Nkoldongo,Yaoundé,Yaoundé IV,Nkoldongo,3.939824,11.498078,+237 695 882 654,clairenkoldong@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0139,Centre Hospitalier de Melen,Yaoundé,Yaoundé VII,Melen,3.922648,11.505128,+237 655 071 290,melen@yahoo.fr,Hôpital de District,Non,Oui,Non,Oui
+HOP0140,Hôpital Saint-Thérèse de Mvan,Yaoundé,Yaoundé IV,Mvan,3.779389,11.488929,+237 650 241 958,thérèsemvan@gmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0141,Clinique Elong,Yaoundé,Yaoundé IV,Simbock,3.842121,11.441027,+237 694 638 712,elong@hopitalcam.cm,Hôpital de District,Non,Oui,Non,Non
+HOP0142,Clinique Anne Nkoabang,Yaoundé,Yaoundé II,Nkoabang,3.896052,11.561932,+237 243 078 427,annenkoabang@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0143,Hôpital de Bassa,Douala,Douala II,Bassa,4.058207,9.764046,+237 679 418 158,bassa@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0144,Hôpital Saint-Gabriel de Omnisports,Yaoundé,Yaoundé IV,Omnisports,3.886471,11.488247,+237 698 110 578,gabrielomnispo@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0145,Hôpital de Tsinga,Yaoundé,Yaoundé IV,Tsinga,3.853009,11.514102,+237 690 389 907,tsinga@hotmail.com,Hôpital de District,Oui,Oui,Oui,Non
+HOP0146,Hôpital Saint-André de Melen,Yaoundé,Yaoundé VI,Melen,3.956319,11.501298,+237 697 204 457,andrémelen@yahoo.fr,Hôpital de District,Oui,Oui,Non,Non
+HOP0147,Clinique Monique Nkomo,Yaoundé,Yaoundé II,Nkomo,3.811792,11.417308,+237 652 830 288,moniquenkomo@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0148,Hôpital Mbassi de Mvog-Beti,Yaoundé,Yaoundé III,Mvog-Beti,3.767074,11.487028,+237 233 168 429,mbassimvog-bet@yahoo.fr,Hôpital de District,Non,Non,Non,Oui
+HOP0149,Centre Hospitalier de Aetemengue,Yaoundé,Yaoundé III,Aetemengue,3.884987,11.400347,+237 222 466 832,aetemengue@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0150,Hôpital Nkeng de Biteng,Yaoundé,Yaoundé II,Biteng,3.756593,11.522623,+237 693 492 418,nkengbiteng@yahoo.fr,Hôpital de District,Non,Oui,Oui,Oui
+HOP0151,Clinique Gabriel Melen,Yaoundé,Yaoundé IV,Melen,3.865506,11.489511,+237 653 994 993,gabrielmelen@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0152,Hôpital de Bonapriso,Douala,Douala V,Bonapriso,4.060304,9.663695,+237 695 061 342,bonapriso@gmail.com,Hôpital de District,Oui,Non,Non,Oui
+HOP0153,Centre Hospitalier de Bassa,Douala,Douala VI,Bassa,4.038475,9.619883,+237 655 862 824,bassa@gmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0154,Hôpital Owona de Village,Douala,Douala VI,Village,4.073082,9.675058,+237 233 556 564,owonavillage@sante.cm,Hôpital de District,Oui,Oui,Oui,Non
+HOP0155,Hôpital Saint-Augustin de Bangue,Douala,Douala V,Bangue,4.086006,9.679586,+237 650 196 474,augustinbangue@sante.cm,Hôpital de District,Oui,Non,Oui,Non
+HOP0156,Clinique Bruno Ndog-Passi III,Douala,Douala VI,Ndog-Passi III,3.996177,9.731823,+237 692 638 636,brunondog-pass@sante.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0157,Hôpital Kuitche de Nkoabang,Yaoundé,Yaoundé V,Nkoabang,3.813341,11.486471,+237 698 774 341,kuitchenkoaban@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0158,Clinique Élisabeth Ndoghem,Douala,Douala V,Ndoghem,4.020896,9.738247,+237 652 675 049,élisabethndogh@yahoo.fr,Hôpital de District,Non,Oui,Non,Oui
+HOP0159,Hôpital Moussa de PK10,Douala,Douala VI,PK10,4.092958,9.632754,+237 693 927 713,moussapk10@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0160,Centre Hospitalier de Messa,Yaoundé,Yaoundé VI,Messa,3.84007,11.406316,+237 651 336 295,messa@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0161,Centre Hospitalier de Mvog-Ada,Yaoundé,Yaoundé IV,Mvog-Ada,3.889028,11.544936,+237 691 484 274,mvog-ada@yahoo.fr,Hôpital de District,Oui,Non,Non,Oui
+HOP0162,Hôpital Saint-Bruno de Obili,Yaoundé,Yaoundé I,Obili,3.845793,11.428596,+237 654 812 119,brunoobili@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0163,Centre Hospitalier de Santa Barbara,Yaoundé,Yaoundé I,Santa Barbara,3.861521,11.408333,+237 653 658 632,santabarbara@yahoo.fr,Hôpital de District,Oui,Non,Non,Oui
+HOP0164,Hôpital Tchoupo de Bonamoussadi,Douala,Douala III,Bonamoussadi,4.067865,9.726068,+237 695 200 155,tchoupobonamou@gmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0165,Clinique Kamga,Yaoundé,Yaoundé VI,Santa Barbara,3.900026,11.585013,+237 222 276 161,kamga@yahoo.fr,Hôpital Général,Non,Oui,Oui,Oui
+HOP0166,Clinique Damien Cite SIC,Douala,Douala II,Cite SIC,4.006363,9.774611,+237 697 108 525,damiencitesic@hotmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0167,Hôpital Nlend de Mendong,Yaoundé,Yaoundé IV,Mendong,3.902483,11.441627,+237 243 914 002,nlendmendong@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0168,Hôpital Saint-Bernadette de Omnisports,Yaoundé,Yaoundé II,Omnisports,3.788232,11.411202,+237 650 874 854,bernadetteomni@minsante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0169,Hôpital de Ndogbong,Douala,Douala VI,Ndogbong,4.137435,9.71013,+237 233 097 283,ndogbong@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0170,Hôpital Abega de Nkoldongo,Yaoundé,Yaoundé V,Nkoldongo,3.787191,11.484286,+237 679 681 039,abegankoldongo@minsante.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0171,Clinique Ndjock,Yaoundé,Yaoundé III,Émana,3.919077,11.501944,+237 693 754 416,ndjock@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0172,Hôpital Mbarga de Mvog-Atangana,Yaoundé,Yaoundé VI,Mvog-Atangana,3.859664,11.421949,+237 692 165 148,mbargamvog-ata@minsante.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0173,Clinique François Nkongmondo,Douala,Douala VI,Nkongmondo,4.09178,9.705122,+237 690 919 536,françoisnkongm@sante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0174,Clinique Joseph Mokolo,Yaoundé,Yaoundé VII,Mokolo,3.879562,11.400599,+237 692 270 852,josephmokolo@gmail.com,Hôpital de District,Non,Non,Non,Non
+HOP0175,Hôpital Saint-Marie de Nkol-Eton,Yaoundé,Yaoundé I,Nkol-Eton,3.800968,11.502542,+237 692 127 848,marienkol-eton@hotmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0176,Hôpital Tchoupo de Kondengui,Yaoundé,Yaoundé IV,Kondengui,3.794627,11.592876,+237 653 062 342,tchoupokondeng@sante.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0177,Hôpital de Makepe,Douala,Douala I,Makepe,4.044382,9.72162,+237 678 258 390,makepe@hopitalcam.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0178,Hôpital de Mendong,Yaoundé,Yaoundé VI,Mendong,3.880398,11.415192,+237 677 253 873,mendong@hotmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0179,Hôpital Saint-Augustin de Kondengui,Yaoundé,Yaoundé VI,Kondengui,3.866766,11.525252,+237 677 314 420,augustinkonden@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0180,Hôpital Nkeng de Ngoa-Ekélé,Yaoundé,Yaoundé II,Ngoa-Ekélé,3.879322,11.465404,+237 243 064 224,nkengngoa-ekél@yahoo.fr,Hôpital de District,Oui,Non,Oui,Oui
+HOP0181,Hôpital Djoumbi de PK8,Douala,Douala VI,PK8,4.010627,9.719661,+237 693 068 949,djoumbipk8@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0182,Clinique Joseph Mbanya,Douala,Douala I,Mbanya,4.133663,9.705317,+237 653 928 343,josephmbanya@minsante.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0183,Hôpital Kuitche de Sodiko,Douala,Douala IV,Sodiko,4.078415,9.670047,+237 696 633 930,kuitchesodiko@sante.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0184,Hôpital Elong de Mvog-Mbi,Yaoundé,Yaoundé III,Mvog-Mbi,3.875,11.552984,+237 677 678 556,elongmvog-mbi@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0185,Hôpital Saint-Gabriel de Bonaberi,Douala,Douala I,Bonaberi,3.994796,9.75866,+237 690 256 413,gabrielbonaber@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0186,Hôpital Abega de PK12,Douala,Douala III,PK12,3.978732,9.655992,+237 697 639 563,abegapk12@hopitalcam.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0187,Clinique Marie PK12,Douala,Douala IV,PK12,4.058839,9.681501,+237 697 300 193,mariepk12@gmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0188,Clinique Marie Biyem-Assi,Yaoundé,Yaoundé II,Biyem-Assi,3.814503,11.533845,+237 243 422 745,mariebiyem-ass@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0189,Clinique Ondoa,Douala,Douala I,Ndogbong,4.108008,9.769813,+237 650 422 623,ondoa@minsante.cm,Hôpital Général,Oui,Oui,Oui,Oui
+HOP0190,Hôpital Ateba de Mendong,Yaoundé,Yaoundé III,Mendong,3.808834,11.413044,+237 679 949 898,atebamendong@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0191,Hôpital de Bonaloka,Douala,Douala III,Bonaloka,4.07984,9.662877,+237 691 037 614,bonaloka@hotmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0192,Hôpital Saint-Bruno de Youpwé,Douala,Douala II,Youpwé,4.02463,9.794371,+237 678 899 962,brunoyoupwé@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0193,Clinique Patrick Bonaberi,Douala,Douala I,Bonaberi,4.033004,9.681495,+237 694 747 524,patrickbonaber@minsante.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0194,Hôpital Fouda de Nzeng-Ayong,Douala,Douala II,Nzeng-Ayong,4.022121,9.646695,+237 653 133 647,foudanzeng-ayo@hopitalcam.cm,Hôpital de District,Non,Non,Non,Non
+HOP0195,Hôpital Nlend de Makepe,Douala,Douala III,Makepe,4.118258,9.756027,+237 696 762 904,nlendmakepe@gmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0196,Clinique Tabi,Yaoundé,Yaoundé II,Briqueterie,3.821508,11.417279,+237 694 108 625,tabi@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0197,Hôpital Ngu de Deido,Douala,Douala II,Deido,4.134236,9.702716,+237 679 718 622,ngudeido@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0198,Hôpital Saint-Barnabé de Ndogpassi,Douala,Douala IV,Ndogpassi,4.084214,9.678859,+237 679 408 699,barnabéndogpas@hopitalcam.cm,Hôpital de District,Oui,Non,Non,Non
+HOP0199,Clinique Barnabé Mboppi,Douala,Douala III,Mboppi,4.084839,9.746086,+237 697 543 327,barnabémboppi@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0200,Hôpital Saint-Paul de Santa Barbara,Yaoundé,Yaoundé VI,Santa Barbara,3.839253,11.565996,+237 655 016 520,paulsantabarba@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0201,Hôpital Tabi de Ndoghem,Douala,Douala I,Ndoghem,4.031528,9.773024,+237 690 836 380,tabindoghem@gmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0202,Hôpital de Biyem-Assi,Yaoundé,Yaoundé IV,Biyem-Assi,3.804048,11.472606,+237 233 105 783,biyem-assi@minsante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0203,Hôpital Saint-Dominique de Mboppi,Douala,Douala VI,Mboppi,4.0621,9.694611,+237 692 932 132,dominiquembopp@minsante.cm,Hôpital de District,Non,Oui,Non,Non
+HOP0204,Clinique Gabriel Kondengui,Yaoundé,Yaoundé I,Kondengui,3.936282,11.466321,+237 650 965 964,gabrielkondeng@hopitalcam.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0205,Hôpital de New Bell,Douala,Douala I,New Bell,4.13202,9.67964,+237 654 984 705,newbell@sante.cm,Hôpital de District,Non,Non,Non,Non
+HOP0206,Hôpital Ateba de Bonanjo,Douala,Douala VI,Bonanjo,4.127537,9.715338,+237 222 783 186,atebabonanjo@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0207,Clinique Jean PK8,Douala,Douala II,PK8,3.989358,9.766608,+237 652 246 365,jeanpk8@hopitalcam.cm,Hôpital Central,Oui,Oui,Oui,Non
+HOP0208,Hôpital Nlend de Olembe,Yaoundé,Yaoundé III,Olembe,3.820651,11.424982,+237 699 729 582,nlendolembe@hopitalcam.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0209,Clinique Gabriel Madagascar,Yaoundé,Yaoundé V,Madagascar,3.845249,11.452208,+237 651 666 355,gabrielmadagas@sante.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0210,Hôpital Mvogo de Bonapriso,Douala,Douala IV,Bonapriso,4.127773,9.692429,+237 691 016 800,mvogobonapriso@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0211,Hôpital Saint-Jeanne de Nkolmesseng,Yaoundé,Yaoundé V,Nkolmesseng,3.748687,11.500563,+237 693 395 929,jeannenkolmess@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0212,Hôpital Saint-Claire de Bonamoussadi,Douala,Douala II,Bonamoussadi,3.993735,9.702055,+237 696 408 433,clairebonamous@sante.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0213,Hôpital Saint-Anne de Santa Barbara,Yaoundé,Yaoundé V,Santa Barbara,3.813131,11.467033,+237 654 607 796,annesantabarba@hopitalcam.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0214,Hôpital de Bonamoussadi,Douala,Douala IV,Bonamoussadi,4.011178,9.654604,+237 243 650 513,bonamoussadi@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0215,Centre Hospitalier de Bonaloka,Douala,Douala VI,Bonaloka,4.002078,9.651236,+237 697 672 894,bonaloka@hotmail.com,Hôpital de District,Oui,Non,Oui,Non
+HOP0216,Hôpital Djoumbi de Ngoa-Ekélé,Yaoundé,Yaoundé II,Ngoa-Ekélé,3.858923,11.546217,+237 696 319 711,djoumbingoa-ek@minsante.cm,Hôpital de District,Non,Oui,Non,Non
+HOP0217,Hôpital de Ngoa-Ekélé,Yaoundé,Yaoundé I,Ngoa-Ekélé,3.812426,11.475846,+237 695 672 379,ngoa-ekélé@hotmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0218,Hôpital de Bonanjo,Douala,Douala II,Bonanjo,4.02558,9.641632,+237 233 855 469,bonanjo@gmail.com,Hôpital de District,Non,Oui,Non,Non
+HOP0219,Clinique Claire Ngousso,Yaoundé,Yaoundé IV,Ngousso,3.765182,11.517364,+237 233 481 177,clairengousso@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0220,Hôpital Simo de Deido,Douala,Douala VI,Deido,4.021274,9.779933,+237 679 256 257,simodeido@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0221,Hôpital de Ndog-Bong,Douala,Douala II,Ndog-Bong,4.057758,9.796756,+237 695 499 663,ndog-bong@sante.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0222,Hôpital Saint-Claire de Bonaloka,Douala,Douala I,Bonaloka,4.121309,9.707488,+237 651 435 052,clairebonaloka@hotmail.com,Hôpital de District,Non,Non,Non,Non
+HOP0223,Clinique Pierre Koumassi,Douala,Douala III,Koumassi,4.0122,9.628635,+237 679 393 253,pierrekoumassi@yahoo.fr,Hôpital de District,Non,Non,Oui,Non
+HOP0224,Hôpital Saint-Bernadette de Bessengue,Douala,Douala IV,Bessengue,4.003367,9.720948,+237 696 546 370,bernadettebess@gmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0225,Centre Hospitalier de Mvog-Beti,Yaoundé,Yaoundé V,Mvog-Beti,3.821205,11.593957,+237 650 766 825,mvog-beti@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0226,Clinique Raphaël PK12,Douala,Douala II,PK12,4.132936,9.742688,+237 698 300 836,raphaëlpk12@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0227,Hôpital Onana de Bassa,Douala,Douala V,Bassa,4.114905,9.675325,+237 694 257 948,onanabassa@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0228,Hôpital Saint-Camille de Mvog-Mbi,Yaoundé,Yaoundé III,Mvog-Mbi,3.773291,11.465947,+237 692 517 817,camilmvog-mbi@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0229,Hôpital Saint-Gabriel de PK10,Douala,Douala III,PK10,4.026136,9.734014,+237 242 132 078,gabrielpk10@gmail.com,Hôpital de District,Non,Non,Non,Non
+HOP0230,Hôpital Saint-Jeanne de Ndog-Bong,Douala,Douala III,Ndog-Bong,4.011903,9.673178,+237 695 366 545,jeannendog-bon@hotmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0231,Hôpital Saint-François de Ndog-Bong,Douala,Douala II,Ndog-Bong,4.005267,9.679449,+237 697 144 222,françoisndog-b@gmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0232,Hôpital de Bessengue,Douala,Douala II,Bessengue,4.06084,9.796513,+237 242 810 859,bessengue@hotmail.com,Hôpital de District,Oui,Non,Oui,Non
+HOP0233,Hôpital de Ndog-Passi III,Douala,Douala I,Ndog-Passi III,4.10105,9.75107,+237 651 873 467,ndog-passiiii@minsante.cm,Hôpital Central,Oui,Oui,Oui,Non
+HOP0234,Hôpital Mbarga de Mokolo,Yaoundé,Yaoundé VII,Mokolo,3.788388,11.48218,+237 698 856 222,mbargamokolo@yahoo.fr,Hôpital de District,Oui,Non,Oui,Oui
+HOP0235,Hôpital Fotso de PK10,Douala,Douala I,PK10,4.021807,9.639173,+237 243 785 948,fotsopk10@yahoo.fr,Hôpital de District,Non,Oui,Oui,Oui
+HOP0236,Clinique Pierre New Bell,Douala,Douala III,New Bell,4.093853,9.749063,+237 697 952 116,pierrenewbell@gmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0237,Clinique Dominique Ndog-Passi III,Douala,Douala II,Ndog-Passi III,4.015663,9.779962,+237 233 609 108,dominiquendog-@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0238,Hôpital Ekani de Deido,Douala,Douala IV,Deido,4.012162,9.739587,+237 243 356 897,ekanideido@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0239,Hôpital Kuitche de Nkolbisson,Yaoundé,Yaoundé VII,Nkolbisson,3.823542,11.568893,+237 696 902 147,kuitchenkolbis@minsante.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0240,Hôpital Kuitche de Mvog-Beti,Yaoundé,Yaoundé I,Mvog-Beti,3.942586,11.481499,+237 242 728 555,kuitchemvog-be@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0241,Centre Hospitalier de New Bell,Douala,Douala II,New Bell,4.037724,9.644611,+237 650 774 284,newbell@hopitalcam.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0242,Hôpital de Etoudi,Yaoundé,Yaoundé III,Etoudi,3.79237,11.438351,+237 243 264 383,etoudi@hotmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0243,Hôpital Saint-Cécile de Djoungolo,Yaoundé,Yaoundé VI,Djoungolo,3.899808,11.459591,+237 650 108 560,cécidjoungolo@hotmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0244,Hôpital Saint-Michel de Elig-Essono,Yaoundé,Yaoundé V,Elig-Essono,3.814938,11.417127,+237 692 161 486,michelelig-ess@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0245,Clinique Louis Santa Barbara,Yaoundé,Yaoundé III,Santa Barbara,3.825677,11.4522,+237 691 876 981,louissantabarb@hotmail.com,Hôpital de District,Oui,Non,Non,Oui
+HOP0246,Hôpital Saint-Luc de Ndog-Passi III,Douala,Douala I,Ndog-Passi III,4.017394,9.749735,+237 698 562 966,lucndog-passii@hotmail.com,Hôpital de District,Oui,Oui,Oui,Non
+HOP0247,Clinique Cyprien Ekounou,Yaoundé,Yaoundé II,Ekounou,3.940031,11.485146,+237 677 936 741,cyprienekounou@minsante.cm,Hôpital de District,Oui,Non,Oui,Non
+HOP0248,Hôpital de Bangue,Douala,Douala II,Bangue,4.107432,9.727401,+237 694 753 196,bangue@sante.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0249,Hôpital de Bepanda,Douala,Douala IV,Bepanda,4.022284,9.641042,+237 696 987 819,bepanda@gmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0250,Hôpital Saint-Cécile de Nkomo,Yaoundé,Yaoundé I,Nkomo,3.913713,11.435748,+237 655 717 641,cécinkomo@minsante.cm,Hôpital Central,Oui,Oui,Oui,Oui
+HOP0251,Clinique Barnabé Etoudi,Yaoundé,Yaoundé V,Etoudi,3.869704,11.604292,+237 698 295 181,barnabéetoudi@sante.cm,Hôpital Général,Oui,Oui,Oui,Oui
+HOP0252,Centre Hospitalier de Essos,Yaoundé,Yaoundé VI,Essos,3.929899,11.532462,+237 651 869 654,essos@hopitalcam.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0253,Clinique Hamadou,Yaoundé,Yaoundé III,Ngousso,3.884306,11.576699,+237 222 022 793,hamadou@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0254,Centre Hospitalier de Mvog-Atangana,Yaoundé,Yaoundé IV,Mvog-Atangana,3.888732,11.443908,+237 653 496 074,mvog-atangana@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0255,Hôpital de Madagascar,Yaoundé,Yaoundé V,Madagascar,3.880731,11.451572,+237 678 721 307,madagascar@gmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0256,Hôpital Saint-Barnabé de Mvan,Yaoundé,Yaoundé II,Mvan,3.869254,11.593,+237 691 258 371,barnabémvan@minsante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0257,Hôpital Ngoa de Cite SIC,Douala,Douala IV,Cite SIC,4.025126,9.787734,+237 678 330 463,ngoacitesic@sante.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0258,Centre Hospitalier de Olembe,Yaoundé,Yaoundé III,Olembe,3.862549,11.44808,+237 650 720 439,olembe@hopitalcam.cm,Hôpital de District,Non,Oui,Non,Non
+HOP0259,Clinique Damien PK14,Douala,Douala V,PK14,4.101085,9.780585,+237 652 676 052,damienpk14@minsante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0260,Centre Hospitalier de Carrière,Yaoundé,Yaoundé VII,Carrière,3.887206,11.555914,+237 678 797 076,carrière@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0261,Clinique Bernadette Bonapriso,Douala,Douala V,Bonapriso,4.046455,9.705313,+237 243 533 821,bernadettebona@minsante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0262,Hôpital Moussa de Boko,Douala,Douala V,Boko,4.05921,9.756259,+237 694 924 086,moussaboko@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0263,Hôpital Wamba de Makepe,Douala,Douala I,Makepe,3.974886,9.685584,+237 699 255 581,wambamakepe@gmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0264,Hôpital Onana de Mboppi,Douala,Douala VI,Mboppi,4.10155,9.780123,+237 677 281 196,onanamboppi@sante.cm,Hôpital de District,Non,Oui,Non,Non
+HOP0265,Clinique Camille Mvan,Yaoundé,Yaoundé VI,Mvan,3.861118,11.443662,+237 222 282 085,camilmvan@hopitalcam.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0266,Hôpital Fouda de Djoungolo,Yaoundé,Yaoundé VII,Djoungolo,3.858275,11.520897,+237 242 451 421,foudadjoungolo@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0267,Hôpital Mbassi de Bepanda,Douala,Douala II,Bepanda,4.085852,9.629221,+237 678 101 346,mbassibepanda@sante.cm,Hôpital de District,Non,Non,Non,Non
+HOP0268,Hôpital de Mokolo,Yaoundé,Yaoundé VI,Mokolo,3.944822,11.521262,+237 699 031 608,mokolo@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0269,Clinique Patrick Bonaloka,Douala,Douala VI,Bonaloka,4.08286,9.723386,+237 694 617 730,patrickbonalok@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0270,Clinique Damien Essos,Yaoundé,Yaoundé IV,Essos,3.912853,11.457503,+237 698 532 633,damienessos@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0271,Hôpital Saint-Barnabé de Ngousso,Yaoundé,Yaoundé V,Ngousso,3.81653,11.442804,+237 693 060 681,barnabéngousso@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0272,Hôpital Tabi de PK14,Douala,Douala VI,PK14,3.980671,9.698709,+237 699 141 768,tabipk14@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0273,Clinique Cécile Mbanya,Douala,Douala II,Mbanya,4.036733,9.712595,+237 654 520 423,cécimbanya@sante.cm,Hôpital de District,Oui,Non,Oui,Non
+HOP0274,Centre Hospitalier de Village,Douala,Douala II,Village,3.998472,9.75605,+237 655 569 689,village@minsante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0275,Clinique Feudjio,Yaoundé,Yaoundé IV,Elig-Essono,3.811081,11.579635,+237 692 427 861,feudjio@gmail.com,Hôpital de District,Oui,Non,Oui,Non
+HOP0276,Clinique Cécile Djoungolo,Yaoundé,Yaoundé IV,Djoungolo,3.953404,11.475371,+237 694 521 820,cécidjoungolo@sante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0277,Centre Hospitalier de Mbanya,Douala,Douala IV,Mbanya,4.035782,9.642927,+237 699 313 961,mbanya@yahoo.fr,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0278,Hôpital Ondoa de Bonaberi,Douala,Douala V,Bonaberi,4.02511,9.787596,+237 696 705 186,ondoabonaberi@gmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0279,Centre Hospitalier de Bangue,Douala,Douala VI,Bangue,3.982509,9.669822,+237 697 389 927,bangue@hopitalcam.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0280,Hôpital Tchoupo de Nlongkak,Yaoundé,Yaoundé VI,Nlongkak,3.848702,11.451541,+237 679 719 450,tchouponlongka@gmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0281,Hôpital Fotso de Kotto,Douala,Douala III,Kotto,4.113759,9.708228,+237 242 846 656,fotsokotto@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0282,Hôpital Saint-François de Makepe,Douala,Douala V,Makepe,4.024816,9.706541,+237 697 291 280,françoismakepe@hotmail.com,Hôpital de District,Oui,Non,Oui,Non
+HOP0283,Clinique Anne Ndog-Bong,Douala,Douala II,Ndog-Bong,4.025447,9.645754,+237 653 520 279,annendog-bong@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0284,Hôpital Belinga de Aetemengue,Yaoundé,Yaoundé V,Aetemengue,3.871017,11.460613,+237 242 731 331,belingaaetemen@minsante.cm,Hôpital de District,Non,Oui,Non,Non
+HOP0285,Clinique Michel Bepanda,Douala,Douala IV,Bepanda,4.104495,9.7232,+237 698 653 490,michelbepanda@gmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0286,Hôpital Ngu de Bonaloka,Douala,Douala I,Bonaloka,4.122011,9.658898,+237 678 630 502,ngubonaloka@gmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0287,Clinique Jeanne Kondengui,Yaoundé,Yaoundé V,Kondengui,3.91581,11.467108,+237 691 879 948,jeannekondengu@sante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0288,Centre Hospitalier de Youpwé,Douala,Douala I,Youpwé,4.080222,9.735468,+237 243 041 365,youpwé@sante.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0289,Hôpital Saint-François de Omnisports,Yaoundé,Yaoundé III,Omnisports,3.879743,11.434375,+237 699 091 738,françoisomnisp@sante.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0290,Hôpital de Ahala,Yaoundé,Yaoundé II,Ahala,3.81634,11.558222,+237 696 644 115,ahala@hopitalcam.cm,Hôpital de District,Non,Non,Non,Non
+HOP0291,Hôpital Saint-Dominique de Bessengue,Douala,Douala II,Bessengue,3.983099,9.670029,+237 695 663 050,dominiquebesse@minsante.cm,Hôpital de District,Oui,Oui,Oui,Non
+HOP0292,Hôpital Mvogo de PK12,Douala,Douala V,PK12,3.984427,9.651081,+237 652 534 138,mvogopk12@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0293,Clinique Bernadette Ndoghem,Douala,Douala IV,Ndoghem,4.126361,9.704898,+237 650 755 034,bernadettendog@sante.cm,Hôpital de District,Oui,Non,Oui,Non
+HOP0294,Clinique Engoulou,Yaoundé,Yaoundé II,Obili,3.785528,11.492009,+237 695 420 431,engoulou@gmail.com,Hôpital de District,Oui,Oui,Oui,Non
+HOP0295,Hôpital Saint-Bruno de Village,Douala,Douala I,Village,3.978172,9.748259,+237 698 228 878,brunovillage@yahoo.fr,Hôpital de District,Non,Oui,Non,Oui
+HOP0296,Hôpital Ateba de Melen,Yaoundé,Yaoundé VII,Melen,3.792747,11.521169,+237 699 016 489,atebamelen@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0297,Clinique Wamba,Yaoundé,Yaoundé VII,Odza,3.80314,11.422367,+237 222 596 925,wamba@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0298,Hôpital Onana de Bonaloka,Douala,Douala VI,Bonaloka,4.090294,9.686252,+237 651 725 985,onanabonaloka@minsante.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0299,Hôpital Saint-Monique de Deido,Douala,Douala VI,Deido,4.08809,9.663818,+237 654 691 101,moniquedeido@gmail.com,Hôpital de District,Non,Oui,Non,Non
+HOP0300,Hôpital Abega de Cité Verte,Yaoundé,Yaoundé V,Cité Verte,3.934242,11.475088,+237 650 680 361,abegacitéverte@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0301,Hôpital de Ngousso,Yaoundé,Yaoundé II,Ngousso,3.861603,11.583653,+237 695 624 637,ngousso@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0302,Clinique Mbarga,Yaoundé,Yaoundé IV,Odza,3.838096,11.58173,+237 651 675 162,mbarga@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0303,Hôpital Saint-François de Nzeng-Ayong,Douala,Douala III,Nzeng-Ayong,4.139833,9.713504,+237 697 443 534,françoisnzeng-@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0304,Clinique Louis Carrière,Yaoundé,Yaoundé I,Carrière,3.740908,11.518751,+237 222 890 488,louiscarrière@gmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0305,Hôpital Saint-Marc de Obili,Yaoundé,Yaoundé IV,Obili,3.88892,11.510668,+237 243 962 003,marcobili@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0306,Hôpital de Mvog-Ada,Yaoundé,Yaoundé IV,Mvog-Ada,3.873366,11.519473,+237 653 158 253,mvog-ada@gmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0307,Centre Hospitalier de Ndoghem,Douala,Douala III,Ndoghem,4.00079,9.700109,+237 651 761 952,ndoghem@yahoo.fr,Hôpital de District,Non,Oui,Non,Oui
+HOP0308,Hôpital Saint-Dominique de Elig-Essono,Yaoundé,Yaoundé II,Elig-Essono,3.846895,11.515775,+237 693 512 889,dominiqueelig-@sante.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0309,Clinique Barnabé Japoma,Douala,Douala IV,Japoma,4.028252,9.726854,+237 233 173 984,barnabéjapoma@hopitalcam.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0310,Clinique Cécile Mvog-Mbi,Yaoundé,Yaoundé VI,Mvog-Mbi,3.848361,11.571098,+237 650 059 583,cécimvog-mbi@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0311,Hôpital Saint-André de Mvog-Mbi,Yaoundé,Yaoundé VI,Mvog-Mbi,3.846702,11.43948,+237 654 249 471,andrémvog-mbi@sante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0312,Hôpital Tabi de Melen,Yaoundé,Yaoundé II,Melen,3.75656,11.444986,+237 651 342 914,tabimelen@sante.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0313,Centre Hospitalier de Nkoldongo,Yaoundé,Yaoundé III,Nkoldongo,3.828866,11.490096,+237 691 435 101,nkoldongo@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0314,Clinique Jeanne Biteng,Yaoundé,Yaoundé VI,Biteng,3.922757,11.58228,+237 653 687 310,jeannebiteng@hotmail.com,Hôpital de District,Oui,Non,Non,Oui
+HOP0315,Centre Hospitalier de Koumassi,Douala,Douala II,Koumassi,4.064405,9.702362,+237 650 716 561,koumassi@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0316,Hôpital Saint-Raphaël de Madagascar,Yaoundé,Yaoundé IV,Madagascar,3.778577,11.559487,+237 697 903 218,raphaëlmadagas@gmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0317,Hôpital Belinga de Ndog-Passi III,Douala,Douala III,Ndog-Passi III,4.079199,9.62991,+237 677 855 552,belingandog-pa@yahoo.fr,Hôpital de District,Non,Oui,Non,Non
+HOP0318,Hôpital Saint-François de Biteng,Yaoundé,Yaoundé VII,Biteng,3.816407,11.513621,+237 699 330 985,françoisbiteng@sante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0319,Clinique Louis Bangue,Douala,Douala III,Bangue,4.108296,9.679208,+237 652 838 716,louisbangue@sante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0320,Hôpital Ateba de Madagascar,Yaoundé,Yaoundé IV,Madagascar,3.763558,11.462918,+237 695 100 682,atebamadagasca@minsante.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0321,Hôpital Saint-Monique de Aetemengue,Yaoundé,Yaoundé I,Aetemengue,3.862123,11.523324,+237 694 136 748,moniqueaetemen@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0322,Clinique Dominique Ndoghem,Douala,Douala V,Ndoghem,4.135185,9.733891,+237 677 142 416,dominiquendogh@gmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0323,Hôpital Wamba de Nzeng-Ayong,Douala,Douala I,Nzeng-Ayong,4.071299,9.77882,+237 693 901 944,wambanzeng-ayo@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0324,Hôpital Onana de Bonapriso,Douala,Douala VI,Bonapriso,4.043934,9.788875,+237 655 531 941,onanabonapriso@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0325,Hôpital Mvogo de Village,Douala,Douala I,Village,4.051781,9.723853,+237 697 345 350,mvogovillage@gmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0326,Centre Hospitalier de Sodiko,Douala,Douala IV,Sodiko,4.057443,9.748435,+237 693 492 788,sodiko@minsante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0327,Hôpital Abega de Sodiko,Douala,Douala IV,Sodiko,4.077949,9.697391,+237 650 341 372,abegasodiko@yahoo.fr,Hôpital de District,Non,Oui,Oui,Oui
+HOP0328,Hôpital de Logbessou,Douala,Douala III,Logbessou,4.122082,9.71085,+237 233 308 900,logbessou@yahoo.fr,Hôpital de District,Non,Oui,Non,Oui
+HOP0329,Clinique Essomba,Yaoundé,Yaoundé VI,Mvog-Atangana,3.916879,11.432868,+237 690 924 699,essomba@hopitalcam.cm,Hôpital Central,Non,Oui,Oui,Non
+HOP0330,Clinique Fotso,Douala,Douala IV,Boko,4.063055,9.788465,+237 697 823 614,fotso@hopitalcam.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0331,Clinique Thérèse Omnisports,Yaoundé,Yaoundé III,Omnisports,3.856772,11.60552,+237 678 145 292,thérèseomnispo@hotmail.com,Hôpital de District,Oui,Non,Oui,Non
+HOP0332,Clinique Pierre Santa Barbara,Yaoundé,Yaoundé I,Santa Barbara,3.801354,11.419969,+237 692 754 439,pierresantabar@hotmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0333,Hôpital Saint-Dominique de Ndogbong,Douala,Douala III,Ndogbong,4.063932,9.664942,+237 242 937 460,dominiquendogb@minsante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0334,Hôpital Saint-Cécile de Youpwé,Douala,Douala I,Youpwé,4.043473,9.769358,+237 243 743 850,céciyoupwé@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0335,Centre Hospitalier de Efoulan,Yaoundé,Yaoundé V,Efoulan,3.852314,11.527267,+237 698 502 001,efoulan@hotmail.com,Hôpital de District,Non,Oui,Oui,Non
+HOP0336,Clinique Mbassi,Yaoundé,Yaoundé III,Nlongkak,3.864993,11.462073,+237 696 101 803,mbassi@gmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0337,Hôpital Saint-Jean de Mvog-Atangana,Yaoundé,Yaoundé I,Mvog-Atangana,3.849928,11.421031,+237 652 321 509,jeanmvog-atang@hotmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0338,Hôpital de Akwa,Douala,Douala VI,Akwa,4.07261,9.781989,+237 678 704 656,akwa@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0339,Hôpital Feudjio de Melen,Yaoundé,Yaoundé II,Melen,3.955626,11.494896,+237 222 195 833,feudjiomelen@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0340,Hôpital Saint-Claire de Ekounou,Yaoundé,Yaoundé V,Ekounou,3.805683,11.532677,+237 650 047 072,claireekounou@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0341,Centre Hospitalier de Deido,Douala,Douala II,Deido,3.986038,9.727743,+237 222 887 659,deido@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0342,Centre Hospitalier de Mimboman,Yaoundé,Yaoundé V,Mimboman,3.77329,11.444832,+237 678 651 980,mimboman@yahoo.fr,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0343,Hôpital Saint-Gabriel de Deido,Douala,Douala II,Deido,4.08543,9.647462,+237 693 096 766,gabrieldeido@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0344,Centre Hospitalier de Bonapriso,Douala,Douala IV,Bonapriso,4.048086,9.647241,+237 696 457 113,bonapriso@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0345,Hôpital Bello de Nkolbisson,Yaoundé,Yaoundé V,Nkolbisson,3.904344,11.445547,+237 650 604 865,bellonkolbisso@gmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0346,Hôpital Saint-Thérèse de Nkolmesseng,Yaoundé,Yaoundé III,Nkolmesseng,3.738941,11.515259,+237 699 772 299,thérèsenkolmes@yahoo.fr,Hôpital de District,Non,Non,Non,Oui
+HOP0347,Clinique Dominique Bepanda,Douala,Douala I,Bepanda,4.067414,9.622019,+237 699 885 483,dominiquebepan@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0348,Centre Hospitalier de Odza,Yaoundé,Yaoundé III,Odza,3.859635,11.472538,+237 653 847 385,odza@minsante.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0349,Clinique Raphaël Nkolbisson,Yaoundé,Yaoundé V,Nkolbisson,3.775638,11.441116,+237 697 528 986,raphaëlnkolbis@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0350,Hôpital Wamba de Bonamoussadi,Douala,Douala V,Bonamoussadi,4.055493,9.674008,+237 698 304 609,wambabonamouss@minsante.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0351,Clinique Michel Efoulan,Yaoundé,Yaoundé VII,Efoulan,3.912829,11.526734,+237 222 962 298,michelefoulan@gmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0352,Centre Hospitalier de Étoa-Meki,Yaoundé,Yaoundé II,Étoa-Meki,3.937786,11.459651,+237 653 480 357,étoa-meki@hopitalcam.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0353,Clinique Joseph Nkoabang,Yaoundé,Yaoundé I,Nkoabang,3.768375,11.49972,+237 677 053 463,josephnkoabang@sante.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0354,Clinique Élisabeth Bali,Douala,Douala IV,Bali,4.119432,9.731536,+237 698 348 704,élisabethbali@hotmail.com,Hôpital de District,Non,Oui,Oui,Non
+HOP0355,Hôpital Ateba de Bonaloka,Douala,Douala III,Bonaloka,4.017306,9.68584,+237 222 353 341,atebabonaloka@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0356,Clinique Michel Aetemengue,Yaoundé,Yaoundé III,Aetemengue,3.792569,11.524224,+237 690 937 162,michelaetemeng@sante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0357,Centre Hospitalier de Bali,Douala,Douala II,Bali,4.040637,9.672669,+237 650 028 906,bali@gmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0358,Centre Hospitalier de Etoudi,Yaoundé,Yaoundé V,Etoudi,3.769547,11.450165,+237 651 394 087,etoudi@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0359,Clinique Thérèse Bonaberi,Douala,Douala VI,Bonaberi,3.979257,9.689303,+237 696 381 390,thérèsebonaber@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0360,Hôpital Saint-Anne de Nkolmesseng,Yaoundé,Yaoundé VII,Nkolmesseng,3.906247,11.556799,+237 654 242 520,annenkolmessen@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0361,Clinique Barnabé Nsam,Yaoundé,Yaoundé II,Nsam,3.851971,11.531497,+237 652 365 020,barnabénsam@hotmail.com,Hôpital de District,Non,Non,Non,Non
+HOP0362,Hôpital Saint-Pierre de Biyem-Assi,Yaoundé,Yaoundé III,Biyem-Assi,3.803129,11.532712,+237 693 136 551,pierrebiyem-as@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0363,Hôpital Saint-Claire de Madagascar,Yaoundé,Yaoundé III,Madagascar,3.806534,11.457103,+237 691 766 521,clairemadagasc@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0364,Hôpital Simo de Ndog-Bong,Douala,Douala II,Ndog-Bong,3.992665,9.76379,+237 655 505 999,simondog-bong@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0365,Hôpital Feudjio de Akwa,Douala,Douala I,Akwa,4.076758,9.631807,+237 651 819 492,feudjioakwa@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0366,Hôpital Saint-François de Bonamoussadi,Douala,Douala VI,Bonamoussadi,3.980001,9.676206,+237 654 815 310,françoisbonamo@gmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0367,Hôpital Saint-Jeanne de Soboum,Douala,Douala IV,Soboum,4.065779,9.673229,+237 694 350 110,jeannesoboum@minsante.cm,Hôpital de District,Oui,Non,Oui,Non
+HOP0368,Hôpital de Mimboman,Yaoundé,Yaoundé I,Mimboman,3.815914,11.518257,+237 243 244 283,mimboman@gmail.com,Hôpital de District,Oui,Non,Non,Oui
+HOP0369,Centre Hospitalier de Ahala,Yaoundé,Yaoundé IV,Ahala,3.752587,11.537999,+237 694 923 089,ahala@gmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0370,Hôpital Mbassi de Kotto,Douala,Douala III,Kotto,4.077948,9.708463,+237 690 625 266,mbassikotto@yahoo.fr,Hôpital de District,Non,Non,Non,Non
+HOP0371,Hôpital Saint-Anne de Étoa-Meki,Yaoundé,Yaoundé V,Étoa-Meki,3.850186,11.412168,+237 677 426 635,anneétoa-meki@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0372,Hôpital de Nkoabang,Yaoundé,Yaoundé IV,Nkoabang,3.910119,11.43042,+237 651 858 549,nkoabang@minsante.cm,Hôpital de District,Oui,Non,Oui,Non
+HOP0373,Hôpital Saint-Damien de Village,Douala,Douala II,Village,4.050683,9.777141,+237 692 720 485,damienvillage@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0374,Hôpital Kamga de Mvog-Atangana,Yaoundé,Yaoundé III,Mvog-Atangana,3.897271,11.525591,+237 654 465 174,kamgamvog-atan@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0375,Centre Hospitalier de PK14,Douala,Douala IV,PK14,3.969858,9.706476,+237 696 019 313,pk14@minsante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0376,Hôpital Saint-Anne de Mbanya,Douala,Douala VI,Mbanya,4.017836,9.676615,+237 650 749 879,annembanya@hotmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0377,Hôpital de Nyalla,Douala,Douala III,Nyalla,4.036924,9.717071,+237 677 902 314,nyalla@sante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0378,Hôpital Saint-Bruno de Ngousso,Yaoundé,Yaoundé VI,Ngousso,3.933838,11.547002,+237 699 600 981,brunongousso@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0379,Clinique Étienne Santa Barbara,Yaoundé,Yaoundé IV,Santa Barbara,3.879386,11.434217,+237 679 286 923,étiennesantaba@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0380,Centre Hospitalier de Soboum,Douala,Douala III,Soboum,4.076604,9.650141,+237 699 590 084,soboum@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0381,Hôpital de Nzeng-Ayong,Douala,Douala IV,Nzeng-Ayong,4.095285,9.770319,+237 695 562 000,nzeng-ayong@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0382,Clinique Monique PK14,Douala,Douala V,PK14,4.032202,9.702333,+237 233 298 170,moniquepk14@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0383,Hôpital Saint-Bernadette de Nkoldongo,Yaoundé,Yaoundé I,Nkoldongo,3.742334,11.491965,+237 692 191 783,bernadettenkol@minsante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0384,Clinique Barnabé PK10,Douala,Douala I,PK10,4.072055,9.730742,+237 650 865 209,barnabépk10@hotmail.com,Hôpital de District,Non,Oui,Non,Non
+HOP0385,Hôpital Saint-Élisabeth de Sodiko,Douala,Douala IV,Sodiko,4.025398,9.708241,+237 652 951 941,élisabethsodik@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0386,Clinique Bruno Soboum,Douala,Douala IV,Soboum,4.091329,9.629241,+237 678 565 021,brunosoboum@minsante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0387,Clinique Cécile Ndogbong,Douala,Douala V,Ndogbong,4.018818,9.645033,+237 694 754 635,cécindogbong@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0388,Hôpital Elong de Tsinga,Yaoundé,Yaoundé III,Tsinga,3.902539,11.516962,+237 242 727 931,elongtsinga@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0389,Hôpital de Ndogpassi,Douala,Douala III,Ndogpassi,3.977204,9.67254,+237 679 290 217,ndogpassi@minsante.cm,Hôpital de District,Non,Non,Non,Non
+HOP0390,Hôpital Saint-Gabriel de Bessengue,Douala,Douala VI,Bessengue,4.027436,9.651996,+237 652 599 269,gabrielbesseng@sante.cm,Hôpital de District,Non,Oui,Non,Non
+HOP0391,Hôpital Saint-Dominique de Japoma,Douala,Douala II,Japoma,3.990494,9.755635,+237 651 122 984,dominiquejapom@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0392,Hôpital Saint-Pierre de Santa Barbara,Yaoundé,Yaoundé I,Santa Barbara,3.760065,11.471247,+237 242 203 111,pierresantabar@gmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0393,Hôpital Saint-Anne de Ndog-Bong,Douala,Douala V,Ndog-Bong,4.090769,9.782831,+237 694 369 550,annendog-bong@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0394,Clinique Pierre Efoulan,Yaoundé,Yaoundé VI,Efoulan,3.83249,11.444641,+237 697 261 376,pierreefoulan@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0395,Clinique Claire Bonaloka,Douala,Douala V,Bonaloka,4.005903,9.780334,+237 691 849 338,clairebonaloka@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0396,Hôpital Saint-Anne de Ndogbong,Douala,Douala III,Ndogbong,3.986704,9.667406,+237 233 634 172,annendogbong@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0397,Centre Hospitalier de Ndog-Passi III,Douala,Douala IV,Ndog-Passi III,4.010453,9.699481,+237 243 600 047,ndog-passiiii@hotmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0398,Hôpital Onana de Sodiko,Douala,Douala III,Sodiko,3.980299,9.759097,+237 692 464 364,onanasodiko@hotmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0399,Clinique Raphaël Nlongkak,Yaoundé,Yaoundé I,Nlongkak,3.801766,11.579341,+237 694 271 106,raphaëlnlongka@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0400,Centre Hospitalier de Ndokoti,Douala,Douala VI,Ndokoti,4.027135,9.736313,+237 652 095 492,ndokoti@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0401,Hôpital de Nkolbisson,Yaoundé,Yaoundé VI,Nkolbisson,3.821518,11.408488,+237 652 321 706,nkolbisson@minsante.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0402,Hôpital Saint-Luc de New Bell,Douala,Douala III,New Bell,4.031132,9.734231,+237 693 013 347,lucnewbell@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0403,Clinique André Akwa,Douala,Douala IV,Akwa,4.046111,9.739739,+237 679 948 219,andréakwa@gmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0404,Hôpital de Briqueterie,Yaoundé,Yaoundé VII,Briqueterie,3.816143,11.600918,+237 677 956 727,briqueterie@yahoo.fr,Hôpital de District,Non,Non,Non,Non
+HOP0405,Hôpital Kuitche de Bessengue,Douala,Douala III,Bessengue,4.015766,9.684063,+237 696 387 492,kuitchebesseng@yahoo.fr,Hôpital de District,Oui,Non,Non,Oui
+HOP0406,Clinique Belinga,Yaoundé,Yaoundé IV,Simbock,3.81377,11.543746,+237 653 028 639,belinga@minsante.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0407,Hôpital Feudjio de Village,Douala,Douala II,Village,4.081159,9.709117,+237 677 015 423,feudjiovillage@hopitalcam.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0408,Centre Hospitalier de Nsam,Yaoundé,Yaoundé IV,Nsam,3.807611,11.433653,+237 699 765 839,nsam@hopitalcam.cm,Hôpital de District,Oui,Oui,Oui,Non
+HOP0409,Centre Hospitalier de Bonanjo,Douala,Douala V,Bonanjo,4.035943,9.776504,+237 233 730 566,bonanjo@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0410,Hôpital Saint-Marc de Ndokoti,Douala,Douala IV,Ndokoti,4.093013,9.689846,+237 650 571 534,marcndokoti@sante.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0411,Hôpital de Carrière,Yaoundé,Yaoundé II,Carrière,3.93162,11.497533,+237 233 682 793,carrière@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0412,Clinique Gabriel PK14,Douala,Douala V,PK14,4.059425,9.688343,+237 692 323 465,gabrielpk14@hotmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0413,Hôpital Saint-Marc de Youpwé,Douala,Douala III,Youpwé,3.98542,9.689674,+237 242 338 318,marcyoupwé@hotmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0414,Hôpital Saint-Paul de PK12,Douala,Douala IV,PK12,4.011899,9.740966,+237 651 691 713,paulpk12@hotmail.com,Hôpital de District,Non,Oui,Oui,Non
+HOP0415,Hôpital Tchoupo de Mvog-Beti,Yaoundé,Yaoundé IV,Mvog-Beti,3.913511,11.493419,+237 690 807 401,tchoupomvog-be@hotmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0416,Hôpital Kuitche de Cité des Palmiers,Douala,Douala IV,Cité des Palmiers,3.990464,9.744425,+237 693 560 393,kuitchecitédes@minsante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0417,Hôpital de Nkol-Eton,Yaoundé,Yaoundé III,Nkol-Eton,3.788832,11.589837,+237 690 302 307,nkol-eton@minsante.cm,Hôpital de District,Oui,Non,Oui,Non
+HOP0418,Hôpital Bello de PK14,Douala,Douala VI,PK14,4.035236,9.73759,+237 694 038 146,bellopk14@hotmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0419,Clinique Louis Mimboman,Yaoundé,Yaoundé V,Mimboman,3.86819,11.420361,+237 243 389 354,louismimboman@sante.cm,Hôpital de District,Oui,Oui,Non,Oui
+HOP0420,Hôpital Saint-Thérèse de Obili,Yaoundé,Yaoundé II,Obili,3.927861,11.461541,+237 652 512 562,thérèseobili@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0421,Hôpital Saint-Camille de Carrière,Yaoundé,Yaoundé IV,Carrière,3.807368,11.568188,+237 242 048 231,camilcarrière@yahoo.fr,Hôpital de District,Non,Non,Oui,Non
+HOP0422,Hôpital Ndoumbe de Mimboman,Yaoundé,Yaoundé V,Mimboman,3.804044,11.601569,+237 679 236 351,ndoumbemimboma@yahoo.fr,Hôpital de District,Oui,Non,Non,Non
+HOP0423,Hôpital Essomba de Odza,Yaoundé,Yaoundé V,Odza,3.774859,11.456318,+237 699 453 835,essombaodza@hopitalcam.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0424,Hôpital Saint-Marie de Logbessou,Douala,Douala VI,Logbessou,3.99714,9.740478,+237 691 872 861,marielogbessou@sante.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0425,Hôpital Ekani de Ekounou,Yaoundé,Yaoundé I,Ekounou,3.826018,11.591251,+237 652 096 936,ekaniekounou@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0426,Clinique Joseph New Bell,Douala,Douala I,New Bell,4.015364,9.733824,+237 650 758 671,josephnewbell@gmail.com,Hôpital de District,Oui,Oui,Oui,Non
+HOP0427,Hôpital Kuitche de Aetemengue,Yaoundé,Yaoundé VII,Aetemengue,3.925956,11.473959,+237 679 866 960,kuitcheaetemen@sante.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0428,Centre Hospitalier de Bessengue,Douala,Douala VI,Bessengue,4.102953,9.675032,+237 650 466 805,bessengue@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0429,Clinique Patrick Carrière,Yaoundé,Yaoundé III,Carrière,3.838087,11.421414,+237 652 083 000,patrickcarrièr@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0430,Hôpital Saint-Jean de Nkongmondo,Douala,Douala V,Nkongmondo,3.975732,9.684828,+237 695 053 733,jeannkongmondo@hopitalcam.cm,Hôpital de District,Oui,Non,Non,Non
+HOP0431,Hôpital Belinga de Bepanda,Douala,Douala VI,Bepanda,3.980761,9.691706,+237 653 867 419,belingabepanda@yahoo.fr,Hôpital de District,Oui,Non,Oui,Oui
+HOP0432,Centre Hospitalier de Bonamoussadi,Douala,Douala II,Bonamoussadi,4.090214,9.67823,+237 233 209 426,bonamoussadi@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0433,Hôpital Saint-Marc de Deido,Douala,Douala I,Deido,4.001194,9.662859,+237 692 337 391,marcdeido@gmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0434,Clinique Raphaël Bastos,Yaoundé,Yaoundé I,Bastos,3.810857,11.569918,+237 695 564 229,raphaëlbastos@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0435,Clinique Marc Bastos,Yaoundé,Yaoundé VII,Bastos,3.857772,11.53852,+237 654 155 775,marcbastos@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0436,Clinique Patrick Nkolmesseng,Yaoundé,Yaoundé III,Nkolmesseng,3.946448,11.515243,+237 222 594 530,patricknkolmes@sante.cm,Hôpital de District,Non,Oui,Non,Non
+HOP0437,Hôpital Mbassi de Nkol-Eton,Yaoundé,Yaoundé I,Nkol-Eton,3.8624,11.553917,+237 653 336 140,mbassinkol-eto@hotmail.com,Hôpital de District,Non,Oui,Oui,Non
+HOP0438,Hôpital Saint-Bruno de Nkoabang,Yaoundé,Yaoundé IV,Nkoabang,3.863225,11.534349,+237 655 342 369,brunonkoabang@hotmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0439,Clinique Louis Biyem-Assi,Yaoundé,Yaoundé VII,Biyem-Assi,3.823579,11.430475,+237 242 578 009,louisbiyem-ass@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0440,Hôpital Djoumbi de Melen,Yaoundé,Yaoundé IV,Melen,3.880424,11.543544,+237 695 557 112,djoumbimelen@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0441,Hôpital de Melen,Yaoundé,Yaoundé VII,Melen,3.866389,11.444017,+237 694 584 528,melen@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0442,Hôpital Saint-Élisabeth de Nkoabang,Yaoundé,Yaoundé II,Nkoabang,3.80962,11.419836,+237 652 672 554,élisabethnkoab@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0443,Clinique Marc Bonapriso,Douala,Douala V,Bonapriso,4.063595,9.781509,+237 698 022 460,marcbonapriso@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0444,Clinique Joseph Mvog-Beti,Yaoundé,Yaoundé VI,Mvog-Beti,3.786583,11.473901,+237 677 982 507,josephmvog-bet@hotmail.com,Hôpital de District,Oui,Oui,Non,Oui
+HOP0445,Clinique Monique Bonaloka,Douala,Douala IV,Bonaloka,4.031676,9.687898,+237 222 461 239,moniquebonalok@hotmail.com,Hôpital de District,Non,Non,Non,Non
+HOP0446,Hôpital Ndoumbe de Etoudi,Yaoundé,Yaoundé II,Etoudi,3.838535,11.582965,+237 699 818 518,ndoumbeetoudi@gmail.com,Hôpital de District,Oui,Non,Oui,Non
+HOP0447,Clinique Barnabé Bonamoussadi,Douala,Douala I,Bonamoussadi,4.083182,9.641682,+237 652 478 637,barnabébonamou@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0448,Hôpital Saint-Joseph de Boko,Douala,Douala VI,Boko,4.016892,9.782283,+237 679 015 803,josephboko@sante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0449,Hôpital Mbassi de Carrière,Yaoundé,Yaoundé V,Carrière,3.840951,11.487603,+237 697 670 331,mbassicarrière@yahoo.fr,Hôpital de District,Non,Non,Non,Oui
+HOP0450,Clinique Camille Nkoabang,Yaoundé,Yaoundé VI,Nkoabang,3.768099,11.460353,+237 690 273 922,camilnkoabang@sante.cm,Hôpital de District,Oui,Non,Non,Non
+HOP0451,Hôpital Saint-François de Etoudi,Yaoundé,Yaoundé I,Etoudi,3.799751,11.598832,+237 692 895 352,françoisetoudi@gmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0452,Hôpital Saint-Pierre de Simbock,Yaoundé,Yaoundé IV,Simbock,3.900723,11.581362,+237 678 024 557,pierresimbock@hotmail.com,Hôpital de District,Non,Oui,Oui,Non
+HOP0453,Hôpital Saint-Patrick de Djoungolo,Yaoundé,Yaoundé VII,Djoungolo,3.792126,11.475638,+237 699 585 837,patrickdjoungo@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0454,Clinique Pierre Nzeng-Ayong,Douala,Douala II,Nzeng-Ayong,4.019623,9.674909,+237 655 436 109,pierrenzeng-ay@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0455,Hôpital Saint-Raphaël de Nsam,Yaoundé,Yaoundé III,Nsam,3.763054,11.488728,+237 233 378 700,raphaëlnsam@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0456,Hôpital Saint-Cécile de Deido,Douala,Douala VI,Deido,4.005284,9.643766,+237 653 703 184,cécideido@minsante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0457,Hôpital Ngu de Bastos,Yaoundé,Yaoundé VII,Bastos,3.910642,11.491935,+237 691 153 034,ngubastos@hopitalcam.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0458,Clinique Cécile Nkolmesseng,Yaoundé,Yaoundé VII,Nkolmesseng,3.875565,11.400059,+237 222 738 770,cécinkolmessen@yahoo.fr,Hôpital de District,Non,Non,Oui,Non
+HOP0459,Hôpital Tchoupo de Biteng,Yaoundé,Yaoundé VII,Biteng,3.808743,11.534495,+237 651 367 830,tchoupobiteng@gmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0460,Centre Hospitalier de Briqueterie,Yaoundé,Yaoundé VI,Briqueterie,3.878295,11.607043,+237 233 439 803,briqueterie@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0461,Clinique Augustin Kotto,Douala,Douala II,Kotto,4.015112,9.702999,+237 677 928 887,augustinkotto@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0462,Hôpital Saint-Cyprien de Nkolmesseng,Yaoundé,Yaoundé III,Nkolmesseng,3.890286,11.590858,+237 692 638 930,cypriennkolmes@yahoo.fr,Hôpital de District,Oui,Non,Oui,Oui
+HOP0463,Hôpital de Nlongkak,Yaoundé,Yaoundé II,Nlongkak,3.84789,11.437886,+237 694 622 011,nlongkak@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0464,Clinique Joseph Bonaloka,Douala,Douala IV,Bonaloka,4.12853,9.724789,+237 690 969 401,josephbonaloka@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0465,Clinique Marie Youpwé,Douala,Douala IV,Youpwé,4.080487,9.725033,+237 654 453 681,marieyoupwé@minsante.cm,Hôpital de District,Oui,Non,Oui,Non
+HOP0466,Hôpital Saint-Gabriel de Logbessou,Douala,Douala II,Logbessou,4.037263,9.729055,+237 233 102 850,gabriellogbess@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0467,Clinique Cécile Boko,Douala,Douala V,Boko,4.107131,9.748089,+237 651 047 541,céciboko@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0468,Hôpital de Deido,Douala,Douala III,Deido,3.993919,9.698891,+237 653 641 356,deido@yahoo.fr,Hôpital de District,Non,Oui,Oui,Non
+HOP0469,Hôpital Saint-Pierre de PK12,Douala,Douala I,PK12,4.051381,9.635253,+237 697 785 802,pierrepk12@minsante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0470,Hôpital Saint-Camille de Mimboman,Yaoundé,Yaoundé VII,Mimboman,3.868448,11.530322,+237 222 461 417,camilmimboman@sante.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0471,Hôpital Ekani de Olembe,Yaoundé,Yaoundé I,Olembe,3.870478,11.555898,+237 696 138 899,ekaniolembe@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0472,Centre Hospitalier de Ngoa-Ekélé,Yaoundé,Yaoundé IV,Ngoa-Ekélé,3.769159,11.566164,+237 651 855 720,ngoa-ekélé@yahoo.fr,Hôpital de District,Oui,Non,Non,Non
+HOP0473,Hôpital Manga de Mbanya,Douala,Douala II,Mbanya,4.12477,9.741417,+237 698 740 628,mangambanya@hopitalcam.cm,Hôpital de District,Oui,Non,Non,Non
+HOP0474,Hôpital Ndjock de Santa Barbara,Yaoundé,Yaoundé III,Santa Barbara,3.755382,11.459892,+237 694 997 435,ndjocksantabar@minsante.cm,Hôpital de District,Oui,Oui,Oui,Non
+HOP0475,Hôpital Kuitche de Mbanya,Douala,Douala VI,Mbanya,4.030683,9.723194,+237 651 033 927,kuitchembanya@hopitalcam.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0476,Hôpital Saint-Claire de Mvog-Beti,Yaoundé,Yaoundé III,Mvog-Beti,3.772535,11.515938,+237 652 524 944,clairemvog-bet@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0477,Clinique Patrick Ngousso,Yaoundé,Yaoundé VII,Ngousso,3.877004,11.474136,+237 691 596 201,patrickngousso@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0478,Clinique Louis Ndokoti,Douala,Douala IV,Ndokoti,4.087713,9.627961,+237 242 067 803,louisndokoti@yahoo.fr,Hôpital de District,Non,Non,Oui,Non
+HOP0479,Clinique Raphaël Nzeng-Ayong,Douala,Douala V,Nzeng-Ayong,4.016125,9.713805,+237 652 133 703,raphaëlnzeng-a@yahoo.fr,Hôpital de District,Oui,Non,Oui,Oui
+HOP0480,Hôpital Saint-Paul de Omnisports,Yaoundé,Yaoundé VII,Omnisports,3.888252,11.418728,+237 690 212 616,paulomnisports@minsante.cm,Hôpital de District,Oui,Oui,Non,Oui
+HOP0481,Hôpital Saint-Thérèse de Ndog-Bong,Douala,Douala VI,Ndog-Bong,4.028521,9.702403,+237 654 121 143,thérèsendog-bo@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0482,Hôpital Saint-Patrick de Sodiko,Douala,Douala III,Sodiko,4.010286,9.75768,+237 652 903 284,patricksodiko@minsante.cm,Hôpital de District,Oui,Non,Oui,Non
+HOP0483,Hôpital Saint-Camille de Ndog-Passi III,Douala,Douala III,Ndog-Passi III,4.054615,9.664774,+237 692 887 905,camilndog-pass@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0484,Clinique Gabriel Bonaberi,Douala,Douala V,Bonaberi,4.090558,9.751986,+237 697 673 679,gabrielbonaber@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0485,Hôpital Belinga de Nyalla,Douala,Douala IV,Nyalla,3.965936,9.707075,+237 695 839 437,belinganyalla@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0486,Hôpital Hamadou de Cité des Palmiers,Douala,Douala IV,Cité des Palmiers,4.098961,9.770563,+237 677 308 879,hamadoucitédes@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0487,Hôpital de PK10,Douala,Douala I,PK10,4.113138,9.702687,+237 691 210 197,pk10@sante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0488,Centre Hospitalier de Mendong,Yaoundé,Yaoundé V,Mendong,3.86143,11.593478,+237 677 731 006,mendong@gmail.com,Hôpital de District,Non,Oui,Oui,Non
+HOP0489,Hôpital Saint-Michel de Ekounou,Yaoundé,Yaoundé V,Ekounou,3.852064,11.419499,+237 653 429 057,michelekounou@gmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0490,Clinique Ngoa,Yaoundé,Yaoundé III,Messa,3.783244,11.530349,+237 698 396 997,ngoa@minsante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0491,Clinique Marc Nkoabang,Yaoundé,Yaoundé V,Nkoabang,3.878531,11.489777,+237 690 252 216,marcnkoabang@yahoo.fr,Hôpital de District,Oui,Oui,Non,Oui
+HOP0492,Hôpital Saint-Paul de Cite SIC,Douala,Douala V,Cite SIC,3.97702,9.745396,+237 693 082 297,paulcitesic@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0493,Centre Hospitalier de Ndogpassi,Douala,Douala VI,Ndogpassi,4.068685,9.749966,+237 690 098 853,ndogpassi@yahoo.fr,Hôpital de District,Non,Non,Non,Oui
+HOP0494,Hôpital Saint-Barnabé de Santa Barbara,Yaoundé,Yaoundé VI,Santa Barbara,3.890626,11.501583,+237 242 385 463,barnabésantaba@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0495,Hôpital Saint-Élisabeth de Mvog-Atangana,Yaoundé,Yaoundé III,Mvog-Atangana,3.842444,11.610958,+237 692 158 454,élisabethmvog-@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0496,Clinique Marie Odza,Yaoundé,Yaoundé VII,Odza,3.790144,11.551693,+237 653 353 280,marieodza@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0497,Clinique Patrick Mboppi,Douala,Douala IV,Mboppi,4.09038,9.779331,+237 650 940 015,patrickmboppi@yahoo.fr,Hôpital de District,Non,Non,Oui,Non
+HOP0498,Clinique André Ahala,Yaoundé,Yaoundé III,Ahala,3.949993,11.475605,+237 694 117 113,andréahala@gmail.com,Hôpital de District,Oui,Non,Non,Non
+HOP0499,Clinique Augustin Nzeng-Ayong,Douala,Douala IV,Nzeng-Ayong,4.054601,9.792458,+237 690 152 233,augustinnzeng-@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0500,Clinique Nkeng,Yaoundé,Yaoundé II,Olembe,3.932841,11.559695,+237 677 584 483,nkeng@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0501,Hôpital de Biteng,Yaoundé,Yaoundé II,Biteng,3.936227,11.503885,+237 696 158 239,biteng@sante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0502,Hôpital de Cité Verte,Yaoundé,Yaoundé IV,Cité Verte,3.886216,11.604569,+237 242 686 668,citéverte@minsante.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0503,Hôpital de Messa,Yaoundé,Yaoundé VII,Messa,3.761257,11.471305,+237 677 053 423,messa@hopitalcam.cm,Hôpital de District,Oui,Oui,Non,Non
+HOP0504,Centre Hospitalier de Nlongkak,Yaoundé,Yaoundé VI,Nlongkak,3.780812,11.441325,+237 650 878 573,nlongkak@minsante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0505,Clinique Monique Ndog-Passi III,Douala,Douala I,Ndog-Passi III,3.995835,9.684252,+237 697 780 694,moniquendog-pa@minsante.cm,Hôpital de District,Non,Non,Non,Non
+HOP0506,Hôpital Hamadou de Essos,Yaoundé,Yaoundé IV,Essos,3.895496,11.517981,+237 693 845 419,hamadouessos@hopitalcam.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0507,Clinique Jeanne Etoudi,Yaoundé,Yaoundé V,Etoudi,3.815299,11.497556,+237 652 201 516,jeanneetoudi@hotmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0508,Clinique André Bonanjo,Douala,Douala II,Bonanjo,4.052906,9.684397,+237 650 522 436,andrébonanjo@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0509,Hôpital Fouda de Bessengue,Douala,Douala II,Bessengue,4.041372,9.722363,+237 691 362 783,foudabessengue@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0510,Hôpital Onana de Kotto,Douala,Douala V,Kotto,4.083471,9.782278,+237 243 713 569,onanakotto@minsante.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0511,Clinique Biyiti,Yaoundé,Yaoundé I,Nlongkak,3.871262,11.548431,+237 690 157 686,biyiti@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0512,Hôpital Ndoumbe de Nkoldongo,Yaoundé,Yaoundé VII,Nkoldongo,3.879366,11.527624,+237 695 640 462,ndoumbenkoldon@hopitalcam.cm,Hôpital de District,Oui,Oui,Non,Oui
+HOP0513,Hôpital Nkoa de Bonapriso,Douala,Douala V,Bonapriso,4.008744,9.658693,+237 679 835 186,nkoabonapriso@hotmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0514,Centre Hospitalier de Ngousso,Yaoundé,Yaoundé III,Ngousso,3.878532,11.439645,+237 233 567 343,ngousso@hopitalcam.cm,Hôpital Central,Oui,Oui,Oui,Oui
+HOP0515,Hôpital Saint-Jeanne de Mvan,Yaoundé,Yaoundé I,Mvan,3.785206,11.461965,+237 693 111 574,jeannemvan@gmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0516,Clinique Étienne Deido,Douala,Douala III,Deido,4.033204,9.697549,+237 678 456 571,étiennedeido@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0517,Hôpital Saint-Dominique de Cite SIC,Douala,Douala IV,Cite SIC,4.027191,9.654923,+237 691 278 873,dominiquecites@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0518,Centre Hospitalier de Émana,Yaoundé,Yaoundé I,Émana,3.762923,11.511845,+237 693 709 179,émana@minsante.cm,Hôpital de District,Non,Non,Non,Non
+HOP0519,Hôpital Saint-Jeanne de PK12,Douala,Douala V,PK12,4.109624,9.650427,+237 690 543 601,jeannepk12@yahoo.fr,Hôpital de District,Non,Non,Non,Non
+HOP0520,Hôpital Ngoa de Bassa,Douala,Douala II,Bassa,4.135226,9.706792,+237 650 568 284,ngoabassa@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0521,Hôpital Saint-Raphaël de Bonapriso,Douala,Douala II,Bonapriso,3.98962,9.653806,+237 694 416 608,raphaëlbonapri@hopitalcam.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0522,Hôpital de Mboppi,Douala,Douala IV,Mboppi,3.98386,9.737139,+237 699 421 431,mboppi@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0523,Hôpital Ngoa de Ndoghem,Douala,Douala I,Ndoghem,4.046051,9.738827,+237 222 752 952,ngoandoghem@hopitalcam.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0524,Centre Hospitalier de Madagascar,Yaoundé,Yaoundé VII,Madagascar,3.918481,11.423885,+237 692 591 009,madagascar@gmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0525,Hôpital Ngoa de Carrière,Yaoundé,Yaoundé I,Carrière,3.826648,11.479683,+237 242 869 535,ngoacarrière@yahoo.fr,Hôpital de District,Non,Non,Non,Oui
+HOP0526,Clinique François Djoungolo,Yaoundé,Yaoundé V,Djoungolo,3.899145,11.509403,+237 691 250 286,françoisdjoung@sante.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0527,Hôpital de PK14,Douala,Douala VI,PK14,4.039645,9.795099,+237 678 119 750,pk14@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0528,Clinique Luc Deido,Douala,Douala III,Deido,4.095395,9.732922,+237 243 030 836,lucdeido@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0529,Hôpital Saint-Gabriel de Bali,Douala,Douala I,Bali,4.048695,9.70787,+237 233 543 179,gabrielbali@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0530,Hôpital Saint-Pierre de Nkolbisson,Yaoundé,Yaoundé IV,Nkolbisson,3.918384,11.419234,+237 697 055 364,pierrenkolbiss@sante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0531,Hôpital Ndjock de Boko,Douala,Douala III,Boko,4.001937,9.680326,+237 242 191 915,ndjockboko@gmail.com,Hôpital de District,Oui,Oui,Non,Oui
+HOP0532,Centre Hospitalier de Cite SIC,Douala,Douala IV,Cite SIC,4.039914,9.649641,+237 698 801 033,citesic@minsante.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0533,Hôpital Moussa de Village,Douala,Douala VI,Village,4.057739,9.664943,+237 677 421 826,moussavillage@hotmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0534,Centre Hospitalier de Nkoabang,Yaoundé,Yaoundé I,Nkoabang,3.830661,11.546084,+237 654 241 091,nkoabang@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0535,Hôpital Engoulou de Sodiko,Douala,Douala IV,Sodiko,4.028608,9.714321,+237 690 506 805,engoulousodiko@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0536,Clinique Camille Mbanya,Douala,Douala III,Mbanya,4.082721,9.752796,+237 677 143 257,camilmbanya@hopitalcam.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0537,Clinique Monique Cite SIC,Douala,Douala IV,Cite SIC,4.000485,9.771354,+237 693 458 131,moniquecitesic@hotmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0538,Clinique Damien Ngousso,Yaoundé,Yaoundé IV,Ngousso,3.868564,11.462155,+237 652 531 553,damienngousso@gmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0539,Clinique Claire PK12,Douala,Douala III,PK12,4.028663,9.670996,+237 690 665 395,clairepk12@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0540,Hôpital Fotso de Nzeng-Ayong,Douala,Douala III,Nzeng-Ayong,4.015239,9.763696,+237 696 029 740,fotsonzeng-ayo@yahoo.fr,Hôpital de District,Non,Oui,Oui,Oui
+HOP0541,Clinique Joseph PK12,Douala,Douala VI,PK12,4.056487,9.64884,+237 650 919 736,josephpk12@minsante.cm,Hôpital de District,Oui,Non,Non,Non
+HOP0542,Centre Hospitalier de Akwa,Douala,Douala VI,Akwa,4.115655,9.717054,+237 242 113 729,akwa@yahoo.fr,Hôpital de District,Non,Oui,Oui,Non
+HOP0543,Clinique Onana,Yaoundé,Yaoundé VI,Melen,3.784195,11.442331,+237 695 006 458,onana@hopitalcam.cm,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0544,Hôpital Saint-Cécile de Elig-Essono,Yaoundé,Yaoundé II,Elig-Essono,3.83191,11.567893,+237 242 243 458,cécielig-esson@minsante.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0545,Clinique Abega,Yaoundé,Yaoundé II,Nkoldongo,3.798134,11.438715,+237 222 599 376,abega@yahoo.fr,Hôpital de District,Non,Non,Oui,Non
+HOP0546,Hôpital Saint-Thérèse de Ndokoti,Douala,Douala II,Ndokoti,4.113766,9.704382,+237 694 865 137,thérèsendokoti@yahoo.fr,Hôpital de District,Non,Non,Oui,Non
+HOP0547,Clinique Marie Messa,Yaoundé,Yaoundé VII,Messa,3.800479,11.448613,+237 233 326 401,mariemessa@yahoo.fr,Hôpital de District,Non,Oui,Oui,Oui
+HOP0548,Hôpital Tchoupo de Nkomo,Yaoundé,Yaoundé VII,Nkomo,3.865011,11.443067,+237 679 816 515,tchouponkomo@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0549,Hôpital de Simbock,Yaoundé,Yaoundé I,Simbock,3.742208,11.487039,+237 653 923 268,simbock@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0550,Hôpital Belinga de Ngoa-Ekélé,Yaoundé,Yaoundé IV,Ngoa-Ekélé,3.755006,11.460874,+237 222 268 058,belingangoa-ek@sante.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0551,Hôpital Hamadou de Ahala,Yaoundé,Yaoundé V,Ahala,3.869078,11.603503,+237 233 896 205,hamadouahala@hotmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0552,Clinique Cyprien Bepanda,Douala,Douala IV,Bepanda,4.018398,9.716711,+237 652 861 367,cyprienbepanda@sante.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0553,Clinique Ateba,Yaoundé,Yaoundé VII,Madagascar,3.843387,11.589605,+237 652 244 950,ateba@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0554,Hôpital Hamadou de PK14,Douala,Douala III,PK14,4.078396,9.672075,+237 655 198 869,hamadoupk14@minsante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0555,Hôpital Tchoupo de Bali,Douala,Douala I,Bali,4.094455,9.777045,+237 694 314 367,tchoupobali@yahoo.fr,Hôpital de District,Non,Oui,Oui,Non
+HOP0556,Clinique Augustin Youpwé,Douala,Douala II,Youpwé,4.111625,9.765991,+237 242 418 118,augustinyoupwé@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0557,Clinique Bernadette Mvog-Atangana,Yaoundé,Yaoundé V,Mvog-Atangana,3.782836,11.467338,+237 222 685 678,bernadettemvog@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0558,Centre Hospitalier de PK8,Douala,Douala III,PK8,4.036197,9.739474,+237 222 685 726,pk8@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0559,Hôpital Saint-Augustin de Bassa,Douala,Douala V,Bassa,4.043909,9.619147,+237 697 649 797,augustinbassa@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0560,Centre Hospitalier de Mvan,Yaoundé,Yaoundé VI,Mvan,3.841111,11.580542,+237 692 082 043,mvan@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0561,Clinique Cécile Madagascar,Yaoundé,Yaoundé VII,Madagascar,3.863432,11.504338,+237 653 454 051,cécimadagascar@minsante.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0562,Hôpital Saint-Paul de Ndokoti,Douala,Douala I,Ndokoti,4.097244,9.6682,+237 655 389 963,paulndokoti@hopitalcam.cm,Hôpital de District,Oui,Non,Oui,Non
+HOP0563,Hôpital Engoulou de Messa,Yaoundé,Yaoundé III,Messa,3.903074,11.561683,+237 652 557 686,engouloumessa@gmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0564,Hôpital Nkeng de Nkol-Eton,Yaoundé,Yaoundé II,Nkol-Eton,3.908283,11.444007,+237 650 024 594,nkengnkol-eton@yahoo.fr,Hôpital de District,Non,Oui,Oui,Oui
+HOP0565,Hôpital de Village,Douala,Douala V,Village,3.979349,9.664719,+237 690 662 449,village@hopitalcam.cm,Hôpital de District,Non,Oui,Non,Non
+HOP0566,Hôpital Saint-Cécile de Bessengue,Douala,Douala I,Bessengue,4.096555,9.762788,+237 652 467 985,cécibessengue@yahoo.fr,Hôpital de District,Non,Oui,Oui,Non
+HOP0567,Hôpital Feudjio de Tsinga,Yaoundé,Yaoundé VI,Tsinga,3.864243,11.57166,+237 243 981 929,feudjiotsinga@minsante.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0568,Hôpital Fotso de Boko,Douala,Douala IV,Boko,4.051985,9.741243,+237 655 343 811,fotsoboko@gmail.com,Hôpital de District,Non,Oui,Oui,Non
+HOP0569,Centre Hospitalier de Japoma,Douala,Douala VI,Japoma,4.090976,9.707853,+237 695 923 261,japoma@gmail.com,Hôpital de District,Oui,Non,Non,Non
+HOP0570,Hôpital Saint-Élisabeth de Bonaberi,Douala,Douala IV,Bonaberi,4.10179,9.708328,+237 697 101 261,élisabethbonab@gmail.com,Hôpital de District,Non,Oui,Oui,Non
+HOP0571,Hôpital Saint-Claire de New Bell,Douala,Douala IV,New Bell,4.056339,9.649122,+237 679 336 416,clairenewbell@gmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0572,Hôpital Saint-Claire de Bonapriso,Douala,Douala III,Bonapriso,4.023178,9.764753,+237 690 221 801,clairebonapris@gmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0573,Hôpital Saint-Étienne de PK12,Douala,Douala V,PK12,4.062358,9.686059,+237 694 428 468,étiennepk12@sante.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0574,Hôpital Wamba de Youpwé,Douala,Douala I,Youpwé,4.104306,9.693742,+237 695 421 518,wambayoupwé@gmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0575,Hôpital Simo de Makepe,Douala,Douala III,Makepe,4.018714,9.653931,+237 243 350 652,simomakepe@gmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0576,Clinique Louis Mendong,Yaoundé,Yaoundé III,Mendong,3.85768,11.499969,+237 693 811 009,louismendong@gmail.com,Hôpital de District,Oui,Oui,Oui,Non
+HOP0577,Clinique Mvogo,Yaoundé,Yaoundé IV,Messa,3.810628,11.543129,+237 243 113 046,mvogo@minsante.cm,Hôpital de District,Oui,Oui,Non,Oui
+HOP0578,Centre Hospitalier de Biteng,Yaoundé,Yaoundé I,Biteng,3.853741,11.426954,+237 679 645 232,biteng@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0579,Clinique Nkoa,Yaoundé,Yaoundé II,Nkoabang,3.760384,11.548063,+237 233 137 799,nkoa@hopitalcam.cm,Hôpital de District,Non,Non,Non,Non
+HOP0580,Clinique Simo,Douala,Douala I,Soboum,4.013232,9.76934,+237 242 596 868,simo@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0581,Hôpital Saint-Marie de PK12,Douala,Douala V,PK12,4.038186,9.65122,+237 678 708 063,mariepk12@minsante.cm,Hôpital de District,Oui,Oui,Non,Oui
+HOP0582,Hôpital Ateba de Nkomo,Yaoundé,Yaoundé IV,Nkomo,3.950143,11.462627,+237 650 108 843,atebankomo@yahoo.fr,Hôpital de District,Oui,Oui,Non,Non
+HOP0583,Clinique Michel Ngoa-Ekélé,Yaoundé,Yaoundé III,Ngoa-Ekélé,3.819345,11.411036,+237 233 642 122,michelngoa-eké@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0584,Centre Hospitalier de Obili,Yaoundé,Yaoundé IV,Obili,3.927233,11.523857,+237 691 839 705,obili@yahoo.fr,Hôpital Général,Oui,Non,Oui,Oui
+HOP0585,Hôpital Fotso de Aetemengue,Yaoundé,Yaoundé VII,Aetemengue,3.880725,11.404834,+237 242 226 460,fotsoaetemengu@gmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0586,Hôpital Saint-Augustin de Nsam,Yaoundé,Yaoundé V,Nsam,3.893734,11.422963,+237 651 148 989,augustinnsam@yahoo.fr,Hôpital de District,Non,Non,Non,Oui
+HOP0587,Hôpital Mvogo de Kotto,Douala,Douala III,Kotto,4.00504,9.705516,+237 651 971 831,mvogokotto@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0588,Hôpital Saint-Pierre de Mboppi,Douala,Douala I,Mboppi,3.994853,9.717257,+237 242 269 724,pierremboppi@sante.cm,Hôpital de District,Oui,Oui,Oui,Non
+HOP0589,Hôpital Saint-François de Ndogbong,Douala,Douala I,Ndogbong,4.019102,9.748129,+237 699 691 747,françoisndogbo@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0590,Clinique Djoumbi,Yaoundé,Yaoundé VII,Messa,3.784339,11.574713,+237 695 928 532,djoumbi@gmail.com,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0591,Hôpital Saint-François de Ahala,Yaoundé,Yaoundé VI,Ahala,3.871809,11.465193,+237 678 202 877,françoisahala@hotmail.com,Hôpital de District,Oui,Oui,Oui,Non
+HOP0592,Hôpital Ondoa de Bali,Douala,Douala V,Bali,4.064825,9.632332,+237 242 569 278,ondoabali@sante.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0593,Hôpital Mvogo de Bessengue,Douala,Douala III,Bessengue,3.998422,9.666204,+237 243 888 032,mvogobessengue@gmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0594,Hôpital Tchoupo de Mendong,Yaoundé,Yaoundé III,Mendong,3.88511,11.409043,+237 233 042 959,tchoupomendong@yahoo.fr,Hôpital de District,Oui,Non,Non,Oui
+HOP0595,Hôpital Saint-Camille de Elig-Essono,Yaoundé,Yaoundé III,Elig-Essono,3.749702,11.495671,+237 650 905 691,camilelig-esso@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0596,Clinique Thérèse New Bell,Douala,Douala VI,New Bell,4.025471,9.664888,+237 698 567 958,thérèsenewbell@gmail.com,Hôpital de District,Oui,Oui,Oui,Non
+HOP0597,Hôpital Bello de Kondengui,Yaoundé,Yaoundé III,Kondengui,3.874129,11.479698,+237 652 975 667,bellokondengui@hotmail.com,Hôpital de District,Non,Oui,Non,Non
+HOP0598,Clinique Claire Sodiko,Douala,Douala III,Sodiko,4.068511,9.65234,+237 678 929 938,clairesodiko@yahoo.fr,Hôpital de District,Non,Oui,Oui,Non
+HOP0599,Clinique Patrick Émana,Yaoundé,Yaoundé V,Émana,3.905656,11.433884,+237 242 384 446,patrickémana@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0600,Clinique Pierre Village,Douala,Douala I,Village,3.966633,9.724133,+237 677 050 277,pierrevillage@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0601,Hôpital de Odza,Yaoundé,Yaoundé III,Odza,3.857175,11.556663,+237 651 012 998,odza@gmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0602,Clinique Bernadette Akwa,Douala,Douala V,Akwa,4.041826,9.705535,+237 692 497 509,bernadetteakwa@gmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0603,Clinique Camille Djoungolo,Yaoundé,Yaoundé III,Djoungolo,3.953414,11.529957,+237 243 673 207,camildjoungolo@gmail.com,Hôpital de District,Non,Oui,Oui,Oui
+HOP0604,Hôpital de Mvog-Atangana,Yaoundé,Yaoundé IV,Mvog-Atangana,3.903623,11.501157,+237 652 583 451,mvog-atangana@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0605,Hôpital de Nsam,Yaoundé,Yaoundé VII,Nsam,3.878622,11.600015,+237 654 745 684,nsam@hopitalcam.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0606,Hôpital Hamadou de Makepe,Douala,Douala I,Makepe,4.051793,9.668558,+237 690 322 265,hamadoumakepe@yahoo.fr,Hôpital de District,Non,Oui,Oui,Oui
+HOP0607,Hôpital Saint-Patrick de Biyem-Assi,Yaoundé,Yaoundé VII,Biyem-Assi,3.804869,11.560177,+237 222 323 512,patrickbiyem-a@minsante.cm,Hôpital de District,Oui,Oui,Non,Non
+HOP0608,Hôpital Saint-Raphaël de Ekounou,Yaoundé,Yaoundé I,Ekounou,3.76741,11.575716,+237 651 169 153,raphaëlekounou@gmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0609,Hôpital Saint-Damien de Logbessou,Douala,Douala III,Logbessou,4.077841,9.671612,+237 650 367 931,damienlogbesso@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0610,Hôpital Mbassi de Elig-Essono,Yaoundé,Yaoundé IV,Elig-Essono,3.836063,11.61047,+237 678 001 960,mbassielig-ess@yahoo.fr,Hôpital de District,Non,Oui,Non,Non
+HOP0611,Hôpital de Youpwé,Douala,Douala III,Youpwé,4.065468,9.749782,+237 678 587 967,youpwé@hopitalcam.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0612,Hôpital Saint-Luc de Ngousso,Yaoundé,Yaoundé IV,Ngousso,3.862352,11.546344,+237 698 819 736,lucngousso@hopitalcam.cm,Hôpital Général,Oui,Oui,Oui,Oui
+HOP0613,Hôpital de Koumassi,Douala,Douala IV,Koumassi,4.075674,9.629445,+237 693 409 053,koumassi@sante.cm,Hôpital Général,Oui,Oui,Oui,Oui
+HOP0614,Hôpital Ngu de Nyalla,Douala,Douala VI,Nyalla,3.997805,9.698492,+237 692 945 303,ngunyalla@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0615,Clinique Barnabé Bonapriso,Douala,Douala III,Bonapriso,4.046597,9.739249,+237 696 114 497,barnabébonapri@gmail.com,Hôpital de District,Non,Non,Non,Non
+HOP0616,Clinique Owona,Yaoundé,Yaoundé VI,Étoa-Meki,3.818474,11.518722,+237 222 215 199,owona@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0617,Hôpital Saint-Marie de Bonaloka,Douala,Douala II,Bonaloka,4.022429,9.699102,+237 697 737 776,mariebonaloka@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0618,Clinique Étienne Ahala,Yaoundé,Yaoundé VII,Ahala,3.852039,11.403565,+237 695 238 736,étienneahala@yahoo.fr,Hôpital de District,Non,Oui,Non,Non
+HOP0619,Hôpital Simo de Émana,Yaoundé,Yaoundé IV,Émana,3.860285,11.57731,+237 677 469 248,simoémana@sante.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0620,Hôpital Saint-Élisabeth de Olembe,Yaoundé,Yaoundé III,Olembe,3.791052,11.580869,+237 694 128 314,élisabetholemb@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0621,Centre Hospitalier de Kotto,Douala,Douala I,Kotto,4.001548,9.766743,+237 652 934 631,kotto@hotmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0622,Hôpital Saint-Monique de Djoungolo,Yaoundé,Yaoundé VI,Djoungolo,3.874141,11.408355,+237 651 275 459,moniquedjoungo@gmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0623,Clinique Patrick Nlongkak,Yaoundé,Yaoundé II,Nlongkak,3.905707,11.538939,+237 691 151 312,patricknlongka@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0624,Hôpital Saint-Louis de Elig-Essono,Yaoundé,Yaoundé I,Elig-Essono,3.922142,11.56777,+237 654 597 100,louiselig-esso@minsante.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0625,Clinique Camille Bonanjo,Douala,Douala V,Bonanjo,4.049713,9.763359,+237 655 172 264,camilbonanjo@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0626,Clinique Pierre Bassa,Douala,Douala IV,Bassa,3.99211,9.656266,+237 699 415 454,pierrebassa@gmail.com,Hôpital de District,Non,Non,Non,Non
+HOP0627,Hôpital Fouda de Madagascar,Yaoundé,Yaoundé VII,Madagascar,3.803957,11.476946,+237 697 436 652,foudamadagasca@sante.cm,Hôpital de District,Oui,Oui,Non,Non
+HOP0628,Hôpital Belinga de Cité des Palmiers,Douala,Douala VI,Cité des Palmiers,4.067363,9.762292,+237 650 323 278,belingacitédes@hotmail.com,Hôpital de District,Non,Oui,Oui,Non
+HOP0629,Hôpital Saint-Raphaël de Nkoabang,Yaoundé,Yaoundé IV,Nkoabang,3.953563,11.495979,+237 652 735 119,raphaëlnkoaban@minsante.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0630,Clinique Bello,Yaoundé,Yaoundé VII,Messa,3.901,11.525703,+237 692 449 785,bello@hopitalcam.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0631,Centre Hospitalier de Bastos,Yaoundé,Yaoundé VI,Bastos,3.894434,11.470204,+237 695 705 328,bastos@hotmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0632,Hôpital Saint-Bruno de Ndog-Bong,Douala,Douala V,Ndog-Bong,4.122467,9.669678,+237 693 138 910,brunondog-bong@sante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0633,Clinique Camille Sodiko,Douala,Douala VI,Sodiko,4.057626,9.759777,+237 652 546 157,camilsodiko@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0634,Hôpital de Japoma,Douala,Douala I,Japoma,4.030107,9.635989,+237 233 747 686,japoma@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0635,Clinique Joseph Bassa,Douala,Douala V,Bassa,4.092866,9.710675,+237 651 454 102,josephbassa@gmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0636,Hôpital Saint-Raphaël de Cité des Palmiers,Douala,Douala II,Cité des Palmiers,3.983938,9.684914,+237 653 011 054,raphaëlcitédes@hotmail.com,Hôpital de District,Non,Non,Oui,Non
+HOP0637,Hôpital Moussa de Koumassi,Douala,Douala V,Koumassi,3.990617,9.72161,+237 654 739 339,moussakoumassi@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0638,Hôpital Saint-Patrick de Logbessou,Douala,Douala I,Logbessou,3.969435,9.713333,+237 233 212 849,patricklogbess@gmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0639,Hôpital Saint-Élisabeth de Djoungolo,Yaoundé,Yaoundé V,Djoungolo,3.770218,11.518244,+237 696 069 687,élisabethdjoun@minsante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0640,Hôpital Saint-Jean de Aetemengue,Yaoundé,Yaoundé V,Aetemengue,3.852117,11.460527,+237 222 781 383,jeanaetemengue@minsante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0641,Hôpital Tchoupo de Ndogbong,Douala,Douala II,Ndogbong,4.091544,9.630048,+237 243 622 640,tchoupondogbon@sante.cm,Hôpital de District,Non,Non,Non,Non
+HOP0642,Hôpital Ngoa de Nkomo,Yaoundé,Yaoundé II,Nkomo,3.873291,11.532832,+237 695 849 324,ngoankomo@gmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0643,Clinique Ndoumbe,Yaoundé,Yaoundé II,Nkoldongo,3.83683,11.575152,+237 693 979 273,ndoumbe@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0644,Hôpital Saint-Jean de PK14,Douala,Douala VI,PK14,3.981265,9.744788,+237 653 042 861,jeanpk14@hopitalcam.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0645,Clinique Dominique Village,Douala,Douala II,Village,4.091552,9.687033,+237 243 882 921,dominiquevilla@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0646,Hôpital de Bonaberi,Douala,Douala II,Bonaberi,4.020018,9.774517,+237 654 020 699,bonaberi@yahoo.fr,Hôpital de District,Non,Oui,Oui,Oui
+HOP0647,Clinique Luc Ndog-Passi III,Douala,Douala VI,Ndog-Passi III,4.007053,9.74673,+237 694 551 057,lucndog-passii@hopitalcam.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0648,Hôpital Saint-Thérèse de Nkomo,Yaoundé,Yaoundé VII,Nkomo,3.757457,11.460188,+237 698 417 709,thérèsenkomo@minsante.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0649,Clinique Bernadette Nsam,Yaoundé,Yaoundé VI,Nsam,3.756767,11.515241,+237 651 459 779,bernadettensam@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0650,Hôpital Wamba de Deido,Douala,Douala II,Deido,4.094901,9.738513,+237 694 919 379,wambadeido@sante.cm,Hôpital de District,Non,Oui,Non,Non
+HOP0651,Clinique Nlend,Yaoundé,Yaoundé III,Cité Verte,3.844238,11.567205,+237 691 452 271,nlend@minsante.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0652,Hôpital Kuitche de Ekounou,Yaoundé,Yaoundé V,Ekounou,3.840664,11.404725,+237 694 198 356,kuitcheekounou@yahoo.fr,Hôpital de District,Oui,Oui,Non,Oui
+HOP0653,Centre Hospitalier de Kondengui,Yaoundé,Yaoundé I,Kondengui,3.923144,11.52535,+237 692 244 518,kondengui@yahoo.fr,Hôpital de District,Oui,Non,Oui,Oui
+HOP0654,Centre Hospitalier de Mvog-Mbi,Yaoundé,Yaoundé V,Mvog-Mbi,3.868346,11.609375,+237 691 490 040,mvog-mbi@hopitalcam.cm,Hôpital de District,Oui,Oui,Non,Non
+HOP0655,Clinique Raphaël Japoma,Douala,Douala I,Japoma,4.116683,9.679665,+237 692 115 409,raphaëljapoma@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0656,Hôpital Manga de Mvog-Beti,Yaoundé,Yaoundé II,Mvog-Beti,3.804522,11.498623,+237 653 990 200,mangamvog-beti@gmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0657,Hôpital Hamadou de Bepanda,Douala,Douala I,Bepanda,3.976822,9.712902,+237 242 759 097,hamadoubepanda@gmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0658,Hôpital de Ndokoti,Douala,Douala VI,Ndokoti,4.086382,9.726374,+237 692 426 238,ndokoti@hotmail.com,Hôpital de District,Non,Oui,Oui,Non
+HOP0659,Clinique Ekani,Douala,Douala V,Mboppi,4.102745,9.71034,+237 652 748 625,ekani@hopitalcam.cm,Hôpital Général,Oui,Oui,Oui,Oui
+HOP0660,Hôpital de Mbanya,Douala,Douala VI,Mbanya,4.023246,9.637294,+237 655 426 323,mbanya@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0661,Clinique Marc Nkoldongo,Yaoundé,Yaoundé IV,Nkoldongo,3.814654,11.540699,+237 677 454 653,marcnkoldongo@yahoo.fr,Hôpital de District,Non,Oui,Oui,Oui
+HOP0662,Hôpital Saint-Claire de Bassa,Douala,Douala VI,Bassa,4.073871,9.654146,+237 650 328 603,clairebassa@sante.cm,Hôpital de District,Non,Non,Non,Oui
+HOP0663,Centre Hospitalier de Cité Verte,Yaoundé,Yaoundé VII,Cité Verte,3.873127,11.511664,+237 655 142 155,citéverte@yahoo.fr,Hôpital de District,Oui,Non,Oui,Oui
+HOP0664,Hôpital de Santa Barbara,Yaoundé,Yaoundé I,Santa Barbara,3.922546,11.518123,+237 242 941 338,santabarbara@minsante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0665,Centre Hospitalier de Bepanda,Douala,Douala IV,Bepanda,4.023159,9.777511,+237 690 035 412,bepanda@hotmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0666,Hôpital Onana de Bonanjo,Douala,Douala II,Bonanjo,4.081063,9.690353,+237 654 925 877,onanabonanjo@hotmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0667,Hôpital Saint-Augustin de Efoulan,Yaoundé,Yaoundé IV,Efoulan,3.873016,11.498014,+237 690 036 001,augustinefoula@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0668,Hôpital de Kotto,Douala,Douala I,Kotto,4.013529,9.749528,+237 697 969 276,kotto@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0669,Hôpital Saint-Damien de Obili,Yaoundé,Yaoundé II,Obili,3.787223,11.484968,+237 679 653 700,damienobili@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0670,Hôpital Saint-Gabriel de Mvog-Ada,Yaoundé,Yaoundé III,Mvog-Ada,3.780327,11.416888,+237 693 949 163,gabrielmvog-ad@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0671,Hôpital Saint-Gabriel de PK8,Douala,Douala I,PK8,4.093017,9.749801,+237 650 397 250,gabrielpk8@hopitalcam.cm,Hôpital de District,Oui,Non,Oui,Non
+HOP0672,Hôpital Biyiti de Nlongkak,Yaoundé,Yaoundé VI,Nlongkak,3.82871,11.59036,+237 222 836 317,biyitinlongkak@yahoo.fr,Hôpital de District,Oui,Oui,Oui,Oui
+HOP0673,Hôpital Simo de Briqueterie,Yaoundé,Yaoundé III,Briqueterie,3.797039,11.597463,+237 695 617 812,simobriqueteri@yahoo.fr,Hôpital de District,Non,Oui,Oui,Non
+HOP0674,Clinique Barnabé Émana,Yaoundé,Yaoundé III,Émana,3.758106,11.504919,+237 693 067 269,barnabéémana@sante.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0675,Clinique Étienne Bessengue,Douala,Douala III,Bessengue,4.126321,9.740078,+237 655 782 288,étiennebesseng@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0676,Clinique Élisabeth Youpwé,Douala,Douala VI,Youpwé,4.006254,9.707842,+237 678 028 679,élisabethyoupw@yahoo.fr,Hôpital de District,Non,Non,Oui,Oui
+HOP0677,Hôpital Saint-Luc de Nlongkak,Yaoundé,Yaoundé V,Nlongkak,3.880737,11.4464,+237 690 665 417,lucnlongkak@hopitalcam.cm,Hôpital de District,Oui,Oui,Non,Oui
+HOP0678,Hôpital de Nkoldongo,Yaoundé,Yaoundé I,Nkoldongo,3.794335,11.596913,+237 699 025 559,nkoldongo@hotmail.com,Hôpital de District,Non,Non,Non,Oui
+HOP0679,Hôpital Manga de Japoma,Douala,Douala I,Japoma,4.080351,9.709973,+237 696 532 848,mangajapoma@hopitalcam.cm,Hôpital de District,Non,Oui,Non,Oui
+HOP0680,Clinique Jeanne PK8,Douala,Douala I,PK8,4.074271,9.693121,+237 222 137 866,jeannepk8@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0681,Hôpital de Cite SIC,Douala,Douala IV,Cite SIC,4.116501,9.666523,+237 679 824 601,citesic@hopitalcam.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0682,Hôpital de Bali,Douala,Douala I,Bali,4.118966,9.699569,+237 222 789 224,bali@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Non
+HOP0683,Clinique Camille Nkoldongo,Yaoundé,Yaoundé IV,Nkoldongo,3.895976,11.42486,+237 653 700 864,camilnkoldongo@hotmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0684,Clinique Raphaël Mboppi,Douala,Douala III,Mboppi,4.034366,9.629633,+237 690 933 798,raphaëlmboppi@gmail.com,Hôpital de District,Non,Non,Oui,Oui
+HOP0685,Hôpital Moussa de Santa Barbara,Yaoundé,Yaoundé III,Santa Barbara,3.749618,11.525287,+237 697 721 837,moussasantabar@minsante.cm,Hôpital de District,Oui,Non,Non,Oui
+HOP0686,Clinique Dominique Messa,Yaoundé,Yaoundé VII,Messa,3.936985,11.482262,+237 695 725 894,dominiquemessa@sante.cm,Hôpital de District,Oui,Non,Oui,Non
+HOP0687,Clinique François Ngousso,Yaoundé,Yaoundé III,Ngousso,3.770127,11.531232,+237 652 042 879,françoisngouss@hotmail.com,Hôpital de District,Oui,Non,Oui,Oui
+HOP0688,Hôpital Bello de Obili,Yaoundé,Yaoundé VI,Obili,3.80284,11.600347,+237 653 300 479,belloobili@hopitalcam.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0689,Clinique Joseph Sodiko,Douala,Douala V,Sodiko,3.969313,9.708557,+237 690 434 233,josephsodiko@sante.cm,Hôpital de District,Non,Non,Oui,Oui
+HOP0690,Hôpital Saint-Cécile de Bangue,Douala,Douala VI,Bangue,4.083276,9.649135,+237 679 803 121,cécibangue@yahoo.fr,Hôpital de District,Oui,Non,Non,Non
+HOP0691,Hôpital Saint-Cécile de Biyem-Assi,Yaoundé,Yaoundé VII,Biyem-Assi,3.919905,11.451648,+237 650 782 856,cécibiyem-assi@yahoo.fr,Hôpital de District,Non,Non,Oui,Non
+HOP0692,Clinique Anne Bangue,Douala,Douala III,Bangue,3.975806,9.677859,+237 694 970 491,annebangue@minsante.cm,Hôpital de District,Non,Oui,Oui,Non
+HOP0693,Hôpital de Djoungolo,Yaoundé,Yaoundé V,Djoungolo,3.794404,11.483785,+237 697 174 380,djoungolo@yahoo.fr,Hôpital de District,Non,Oui,Non,Oui
+HOP0694,Hôpital Nkeng de New Bell,Douala,Douala VI,New Bell,3.980605,9.728045,+237 652 769 098,nkengnewbell@yahoo.fr,Hôpital de District,Non,Oui,Non,Oui
+HOP0695,Hôpital Saint-Thérèse de Étoa-Meki,Yaoundé,Yaoundé V,Étoa-Meki,3.95061,11.521206,+237 242 075 673,thérèseétoa-me@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0696,Hôpital Fouda de Ngousso,Yaoundé,Yaoundé I,Ngousso,3.945614,11.549724,+237 222 592 177,foudangousso@sante.cm,Hôpital de District,Non,Oui,Oui,Oui
+HOP0697,Clinique Camille Mboppi,Douala,Douala I,Mboppi,4.030015,9.691075,+237 691 278 916,camilmboppi@hotmail.com,Hôpital de District,Non,Oui,Non,Oui
+HOP0698,Clinique Bernadette Ngousso,Yaoundé,Yaoundé VII,Ngousso,3.827946,11.599356,+237 697 770 704,bernadettengou@minsante.cm,Hôpital de District,Oui,Non,Oui,Oui
+HOP0699,Centre Hospitalier de PK10,Douala,Douala V,PK10,4.081642,9.78997,+237 678 026 399,pk10@yahoo.fr,Hôpital de District,Oui,Non,Oui,Oui
+HOP0700,Hôpital Saint-Claire de Bessengue,Douala,Douala III,Bessengue,3.974834,9.739594,+237 697 691 153,clairebessengu@sante.cm,Hôpital de District,Non,Non,Oui,Non

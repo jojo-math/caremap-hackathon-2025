@@ -1,0 +1,351 @@
+id,nom,ville,arrondissement,quartier,latitude,longitude,telephone,email,consultation_generale,chirurgie_oculaire,correction_visuelle,vente_lunettes,traitement_cataracte,traitement_glaucome,laser_vision,horaires
+OPH0001,Ophtalmologie Alliance,Yaoundé,Yaoundé VI,Etoudi,3.791275,11.459117,+237 677 145 000,ophtalmologiea@gmail.com,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Sam 08h00–17h00
+OPH0002,Clinique Ophtalmologique de PK8,Douala,Douala IV,PK8,4.008615,9.689444,+237 679 457 937,pk8@gmail.com,Oui,Non,Non,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+OPH0003,Clinique Ophtalmologique de Étoa-Meki,Yaoundé,Yaoundé VII,Étoa-Meki,3.934848,11.497522,+237 651 572 534,étoa-meki@gmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+OPH0004,Cabinet Ophtalmologique Mbarga,Yaoundé,Yaoundé VI,Ekounou,3.915351,11.489102,+237 650 202 865,mbarga@hotmail.com,Oui,Non,Oui,Non,Non,Non,Non,Lun–Sam 07h00–20h00
+OPH0005,Clinique Ophtalmologique de Ndog-Passi III,Douala,Douala I,Ndog-Passi III,3.984647,9.714386,+237 654 859 495,ndog-passiiii@hotmail.com,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Dim 08h00–18h00
+OPH0006,Ophtalmologie Providence,Yaoundé,Yaoundé VII,Nkomo,3.939628,11.531482,+237 693 362 522,ophtalmologiep@hotmail.com,Oui,Non,Oui,Non,Oui,Oui,Non,Lun–Ven 07h30–17h30
+OPH0007,Centre Ophtalmologique Saint-Michel,Douala,Douala VI,Ndogpassi,3.990315,9.75777,+237 699 746 942,michel@ophta.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+OPH0008,Centre de la Vision Ateba,Yaoundé,Yaoundé II,Mimboman,3.848455,11.539753,+237 242 075 909,visionateba@gmail.com,Oui,Non,Oui,Non,Non,Oui,Non,Lun–Ven 07h30–17h30
+OPH0009,Clinique des Yeux de PK8,Douala,Douala III,PK12,4.011633,9.783741,+237 242 770 571,desyeuxpk8@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+OPH0010,Cabinet Ophtalmologique Nkoa,Yaoundé,Yaoundé I,Biyem-Assi,3.829768,11.567457,+237 696 033 399,nkoa@ophta.cm,Oui,Oui,Oui,Oui,Non,Oui,Non,7j/7 — 08h00–20h00
+OPH0011,Clinique Ophtalmologique de Ndogbong,Douala,Douala V,Ndogbong,4.061308,9.637627,+237 693 613 306,ndogbong@gmail.com,Oui,Oui,Non,Oui,Non,Oui,Non,7j/7 — 08h00–20h00
+OPH0012,Clinique des Yeux de Bali,Douala,Douala II,Bali,4.127827,9.714472,+237 677 129 642,desyeuxbali@hotmail.com,Oui,Non,Non,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+OPH0013,Centre Ophtalmologique Saint-Bernadette,Douala,Douala IV,Sodiko,4.002248,9.728175,+237 692 272 219,bernadette@ophta.cm,Oui,Non,Non,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+OPH0014,Clinique des Yeux de Boko,Douala,Douala IV,Deido,4.059473,9.719113,+237 699 475 513,desyeuxboko@ophta.cm,Oui,Oui,Non,Oui,Oui,Oui,Non,Lun–Sam 07h30–19h00
+OPH0015,Centre Ophtalmologique Saint-Élisabeth,Douala,Douala I,Bepanda,4.023289,9.685506,+237 653 330 705,élisabeth@ophta.cm,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Sam 07h00–20h00
+OPH0016,Clinique Ophtalmologique de Madagascar,Yaoundé,Yaoundé I,Simbock,3.871573,11.555212,+237 690 658 835,madagascar@hotmail.com,Oui,Non,Oui,Non,Non,Oui,Non,Lun–Sam 07h00–20h00
+OPH0017,Clinique des Yeux de Cité des Palmiers,Douala,Douala III,Soboum,4.102339,9.721614,+237 692 396 651,desyeuxcitédes@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Oui,7j/7 — 08h00–20h00
+OPH0018,Clinique Ophtalmologique de Nkongmondo,Douala,Douala V,Nkongmondo,4.039304,9.758039,+237 242 786 389,nkongmondo@hotmail.com,Oui,Non,Oui,Non,Oui,Oui,Non,Lun–Sam 07h00–20h00
+OPH0019,Clinique des Yeux de Ekounou,Yaoundé,Yaoundé VI,Ahala,3.794262,11.565759,+237 692 230 888,desyeuxekounou@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+OPH0020,Centre de la Vision Mbarga,Yaoundé,Yaoundé VI,Nkomo,3.826021,11.588872,+237 653 880 858,visionmbarga@gmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,7j/7 — 08h00–20h00
+OPH0021,Cabinet Ophtalmologique Bello,Yaoundé,Yaoundé VII,Biteng,3.765341,11.558073,+237 695 775 542,bello@ophta.cm,Oui,Non,Oui,Non,Non,Oui,Non,Lun–Sam 07h00–20h00
+OPH0022,Clinique Ophtalmologique de Nlongkak,Yaoundé,Yaoundé III,Nlongkak,3.889014,11.549193,+237 695 698 098,nlongkak@yahoo.fr,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Sam 08h00–17h00
+OPH0023,Centre Ophtalmologique Saint-Marie,Douala,Douala V,Mbanya,4.053378,9.73347,+237 696 700 596,marie@hotmail.com,Oui,Non,Non,Oui,Oui,Oui,Non,Lun–Sam 08h00–17h00
+OPH0024,Centre Ophtalmologique Saint-François,Douala,Douala VI,Bassa,4.078722,9.712809,+237 243 280 788,françois@gmail.com,Oui,Non,Oui,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+OPH0025,Clinique Ophtalmologique de Soboum,Douala,Douala I,Bali,4.001335,9.68517,+237 655 650 504,soboum@yahoo.fr,Oui,Non,Non,Oui,Non,Oui,Non,Lun–Ven 07h30–17h30
+OPH0026,Clinique Ophtalmologique de Efoulan,Yaoundé,Yaoundé III,Etoudi,3.873209,11.605952,+237 654 887 290,efoulan@hotmail.com,Oui,Non,Oui,Non,Non,Non,Oui,Lun–Ven 07h30–17h30
+OPH0027,Clinique des Yeux de PK12,Douala,Douala III,PK8,4.031827,9.77152,+237 651 110 821,desyeuxpk12@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+OPH0028,Clinique des Yeux de Ndogpassi,Douala,Douala III,Logbessou,4.007956,9.75963,+237 233 766 619,desyeuxndogpas@gmail.com,Oui,Non,Non,Oui,Oui,Non,Non,Lun–Sam 08h30–18h30
+OPH0029,Ophtalmologie Avenir,Douala,Douala V,Boko,4.043496,9.725821,+237 694 737 877,ophtalmologiea@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+OPH0030,Clinique Ophtalmologique de Logbessou,Douala,Douala V,Logbessou,4.035471,9.764505,+237 692 312 607,logbessou@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+OPH0031,Clinique Ophtalmologique de Japoma,Douala,Douala I,New Bell,3.996283,9.69419,+237 222 816 697,japoma@gmail.com,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+OPH0032,Clinique des Yeux de Japoma,Douala,Douala IV,Japoma,4.012604,9.73132,+237 693 371 501,desyeuxjapoma@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 08h30–18h30
+OPH0033,Centre de la Vision Bikié,Douala,Douala II,Cité des Palmiers,4.114267,9.69095,+237 693 598 985,visionbikié@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+OPH0034,Clinique des Yeux de Ndogpassi,Douala,Douala I,Bangue,4.058059,9.643218,+237 654 127 544,desyeuxndogpas@hotmail.com,Oui,Non,Oui,Oui,Non,Oui,Oui,Lun–Sam 08h00–17h00
+OPH0035,Clinique Ophtalmologique de Mbanya,Douala,Douala IV,PK12,3.963675,9.713959,+237 233 601 540,mbanya@gmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+OPH0036,Clinique Ophtalmologique de New Bell,Douala,Douala V,Kotto,4.082132,9.670333,+237 243 808 694,newbell@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Oui,Lun–Dim 08h00–18h00
+OPH0037,Cabinet Ophtalmologique Fouda,Yaoundé,Yaoundé III,Mvog-Beti,3.88971,11.41119,+237 695 083 758,fouda@yahoo.fr,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+OPH0038,Clinique des Yeux de Ndog-Bong,Douala,Douala V,Bangue,4.091484,9.739449,+237 679 539 862,desyeuxndog-bo@ophta.cm,Oui,Oui,Oui,Oui,Non,Oui,Oui,7j/7 — 08h00–20h00
+OPH0039,Clinique Ophtalmologique de Ekounou,Yaoundé,Yaoundé VII,Ekounou,3.886833,11.528515,+237 678 310 522,ekounou@ophta.cm,Oui,Oui,Oui,Non,Non,Oui,Non,7j/7 — 08h00–20h00
+OPH0040,Centre Ophtalmologique Saint-Louis,Yaoundé,Yaoundé I,Omnisports,3.895382,11.573168,+237 695 265 243,louis@hotmail.com,Oui,Non,Non,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+OPH0041,Cabinet Ophtalmologique Biyiti,Yaoundé,Yaoundé I,Bastos,3.914453,11.567972,+237 690 631 480,biyiti@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Oui,Lun–Ven 08h00–18h00
+OPH0042,Clinique des Yeux de Nkongmondo,Douala,Douala V,Nkongmondo,4.091033,9.737645,+237 653 721 347,desyeuxnkongmo@ophta.cm,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Sam 07h30–19h00
+OPH0043,Centre Ophtalmologique Saint-Louis,Douala,Douala V,Bessengue,4.07487,9.711075,+237 690 886 574,louis@gmail.com,Oui,Oui,Non,Non,Oui,Oui,Non,Lun–Sam 08h30–18h30
+OPH0044,Clinique des Yeux de Nkoabang,Yaoundé,Yaoundé I,Nkol-Eton,3.785099,11.535074,+237 653 977 303,desyeuxnkoaban@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+OPH0045,Centre de la Vision Hamadou,Yaoundé,Yaoundé V,Étoa-Meki,3.828407,11.445474,+237 696 331 769,visionhamadou@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 08h00–17h00
+OPH0046,Ophtalmologie Providence,Douala,Douala VI,Boko,4.065336,9.69543,+237 695 298 183,ophtalmologiep@hotmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+OPH0047,Centre de la Vision Elong,Yaoundé,Yaoundé I,Nkolbisson,3.862629,11.585617,+237 699 126 644,visionelong@ophta.cm,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Ven 07h30–17h30
+OPH0048,Cabinet Ophtalmologique Djoumbi,Douala,Douala IV,Deido,4.036391,9.73956,+237 652 950 007,djoumbi@gmail.com,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+OPH0049,Clinique des Yeux de Nkol-Eton,Yaoundé,Yaoundé I,Cité Verte,3.917352,11.436611,+237 678 713 228,desyeuxnkol-et@ophta.cm,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+OPH0050,Clinique Ophtalmologique de Mbanya,Douala,Douala III,Nzeng-Ayong,4.012131,9.658789,+237 243 413 980,mbanya@yahoo.fr,Oui,Non,Non,Non,Non,Oui,Oui,Lun–Ven 08h00–18h00
+OPH0051,Centre Ophtalmologique Saint-Thérèse,Yaoundé,Yaoundé VII,Biteng,3.877259,11.492679,+237 691 743 720,thérèse@ophta.cm,Oui,Oui,Oui,Non,Oui,Oui,Non,Lun–Sam 08h00–17h00
+OPH0052,Clinique des Yeux de Briqueterie,Yaoundé,Yaoundé V,Mendong,3.813411,11.558169,+237 222 504 188,desyeuxbriquet@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,7j/7 — 08h00–20h00
+OPH0053,Centre de la Vision Fouda,Yaoundé,Yaoundé V,Nkolbisson,3.798211,11.431055,+237 690 439 952,visionfouda@hotmail.com,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+OPH0054,Clinique des Yeux de PK10,Douala,Douala IV,Bassa,4.073534,9.784454,+237 695 088 703,desyeuxpk10@gmail.com,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 08h30–18h30
+OPH0055,Centre de la Vision Owona,Yaoundé,Yaoundé IV,Elig-Essono,3.881613,11.398215,+237 692 230 791,visionowona@gmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+OPH0056,Cabinet Ophtalmologique Mvogo,Yaoundé,Yaoundé II,Obili,3.863924,11.521866,+237 677 208 949,mvogo@gmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Lun–Ven 07h30–17h30
+OPH0057,Clinique des Yeux de Odza,Yaoundé,Yaoundé V,Odza,3.830567,11.496605,+237 696 397 568,desyeuxodza@gmail.com,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+OPH0058,Clinique Ophtalmologique de Akwa,Douala,Douala II,Makepe,4.111565,9.751812,+237 655 890 566,akwa@gmail.com,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+OPH0059,Clinique Ophtalmologique de Mendong,Yaoundé,Yaoundé III,Ahala,3.841998,11.497363,+237 691 767 401,mendong@yahoo.fr,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+OPH0060,Clinique Ophtalmologique de Mimboman,Yaoundé,Yaoundé I,Mimboman,3.917746,11.4735,+237 697 207 077,mimboman@yahoo.fr,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+OPH0061,Clinique des Yeux de Bonapriso,Douala,Douala VI,Boko,4.096935,9.712324,+237 679 651 555,desyeuxbonapri@gmail.com,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Dim 08h00–18h00
+OPH0062,Ophtalmologie Bonheur,Yaoundé,Yaoundé VII,Djoungolo,3.793789,11.4763,+237 222 131 654,ophtalmologieb@gmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+OPH0063,Centre de la Vision Mvogo,Douala,Douala V,Bonapriso,4.030137,9.625071,+237 693 169 303,visionmvogo@gmail.com,Oui,Non,Oui,Non,Oui,Oui,Oui,Lun–Sam 07h30–19h00
+OPH0064,Ophtalmologie Secours,Yaoundé,Yaoundé II,Essos,3.91239,11.476887,+237 679 997 130,ophtalmologies@ophta.cm,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Ven 08h00–18h00
+OPH0065,Centre Ophtalmologique Saint-Joseph,Yaoundé,Yaoundé IV,Madagascar,3.786006,11.467196,+237 693 748 302,joseph@hotmail.com,Oui,Non,Oui,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+OPH0066,Centre Ophtalmologique Saint-Damien,Yaoundé,Yaoundé V,Mimboman,3.755948,11.505662,+237 677 865 523,damien@gmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+OPH0067,Clinique des Yeux de Akwa,Douala,Douala I,Akwa,3.977405,9.674192,+237 690 291 865,desyeuxakwa@hotmail.com,Oui,Non,Oui,Non,Non,Non,Oui,Lun–Sam 08h30–18h30
+OPH0068,Cabinet Ophtalmologique Ekani,Yaoundé,Yaoundé IV,Obili,3.763877,11.486924,+237 242 244 386,ekani@yahoo.fr,Oui,Non,Non,Oui,Oui,Non,Non,Lun–Sam 07h30–19h00
+OPH0069,Clinique Ophtalmologique de Bonaberi,Douala,Douala I,Bepanda,4.073086,9.70193,+237 696 283 005,bonaberi@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Ven 07h30–17h30
+OPH0070,Clinique Ophtalmologique de PK10,Douala,Douala I,Youpwé,4.10866,9.662137,+237 694 125 150,pk10@gmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 07h00–20h00
+OPH0071,Clinique des Yeux de Youpwé,Douala,Douala IV,Youpwé,4.054502,9.724123,+237 650 295 395,desyeuxyoupwé@gmail.com,Oui,Non,Oui,Oui,Oui,Non,Oui,Lun–Sam 08h00–17h00
+OPH0072,Centre de la Vision Moussa,Yaoundé,Yaoundé I,Kondengui,3.858289,11.519365,+237 222 221 996,visionmoussa@yahoo.fr,Oui,Non,Oui,Non,Non,Oui,Non,Lun–Sam 07h00–20h00
+OPH0073,Clinique Ophtalmologique de Briqueterie,Yaoundé,Yaoundé IV,Briqueterie,3.797702,11.451253,+237 242 483 144,briqueterie@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Non,Lun–Sam 07h30–19h00
+OPH0074,Centre Ophtalmologique Saint-Anne,Yaoundé,Yaoundé VII,Ekounou,3.885671,11.563328,+237 699 192 476,anne@yahoo.fr,Oui,Non,Oui,Oui,Non,Oui,Oui,Lun–Sam 08h00–17h00
+OPH0075,Clinique Ophtalmologique de Ndogpassi,Douala,Douala V,Sodiko,4.089434,9.762223,+237 233 800 610,ndogpassi@gmail.com,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Ven 07h30–17h30
+OPH0076,Cabinet Ophtalmologique Mvé,Yaoundé,Yaoundé III,Étoa-Meki,3.94163,11.479969,+237 243 532 602,mvé@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 07h00–20h00
+OPH0077,Clinique Ophtalmologique de Boko,Douala,Douala IV,Akwa,4.121913,9.748313,+237 698 876 026,boko@ophta.cm,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+OPH0078,Clinique des Yeux de Etoudi,Yaoundé,Yaoundé VI,Etoudi,3.795881,11.46721,+237 651 905 331,desyeuxetoudi@ophta.cm,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+OPH0079,Cabinet Ophtalmologique Tchoupo,Yaoundé,Yaoundé V,Etoudi,3.865107,11.466124,+237 694 930 349,tchoupo@yahoo.fr,Oui,Non,Oui,Oui,Oui,Oui,Oui,Lun–Sam 08h00–17h00
+OPH0080,Clinique des Yeux de Carrière,Yaoundé,Yaoundé V,Carrière,3.894953,11.530004,+237 696 648 209,desyeuxcarrièr@hotmail.com,Oui,Non,Non,Oui,Non,Oui,Non,Lun–Ven 07h30–17h30
+OPH0081,Centre Ophtalmologique Saint-Dominique,Yaoundé,Yaoundé I,Nkoabang,3.846595,11.589139,+237 654 143 734,dominique@ophta.cm,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Ven 07h30–17h30
+OPH0082,Centre de la Vision Mvé,Yaoundé,Yaoundé III,Nkolbisson,3.834098,11.568057,+237 242 012 872,visionmvé@yahoo.fr,Oui,Non,Non,Oui,Non,Oui,Oui,Lun–Dim 08h00–18h00
+OPH0083,Centre de la Vision Ekani,Douala,Douala IV,Nkongmondo,4.052862,9.761142,+237 243 596 782,visionekani@yahoo.fr,Oui,Oui,Oui,Non,Oui,Oui,Non,Lun–Sam 08h30–18h30
+OPH0084,Cabinet Ophtalmologique Moussa,Douala,Douala V,Bessengue,4.085774,9.739005,+237 696 324 390,moussa@hotmail.com,Oui,Non,Non,Oui,Oui,Non,Non,Lun–Ven 08h00–18h00
+OPH0085,Cabinet Ophtalmologique Engoulou,Yaoundé,Yaoundé III,Étoa-Meki,3.780117,11.499674,+237 653 490 269,engoulou@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+OPH0086,Clinique des Yeux de Nsam,Yaoundé,Yaoundé IV,Nsam,3.782424,11.424326,+237 655 584 576,desyeuxnsam@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+OPH0087,Clinique Ophtalmologique de Mvan,Yaoundé,Yaoundé V,Etoudi,3.891277,11.46291,+237 655 086 603,mvan@ophta.cm,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Dim 08h00–18h00
+OPH0088,Clinique des Yeux de Ndogpassi,Douala,Douala V,Sodiko,4.069219,9.671495,+237 677 050 531,desyeuxndogpas@gmail.com,Oui,Non,Oui,Non,Non,Oui,Non,Lun–Ven 08h00–18h00
+OPH0089,Centre de la Vision Ngoa,Douala,Douala II,Ndogbong,4.031376,9.738845,+237 692 950 562,visionngoa@gmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Sam 07h00–20h00
+OPH0090,Cabinet Ophtalmologique Zang,Douala,Douala III,Ndogbong,4.068536,9.796357,+237 242 999 772,zang@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Oui,Lun–Ven 07h30–17h30
+OPH0091,Clinique Ophtalmologique de Nkoabang,Yaoundé,Yaoundé V,Nkoabang,3.948155,11.491118,+237 679 620 312,nkoabang@ophta.cm,Oui,Oui,Non,Oui,Oui,Non,Non,7j/7 — 08h00–20h00
+OPH0092,Centre Ophtalmologique Saint-Jean,Yaoundé,Yaoundé III,Nkol-Afeme,3.865045,11.525496,+237 654 932 146,jean@ophta.cm,Oui,Non,Oui,Non,Oui,Oui,Non,Lun–Dim 08h00–18h00
+OPH0093,Clinique des Yeux de Mvog-Ada,Yaoundé,Yaoundé VII,Bastos,3.834609,11.567864,+237 243 144 563,desyeuxmvog-ad@ophta.cm,Oui,Non,Non,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+OPH0094,Clinique Ophtalmologique de Bassa,Douala,Douala II,Ndogpassi,4.019656,9.656168,+237 699 349 100,bassa@ophta.cm,Oui,Non,Oui,Oui,Oui,Oui,Non,7j/7 — 08h00–20h00
+OPH0095,Centre Ophtalmologique Saint-Anne,Douala,Douala IV,Ndogpassi,4.124021,9.761016,+237 652 816 091,anne@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Dim 08h00–18h00
+OPH0096,Clinique des Yeux de Kotto,Douala,Douala V,Boko,4.062013,9.745969,+237 651 468 673,desyeuxkotto@ophta.cm,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 07h30–19h00
+OPH0097,Centre Ophtalmologique Saint-André,Yaoundé,Yaoundé III,Mimboman,3.888235,11.488716,+237 691 388 622,andré@hotmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 07h00–20h00
+OPH0098,Clinique des Yeux de Kondengui,Yaoundé,Yaoundé VII,Nkoldongo,3.783237,11.53914,+237 699 358 354,desyeuxkondeng@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+OPH0099,Cabinet Ophtalmologique Fotso,Yaoundé,Yaoundé VI,Cité Verte,3.926807,11.492986,+237 233 079 630,fotso@ophta.cm,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 08h00–17h00
+OPH0100,Centre Ophtalmologique Saint-Jeanne,Douala,Douala VI,Soboum,4.058886,9.69132,+237 692 742 966,jeanne@ophta.cm,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+OPH0101,Clinique Ophtalmologique de Makepe,Douala,Douala VI,Youpwé,4.015374,9.779653,+237 697 212 205,makepe@ophta.cm,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+OPH0102,Clinique Ophtalmologique de Bonapriso,Douala,Douala III,PK12,4.032001,9.780547,+237 655 508 541,bonapriso@ophta.cm,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Sam 08h30–18h30
+OPH0103,Clinique des Yeux de Ngousso,Yaoundé,Yaoundé VII,Ngousso,3.895574,11.551409,+237 654 436 643,desyeuxngousso@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+OPH0104,Clinique des Yeux de Bonaberi,Douala,Douala II,PK14,4.063495,9.643195,+237 696 251 015,desyeuxbonaber@gmail.com,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Sam 07h30–19h00
+OPH0105,Cabinet Ophtalmologique Eba,Yaoundé,Yaoundé VII,Biteng,3.7728,11.553206,+237 652 069 674,eba@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+OPH0106,Clinique Ophtalmologique de Bonamoussadi,Douala,Douala II,Cité des Palmiers,4.062521,9.78283,+237 242 696 388,bonamoussadi@hotmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+OPH0107,Centre de la Vision Kuitche,Yaoundé,Yaoundé V,Nkolbisson,3.771429,11.454845,+237 695 213 866,visionkuitche@hotmail.com,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Sam 08h30–18h30
+OPH0108,Clinique des Yeux de Koumassi,Douala,Douala III,Koumassi,4.0783,9.794227,+237 222 101 531,desyeuxkoumass@ophta.cm,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+OPH0109,Cabinet Ophtalmologique Nguele,Yaoundé,Yaoundé V,Nlongkak,3.813837,11.530854,+237 693 189 424,nguele@hotmail.com,Oui,Non,Non,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+OPH0110,Clinique des Yeux de Nkolbisson,Yaoundé,Yaoundé VII,Nkolbisson,3.781748,11.480843,+237 695 704 844,desyeuxnkolbis@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+OPH0111,Centre de la Vision Kamga,Douala,Douala III,PK14,4.008239,9.763274,+237 677 817 494,visionkamga@ophta.cm,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+OPH0112,Clinique des Yeux de Tsinga,Yaoundé,Yaoundé III,Tsinga,3.862048,11.514477,+237 243 189 288,desyeuxtsinga@hotmail.com,Oui,Non,Non,Oui,Oui,Non,Non,Lun–Sam 07h00–20h00
+OPH0113,Clinique Ophtalmologique de Mvog-Atangana,Yaoundé,Yaoundé III,Mvog-Atangana,3.797986,11.584487,+237 650 864 002,mvog-atangana@hotmail.com,Oui,Non,Oui,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+OPH0114,Clinique Ophtalmologique de Essos,Yaoundé,Yaoundé IV,Essos,3.907676,11.529081,+237 655 508 669,essos@yahoo.fr,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Sam 07h00–20h00
+OPH0115,Clinique des Yeux de Efoulan,Yaoundé,Yaoundé VI,Tsinga,3.786228,11.436187,+237 693 317 623,desyeuxefoulan@ophta.cm,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+OPH0116,Clinique Ophtalmologique de Odza,Yaoundé,Yaoundé II,Odza,3.849406,11.519278,+237 695 873 768,odza@gmail.com,Oui,Non,Oui,Oui,Non,Oui,Oui,Lun–Dim 08h00–18h00
+OPH0117,Cabinet Ophtalmologique Mvé,Douala,Douala II,Soboum,4.118558,9.76477,+237 679 069 623,mvé@ophta.cm,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 07h00–20h00
+OPH0118,Clinique des Yeux de Nyalla,Douala,Douala VI,Japoma,4.123078,9.694528,+237 677 494 408,desyeuxnyalla@ophta.cm,Oui,Non,Oui,Oui,Oui,Non,Oui,Lun–Sam 07h30–19h00
+OPH0119,Clinique Ophtalmologique de Simbock,Yaoundé,Yaoundé VI,Simbock,3.832652,11.453784,+237 654 867 930,simbock@hotmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,7j/7 — 08h00–20h00
+OPH0120,Cabinet Ophtalmologique Ndoumbe,Douala,Douala V,Soboum,4.006743,9.746441,+237 678 178 074,ndoumbe@yahoo.fr,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 07h00–20h00
+OPH0121,Centre Ophtalmologique Saint-Jean,Douala,Douala IV,Mboppi,4.072794,9.756703,+237 222 132 485,jean@ophta.cm,Oui,Non,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+OPH0122,Cabinet Ophtalmologique Onana,Douala,Douala II,Ndokoti,4.034515,9.621277,+237 677 240 170,onana@hotmail.com,Oui,Non,Oui,Oui,Non,Oui,Oui,Lun–Ven 08h00–18h00
+OPH0123,Ophtalmologie Confiance,Yaoundé,Yaoundé I,Cité Verte,3.907766,11.482426,+237 655 258 555,ophtalmologiec@ophta.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+OPH0124,Ophtalmologie Santé,Yaoundé,Yaoundé VI,Messa,3.810068,11.442617,+237 243 131 178,ophtalmologies@yahoo.fr,Oui,Oui,Non,Oui,Non,Oui,Oui,Lun–Sam 08h00–17h00
+OPH0125,Centre Ophtalmologique Saint-Monique,Douala,Douala II,Makepe,3.962686,9.696787,+237 677 252 398,monique@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Oui,Lun–Sam 08h30–18h30
+OPH0126,Clinique Ophtalmologique de Soboum,Douala,Douala IV,Bonamoussadi,4.105106,9.769784,+237 650 859 809,soboum@ophta.cm,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+OPH0127,Clinique Ophtalmologique de Nyalla,Douala,Douala VI,PK12,4.056771,9.677537,+237 695 212 753,nyalla@gmail.com,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+OPH0128,Ophtalmologie Providence,Douala,Douala V,Akwa,4.121654,9.733473,+237 691 780 713,ophtalmologiep@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Oui,Lun–Dim 08h00–18h00
+OPH0129,Centre de la Vision Hamadou,Douala,Douala II,Nyalla,4.112945,9.734576,+237 697 956 364,visionhamadou@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+OPH0130,Clinique Ophtalmologique de Mokolo,Yaoundé,Yaoundé VI,Mokolo,3.769125,11.51245,+237 653 664 935,mokolo@hotmail.com,Oui,Non,Oui,Non,Non,Oui,Non,Lun–Ven 08h00–18h00
+OPH0131,Ophtalmologie Lumière,Yaoundé,Yaoundé III,Olembe,3.802376,11.554602,+237 692 930 260,ophtalmologiel@ophta.cm,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+OPH0132,Ophtalmologie Bien-être,Douala,Douala VI,Makepe,4.114267,9.696796,+237 242 750 400,ophtalmologieb@yahoo.fr,Oui,Non,Non,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+OPH0133,Centre de la Vision Essomba,Yaoundé,Yaoundé VII,Nsam,3.941462,11.557242,+237 695 680 777,visionessomba@yahoo.fr,Oui,Non,Oui,Non,Non,Oui,Non,7j/7 — 08h00–20h00
+OPH0134,Ophtalmologie Harmonie,Douala,Douala IV,Bonanjo,4.022326,9.646215,+237 693 731 396,ophtalmologieh@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+OPH0135,Centre de la Vision Hamadou,Douala,Douala III,PK17,4.099574,9.74304,+237 233 084 215,visionhamadou@yahoo.fr,Oui,Non,Oui,Non,Oui,Non,Oui,Lun–Sam 07h00–20h00
+OPH0136,Clinique Ophtalmologique de Bali,Douala,Douala V,Village,4.106724,9.763714,+237 242 122 676,bali@hotmail.com,Oui,Non,Oui,Oui,Oui,Oui,Oui,7j/7 — 08h00–20h00
+OPH0137,Clinique Ophtalmologique de Kotto,Douala,Douala V,PK17,4.073791,9.629349,+237 243 989 354,kotto@gmail.com,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 08h00–17h00
+OPH0138,Centre de la Vision Assamba,Yaoundé,Yaoundé III,Nlongkak,3.902939,11.420359,+237 694 721 213,visionassamba@yahoo.fr,Oui,Non,Oui,Non,Non,Oui,Non,Lun–Sam 08h00–17h00
+OPH0139,Cabinet Ophtalmologique Onana,Douala,Douala II,Bonaloka,4.089929,9.746216,+237 222 454 598,onana@ophta.cm,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+OPH0140,Clinique des Yeux de PK17,Douala,Douala IV,PK17,4.026086,9.694154,+237 678 599 253,desyeuxpk17@yahoo.fr,Oui,Non,Oui,Non,Oui,Non,Oui,Lun–Sam 08h30–18h30
+OPH0141,Centre de la Vision Ndjock,Douala,Douala VI,Logbessou,4.098492,9.734141,+237 653 080 068,visionndjock@ophta.cm,Oui,Non,Oui,Non,Non,Non,Non,7j/7 — 08h00–20h00
+OPH0142,Centre de la Vision Abega,Douala,Douala V,Bassa,3.978777,9.745612,+237 233 756 531,visionabega@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Oui,Lun–Ven 08h00–18h00
+OPH0143,Centre Ophtalmologique Saint-Marie,Yaoundé,Yaoundé II,Nlongkak,3.778972,11.507981,+237 699 227 098,marie@gmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Sam 08h30–18h30
+OPH0144,Cabinet Ophtalmologique Feudjio,Yaoundé,Yaoundé VI,Nkolbisson,3.896393,11.436505,+237 678 563 796,feudjio@gmail.com,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Sam 08h00–17h00
+OPH0145,Clinique des Yeux de Mvog-Mbi,Yaoundé,Yaoundé IV,Nkoabang,3.877349,11.530213,+237 691 379 438,desyeuxmvog-mb@gmail.com,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Sam 08h00–17h00
+OPH0146,Cabinet Ophtalmologique Elong,Yaoundé,Yaoundé V,Biteng,3.849618,11.495023,+237 692 658 485,elong@gmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+OPH0147,Cabinet Ophtalmologique Manga,Yaoundé,Yaoundé III,Nkol-Afeme,3.798733,11.456018,+237 690 740 862,manga@yahoo.fr,Oui,Non,Oui,Oui,Non,Oui,Oui,Lun–Sam 07h00–20h00
+OPH0148,Centre de la Vision Nlend,Douala,Douala V,Bonapriso,4.005811,9.651925,+237 242 443 921,visionnlend@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Oui,Lun–Sam 07h00–20h00
+OPH0149,Ophtalmologie Santé,Douala,Douala VI,Ndoghem,4.128225,9.670709,+237 694 822 839,ophtalmologies@yahoo.fr,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 08h30–18h30
+OPH0150,Clinique Ophtalmologique de Youpwé,Douala,Douala IV,New Bell,4.059023,9.749806,+237 690 720 869,youpwé@gmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Ven 07h30–17h30
+OPH0151,Clinique des Yeux de Nkoldongo,Yaoundé,Yaoundé V,Tsinga,3.905859,11.56733,+237 691 639 693,desyeuxnkoldon@hotmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Ven 07h30–17h30
+OPH0152,Cabinet Ophtalmologique Belinga,Yaoundé,Yaoundé III,Nkol-Eton,3.853475,11.604605,+237 696 022 900,belinga@gmail.com,Oui,Non,Oui,Oui,Oui,Non,Oui,Lun–Ven 07h30–17h30
+OPH0153,Centre Ophtalmologique Saint-Joachim,Yaoundé,Yaoundé II,Madagascar,3.937368,11.453009,+237 653 377 991,joachim@yahoo.fr,Oui,Non,Oui,Non,Non,Oui,Oui,Lun–Ven 08h00–18h00
+OPH0154,Centre de la Vision Nlend,Yaoundé,Yaoundé I,Nsam,3.804345,11.521997,+237 654 511 390,visionnlend@hotmail.com,Oui,Non,Oui,Non,Oui,Non,Non,Lun–Sam 07h00–20h00
+OPH0155,Clinique des Yeux de Bonanjo,Douala,Douala III,Bonanjo,4.01076,9.739278,+237 698 929 279,desyeuxbonanjo@hotmail.com,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+OPH0156,Cabinet Ophtalmologique Hamadou,Douala,Douala V,Bonapriso,4.01459,9.631824,+237 651 549 126,hamadou@gmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 07h00–20h00
+OPH0157,Clinique Ophtalmologique de Kondengui,Yaoundé,Yaoundé II,Kondengui,3.905842,11.549404,+237 699 953 725,kondengui@ophta.cm,Oui,Non,Non,Oui,Non,Non,Oui,Lun–Sam 08h00–17h00
+OPH0158,Centre de la Vision Eba,Douala,Douala VI,Soboum,4.133161,9.708185,+237 679 840 049,visioneba@ophta.cm,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+OPH0159,Ophtalmologie Espoir,Yaoundé,Yaoundé I,Nkol-Afeme,3.948652,11.508974,+237 653 608 441,ophtalmologiee@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+OPH0160,Clinique Ophtalmologique de Djoungolo,Yaoundé,Yaoundé V,Odza,3.775406,11.571069,+237 695 053 565,djoungolo@ophta.cm,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+OPH0161,Clinique des Yeux de New Bell,Douala,Douala III,New Bell,4.019408,9.640765,+237 677 846 611,desyeuxnewbell@hotmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+OPH0162,Clinique Ophtalmologique de Deido,Douala,Douala IV,PK8,4.050871,9.631058,+237 697 848 843,deido@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+OPH0163,Centre Ophtalmologique Saint-Marc,Yaoundé,Yaoundé VII,Nkoabang,3.81153,11.560483,+237 653 596 420,marc@hotmail.com,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+OPH0164,Centre Ophtalmologique Saint-Claire,Yaoundé,Yaoundé VI,Nlongkak,3.797639,11.455117,+237 654 388 571,claire@gmail.com,Oui,Non,Oui,Non,Oui,Non,Oui,Lun–Dim 08h00–18h00
+OPH0165,Centre de la Vision Ondoa,Yaoundé,Yaoundé VI,Briqueterie,3.879872,11.455,+237 222 012 719,visionondoa@ophta.cm,Oui,Non,Oui,Non,Non,Non,Oui,Lun–Ven 08h00–18h00
+OPH0166,Centre Ophtalmologique Saint-Patrick,Douala,Douala I,Mbanya,3.990484,9.770502,+237 697 746 542,patrick@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 07h30–19h00
+OPH0167,Centre Ophtalmologique Saint-Anne,Douala,Douala IV,Bonapriso,4.082617,9.719094,+237 222 167 374,anne@hotmail.com,Oui,Oui,Non,Oui,Oui,Oui,Non,Lun–Sam 08h00–17h00
+OPH0168,Ophtalmologie Bien-être,Douala,Douala II,Makepe,4.009489,9.716309,+237 655 108 960,ophtalmologieb@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Oui,Lun–Sam 08h30–18h30
+OPH0169,Centre de la Vision Engoulou,Douala,Douala IV,Bonamoussadi,4.030369,9.674637,+237 699 290 742,visionengoulou@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Ven 08h00–18h00
+OPH0170,Centre de la Vision Tchoupo,Yaoundé,Yaoundé VI,Briqueterie,3.815084,11.542402,+237 692 911 217,visiontchoupo@gmail.com,Oui,Non,Non,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+OPH0171,Centre Ophtalmologique Saint-Marc,Douala,Douala II,Makepe,4.056285,9.633393,+237 696 796 069,marc@hotmail.com,Oui,Oui,Oui,Non,Non,Oui,Non,Lun–Ven 08h00–18h00
+OPH0172,Clinique Ophtalmologique de Ndokoti,Douala,Douala III,Japoma,4.093553,9.712123,+237 653 208 625,ndokoti@ophta.cm,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Ven 08h00–18h00
+OPH0173,Clinique Ophtalmologique de PK17,Douala,Douala I,Village,4.106834,9.6453,+237 655 979 335,pk17@ophta.cm,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 07h00–20h00
+OPH0174,Clinique des Yeux de Village,Douala,Douala I,Village,3.99726,9.71691,+237 651 945 111,desyeuxvillage@hotmail.com,Oui,Non,Oui,Non,Oui,Non,Non,Lun–Sam 07h00–20h00
+OPH0175,Cabinet Ophtalmologique Tabi,Yaoundé,Yaoundé I,Mvog-Ada,3.831057,11.475335,+237 690 128 082,tabi@gmail.com,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+OPH0176,Cabinet Ophtalmologique Kuitche,Yaoundé,Yaoundé VI,Mvog-Ada,3.761614,11.506201,+237 233 990 826,kuitche@hotmail.com,Oui,Oui,Non,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+OPH0177,Cabinet Ophtalmologique Simo,Yaoundé,Yaoundé III,Mokolo,3.767501,11.533814,+237 650 639 242,simo@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Ven 07h30–17h30
+OPH0178,Clinique des Yeux de Mvan,Yaoundé,Yaoundé I,Nkomo,3.811535,11.476213,+237 653 559 187,desyeuxmvan@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+OPH0179,Centre Ophtalmologique Saint-Raphaël,Yaoundé,Yaoundé I,Nkomo,3.821507,11.395381,+237 652 670 629,raphaël@gmail.com,Oui,Non,Oui,Oui,Non,Oui,Oui,Lun–Sam 08h00–17h00
+OPH0180,Clinique des Yeux de Ndokoti,Douala,Douala IV,PK17,4.030409,9.771782,+237 651 912 457,desyeuxndokoti@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+OPH0181,Clinique Ophtalmologique de Ndog-Passi III,Douala,Douala VI,Bonaberi,4.049855,9.623268,+237 698 209 406,ndog-passiiii@ophta.cm,Oui,Non,Non,Oui,Oui,Oui,Non,Lun–Dim 08h00–18h00
+OPH0182,Centre de la Vision Owona,Douala,Douala VI,Ndog-Bong,4.007287,9.638158,+237 679 377 501,visionowona@ophta.cm,Oui,Oui,Non,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+OPH0183,Clinique des Yeux de Djoungolo,Yaoundé,Yaoundé IV,Carrière,3.869205,11.459906,+237 655 818 468,desyeuxdjoungo@gmail.com,Oui,Non,Non,Oui,Non,Oui,Oui,Lun–Ven 07h30–17h30
+OPH0184,Clinique des Yeux de Kotto,Douala,Douala II,Nzeng-Ayong,4.085668,9.653019,+237 691 001 469,desyeuxkotto@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+OPH0185,Cabinet Ophtalmologique Ndjock,Yaoundé,Yaoundé I,Étoa-Meki,3.895497,11.495003,+237 694 966 840,ndjock@ophta.cm,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Ven 07h30–17h30
+OPH0186,Clinique Ophtalmologique de Nkol-Afeme,Yaoundé,Yaoundé I,Nkol-Afeme,3.907964,11.462776,+237 699 964 041,nkol-afeme@ophta.cm,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 08h00–17h00
+OPH0187,Cabinet Ophtalmologique Zang,Yaoundé,Yaoundé I,Nkol-Afeme,3.782008,11.531064,+237 655 989 176,zang@gmail.com,Oui,Non,Oui,Non,Oui,Non,Oui,Lun–Sam 07h30–19h00
+OPH0188,Centre de la Vision Bello,Douala,Douala I,Bali,3.970379,9.708548,+237 653 393 593,visionbello@ophta.cm,Oui,Oui,Non,Oui,Oui,Oui,Non,Lun–Sam 07h00–20h00
+OPH0189,Clinique Ophtalmologique de Ndoghem,Douala,Douala IV,Ndoghem,4.043295,9.725784,+237 699 195 528,ndoghem@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Dim 08h00–18h00
+OPH0190,Clinique Ophtalmologique de Nzeng-Ayong,Douala,Douala I,Kotto,3.989239,9.683415,+237 693 092 177,nzeng-ayong@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+OPH0191,Clinique des Yeux de Ndogbong,Douala,Douala IV,Bangue,4.067248,9.70331,+237 652 581 980,desyeuxndogbon@yahoo.fr,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+OPH0192,Cabinet Ophtalmologique Kamga,Douala,Douala VI,Village,4.060512,9.636731,+237 694 653 505,kamga@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Oui,Lun–Ven 07h30–17h30
+OPH0193,Clinique des Yeux de Nkomo,Yaoundé,Yaoundé V,Nkomo,3.768996,11.434221,+237 677 215 715,desyeuxnkomo@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+OPH0194,Clinique des Yeux de Omnisports,Yaoundé,Yaoundé IV,Ngoa-Ekélé,3.850239,11.578179,+237 695 925 623,desyeuxomnispo@ophta.cm,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+OPH0195,Clinique Ophtalmologique de Mboppi,Douala,Douala V,Mboppi,4.089133,9.707417,+237 652 602 154,mboppi@yahoo.fr,Oui,Non,Oui,Non,Oui,Oui,Non,Lun–Sam 07h00–20h00
+OPH0196,Clinique des Yeux de Soboum,Douala,Douala VI,Bonaloka,4.023951,9.708107,+237 695 970 714,desyeuxsoboum@yahoo.fr,Oui,Non,Oui,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+OPH0197,Cabinet Ophtalmologique Kuitche,Douala,Douala V,Ndog-Passi III,4.116049,9.770438,+237 650 881 353,kuitche@gmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 07h00–20h00
+OPH0198,Clinique des Yeux de Nkol-Afeme,Yaoundé,Yaoundé I,Madagascar,3.865174,11.475743,+237 654 651 255,desyeuxnkol-af@ophta.cm,Oui,Non,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+OPH0199,Cabinet Ophtalmologique Essomba,Yaoundé,Yaoundé IV,Simbock,3.872952,11.41809,+237 653 880 554,essomba@gmail.com,Oui,Non,Non,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+OPH0200,Clinique des Yeux de Mendong,Yaoundé,Yaoundé II,Mimboman,3.835464,11.471714,+237 697 192 841,desyeuxmendong@ophta.cm,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 08h30–18h30
+OPH0201,Clinique Ophtalmologique de Nsam,Yaoundé,Yaoundé IV,Nlongkak,3.814939,11.582406,+237 222 453 190,nsam@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Oui,Lun–Sam 07h30–19h00
+OPH0202,Centre Ophtalmologique Saint-Cyprien,Douala,Douala II,Ndogbong,4.041028,9.640314,+237 699 036 392,cyprien@yahoo.fr,Oui,Non,Non,Non,Non,Oui,Oui,Lun–Sam 08h00–17h00
+OPH0203,Clinique des Yeux de Mvog-Atangana,Yaoundé,Yaoundé II,Mvog-Atangana,3.774127,11.460331,+237 650 804 829,desyeuxmvog-at@hotmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+OPH0204,Centre Ophtalmologique Saint-Paul,Yaoundé,Yaoundé V,Madagascar,3.788693,11.539438,+237 679 488 919,paul@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+OPH0205,Centre de la Vision Mbassi,Yaoundé,Yaoundé III,Simbock,3.938741,11.503957,+237 694 431 510,visionmbassi@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Oui,Lun–Dim 08h00–18h00
+OPH0206,Centre de la Vision Bello,Yaoundé,Yaoundé VII,Tsinga,3.775552,11.529321,+237 243 348 197,visionbello@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+OPH0207,Clinique des Yeux de PK8,Douala,Douala VI,Bonanjo,3.991613,9.75035,+237 690 626 803,desyeuxpk8@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+OPH0208,Clinique des Yeux de Nzeng-Ayong,Douala,Douala IV,Ndoghem,4.092046,9.723403,+237 233 595 476,desyeuxnzeng-a@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+OPH0209,Ophtalmologie Vie,Yaoundé,Yaoundé VI,Nkol-Eton,3.86954,11.550623,+237 653 227 356,ophtalmologiev@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Oui,Lun–Sam 08h00–17h00
+OPH0210,Clinique Ophtalmologique de Olembe,Yaoundé,Yaoundé VI,Ekounou,3.802501,11.497233,+237 677 594 073,olembe@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Oui,Lun–Dim 08h00–18h00
+OPH0211,Centre Ophtalmologique Saint-Cécile,Yaoundé,Yaoundé V,Omnisports,3.867102,11.568401,+237 243 830 152,cécile@gmail.com,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Sam 08h00–17h00
+OPH0212,Centre de la Vision Ekani,Yaoundé,Yaoundé IV,Elig-Essono,3.945929,11.50884,+237 691 270 791,visionekani@yahoo.fr,Oui,Non,Non,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+OPH0213,Clinique des Yeux de Mimboman,Yaoundé,Yaoundé V,Mvog-Beti,3.791253,11.558264,+237 652 609 736,desyeuxmimboma@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+OPH0214,Clinique des Yeux de Essos,Yaoundé,Yaoundé II,Essos,3.844727,11.548166,+237 242 191 338,desyeuxessos@ophta.cm,Oui,Non,Oui,Oui,Non,Oui,Non,7j/7 — 08h00–20h00
+OPH0215,Centre de la Vision Bikié,Douala,Douala VI,Bali,4.073088,9.693163,+237 693 920 288,visionbikié@ophta.cm,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+OPH0216,Cabinet Ophtalmologique Owona,Douala,Douala II,PK8,3.997295,9.758295,+237 691 169 976,owona@ophta.cm,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+OPH0217,Centre de la Vision Feudjio,Douala,Douala I,Bonapriso,4.057594,9.720179,+237 654 267 460,visionfeudjio@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Oui,Lun–Ven 07h30–17h30
+OPH0218,Cabinet Ophtalmologique Ndoumbe,Yaoundé,Yaoundé III,Nkolbisson,3.836546,11.580966,+237 678 937 455,ndoumbe@gmail.com,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+OPH0219,Ophtalmologie Harmonie,Douala,Douala III,Ndogpassi,4.035849,9.651608,+237 699 378 879,ophtalmologieh@gmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Oui,Lun–Ven 07h30–17h30
+OPH0220,Centre de la Vision Wamba,Yaoundé,Yaoundé VII,Essos,3.812451,11.541529,+237 243 505 950,visionwamba@yahoo.fr,Oui,Non,Non,Oui,Oui,Non,Oui,7j/7 — 08h00–20h00
+OPH0221,Centre de la Vision Simo,Douala,Douala V,Mbanya,4.01989,9.785056,+237 695 813 060,visionsimo@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+OPH0222,Centre Ophtalmologique Saint-Bruno,Douala,Douala V,Koumassi,4.000156,9.644006,+237 653 431 217,bruno@gmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+OPH0223,Clinique des Yeux de Mbanya,Douala,Douala I,Bonanjo,4.034478,9.783404,+237 650 567 537,desyeuxmbanya@yahoo.fr,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+OPH0224,Centre de la Vision Tabi,Yaoundé,Yaoundé III,Messa,3.811844,11.414397,+237 650 046 134,visiontabi@ophta.cm,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+OPH0225,Ophtalmologie Salut,Douala,Douala III,New Bell,4.040649,9.781215,+237 679 034 752,ophtalmologies@hotmail.com,Oui,Non,Oui,Non,Non,Oui,Non,Lun–Sam 07h30–19h00
+OPH0226,Centre de la Vision Onana,Douala,Douala II,PK17,3.977059,9.719044,+237 697 000 738,visiononana@gmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 07h00–20h00
+OPH0227,Clinique Ophtalmologique de PK10,Douala,Douala V,Bonanjo,4.098719,9.746767,+237 677 601 168,pk10@hotmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,7j/7 — 08h00–20h00
+OPH0228,Clinique des Yeux de Bangue,Douala,Douala III,PK14,3.965611,9.706009,+237 697 176 676,desyeuxbangue@gmail.com,Oui,Non,Non,Non,Non,Oui,Non,Lun–Ven 07h30–17h30
+OPH0229,Centre Ophtalmologique Saint-Gabriel,Yaoundé,Yaoundé I,Messa,3.818075,11.519715,+237 693 535 419,gabriel@hotmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 07h30–19h00
+OPH0230,Ophtalmologie Salut,Yaoundé,Yaoundé VII,Étoa-Meki,3.782759,11.530672,+237 696 294 251,ophtalmologies@yahoo.fr,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+OPH0231,Clinique Ophtalmologique de PK10,Douala,Douala I,Ndokoti,4.092923,9.740846,+237 243 208 708,pk10@ophta.cm,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+OPH0232,Clinique des Yeux de Sodiko,Douala,Douala VI,PK17,3.976829,9.68874,+237 242 006 639,desyeuxsodiko@ophta.cm,Oui,Non,Oui,Oui,Oui,Non,Oui,Lun–Sam 08h00–17h00
+OPH0233,Centre de la Vision Zang,Yaoundé,Yaoundé I,Mokolo,3.774996,11.497281,+237 694 374 258,visionzang@hotmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 08h30–18h30
+OPH0234,Cabinet Ophtalmologique Mvé,Yaoundé,Yaoundé VII,Essos,3.911199,11.445117,+237 691 889 031,mvé@hotmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Ven 07h30–17h30
+OPH0235,Centre Ophtalmologique Saint-Monique,Yaoundé,Yaoundé III,Djoungolo,3.882454,11.556488,+237 695 786 967,monique@gmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Ven 08h00–18h00
+OPH0236,Centre Ophtalmologique Saint-Bernadette,Douala,Douala V,Ndog-Bong,3.990279,9.737361,+237 679 148 836,bernadette@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,Non,7j/7 — 08h00–20h00
+OPH0237,Clinique des Yeux de Bonamoussadi,Douala,Douala VI,Koumassi,4.008436,9.783371,+237 692 482 094,desyeuxbonamou@yahoo.fr,Oui,Non,Oui,Non,Non,Non,Non,7j/7 — 08h00–20h00
+OPH0238,Centre Ophtalmologique Saint-Bruno,Yaoundé,Yaoundé III,Ahala,3.860463,11.397948,+237 678 342 529,bruno@yahoo.fr,Oui,Oui,Oui,Oui,Non,Oui,Oui,Lun–Dim 08h00–18h00
+OPH0239,Clinique Ophtalmologique de Ndog-Bong,Douala,Douala III,Ndogpassi,4.069064,9.628029,+237 677 991 985,ndog-bong@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+OPH0240,Clinique Ophtalmologique de Messa,Yaoundé,Yaoundé VI,Messa,3.791506,11.531262,+237 650 298 441,messa@gmail.com,Oui,Non,Oui,Oui,Oui,Oui,Non,7j/7 — 08h00–20h00
+OPH0241,Centre de la Vision Kamga,Yaoundé,Yaoundé I,Cité Verte,3.936361,11.487013,+237 679 711 906,visionkamga@gmail.com,Oui,Non,Oui,Non,Oui,Oui,Non,Lun–Sam 08h30–18h30
+OPH0242,Centre Ophtalmologique Saint-Luc,Yaoundé,Yaoundé IV,Efoulan,3.871626,11.604974,+237 222 505 733,luc@ophta.cm,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+OPH0243,Centre Ophtalmologique Saint-Thérèse,Douala,Douala II,Bessengue,4.012455,9.631432,+237 652 064 783,thérèse@hotmail.com,Oui,Non,Oui,Oui,Non,Oui,Oui,Lun–Sam 08h30–18h30
+OPH0244,Clinique des Yeux de Messa,Yaoundé,Yaoundé II,Nkol-Afeme,3.807132,11.453775,+237 655 008 036,desyeuxmessa@ophta.cm,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+OPH0245,Clinique des Yeux de Étoa-Meki,Yaoundé,Yaoundé II,Étoa-Meki,3.890727,11.574014,+237 695 619 735,desyeuxétoa-me@hotmail.com,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Ven 08h00–18h00
+OPH0246,Centre de la Vision Manga,Yaoundé,Yaoundé VI,Mimboman,3.767133,11.448598,+237 654 103 305,visionmanga@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 08h30–18h30
+OPH0247,Centre Ophtalmologique Saint-Michel,Douala,Douala VI,Akwa,4.027275,9.714681,+237 652 866 868,michel@gmail.com,Oui,Non,Non,Oui,Oui,Oui,Non,Lun–Ven 08h00–18h00
+OPH0248,Clinique des Yeux de Ndoghem,Douala,Douala II,Youpwé,3.964188,9.722313,+237 690 836 749,desyeuxndoghem@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+OPH0249,Clinique des Yeux de Obili,Yaoundé,Yaoundé III,Obili,3.898184,11.570407,+237 698 359 726,desyeuxobili@ophta.cm,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+OPH0250,Cabinet Ophtalmologique Engoulou,Douala,Douala II,PK12,3.963378,9.715807,+237 652 340 904,engoulou@yahoo.fr,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+OPH0251,Centre Ophtalmologique Saint-François,Douala,Douala VI,PK14,4.032594,9.793848,+237 694 401 096,françois@yahoo.fr,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+OPH0252,Centre Ophtalmologique Saint-Monique,Douala,Douala V,Japoma,3.968482,9.708815,+237 651 526 785,monique@yahoo.fr,Oui,Non,Oui,Oui,Oui,Non,Oui,7j/7 — 08h00–20h00
+OPH0253,Cabinet Ophtalmologique Mbassi,Douala,Douala IV,Bonaberi,4.065691,9.644271,+237 222 706 703,mbassi@gmail.com,Oui,Non,Oui,Oui,Non,Non,Oui,Lun–Sam 07h00–20h00
+OPH0254,Clinique des Yeux de Melen,Yaoundé,Yaoundé VII,Melen,3.808828,11.410495,+237 690 128 438,desyeuxmelen@ophta.cm,Oui,Non,Oui,Oui,Non,Non,Oui,Lun–Ven 07h30–17h30
+OPH0255,Clinique Ophtalmologique de Kotto,Douala,Douala V,Kotto,4.106725,9.716214,+237 698 847 693,kotto@ophta.cm,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+OPH0256,Centre de la Vision Biyiti,Yaoundé,Yaoundé I,Nkomo,3.858393,11.432667,+237 679 738 801,visionbiyiti@hotmail.com,Oui,Non,Oui,Oui,Non,Oui,Non,7j/7 — 08h00–20h00
+OPH0257,Centre Ophtalmologique Saint-Bernadette,Yaoundé,Yaoundé III,Bastos,3.836081,11.609808,+237 693 339 988,bernadette@ophta.cm,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+OPH0258,Clinique Ophtalmologique de Bastos,Yaoundé,Yaoundé II,Melen,3.875624,11.540944,+237 233 724 188,bastos@hotmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+OPH0259,Cabinet Ophtalmologique Assamba,Douala,Douala VI,Mboppi,4.058209,9.750822,+237 650 830 844,assamba@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+OPH0260,Clinique des Yeux de Makepe,Douala,Douala III,PK14,4.113282,9.674031,+237 677 428 726,desyeuxmakepe@gmail.com,Oui,Non,Oui,Oui,Oui,Oui,Non,7j/7 — 08h00–20h00
+OPH0261,Clinique Ophtalmologique de Ndoghem,Douala,Douala IV,Bali,4.041116,9.6553,+237 222 590 412,ndoghem@gmail.com,Oui,Non,Oui,Non,Non,Non,Oui,Lun–Sam 07h30–19h00
+OPH0262,Ophtalmologie Secours,Douala,Douala I,PK14,4.098797,9.709907,+237 690 726 213,ophtalmologies@ophta.cm,Oui,Oui,Non,Oui,Oui,Oui,Non,Lun–Sam 07h00–20h00
+OPH0263,Centre Ophtalmologique Saint-Augustin,Yaoundé,Yaoundé VII,Tsinga,3.85631,11.546136,+237 655 888 007,augustin@ophta.cm,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+OPH0264,Clinique des Yeux de Cité Verte,Yaoundé,Yaoundé II,Cité Verte,3.847438,11.551313,+237 242 214 232,desyeuxcitéver@hotmail.com,Oui,Non,Oui,Oui,Oui,Non,Non,Lun–Sam 08h30–18h30
+OPH0265,Clinique Ophtalmologique de Bangue,Douala,Douala V,Ndoghem,3.984907,9.76702,+237 697 970 831,bangue@gmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Ven 07h30–17h30
+OPH0266,Ophtalmologie Espoir,Douala,Douala II,Youpwé,4.053713,9.628175,+237 654 912 122,ophtalmologiee@ophta.cm,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+OPH0267,Centre de la Vision Ngoa,Yaoundé,Yaoundé VII,Ahala,3.913838,11.44461,+237 243 522 467,visionngoa@yahoo.fr,Oui,Non,Oui,Oui,Non,Oui,Non,7j/7 — 08h00–20h00
+OPH0268,Clinique Ophtalmologique de Ahala,Yaoundé,Yaoundé I,Ahala,3.931658,11.434739,+237 679 216 018,ahala@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+OPH0269,Centre Ophtalmologique Saint-Félicité,Yaoundé,Yaoundé IV,Melen,3.788564,11.543648,+237 697 917 171,félicité@hotmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+OPH0270,Ophtalmologie Progrès,Yaoundé,Yaoundé II,Mokolo,3.934379,11.547503,+237 695 235 168,ophtalmologiep@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+OPH0271,Centre Ophtalmologique Saint-Claire,Douala,Douala IV,PK12,4.053466,9.701685,+237 650 208 822,claire@ophta.cm,Oui,Oui,Oui,Oui,Non,Oui,Oui,Lun–Sam 08h00–17h00
+OPH0272,Cabinet Ophtalmologique Belinga,Douala,Douala III,Soboum,4.024298,9.622678,+237 692 284 099,belinga@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+OPH0273,Clinique des Yeux de Deido,Douala,Douala I,New Bell,4.017726,9.678614,+237 694 272 983,desyeuxdeido@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+OPH0274,Centre Ophtalmologique Saint-Michel,Yaoundé,Yaoundé VI,Étoa-Meki,3.806952,11.419744,+237 654 765 420,michel@ophta.cm,Oui,Non,Non,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+OPH0275,Centre Ophtalmologique Saint-Élisabeth,Yaoundé,Yaoundé VI,Simbock,3.855759,11.455886,+237 694 375 142,élisabeth@ophta.cm,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+OPH0276,Clinique Ophtalmologique de Deido,Douala,Douala II,Youpwé,3.979104,9.74732,+237 651 232 546,deido@ophta.cm,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 07h00–20h00
+OPH0277,Centre de la Vision Simo,Yaoundé,Yaoundé I,Émana,3.849058,11.566858,+237 679 573 754,visionsimo@hotmail.com,Oui,Non,Non,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+OPH0278,Clinique des Yeux de Nlongkak,Yaoundé,Yaoundé VI,Nlongkak,3.794943,11.54072,+237 697 446 423,desyeuxnlongka@ophta.cm,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+OPH0279,Clinique Ophtalmologique de PK12,Douala,Douala II,PK12,4.059185,9.669769,+237 655 553 630,pk12@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Oui,Lun–Sam 08h00–17h00
+OPH0280,Ophtalmologie Santé,Douala,Douala I,Japoma,4.029029,9.721948,+237 655 749 768,ophtalmologies@ophta.cm,Oui,Non,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+OPH0281,Centre Ophtalmologique Saint-Pierre,Yaoundé,Yaoundé IV,Mvog-Ada,3.773358,11.578375,+237 692 442 735,pierre@ophta.cm,Oui,Non,Oui,Non,Non,Non,Non,Lun–Sam 07h00–20h00
+OPH0282,Clinique des Yeux de Bonamoussadi,Douala,Douala III,New Bell,4.021076,9.631193,+237 652 950 661,desyeuxbonamou@hotmail.com,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 08h30–18h30
+OPH0283,Clinique des Yeux de Ngoa-Ekélé,Yaoundé,Yaoundé V,Ngoa-Ekélé,3.840994,11.580304,+237 679 342 561,desyeuxngoa-ek@gmail.com,Oui,Non,Oui,Oui,Oui,Oui,Non,7j/7 — 08h00–20h00
+OPH0284,Cabinet Ophtalmologique Onana,Douala,Douala V,Nkongmondo,4.056319,9.673083,+237 694 857 306,onana@hotmail.com,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+OPH0285,Centre de la Vision Nguele,Yaoundé,Yaoundé III,Santa Barbara,3.936425,11.468711,+237 679 343 301,visionnguele@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Oui,Lun–Sam 07h00–20h00
+OPH0286,Clinique Ophtalmologique de Biyem-Assi,Yaoundé,Yaoundé III,Essos,3.886091,11.421674,+237 652 479 991,biyem-assi@yahoo.fr,Oui,Non,Oui,Oui,Oui,Oui,Oui,Lun–Sam 08h30–18h30
+OPH0287,Centre de la Vision Biyiti,Douala,Douala V,Bonaberi,4.105665,9.674359,+237 233 942 258,visionbiyiti@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+OPH0288,Clinique Ophtalmologique de Cité des Palmiers,Douala,Douala II,Cité des Palmiers,4.041009,9.652803,+237 222 236 811,citédespalmier@ophta.cm,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Sam 07h30–19h00
+OPH0289,Clinique Ophtalmologique de Village,Douala,Douala II,Bonanjo,4.064783,9.632278,+237 699 592 957,village@hotmail.com,Oui,Non,Non,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+OPH0290,Centre de la Vision Mvogo,Yaoundé,Yaoundé III,Mokolo,3.804835,11.438305,+237 243 869 584,visionmvogo@gmail.com,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+OPH0291,Clinique des Yeux de Youpwé,Douala,Douala II,Bepanda,3.982539,9.743469,+237 699 658 548,desyeuxyoupwé@gmail.com,Oui,Oui,Oui,Oui,Non,Oui,Oui,Lun–Sam 07h30–19h00
+OPH0292,Clinique Ophtalmologique de Bangue,Douala,Douala IV,Ndokoti,4.120138,9.684064,+237 651 936 348,bangue@hotmail.com,Oui,Non,Non,Oui,Oui,Oui,Non,Lun–Dim 08h00–18h00
+OPH0293,Centre de la Vision Engoulou,Yaoundé,Yaoundé V,Mvog-Mbi,3.952816,11.530149,+237 691 831 324,visionengoulou@gmail.com,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+OPH0294,Clinique Ophtalmologique de Bali,Douala,Douala VI,Kotto,4.069525,9.722286,+237 697 250 917,bali@gmail.com,Oui,Non,Non,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+OPH0295,Centre de la Vision Ndoumbe,Yaoundé,Yaoundé II,Émana,3.857265,11.471166,+237 699 621 921,visionndoumbe@hotmail.com,Oui,Non,Oui,Non,Non,Non,Oui,Lun–Sam 08h30–18h30
+OPH0296,Centre de la Vision Fotso,Yaoundé,Yaoundé II,Simbock,3.807152,11.585002,+237 692 764 234,visionfotso@hotmail.com,Oui,Non,Non,Oui,Non,Oui,Non,7j/7 — 08h00–20h00
+OPH0297,Centre Ophtalmologique Saint-Étienne,Yaoundé,Yaoundé VII,Efoulan,3.754199,11.487602,+237 655 833 222,étienne@yahoo.fr,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+OPH0298,Clinique Ophtalmologique de Sodiko,Douala,Douala I,Sodiko,4.04881,9.790218,+237 678 238 994,sodiko@gmail.com,Oui,Non,Oui,Non,Non,Oui,Non,Lun–Ven 08h00–18h00
+OPH0299,Clinique des Yeux de Logbessou,Douala,Douala IV,Bonanjo,4.076552,9.774669,+237 696 704 495,desyeuxlogbess@yahoo.fr,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 08h30–18h30
+OPH0300,Clinique des Yeux de Bassa,Douala,Douala III,Bonaberi,4.078403,9.666349,+237 222 773 449,desyeuxbassa@yahoo.fr,Oui,Non,Oui,Non,Oui,Non,Non,Lun–Sam 07h00–20h00
+OPH0301,Clinique des Yeux de Bepanda,Douala,Douala III,Ndokoti,4.087614,9.772605,+237 677 304 462,desyeuxbepanda@ophta.cm,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 08h30–18h30
+OPH0302,Clinique Ophtalmologique de Mvog-Ada,Yaoundé,Yaoundé III,Mvog-Ada,3.792264,11.553861,+237 694 355 123,mvog-ada@gmail.com,Oui,Non,Non,Non,Oui,Oui,Non,Lun–Sam 07h30–19h00
+OPH0303,Clinique Ophtalmologique de Émana,Yaoundé,Yaoundé III,Émana,3.885149,11.447756,+237 655 893 704,émana@ophta.cm,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+OPH0304,Centre de la Vision Nkeng,Yaoundé,Yaoundé VI,Ngousso,3.810303,11.469311,+237 694 355 150,visionnkeng@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+OPH0305,Clinique Ophtalmologique de Bonanjo,Douala,Douala VI,PK17,4.029194,9.644681,+237 243 075 515,bonanjo@gmail.com,Oui,Non,Oui,Oui,Non,Oui,Oui,Lun–Ven 08h00–18h00
+OPH0306,Centre Ophtalmologique Saint-Thérèse,Douala,Douala VI,Kotto,4.108507,9.650994,+237 696 327 820,thérèse@hotmail.com,Oui,Non,Oui,Non,Non,Oui,Non,Lun–Ven 07h30–17h30
+OPH0307,Cabinet Ophtalmologique Ateba,Douala,Douala I,Deido,4.090967,9.639554,+237 651 593 832,ateba@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Sam 08h30–18h30
+OPH0308,Clinique Ophtalmologique de Koumassi,Douala,Douala III,Ndokoti,4.018167,9.766077,+237 693 796 131,koumassi@hotmail.com,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 08h30–18h30
+OPH0309,Centre Ophtalmologique Saint-Patrick,Douala,Douala II,Bonanjo,4.091162,9.633415,+237 679 496 328,patrick@gmail.com,Oui,Non,Non,Oui,Non,Non,Oui,Lun–Sam 07h00–20h00
+OPH0310,Clinique des Yeux de Biyem-Assi,Yaoundé,Yaoundé VII,Nkoabang,3.883033,11.558174,+237 692 144 253,desyeuxbiyem-a@ophta.cm,Oui,Non,Non,Oui,Oui,Oui,Non,Lun–Ven 08h00–18h00
+OPH0311,Clinique Ophtalmologique de Bessengue,Douala,Douala III,Akwa,4.105953,9.668313,+237 698 303 754,bessengue@yahoo.fr,Oui,Non,Oui,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+OPH0312,Clinique des Yeux de Mbanya,Douala,Douala II,Soboum,4.111963,9.682512,+237 243 984 570,desyeuxmbanya@gmail.com,Oui,Non,Oui,Oui,Non,Non,Oui,Lun–Ven 07h30–17h30
+OPH0313,Centre de la Vision Djoumbi,Yaoundé,Yaoundé III,Djoungolo,3.889582,11.534276,+237 651 899 258,visiondjoumbi@ophta.cm,Oui,Non,Non,Non,Oui,Oui,Non,Lun–Ven 08h00–18h00
+OPH0314,Ophtalmologie Bonheur,Yaoundé,Yaoundé VII,Omnisports,3.872371,11.398031,+237 691 942 029,ophtalmologieb@gmail.com,Oui,Oui,Oui,Non,Oui,Oui,Non,Lun–Sam 08h00–17h00
+OPH0315,Cabinet Ophtalmologique Ondoa,Douala,Douala IV,Bangue,4.081965,9.634793,+237 697 597 879,ondoa@ophta.cm,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Sam 07h00–20h00
+OPH0316,Clinique Ophtalmologique de Ndoghem,Douala,Douala V,Ndogbong,4.094816,9.70869,+237 651 763 684,ndoghem@yahoo.fr,Oui,Non,Oui,Non,Oui,Oui,Non,Lun–Ven 08h00–18h00
+OPH0317,Clinique des Yeux de Omnisports,Yaoundé,Yaoundé III,Mvog-Ada,3.810988,11.541565,+237 694 319 792,desyeuxomnispo@ophta.cm,Oui,Oui,Non,Oui,Oui,Non,Non,Lun–Sam 08h30–18h30
+OPH0318,Clinique des Yeux de Mokolo,Yaoundé,Yaoundé VI,Ahala,3.898936,11.456176,+237 652 995 355,desyeuxmokolo@hotmail.com,Oui,Non,Oui,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+OPH0319,Ophtalmologie Confiance,Yaoundé,Yaoundé VI,Obili,3.904304,11.469413,+237 693 720 611,ophtalmologiec@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+OPH0320,Clinique des Yeux de Bonaloka,Douala,Douala I,Ndog-Bong,4.043171,9.67573,+237 690 138 095,desyeuxbonalok@gmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+OPH0321,Ophtalmologie Confiance,Douala,Douala V,Kotto,4.101159,9.656395,+237 242 416 139,ophtalmologiec@gmail.com,Oui,Non,Non,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+OPH0322,Centre de la Vision Belinga,Yaoundé,Yaoundé V,Nkol-Eton,3.783683,11.547095,+237 653 553 067,visionbelinga@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+OPH0323,Clinique Ophtalmologique de Elig-Essono,Yaoundé,Yaoundé II,Tsinga,3.933694,11.480915,+237 650 606 231,elig-essono@ophta.cm,Oui,Non,Oui,Non,Non,Non,Oui,Lun–Dim 08h00–18h00
+OPH0324,Clinique Ophtalmologique de Omnisports,Yaoundé,Yaoundé II,Émana,3.786986,11.419131,+237 222 739 331,omnisports@ophta.cm,Oui,Non,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+OPH0325,Clinique des Yeux de Ndog-Passi III,Douala,Douala IV,Ndog-Bong,3.994379,9.660549,+237 678 959 083,desyeuxndog-pa@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+OPH0326,Cabinet Ophtalmologique Owona,Douala,Douala VI,Deido,4.022692,9.760407,+237 693 257 928,owona@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+OPH0327,Ophtalmologie Grâce,Yaoundé,Yaoundé IV,Nkoldongo,3.796625,11.586316,+237 677 326 091,ophtalmologieg@hotmail.com,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Dim 08h00–18h00
+OPH0328,Clinique Ophtalmologique de Bepanda,Douala,Douala V,PK8,4.083846,9.717684,+237 655 142 344,bepanda@gmail.com,Oui,Non,Non,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+OPH0329,Clinique des Yeux de Mbanya,Douala,Douala II,PK12,3.994413,9.690452,+237 693 280 994,desyeuxmbanya@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Non,Lun–Ven 08h00–18h00
+OPH0330,Centre Ophtalmologique Saint-Bruno,Yaoundé,Yaoundé VI,Etoudi,3.865794,11.422258,+237 679 239 194,bruno@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+OPH0331,Centre Ophtalmologique Saint-Jeanne,Yaoundé,Yaoundé III,Melen,3.786132,11.508158,+237 654 320 127,jeanne@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Sam 07h30–19h00
+OPH0332,Ophtalmologie Secours,Douala,Douala VI,Ndogbong,4.031481,9.756048,+237 694 167 068,ophtalmologies@gmail.com,Oui,Non,Non,Oui,Oui,Non,Non,Lun–Sam 07h30–19h00
+OPH0333,Clinique des Yeux de Mboppi,Douala,Douala IV,Makepe,4.042005,9.642729,+237 652 394 256,desyeuxmboppi@ophta.cm,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+OPH0334,Clinique des Yeux de Bessengue,Douala,Douala III,Bonaloka,4.068418,9.637481,+237 699 987 599,desyeuxbesseng@ophta.cm,Oui,Non,Oui,Oui,Non,Oui,Non,7j/7 — 08h00–20h00
+OPH0335,Clinique Ophtalmologique de Kotto,Douala,Douala I,Ndogbong,4.057194,9.771286,+237 655 486 662,kotto@gmail.com,Oui,Non,Non,Non,Oui,Non,Non,Lun–Ven 07h30–17h30
+OPH0336,Clinique Ophtalmologique de Nkol-Eton,Yaoundé,Yaoundé III,Melen,3.82447,11.603713,+237 243 787 296,nkol-eton@yahoo.fr,Oui,Non,Oui,Oui,Oui,Oui,Non,Lun–Ven 07h30–17h30
+OPH0337,Cabinet Ophtalmologique Abega,Yaoundé,Yaoundé II,Biteng,3.817481,11.547475,+237 694 862 417,abega@yahoo.fr,Oui,Oui,Oui,Oui,Non,Oui,Oui,Lun–Sam 08h00–17h00
+OPH0338,Cabinet Ophtalmologique Nguele,Douala,Douala IV,New Bell,4.130321,9.73421,+237 679 227 192,nguele@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+OPH0339,Centre Ophtalmologique Saint-Cyprien,Yaoundé,Yaoundé I,Biyem-Assi,3.888599,11.557868,+237 651 138 501,cyprien@ophta.cm,Oui,Oui,Oui,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+OPH0340,Centre de la Vision Fotso,Douala,Douala V,Makepe,4.033146,9.67265,+237 222 019 376,visionfotso@yahoo.fr,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+OPH0341,Cabinet Ophtalmologique Kuitche,Yaoundé,Yaoundé II,Mvog-Atangana,3.816481,11.533055,+237 652 064 719,kuitche@ophta.cm,Oui,Non,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+OPH0342,Clinique Ophtalmologique de Ngousso,Yaoundé,Yaoundé II,Mvog-Ada,3.893956,11.543224,+237 677 763 315,ngousso@ophta.cm,Oui,Non,Oui,Non,Oui,Non,Non,Lun–Sam 08h00–17h00
+OPH0343,Clinique des Yeux de Santa Barbara,Yaoundé,Yaoundé III,Biteng,3.88765,11.57103,+237 692 372 649,desyeuxsantaba@hotmail.com,Oui,Non,Oui,Non,Oui,Oui,Oui,Lun–Dim 08h00–18h00
+OPH0344,Cabinet Ophtalmologique Nlend,Yaoundé,Yaoundé VI,Efoulan,3.879737,11.601886,+237 233 975 842,nlend@yahoo.fr,Oui,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 08h30–18h30
+OPH0345,Cabinet Ophtalmologique Ngoa,Yaoundé,Yaoundé VII,Simbock,3.77024,11.459,+237 690 459 552,ngoa@ophta.cm,Oui,Non,Non,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+OPH0346,Clinique Ophtalmologique de Mvog-Mbi,Yaoundé,Yaoundé I,Mvog-Mbi,3.817069,11.482352,+237 678 756 073,mvog-mbi@gmail.com,Oui,Non,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+OPH0347,Cabinet Ophtalmologique Nkeng,Yaoundé,Yaoundé V,Biteng,3.799632,11.470554,+237 650 379 171,nkeng@yahoo.fr,Oui,Oui,Oui,Non,Oui,Oui,Non,Lun–Sam 07h00–20h00
+OPH0348,Clinique des Yeux de Biyem-Assi,Yaoundé,Yaoundé VII,Étoa-Meki,3.781216,11.415132,+237 679 168 705,desyeuxbiyem-a@hotmail.com,Oui,Oui,Oui,Oui,Oui,Oui,Non,Lun–Ven 08h00–18h00
+OPH0349,Centre de la Vision Assamba,Douala,Douala IV,Ndogbong,4.052724,9.743326,+237 651 933 155,visionassamba@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+OPH0350,Clinique Ophtalmologique de Melen,Yaoundé,Yaoundé IV,Elig-Essono,3.859436,11.568561,+237 696 344 355,melen@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00

@@ -1,0 +1,351 @@
+id,nom,ville,arrondissement,quartier,latitude,longitude,telephone,email,radiographie,echographie,scanner,irm,mammographie,doppler,horaires
+IMG0001,Clinique Radiologique Nkoa,Yaoundé,Yaoundé III,Mvan,3.860519,11.562657,+237 233 224 266,radiologiquenk@yahoo.fr,Oui,Non,Non,Non,Oui,Non,Lun–Dim 08h00–18h00
+IMG0002,Imagerie Médicale Nkeng,Yaoundé,Yaoundé VI,Santa Barbara,3.759027,11.534474,+237 678 531 280,médicankeng@imagerie.cm,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 07h00–20h00
+IMG0003,Centre de Radiologie Saint-Jean,Douala,Douala VI,Mbanya,4.022147,9.736886,+237 242 327 882,radiologiejean@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0004,Cabinet de Radiologie de Ngoa-Ekélé,Yaoundé,Yaoundé VI,Ekounou,3.934225,11.484987,+237 654 881 269,radiologiengoa@yahoo.fr,Oui,Oui,Non,Non,Oui,Oui,Lun–Ven 08h00–18h00
+IMG0005,Centre d'Imagerie Santé,Yaoundé,Yaoundé V,Nkolbisson,3.788922,11.435231,+237 242 654 754,santé@imagerie.cm,Oui,Oui,Oui,Oui,Oui,Non,7j/7 — 08h00–20h00
+IMG0006,Imagerie Médicale Tchoupo,Douala,Douala III,Bangue,4.092749,9.703053,+237 699 285 667,médicatchoupo@hotmail.com,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 08h30–18h30
+IMG0007,Cabinet de Radiologie de Efoulan,Yaoundé,Yaoundé VII,Efoulan,3.849098,11.580634,+237 242 500 820,radiologieefou@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+IMG0008,Centre de Radiologie Saint-Gabriel,Yaoundé,Yaoundé I,Mvog-Atangana,3.847413,11.473297,+237 651 292 857,radiologiegabr@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+IMG0009,Centre d'Imagerie Bonheur,Yaoundé,Yaoundé IV,Santa Barbara,3.865987,11.472321,+237 678 966 340,bonheur@imagerie.cm,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+IMG0010,Cabinet de Radiologie de Tsinga,Yaoundé,Yaoundé VI,Biyem-Assi,3.937647,11.440136,+237 690 515 746,radiologietsin@imagerie.cm,Oui,Oui,Oui,Non,Non,Oui,Lun–Ven 08h00–18h00
+IMG0011,Centre d'Imagerie de PK8,Douala,Douala II,Ndog-Passi III,4.103676,9.764614,+237 222 910 443,pk8@imagerie.cm,Oui,Oui,Oui,Non,Oui,Oui,Lun–Sam 07h00–20h00
+IMG0012,Imagerie Médicale Bikié,Yaoundé,Yaoundé V,Biyem-Assi,3.832733,11.578962,+237 654 423 608,médicabikié@imagerie.cm,Oui,Oui,Non,Non,Oui,Oui,Lun–Sam 07h30–19h00
+IMG0013,Cabinet de Radiologie de Bastos,Yaoundé,Yaoundé IV,Odza,3.900607,11.562484,+237 654 353 942,radiologiebast@yahoo.fr,Oui,Oui,Oui,Non,Oui,Oui,Lun–Ven 07h30–17h30
+IMG0014,Centre d'Imagerie de Mboppi,Douala,Douala II,Koumassi,4.046428,9.761197,+237 692 126 216,mboppi@hotmail.com,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 08h30–18h30
+IMG0015,Centre de Radiologie Saint-Félicité,Douala,Douala V,PK10,3.99873,9.699574,+237 699 859 622,radiologieféli@gmail.com,Oui,Non,Non,Non,Oui,Non,Lun–Dim 08h00–18h00
+IMG0016,Imagerie Médicale Eba,Yaoundé,Yaoundé I,Madagascar,3.880396,11.428875,+237 690 936 993,médicaeba@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+IMG0017,Cabinet de Radiologie de Bassa,Douala,Douala V,Bonaberi,4.049903,9.668578,+237 233 024 200,radiologiebass@gmail.com,Oui,Oui,Oui,Oui,Oui,Non,Lun–Sam 07h00–20h00
+IMG0018,Imagerie Médicale Owona,Yaoundé,Yaoundé III,Biteng,3.836214,11.504323,+237 696 117 192,médicaowona@gmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0019,Imagerie Médicale Fouda,Yaoundé,Yaoundé III,Ngousso,3.78968,11.592435,+237 678 574 231,médicafouda@hotmail.com,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 08h30–18h30
+IMG0020,Cabinet de Radiologie de Mvan,Yaoundé,Yaoundé III,Mvan,3.801437,11.495556,+237 678 158 947,radiologiemvan@imagerie.cm,Oui,Oui,Non,Oui,Non,Oui,Lun–Ven 07h30–17h30
+IMG0021,Centre d'Imagerie de Mvog-Beti,Yaoundé,Yaoundé II,Mvog-Beti,3.823417,11.516407,+237 652 380 816,mvog-beti@gmail.com,Oui,Non,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0022,Centre d'Imagerie de Olembe,Yaoundé,Yaoundé IV,Olembe,3.876086,11.555617,+237 650 159 454,olembe@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Lun–Ven 08h00–18h00
+IMG0023,Cabinet de Radiologie de Nyalla,Douala,Douala VI,Makepe,4.110763,9.746412,+237 691 873 196,radiologienyal@imagerie.cm,Oui,Oui,Non,Non,Non,Oui,Lun–Ven 07h30–17h30
+IMG0024,Cabinet de Radiologie de Bali,Douala,Douala II,Kotto,4.048331,9.792406,+237 650 326 638,radiologiebali@gmail.com,Oui,Non,Non,Non,Oui,Non,7j/7 — 08h00–20h00
+IMG0025,Clinique Radiologique Ndjock,Douala,Douala VI,Bonanjo,4.112516,9.688247,+237 654 629 938,radiologiquend@imagerie.cm,Oui,Non,Non,Non,Non,Oui,Lun–Sam 07h00–20h00
+IMG0026,Imagerie Médicale Mbarga,Yaoundé,Yaoundé VII,Nkol-Afeme,3.74747,11.484606,+237 653 763 491,médicambarga@hotmail.com,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+IMG0027,Centre d'Imagerie de Efoulan,Yaoundé,Yaoundé V,Essos,3.842505,11.602578,+237 679 225 974,efoulan@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Lun–Dim 08h00–18h00
+IMG0028,Centre d'Imagerie de Étoa-Meki,Yaoundé,Yaoundé IV,Odza,3.890205,11.584393,+237 691 268 988,étoa-meki@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 07h00–20h00
+IMG0029,Centre de Radiologie Saint-Cyprien,Yaoundé,Yaoundé V,Simbock,3.79477,11.56665,+237 691 966 220,radiologiecypr@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+IMG0030,Clinique Radiologique Tabi,Yaoundé,Yaoundé I,Madagascar,3.942429,11.5228,+237 691 298 662,radiologiqueta@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+IMG0031,Centre d'Imagerie de Biteng,Yaoundé,Yaoundé III,Biteng,3.813318,11.467468,+237 691 454 517,biteng@yahoo.fr,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 08h30–18h30
+IMG0032,Cabinet de Radiologie de Mvog-Mbi,Yaoundé,Yaoundé I,Cité Verte,3.847185,11.438319,+237 651 841 515,radiologiemvog@hotmail.com,Oui,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0033,Centre de Radiologie Saint-André,Yaoundé,Yaoundé III,Ngoa-Ekélé,3.872174,11.494165,+237 243 121 363,radiologieandr@gmail.com,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 07h00–20h00
+IMG0034,Cabinet de Radiologie de Mendong,Yaoundé,Yaoundé I,Messa,3.817995,11.605082,+237 677 117 105,radiologiemend@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 08h30–18h30
+IMG0035,Imagerie Médicale Nkoa,Yaoundé,Yaoundé II,Nkolbisson,3.776999,11.453868,+237 690 422 310,médicankoa@hotmail.com,Oui,Non,Non,Non,Non,Oui,Lun–Sam 07h00–20h00
+IMG0036,Cabinet de Radiologie de Mbanya,Douala,Douala V,Logbessou,4.119254,9.685779,+237 695 807 657,radiologiemban@yahoo.fr,Oui,Oui,Oui,Oui,Non,Oui,Lun–Ven 08h00–18h00
+IMG0037,Centre d'Imagerie de Boko,Douala,Douala IV,Japoma,4.022357,9.75578,+237 243 104 188,boko@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 08h00–17h00
+IMG0038,Imagerie Médicale Elong,Yaoundé,Yaoundé IV,Mvog-Atangana,3.81439,11.484627,+237 678 890 404,médicaelong@yahoo.fr,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 08h00–17h00
+IMG0039,Clinique Radiologique Mvé,Yaoundé,Yaoundé VII,Santa Barbara,3.913687,11.585655,+237 655 100 160,radiologiquemv@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Lun–Sam 08h30–18h30
+IMG0040,Cabinet de Radiologie de New Bell,Douala,Douala III,Nyalla,3.997067,9.701923,+237 699 948 259,radiologienewb@imagerie.cm,Oui,Oui,Non,Non,Oui,Oui,Lun–Ven 07h30–17h30
+IMG0041,Imagerie Médicale Essomba,Douala,Douala VI,Bonanjo,4.121295,9.710389,+237 678 543 125,médicaessomba@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+IMG0042,Cabinet de Radiologie de Youpwé,Douala,Douala VI,Youpwé,4.025396,9.686839,+237 650 871 698,radiologieyoup@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0043,Cabinet de Radiologie de Mbanya,Douala,Douala II,Mbanya,4.056426,9.621392,+237 698 221 506,radiologiemban@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0044,Clinique Radiologique Fotso,Yaoundé,Yaoundé III,Mvan,3.826106,11.606382,+237 242 566 731,radiologiquefo@imagerie.cm,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0045,Clinique Radiologique Fotso,Douala,Douala II,Ndog-Bong,4.069351,9.681748,+237 692 501 935,radiologiquefo@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+IMG0046,Centre de Radiologie Saint-Marc,Douala,Douala III,Mbanya,4.128648,9.665944,+237 653 126 782,radiologiemarc@imagerie.cm,Oui,Oui,Non,Oui,Non,Non,Lun–Ven 07h30–17h30
+IMG0047,Centre d'Imagerie Secours,Douala,Douala I,Bali,4.070731,9.764591,+237 652 052 499,secours@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+IMG0048,Centre d'Imagerie de Bessengue,Douala,Douala I,Village,4.072047,9.792006,+237 690 836 259,bessengue@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+IMG0049,Cabinet de Radiologie de Logbessou,Douala,Douala II,Logbessou,4.018333,9.627611,+237 696 918 788,radiologielogb@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Lun–Ven 08h00–18h00
+IMG0050,Clinique Radiologique Mvogo,Yaoundé,Yaoundé VII,Omnisports,3.768177,11.548001,+237 222 135 909,radiologiquemv@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+IMG0051,Centre d'Imagerie de Bonamoussadi,Douala,Douala VI,Bonamoussadi,4.040917,9.754068,+237 698 584 352,bonamoussadi@yahoo.fr,Oui,Oui,Non,Oui,Non,Oui,Lun–Ven 07h30–17h30
+IMG0052,Clinique Radiologique Simo,Douala,Douala VI,Sodiko,4.089073,9.631993,+237 698 456 365,radiologiquesi@gmail.com,Oui,Oui,Non,Non,Oui,Non,Lun–Ven 07h30–17h30
+IMG0053,Cabinet de Radiologie de Ndogbong,Douala,Douala V,Ndog-Bong,4.083301,9.635508,+237 242 605 049,radiologiendog@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 08h00–17h00
+IMG0054,Centre d'Imagerie Vie,Yaoundé,Yaoundé V,Nkol-Eton,3.769887,11.459165,+237 694 871 255,vie@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Lun–Ven 08h00–18h00
+IMG0055,Cabinet de Radiologie de PK10,Douala,Douala I,Nzeng-Ayong,4.092561,9.70209,+237 243 662 547,radiologiepk10@gmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0056,Centre d'Imagerie de Mboppi,Douala,Douala VI,Bonaloka,4.041303,9.678747,+237 692 684 458,mboppi@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 08h30–18h30
+IMG0057,Cabinet de Radiologie de Nzeng-Ayong,Douala,Douala III,Nzeng-Ayong,4.101141,9.703614,+237 693 781 417,radiologienzen@imagerie.cm,Oui,Non,Non,Non,Non,Oui,Lun–Dim 08h00–18h00
+IMG0058,Centre d'Imagerie de Ndogbong,Douala,Douala I,Makepe,4.026587,9.773655,+237 653 430 270,ndogbong@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+IMG0059,Centre d'Imagerie Harmonie,Yaoundé,Yaoundé VII,Biteng,3.909555,11.51562,+237 654 088 222,harmonie@imagerie.cm,Oui,Oui,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+IMG0060,Cabinet de Radiologie de Akwa,Douala,Douala III,Akwa,4.01419,9.677207,+237 693 376 992,radiologieakwa@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0061,Clinique Radiologique Zang,Douala,Douala III,Youpwé,4.061747,9.724057,+237 222 758 466,radiologiqueza@gmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0062,Centre d'Imagerie de Odza,Yaoundé,Yaoundé VI,Bastos,3.852415,11.56151,+237 651 330 907,odza@yahoo.fr,Oui,Oui,Oui,Non,Oui,Oui,Lun–Sam 08h00–17h00
+IMG0063,Cabinet de Radiologie de Nkol-Afeme,Yaoundé,Yaoundé VII,Nkol-Afeme,3.813727,11.429827,+237 222 690 860,radiologienkol@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+IMG0064,Centre de Radiologie Saint-Joseph,Yaoundé,Yaoundé IV,Nkoabang,3.764955,11.487027,+237 699 593 317,radiologiejose@yahoo.fr,Oui,Non,Non,Non,Non,Oui,7j/7 — 08h00–20h00
+IMG0065,Centre d'Imagerie de Bastos,Yaoundé,Yaoundé VII,Bastos,3.806318,11.446178,+237 696 083 053,bastos@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,Lun–Sam 08h00–17h00
+IMG0066,Centre d'Imagerie Confiance,Douala,Douala IV,Nkongmondo,4.095882,9.646115,+237 694 430 446,confiance@imagerie.cm,Oui,Oui,Non,Non,Oui,Oui,Lun–Ven 07h30–17h30
+IMG0067,Centre d'Imagerie de PK10,Douala,Douala I,Bassa,4.02005,9.679411,+237 654 724 209,pk10@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,Lun–Sam 07h00–20h00
+IMG0068,Centre de Radiologie Saint-Jeanne,Douala,Douala II,Makepe,4.016089,9.782954,+237 652 397 990,radiologiejean@imagerie.cm,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+IMG0069,Cabinet de Radiologie de Koumassi,Douala,Douala II,Mboppi,4.041884,9.623571,+237 650 694 259,radiologiekoum@gmail.com,Oui,Non,Oui,Non,Oui,Oui,Lun–Sam 08h00–17h00
+IMG0070,Cabinet de Radiologie de Bepanda,Douala,Douala IV,Bali,4.111824,9.773762,+237 677 523 943,radiologiebepa@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+IMG0071,Cabinet de Radiologie de Nkongmondo,Douala,Douala I,Nkongmondo,3.988615,9.6539,+237 222 191 732,radiologienkon@gmail.com,Oui,Oui,Non,Non,Non,Oui,Lun–Ven 07h30–17h30
+IMG0072,Cabinet de Radiologie de Messa,Yaoundé,Yaoundé III,Etoudi,3.782092,11.504134,+237 697 891 150,radiologiemess@yahoo.fr,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 08h00–17h00
+IMG0073,Centre d'Imagerie Alliance,Yaoundé,Yaoundé II,Mvog-Ada,3.920254,11.557169,+237 222 887 976,alliance@gmail.com,Oui,Oui,Non,Non,Oui,Non,7j/7 — 08h00–20h00
+IMG0074,Imagerie Médicale Mbassi,Yaoundé,Yaoundé VI,Briqueterie,3.870978,11.556894,+237 233 073 201,médicambassi@yahoo.fr,Oui,Oui,Non,Oui,Non,Oui,Lun–Sam 08h00–17h00
+IMG0075,Cabinet de Radiologie de Sodiko,Douala,Douala II,Sodiko,4.110033,9.717877,+237 678 686 065,radiologiesodi@imagerie.cm,Oui,Non,Non,Non,Oui,Non,Lun–Sam 08h00–17h00
+IMG0076,Centre d'Imagerie de Nkoldongo,Yaoundé,Yaoundé III,Ngoa-Ekélé,3.877679,11.542687,+237 694 039 528,nkoldongo@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+IMG0077,Clinique Radiologique Biyiti,Douala,Douala V,Bassa,4.116233,9.749617,+237 699 789 316,radiologiquebi@imagerie.cm,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0078,Centre de Radiologie Saint-Jean,Douala,Douala II,Bepanda,4.119058,9.689444,+237 653 914 257,radiologiejean@gmail.com,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 08h30–18h30
+IMG0079,Centre d'Imagerie de Bepanda,Douala,Douala VI,Bali,4.135531,9.681881,+237 694 424 749,bepanda@imagerie.cm,Oui,Oui,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+IMG0080,Clinique Radiologique Ndjock,Douala,Douala IV,Nyalla,4.043629,9.79074,+237 691 280 139,radiologiquend@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,7j/7 — 08h00–20h00
+IMG0081,Imagerie Médicale Owona,Douala,Douala II,Bonaberi,4.12081,9.654601,+237 692 114 916,médicaowona@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0082,Centre d'Imagerie de Ngoa-Ekélé,Yaoundé,Yaoundé V,Ngoa-Ekélé,3.786987,11.572205,+237 690 712 865,ngoa-ekélé@gmail.com,Oui,Non,Non,Non,Oui,Non,Lun–Sam 08h30–18h30
+IMG0083,Centre d'Imagerie de Koumassi,Douala,Douala I,Bonanjo,4.078829,9.709768,+237 651 158 690,koumassi@hotmail.com,Oui,Oui,Non,Non,Non,Oui,7j/7 — 08h00–20h00
+IMG0084,Centre de Radiologie Saint-Marie,Yaoundé,Yaoundé VI,Melen,3.791467,11.509947,+237 678 416 494,radiologiemari@hotmail.com,Oui,Non,Non,Oui,Non,Non,Lun–Ven 08h00–18h00
+IMG0085,Clinique Radiologique Nkeng,Yaoundé,Yaoundé III,Ngousso,3.831055,11.522348,+237 695 919 810,radiologiquenk@yahoo.fr,Oui,Non,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+IMG0086,Centre d'Imagerie Bonheur,Yaoundé,Yaoundé V,Djoungolo,3.809175,11.431089,+237 694 468 652,bonheur@gmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+IMG0087,Cabinet de Radiologie de Ndoghem,Douala,Douala VI,Ndokoti,4.042069,9.641478,+237 678 534 088,radiologiendog@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 07h30–19h00
+IMG0088,Imagerie Médicale Nkoa,Douala,Douala III,Makepe,4.023559,9.632054,+237 243 878 188,médicankoa@yahoo.fr,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 08h00–17h00
+IMG0089,Centre de Radiologie Saint-Claire,Yaoundé,Yaoundé V,Obili,3.913774,11.419664,+237 654 496 429,radiologieclai@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+IMG0090,Clinique Radiologique Ondoa,Douala,Douala V,Youpwé,3.992482,9.744281,+237 698 787 330,radiologiqueon@gmail.com,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 08h00–17h00
+IMG0091,Clinique Radiologique Mvogo,Douala,Douala II,Bangue,4.136263,9.690361,+237 678 977 100,radiologiquemv@gmail.com,Oui,Oui,Non,Non,Non,Oui,Lun–Ven 08h00–18h00
+IMG0092,Centre d'Imagerie Harmonie,Douala,Douala VI,Bali,3.966003,9.694549,+237 697 611 989,harmonie@imagerie.cm,Oui,Oui,Non,Non,Oui,Oui,Lun–Sam 07h30–19h00
+IMG0093,Clinique Radiologique Kuitche,Douala,Douala VI,Bonaloka,4.110293,9.647641,+237 694 186 089,radiologiqueku@imagerie.cm,Oui,Oui,Non,Non,Oui,Oui,Lun–Dim 08h00–18h00
+IMG0094,Centre de Radiologie Saint-Bruno,Yaoundé,Yaoundé VII,Carrière,3.814532,11.481365,+237 696 052 493,radiologiebrun@gmail.com,Oui,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0095,Cabinet de Radiologie de Biyem-Assi,Yaoundé,Yaoundé I,Biyem-Assi,3.891746,11.506751,+237 694 572 468,radiologiebiye@gmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0096,Clinique Radiologique Mbarga,Douala,Douala III,Ndog-Passi III,4.099337,9.762429,+237 696 907 782,radiologiquemb@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Lun–Sam 07h00–20h00
+IMG0097,Cabinet de Radiologie de Deido,Douala,Douala V,Ndogpassi,3.990235,9.678298,+237 653 812 869,radiologiedeid@imagerie.cm,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 07h30–19h00
+IMG0098,Centre d'Imagerie de Obili,Yaoundé,Yaoundé IV,Obili,3.797553,11.419018,+237 651 786 336,obili@imagerie.cm,Oui,Oui,Non,Non,Oui,Non,Lun–Ven 07h30–17h30
+IMG0099,Centre de Radiologie Saint-Luc,Yaoundé,Yaoundé IV,Melen,3.824135,11.450253,+237 243 857 151,radiologieluc@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 08h30–18h30
+IMG0100,Clinique Radiologique Mbassi,Yaoundé,Yaoundé III,Cité Verte,3.762168,11.538421,+237 222 630 909,radiologiquemb@yahoo.fr,Oui,Non,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0101,Centre d'Imagerie de Mendong,Yaoundé,Yaoundé II,Mendong,3.922193,11.555974,+237 653 359 146,mendong@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 07h00–20h00
+IMG0102,Centre d'Imagerie de Ndog-Passi III,Douala,Douala IV,Ndog-Bong,4.055457,9.766428,+237 696 903 935,ndog-passiiii@gmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0103,Cabinet de Radiologie de Mbanya,Douala,Douala VI,PK8,4.005415,9.741324,+237 222 533 133,radiologiemban@gmail.com,Oui,Non,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0104,Clinique Radiologique Tchoupo,Yaoundé,Yaoundé III,Briqueterie,3.946334,11.513589,+237 694 300 075,radiologiquetc@hotmail.com,Oui,Oui,Non,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0105,Cabinet de Radiologie de Bonamoussadi,Douala,Douala VI,Bonamoussadi,4.115371,9.701414,+237 655 790 166,radiologiebona@imagerie.cm,Oui,Non,Non,Non,Oui,Non,Lun–Sam 07h00–20h00
+IMG0106,Cabinet de Radiologie de Olembe,Yaoundé,Yaoundé VII,Olembe,3.83449,11.458236,+237 693 564 134,radiologieolem@imagerie.cm,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+IMG0107,Imagerie Médicale Nguele,Yaoundé,Yaoundé VII,Kondengui,3.835505,11.534446,+237 699 160 108,médicanguele@hotmail.com,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 08h00–17h00
+IMG0108,Clinique Radiologique Ngoa,Douala,Douala I,Cité des Palmiers,3.984395,9.702473,+237 699 542 575,radiologiqueng@imagerie.cm,Oui,Oui,Non,Non,Oui,Non,Lun–Dim 08h00–18h00
+IMG0109,Centre de Radiologie Saint-Damien,Douala,Douala V,Nyalla,4.096202,9.712473,+237 233 920 674,radiologiedami@gmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0110,Centre d'Imagerie Providence,Yaoundé,Yaoundé VII,Olembe,3.754931,11.517821,+237 242 821 702,providence@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+IMG0111,Cabinet de Radiologie de Bonamoussadi,Douala,Douala IV,Bali,4.050202,9.65893,+237 222 950 988,radiologiebona@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 07h00–20h00
+IMG0112,Imagerie Médicale Simo,Douala,Douala VI,Ndogbong,4.027686,9.661156,+237 655 798 027,médicasimo@imagerie.cm,Oui,Non,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+IMG0113,Centre d'Imagerie de PK12,Douala,Douala II,Nkongmondo,4.016655,9.747906,+237 679 650 186,pk12@imagerie.cm,Oui,Non,Non,Non,Non,Oui,Lun–Sam 07h30–19h00
+IMG0114,Centre d'Imagerie Bien-être,Douala,Douala I,Nyalla,3.98067,9.721031,+237 691 322 753,bien-être@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0115,Centre d'Imagerie de Bangue,Douala,Douala VI,Bonamoussadi,4.12968,9.734665,+237 678 674 320,bangue@yahoo.fr,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 08h30–18h30
+IMG0116,Imagerie Médicale Ngoa,Douala,Douala III,Bonamoussadi,4.073064,9.655627,+237 653 466 706,médicangoa@hotmail.com,Oui,Non,Oui,Non,Oui,Non,Lun–Sam 08h30–18h30
+IMG0117,Cabinet de Radiologie de Bali,Douala,Douala VI,Bepanda,3.978455,9.678904,+237 243 818 999,radiologiebali@imagerie.cm,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0118,Cabinet de Radiologie de Bonanjo,Douala,Douala V,Boko,4.125514,9.734077,+237 650 496 140,radiologiebona@gmail.com,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 07h00–20h00
+IMG0119,Cabinet de Radiologie de Kondengui,Yaoundé,Yaoundé V,Mvog-Beti,3.80294,11.514787,+237 696 396 382,radiologiekond@imagerie.cm,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 07h30–19h00
+IMG0120,Cabinet de Radiologie de Bassa,Douala,Douala I,Bassa,4.073838,9.700335,+237 695 105 764,radiologiebass@gmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0121,Centre de Radiologie Saint-Bernadette,Yaoundé,Yaoundé VII,Etoudi,3.845484,11.57352,+237 698 542 495,radiologiebern@imagerie.cm,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 07h30–19h00
+IMG0122,Centre de Radiologie Saint-François,Douala,Douala III,New Bell,4.029171,9.643378,+237 651 029 044,radiologiefran@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+IMG0123,Centre d'Imagerie Bien-être,Yaoundé,Yaoundé V,Bastos,3.852396,11.53831,+237 677 647 798,bien-être@imagerie.cm,Oui,Oui,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+IMG0124,Centre d'Imagerie de Makepe,Douala,Douala III,Bali,4.122025,9.731922,+237 222 981 681,makepe@hotmail.com,Oui,Oui,Oui,Non,Non,Oui,Lun–Ven 07h30–17h30
+IMG0125,Cabinet de Radiologie de PK8,Douala,Douala V,Ndogpassi,4.087813,9.6975,+237 651 414 361,radiologiepk8@imagerie.cm,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 08h00–17h00
+IMG0126,Imagerie Médicale Kamga,Yaoundé,Yaoundé I,Biteng,3.920224,11.441509,+237 693 743 235,médicakamga@gmail.com,Oui,Oui,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+IMG0127,Imagerie Médicale Biyiti,Douala,Douala V,Bali,4.055045,9.744417,+237 696 244 662,médicabiyiti@imagerie.cm,Oui,Oui,Non,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0128,Cabinet de Radiologie de Cité des Palmiers,Douala,Douala IV,Akwa,4.007144,9.684524,+237 694 678 634,radiologiecité@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,7j/7 — 08h00–20h00
+IMG0129,Cabinet de Radiologie de Bonaloka,Douala,Douala II,Bonapriso,3.994694,9.638718,+237 677 226 412,radiologiebona@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Lun–Ven 08h00–18h00
+IMG0130,Centre d'Imagerie de PK14,Douala,Douala IV,PK8,4.049095,9.750046,+237 242 416 047,pk14@gmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+IMG0131,Clinique Radiologique Nkeng,Yaoundé,Yaoundé IV,Essos,3.830381,11.506846,+237 242 216 341,radiologiquenk@gmail.com,Oui,Non,Oui,Oui,Non,Oui,Lun–Sam 07h30–19h00
+IMG0132,Centre de Radiologie Saint-Monique,Yaoundé,Yaoundé VII,Djoungolo,3.760333,11.455773,+237 651 609 419,radiologiemoni@hotmail.com,Oui,Oui,Non,Oui,Oui,Non,Lun–Sam 07h00–20h00
+IMG0133,Clinique Radiologique Ngoa,Yaoundé,Yaoundé VI,Mvan,3.869055,11.472071,+237 222 100 090,radiologiqueng@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+IMG0134,Centre de Radiologie Saint-Augustin,Yaoundé,Yaoundé VI,Mendong,3.764981,11.525581,+237 651 425 341,radiologieaugu@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 07h00–20h00
+IMG0135,Centre de Radiologie Saint-Félicité,Yaoundé,Yaoundé III,Nkol-Eton,3.889974,11.602383,+237 692 334 644,radiologieféli@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0136,Centre d'Imagerie Vie,Yaoundé,Yaoundé I,Mvog-Ada,3.807184,11.504316,+237 699 204 271,vie@gmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0137,Centre de Radiologie Saint-Patrick,Yaoundé,Yaoundé II,Nkolbisson,3.761166,11.551682,+237 653 087 604,radiologiepatr@hotmail.com,Oui,Oui,Non,Non,Non,Oui,7j/7 — 08h00–20h00
+IMG0138,Centre de Radiologie Saint-Félicité,Douala,Douala IV,PK12,4.029743,9.70419,+237 653 707 499,radiologieféli@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0139,Cabinet de Radiologie de Étoa-Meki,Yaoundé,Yaoundé II,Nkoabang,3.790191,11.419819,+237 699 193 841,radiologieétoa@hotmail.com,Oui,Oui,Oui,Non,Oui,Oui,Lun–Dim 08h00–18h00
+IMG0140,Cabinet de Radiologie de Ndogpassi,Douala,Douala IV,PK14,3.977002,9.704246,+237 694 689 856,radiologiendog@gmail.com,Oui,Oui,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+IMG0141,Centre d'Imagerie de Simbock,Yaoundé,Yaoundé VI,Simbock,3.779728,11.560624,+237 698 946 644,simbock@gmail.com,Oui,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0142,Centre d'Imagerie Salut,Yaoundé,Yaoundé III,Nkolbisson,3.821202,11.500097,+237 698 521 638,salut@imagerie.cm,Oui,Non,Non,Non,Non,Oui,Lun–Sam 08h00–17h00
+IMG0143,Imagerie Médicale Engoulou,Douala,Douala VI,Bonaberi,3.98285,9.697706,+237 678 092 085,médicaengoulou@imagerie.cm,Oui,Oui,Non,Oui,Non,Oui,7j/7 — 08h00–20h00
+IMG0144,Centre de Radiologie Saint-Augustin,Douala,Douala IV,Bonanjo,4.084997,9.639995,+237 697 593 287,radiologieaugu@imagerie.cm,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 07h00–20h00
+IMG0145,Imagerie Médicale Ondoa,Yaoundé,Yaoundé III,Essos,3.790604,11.435807,+237 691 405 058,médicaondoa@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+IMG0146,Centre d'Imagerie de Bassa,Douala,Douala VI,Bangue,4.074674,9.695307,+237 696 602 805,bassa@imagerie.cm,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 07h00–20h00
+IMG0147,Centre d'Imagerie de Etoudi,Yaoundé,Yaoundé I,Biteng,3.791077,11.580085,+237 677 971 803,etoudi@gmail.com,Oui,Non,Oui,Non,Non,Oui,Lun–Sam 08h30–18h30
+IMG0148,Centre d'Imagerie de PK12,Douala,Douala II,PK14,4.081553,9.654937,+237 697 601 083,pk12@imagerie.cm,Oui,Oui,Non,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0149,Clinique Radiologique Ndoumbe,Yaoundé,Yaoundé III,Omnisports,3.799261,11.569614,+237 694 277 359,radiologiquend@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+IMG0150,Centre d'Imagerie de Bonanjo,Douala,Douala II,Bonanjo,4.114556,9.721937,+237 243 682 046,bonanjo@gmail.com,Oui,Oui,Non,Oui,Oui,Non,7j/7 — 08h00–20h00
+IMG0151,Imagerie Médicale Hamadou,Yaoundé,Yaoundé II,Émana,3.862813,11.43887,+237 698 668 249,médicahamadou@imagerie.cm,Oui,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0152,Cabinet de Radiologie de Omnisports,Yaoundé,Yaoundé I,Nkoldongo,3.772917,11.437797,+237 654 854 941,radiologieomni@hotmail.com,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 08h00–17h00
+IMG0153,Clinique Radiologique Elong,Douala,Douala V,PK14,4.089698,9.666834,+237 655 166 762,radiologiqueel@imagerie.cm,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0154,Imagerie Médicale Ateba,Douala,Douala IV,Nyalla,3.998222,9.697333,+237 652 310 335,médicaateba@gmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+IMG0155,Centre d'Imagerie Espoir,Yaoundé,Yaoundé II,Madagascar,3.814792,11.556291,+237 242 858 415,espoir@hotmail.com,Oui,Non,Oui,Non,Oui,Oui,7j/7 — 08h00–20h00
+IMG0156,Cabinet de Radiologie de Kotto,Douala,Douala III,Youpwé,4.045873,9.731002,+237 655 742 526,radiologiekott@imagerie.cm,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 08h30–18h30
+IMG0157,Imagerie Médicale Mbassi,Yaoundé,Yaoundé V,Madagascar,3.945268,11.476381,+237 694 038 847,médicambassi@hotmail.com,Oui,Oui,Non,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0158,Cabinet de Radiologie de Cité Verte,Yaoundé,Yaoundé VII,Cité Verte,3.93904,11.471403,+237 242 401 134,radiologiecité@gmail.com,Oui,Non,Non,Non,Non,Oui,Lun–Sam 08h30–18h30
+IMG0159,Centre d'Imagerie de Briqueterie,Yaoundé,Yaoundé II,Briqueterie,3.885317,11.559385,+237 695 847 611,briqueterie@imagerie.cm,Oui,Oui,Non,Non,Oui,Oui,Lun–Ven 07h30–17h30
+IMG0160,Cabinet de Radiologie de PK14,Douala,Douala I,PK14,4.006752,9.776518,+237 694 625 484,radiologiepk14@yahoo.fr,Oui,Oui,Non,Non,Non,Oui,7j/7 — 08h00–20h00
+IMG0161,Clinique Radiologique Biyiti,Douala,Douala I,Bessengue,4.124462,9.704031,+237 233 378 813,radiologiquebi@imagerie.cm,Oui,Oui,Non,Oui,Oui,Non,7j/7 — 08h00–20h00
+IMG0162,Centre de Radiologie Saint-Pierre,Douala,Douala VI,Mboppi,4.042843,9.657009,+237 698 440 395,radiologiepier@hotmail.com,Oui,Oui,Non,Non,Oui,Oui,Lun–Sam 07h30–19h00
+IMG0163,Centre d'Imagerie de PK10,Douala,Douala II,Bali,4.02256,9.666095,+237 653 321 979,pk10@gmail.com,Oui,Non,Oui,Oui,Oui,Oui,Lun–Sam 08h30–18h30
+IMG0164,Centre d'Imagerie Confiance,Yaoundé,Yaoundé V,Mimboman,3.829579,11.40979,+237 655 739 967,confiance@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+IMG0165,Centre d'Imagerie Providence,Douala,Douala VI,PK8,4.124166,9.745807,+237 222 604 284,providence@hotmail.com,Oui,Oui,Non,Oui,Non,Non,Lun–Ven 07h30–17h30
+IMG0166,Centre d'Imagerie de Nkomo,Yaoundé,Yaoundé I,Madagascar,3.87103,11.53537,+237 222 040 453,nkomo@gmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+IMG0167,Cabinet de Radiologie de Ndokoti,Douala,Douala I,New Bell,4.031248,9.749474,+237 694 972 519,radiologiendok@gmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+IMG0168,Centre de Radiologie Saint-Raphaël,Yaoundé,Yaoundé V,Ngousso,3.898686,11.597783,+237 695 687 980,radiologieraph@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0169,Cabinet de Radiologie de Bonaberi,Douala,Douala VI,PK8,3.987024,9.722106,+237 243 095 004,radiologiebona@gmail.com,Oui,Non,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0170,Centre d'Imagerie de Bali,Douala,Douala IV,Deido,4.061111,9.766831,+237 690 792 432,bali@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+IMG0171,Cabinet de Radiologie de Cité des Palmiers,Douala,Douala II,Cité des Palmiers,4.102639,9.777736,+237 652 214 980,radiologiecité@gmail.com,Oui,Oui,Non,Oui,Non,Non,7j/7 — 08h00–20h00
+IMG0172,Cabinet de Radiologie de Nkomo,Yaoundé,Yaoundé I,Essos,3.748675,11.548348,+237 698 286 955,radiologienkom@gmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0173,Centre d'Imagerie de Essos,Yaoundé,Yaoundé V,Essos,3.798946,11.428185,+237 678 154 134,essos@yahoo.fr,Oui,Oui,Oui,Non,Non,Oui,Lun–Ven 08h00–18h00
+IMG0174,Centre d'Imagerie de Kotto,Douala,Douala II,PK12,4.075867,9.629913,+237 652 417 835,kotto@gmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+IMG0175,Clinique Radiologique Kamga,Yaoundé,Yaoundé IV,Mimboman,3.836253,11.572058,+237 696 039 535,radiologiqueka@gmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0176,Centre d'Imagerie Salut,Douala,Douala V,Ndog-Passi III,4.096392,9.782093,+237 243 325 332,salut@yahoo.fr,Oui,Oui,Non,Oui,Non,Oui,Lun–Ven 08h00–18h00
+IMG0177,Cabinet de Radiologie de Village,Douala,Douala II,Village,4.06526,9.686858,+237 690 127 085,radiologievill@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 07h00–20h00
+IMG0178,Centre d'Imagerie de Akwa,Douala,Douala VI,Youpwé,4.021662,9.671341,+237 650 333 381,akwa@gmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+IMG0179,Cabinet de Radiologie de Ndokoti,Douala,Douala VI,Kotto,4.060155,9.789954,+237 652 597 161,radiologiendok@hotmail.com,Oui,Oui,Non,Non,Oui,Non,7j/7 — 08h00–20h00
+IMG0180,Cabinet de Radiologie de Sodiko,Douala,Douala V,Bepanda,4.028211,9.640449,+237 691 969 206,radiologiesodi@imagerie.cm,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 07h00–20h00
+IMG0181,Clinique Radiologique Essomba,Yaoundé,Yaoundé III,Mokolo,3.873902,11.415404,+237 222 410 788,radiologiquees@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 07h30–19h00
+IMG0182,Imagerie Médicale Engoulou,Yaoundé,Yaoundé III,Melen,3.844685,11.451322,+237 698 296 104,médicaengoulou@hotmail.com,Oui,Non,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+IMG0183,Cabinet de Radiologie de Nkolbisson,Yaoundé,Yaoundé IV,Essos,3.876932,11.44336,+237 694 558 966,radiologienkol@gmail.com,Oui,Oui,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+IMG0184,Centre d'Imagerie de Tsinga,Yaoundé,Yaoundé II,Tsinga,3.75279,11.556872,+237 243 896 892,tsinga@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Lun–Ven 07h30–17h30
+IMG0185,Imagerie Médicale Ndjock,Douala,Douala I,Mboppi,4.106979,9.7659,+237 691 368 573,médicandjock@imagerie.cm,Oui,Oui,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+IMG0186,Centre d'Imagerie Santé,Douala,Douala IV,Bali,4.031567,9.746066,+237 651 759 167,santé@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0187,Centre d'Imagerie de Nkol-Afeme,Yaoundé,Yaoundé V,Émana,3.859721,11.465429,+237 692 336 265,nkol-afeme@gmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+IMG0188,Centre d'Imagerie de Bonaloka,Douala,Douala VI,Bonaloka,4.040255,9.727933,+237 655 671 144,bonaloka@yahoo.fr,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 07h00–20h00
+IMG0189,Cabinet de Radiologie de Cité des Palmiers,Douala,Douala III,Bepanda,3.991557,9.707915,+237 651 084 381,radiologiecité@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Lun–Ven 07h30–17h30
+IMG0190,Cabinet de Radiologie de Madagascar,Yaoundé,Yaoundé VII,Santa Barbara,3.749866,11.50547,+237 696 462 252,radiologiemada@imagerie.cm,Oui,Oui,Non,Non,Non,Non,Lun–Sam 07h00–20h00
+IMG0191,Centre d'Imagerie Secours,Yaoundé,Yaoundé I,Nkolbisson,3.922104,11.420944,+237 222 969 179,secours@imagerie.cm,Oui,Oui,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+IMG0192,Centre d'Imagerie de Mbanya,Douala,Douala III,Nzeng-Ayong,4.021465,9.663871,+237 692 470 291,mbanya@imagerie.cm,Oui,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0193,Centre d'Imagerie Bonheur,Douala,Douala V,Bassa,3.980935,9.674869,+237 653 829 125,bonheur@gmail.com,Oui,Oui,Non,Non,Oui,Oui,Lun–Ven 08h00–18h00
+IMG0194,Imagerie Médicale Abega,Douala,Douala V,Bonanjo,4.034071,9.746545,+237 654 712 114,médicaabega@yahoo.fr,Oui,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0195,Centre d'Imagerie de Deido,Douala,Douala II,Bonaloka,4.089345,9.761186,+237 693 242 942,deido@gmail.com,Oui,Non,Oui,Oui,Non,Oui,Lun–Sam 07h30–19h00
+IMG0196,Centre d'Imagerie de Ngousso,Yaoundé,Yaoundé V,Ngousso,3.803022,11.454719,+237 693 138 823,ngousso@gmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 07h30–17h30
+IMG0197,Clinique Radiologique Djoumbi,Yaoundé,Yaoundé III,Mvog-Ada,3.780757,11.569863,+237 696 177 884,radiologiquedj@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 07h30–19h00
+IMG0198,Centre d'Imagerie de Soboum,Douala,Douala III,Soboum,3.974316,9.751067,+237 653 316 499,soboum@hotmail.com,Oui,Non,Oui,Non,Oui,Non,Lun–Ven 07h30–17h30
+IMG0199,Cabinet de Radiologie de Mvog-Atangana,Yaoundé,Yaoundé V,Mvog-Atangana,3.932514,11.524654,+237 652 366 914,radiologiemvog@imagerie.cm,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+IMG0200,Clinique Radiologique Mbarga,Yaoundé,Yaoundé III,Simbock,3.915182,11.580131,+237 651 705 036,radiologiquemb@imagerie.cm,Oui,Oui,Non,Non,Non,Oui,Lun–Dim 08h00–18h00
+IMG0201,Centre d'Imagerie de Biyem-Assi,Yaoundé,Yaoundé II,Simbock,3.821434,11.525327,+237 243 263 531,biyem-assi@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+IMG0202,Clinique Radiologique Wamba,Yaoundé,Yaoundé III,Nkol-Afeme,3.846924,11.465462,+237 679 812 785,radiologiquewa@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,7j/7 — 08h00–20h00
+IMG0203,Centre de Radiologie Saint-Dominique,Yaoundé,Yaoundé IV,Nlongkak,3.94031,11.546122,+237 695 220 971,radiologiedomi@imagerie.cm,Oui,Oui,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+IMG0204,Clinique Radiologique Ateba,Yaoundé,Yaoundé V,Djoungolo,3.910974,11.49015,+237 652 883 316,radiologiqueat@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0205,Imagerie Médicale Mvogo,Yaoundé,Yaoundé I,Mendong,3.864736,11.526709,+237 655 822 150,médicamvogo@gmail.com,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+IMG0206,Centre de Radiologie Saint-Michel,Douala,Douala I,Koumassi,4.037254,9.763963,+237 222 869 584,radiologiemich@yahoo.fr,Oui,Oui,Oui,Oui,Non,Non,Lun–Ven 08h00–18h00
+IMG0207,Cabinet de Radiologie de Makepe,Douala,Douala VI,Makepe,3.995983,9.729703,+237 653 636 608,radiologiemake@gmail.com,Oui,Non,Non,Non,Oui,Non,7j/7 — 08h00–20h00
+IMG0208,Centre d'Imagerie de New Bell,Douala,Douala II,Bepanda,4.109407,9.657684,+237 242 304 106,newbell@imagerie.cm,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 07h30–19h00
+IMG0209,Imagerie Médicale Mvé,Yaoundé,Yaoundé V,Cité Verte,3.870374,11.49457,+237 696 764 027,médicamvé@gmail.com,Oui,Oui,Non,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0210,Imagerie Médicale Assamba,Douala,Douala V,Bonamoussadi,4.003451,9.731955,+237 696 202 225,médicaassamba@gmail.com,Oui,Oui,Oui,Non,Oui,Oui,Lun–Ven 08h00–18h00
+IMG0211,Cabinet de Radiologie de Tsinga,Yaoundé,Yaoundé VII,Nlongkak,3.895621,11.542471,+237 694 046 494,radiologietsin@imagerie.cm,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0212,Centre d'Imagerie de Youpwé,Douala,Douala V,Bonamoussadi,4.093974,9.745639,+237 233 015 888,youpwé@imagerie.cm,Oui,Oui,Non,Oui,Non,Oui,Lun–Sam 08h00–17h00
+IMG0213,Imagerie Médicale Manga,Yaoundé,Yaoundé I,Santa Barbara,3.826985,11.411596,+237 691 905 185,médicamanga@imagerie.cm,Oui,Oui,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+IMG0214,Centre d'Imagerie de Ahala,Yaoundé,Yaoundé II,Ngoa-Ekélé,3.831928,11.54226,+237 679 869 546,ahala@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+IMG0215,Centre d'Imagerie de Nyalla,Douala,Douala III,Sodiko,4.08299,9.76244,+237 243 465 513,nyalla@imagerie.cm,Oui,Oui,Oui,Non,Oui,Oui,Lun–Sam 07h30–19h00
+IMG0216,Centre d'Imagerie Lumière,Douala,Douala V,Cité des Palmiers,4.121671,9.712168,+237 699 543 000,lumière@imagerie.cm,Oui,Oui,Oui,Oui,Non,Oui,Lun–Dim 08h00–18h00
+IMG0217,Cabinet de Radiologie de Nkoldongo,Yaoundé,Yaoundé IV,Nkoldongo,3.753905,11.541914,+237 691 030 850,radiologienkol@imagerie.cm,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0218,Cabinet de Radiologie de PK12,Douala,Douala IV,Bassa,4.086661,9.672491,+237 233 957 156,radiologiepk12@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,7j/7 — 08h00–20h00
+IMG0219,Centre de Radiologie Saint-Anne,Douala,Douala IV,Nyalla,3.976474,9.747401,+237 698 637 320,radiologieanne@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,7j/7 — 08h00–20h00
+IMG0220,Clinique Radiologique Hamadou,Yaoundé,Yaoundé I,Ngoa-Ekélé,3.793136,11.453722,+237 679 090 917,radiologiqueha@yahoo.fr,Oui,Oui,Oui,Non,Non,Oui,Lun–Ven 08h00–18h00
+IMG0221,Centre d'Imagerie de Ndoghem,Douala,Douala V,Bepanda,3.971043,9.734342,+237 690 088 213,ndoghem@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0222,Imagerie Médicale Fotso,Douala,Douala II,Bangue,4.113578,9.714295,+237 678 018 893,médicafotso@imagerie.cm,Oui,Oui,Non,Non,Oui,Oui,Lun–Sam 07h00–20h00
+IMG0223,Centre d'Imagerie Lumière,Yaoundé,Yaoundé I,Melen,3.779982,11.525083,+237 690 930 179,lumière@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0224,Centre d'Imagerie de Village,Douala,Douala V,Kotto,4.121061,9.688997,+237 233 641 412,village@imagerie.cm,Oui,Oui,Oui,Oui,Non,Oui,Lun–Ven 07h30–17h30
+IMG0225,Centre d'Imagerie de Messa,Yaoundé,Yaoundé VII,Madagascar,3.84573,11.520809,+237 690 802 552,messa@imagerie.cm,Oui,Oui,Oui,Non,Oui,Oui,Lun–Sam 07h00–20h00
+IMG0226,Clinique Radiologique Abega,Yaoundé,Yaoundé I,Ahala,3.942474,11.481063,+237 242 680 506,radiologiqueab@yahoo.fr,Oui,Oui,Oui,Non,Oui,Oui,Lun–Ven 08h00–18h00
+IMG0227,Centre d'Imagerie de PK12,Douala,Douala IV,Sodiko,4.112961,9.708309,+237 655 173 122,pk12@gmail.com,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 07h30–19h00
+IMG0228,Clinique Radiologique Bikié,Yaoundé,Yaoundé I,Ngoa-Ekélé,3.922062,11.551815,+237 243 790 156,radiologiquebi@gmail.com,Oui,Non,Oui,Oui,Oui,Non,Lun–Sam 08h00–17h00
+IMG0229,Centre d'Imagerie de Étoa-Meki,Yaoundé,Yaoundé VI,Obili,3.834764,11.409339,+237 694 699 852,étoa-meki@gmail.com,Oui,Oui,Oui,Non,Non,Oui,Lun–Dim 08h00–18h00
+IMG0230,Centre d'Imagerie de Ndokoti,Douala,Douala VI,Nyalla,4.028758,9.717494,+237 652 179 875,ndokoti@yahoo.fr,Oui,Oui,Oui,Non,Oui,Oui,Lun–Sam 07h30–19h00
+IMG0231,Centre d'Imagerie de Bangue,Douala,Douala I,Bangue,4.006443,9.743645,+237 243 073 543,bangue@gmail.com,Oui,Non,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0232,Imagerie Médicale Tabi,Yaoundé,Yaoundé II,Bastos,3.886822,11.487495,+237 697 881 993,médicatabi@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 08h30–18h30
+IMG0233,Centre d'Imagerie de Bonanjo,Douala,Douala VI,Bonaloka,4.024261,9.671231,+237 243 560 190,bonanjo@gmail.com,Oui,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0234,Centre d'Imagerie de Deido,Douala,Douala I,Ndog-Bong,4.126307,9.690936,+237 692 780 290,deido@yahoo.fr,Oui,Oui,Non,Non,Non,Oui,Lun–Ven 08h00–18h00
+IMG0235,Centre de Radiologie Saint-Paul,Yaoundé,Yaoundé IV,Tsinga,3.808514,11.523537,+237 696 888 134,radiologiepaul@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+IMG0236,Clinique Radiologique Nkeng,Douala,Douala I,Ndoghem,4.006668,9.76988,+237 692 905 743,radiologiquenk@imagerie.cm,Oui,Non,Oui,Oui,Non,Oui,Lun–Sam 07h30–19h00
+IMG0237,Clinique Radiologique Onana,Yaoundé,Yaoundé I,Olembe,3.851635,11.554402,+237 698 517 858,radiologiqueon@imagerie.cm,Oui,Non,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+IMG0238,Imagerie Médicale Eba,Douala,Douala VI,Makepe,4.022436,9.735401,+237 692 659 441,médicaeba@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 08h30–18h30
+IMG0239,Centre d'Imagerie de Carrière,Yaoundé,Yaoundé IV,Carrière,3.810356,11.40205,+237 233 103 296,carrière@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+IMG0240,Centre de Radiologie Saint-Jean,Yaoundé,Yaoundé IV,Biyem-Assi,3.894776,11.466338,+237 678 905 324,radiologiejean@imagerie.cm,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 08h30–18h30
+IMG0241,Imagerie Médicale Bello,Yaoundé,Yaoundé IV,Ngousso,3.843469,11.484469,+237 693 718 137,médicabello@imagerie.cm,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 08h30–18h30
+IMG0242,Centre de Radiologie Saint-Cécile,Yaoundé,Yaoundé III,Omnisports,3.760206,11.444651,+237 691 823 231,radiologiecéci@gmail.com,Oui,Oui,Oui,Non,Non,Oui,Lun–Ven 08h00–18h00
+IMG0243,Centre d'Imagerie de Mokolo,Yaoundé,Yaoundé III,Mokolo,3.768945,11.500939,+237 697 728 261,mokolo@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 08h00–17h00
+IMG0244,Centre de Radiologie Saint-Anne,Yaoundé,Yaoundé VI,Tsinga,3.86033,11.57512,+237 691 866 944,radiologieanne@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+IMG0245,Centre d'Imagerie de Nkoabang,Yaoundé,Yaoundé V,Olembe,3.794728,11.418591,+237 699 434 290,nkoabang@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0246,Centre de Radiologie Saint-Élisabeth,Yaoundé,Yaoundé VII,Émana,3.88957,11.592064,+237 679 305 176,radiologieélis@yahoo.fr,Oui,Non,Non,Oui,Non,Non,Lun–Dim 08h00–18h00
+IMG0247,Cabinet de Radiologie de Boko,Douala,Douala IV,Soboum,4.066246,9.648594,+237 653 354 444,radiologieboko@gmail.com,Oui,Oui,Oui,Non,Oui,Oui,Lun–Ven 08h00–18h00
+IMG0248,Imagerie Médicale Nlend,Yaoundé,Yaoundé III,Mvog-Atangana,3.909165,11.5329,+237 652 493 154,médicanlend@imagerie.cm,Oui,Oui,Oui,Oui,Non,Non,Lun–Ven 07h30–17h30
+IMG0249,Centre d'Imagerie Grâce,Yaoundé,Yaoundé VI,Nkoldongo,3.910899,11.547253,+237 650 223 549,grâce@imagerie.cm,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+IMG0250,Imagerie Médicale Wamba,Douala,Douala V,Bassa,4.124144,9.756712,+237 243 618 290,médicawamba@imagerie.cm,Oui,Oui,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+IMG0251,Centre de Radiologie Saint-François,Yaoundé,Yaoundé I,Santa Barbara,3.929361,11.531707,+237 695 904 925,radiologiefran@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+IMG0252,Centre d'Imagerie Vie,Douala,Douala V,Bonamoussadi,4.097647,9.780003,+237 678 229 275,vie@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0253,Clinique Radiologique Nlend,Yaoundé,Yaoundé V,Djoungolo,3.874833,11.502344,+237 693 282 619,radiologiquenl@hotmail.com,Oui,Non,Oui,Oui,Non,Non,Lun–Ven 08h00–18h00
+IMG0254,Cabinet de Radiologie de Bonaloka,Douala,Douala III,Bonaloka,4.045914,9.693165,+237 692 355 554,radiologiebona@imagerie.cm,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0255,Centre d'Imagerie de Sodiko,Douala,Douala III,Koumassi,4.098206,9.71415,+237 697 290 548,sodiko@gmail.com,Oui,Oui,Oui,Non,Non,Oui,Lun–Ven 08h00–18h00
+IMG0256,Imagerie Médicale Ndoumbe,Douala,Douala IV,Mbanya,4.11104,9.755235,+237 653 540 563,médicandoumbe@imagerie.cm,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0257,Clinique Radiologique Manga,Douala,Douala I,Ndoghem,4.026657,9.626918,+237 651 104 137,radiologiquema@imagerie.cm,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+IMG0258,Centre d'Imagerie de Cité Verte,Yaoundé,Yaoundé VII,Cité Verte,3.940398,11.493143,+237 651 953 312,citéverte@hotmail.com,Oui,Non,Non,Oui,Non,Non,Lun–Sam 08h00–17h00
+IMG0259,Centre d'Imagerie de Cité des Palmiers,Douala,Douala I,Cité des Palmiers,4.055714,9.759441,+237 243 934 952,citédespalmier@gmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0260,Centre d'Imagerie Avenir,Yaoundé,Yaoundé IV,Nlongkak,3.873893,11.447955,+237 679 449 594,avenir@yahoo.fr,Oui,Oui,Non,Oui,Oui,Oui,Lun–Ven 07h30–17h30
+IMG0261,Centre d'Imagerie de Bessengue,Douala,Douala V,Japoma,4.019341,9.776716,+237 653 151 096,bessengue@yahoo.fr,Oui,Oui,Non,Oui,Non,Oui,Lun–Sam 07h30–19h00
+IMG0262,Centre d'Imagerie de Japoma,Douala,Douala I,New Bell,4.088073,9.730984,+237 654 356 529,japoma@imagerie.cm,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0263,Clinique Radiologique Assamba,Yaoundé,Yaoundé III,Obili,3.824385,11.400409,+237 242 394 741,radiologiqueas@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 07h00–20h00
+IMG0264,Centre d'Imagerie de Mvog-Atangana,Yaoundé,Yaoundé V,Tsinga,3.943454,11.492282,+237 651 796 277,mvog-atangana@imagerie.cm,Oui,Non,Non,Non,Non,Oui,Lun–Sam 07h00–20h00
+IMG0265,Centre de Radiologie Saint-Cécile,Douala,Douala I,Bonamoussadi,3.9738,9.66654,+237 692 929 674,radiologiecéci@gmail.com,Oui,Oui,Oui,Non,Non,Oui,Lun–Ven 08h00–18h00
+IMG0266,Centre d'Imagerie de Ekounou,Yaoundé,Yaoundé VI,Bastos,3.798001,11.500677,+237 690 089 122,ekounou@yahoo.fr,Oui,Oui,Oui,Non,Oui,Oui,Lun–Ven 07h30–17h30
+IMG0267,Cabinet de Radiologie de Odza,Yaoundé,Yaoundé II,Odza,3.778829,11.562859,+237 692 726 518,radiologieodza@gmail.com,Oui,Oui,Oui,Oui,Non,Non,Lun–Ven 08h00–18h00
+IMG0268,Cabinet de Radiologie de Mboppi,Douala,Douala IV,Mboppi,4.000054,9.729571,+237 698 453 414,radiologiembop@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0269,Cabinet de Radiologie de Bonaberi,Douala,Douala III,Bonaberi,4.055324,9.778729,+237 677 467 182,radiologiebona@gmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+IMG0270,Clinique Radiologique Nlend,Yaoundé,Yaoundé VI,Elig-Essono,3.833651,11.607626,+237 652 885 617,radiologiquenl@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 07h00–20h00
+IMG0271,Centre d'Imagerie de Ndokoti,Douala,Douala II,Bangue,4.082108,9.703188,+237 222 923 148,ndokoti@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0272,Cabinet de Radiologie de Bangue,Douala,Douala IV,Bonanjo,4.023352,9.682107,+237 691 846 379,radiologiebang@imagerie.cm,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 08h30–18h30
+IMG0273,Centre d'Imagerie de Elig-Essono,Yaoundé,Yaoundé VI,Elig-Essono,3.904806,11.427399,+237 233 718 889,elig-essono@hotmail.com,Oui,Oui,Oui,Non,Oui,Non,7j/7 — 08h00–20h00
+IMG0274,Clinique Radiologique Onana,Douala,Douala I,Makepe,3.993365,9.723448,+237 690 844 845,radiologiqueon@gmail.com,Oui,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0275,Clinique Radiologique Moussa,Yaoundé,Yaoundé VII,Nkoabang,3.842563,11.393394,+237 697 912 101,radiologiquemo@hotmail.com,Oui,Non,Non,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0276,Centre de Radiologie Saint-Élisabeth,Douala,Douala I,Kotto,4.070553,9.68596,+237 650 823 634,radiologieélis@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0277,Clinique Radiologique Nguele,Douala,Douala II,Bessengue,3.995909,9.662426,+237 696 927 173,radiologiqueng@gmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0278,Cabinet de Radiologie de Bessengue,Douala,Douala III,Kotto,4.059513,9.632209,+237 696 077 936,radiologiebess@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0279,Centre d'Imagerie de PK17,Douala,Douala II,PK17,3.977874,9.736276,+237 692 751 827,pk17@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h00–20h00
+IMG0280,Centre de Radiologie Saint-Marc,Yaoundé,Yaoundé III,Ngousso,3.893886,11.569975,+237 698 065 592,radiologiemarc@imagerie.cm,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 07h30–19h00
+IMG0281,Centre d'Imagerie de PK10,Douala,Douala III,Bessengue,4.082002,9.696472,+237 698 511 975,pk10@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0282,Centre d'Imagerie Vie,Douala,Douala II,Bonamoussadi,4.019576,9.632142,+237 694 448 745,vie@hotmail.com,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 07h30–19h00
+IMG0283,Imagerie Médicale Essomba,Yaoundé,Yaoundé I,Simbock,3.795785,11.539919,+237 654 656 315,médicaessomba@hotmail.com,Oui,Oui,Non,Non,Oui,Oui,Lun–Sam 07h30–19h00
+IMG0284,Imagerie Médicale Ekani,Yaoundé,Yaoundé III,Santa Barbara,3.926547,11.541204,+237 678 480 967,médicaekani@hotmail.com,Oui,Non,Non,Oui,Oui,Oui,Lun–Ven 08h00–18h00
+IMG0285,Imagerie Médicale Zang,Yaoundé,Yaoundé VI,Mvog-Mbi,3.846131,11.492206,+237 243 529 464,médicazang@imagerie.cm,Oui,Non,Non,Non,Oui,Oui,Lun–Sam 07h30–19h00
+IMG0286,Imagerie Médicale Belinga,Yaoundé,Yaoundé VI,Mokolo,3.811513,11.480602,+237 690 086 342,médicabelinga@imagerie.cm,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 08h00–17h00
+IMG0287,Centre de Radiologie Saint-Jeanne,Yaoundé,Yaoundé II,Nkoabang,3.923077,11.554131,+237 699 452 514,radiologiejean@imagerie.cm,Oui,Oui,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+IMG0288,Imagerie Médicale Djoumbi,Yaoundé,Yaoundé VI,Tsinga,3.839284,11.565705,+237 692 194 835,médicadjoumbi@gmail.com,Oui,Oui,Non,Non,Non,Oui,Lun–Sam 07h30–19h00
+IMG0289,Centre d'Imagerie Confiance,Douala,Douala III,PK14,3.991198,9.744874,+237 691 131 132,confiance@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Oui,7j/7 — 08h00–20h00
+IMG0290,Centre d'Imagerie de Youpwé,Douala,Douala IV,Nyalla,4.113185,9.651984,+237 696 239 047,youpwé@yahoo.fr,Oui,Oui,Oui,Non,Oui,Non,Lun–Sam 07h30–19h00
+IMG0291,Cabinet de Radiologie de Santa Barbara,Yaoundé,Yaoundé VII,Ngousso,3.744075,11.535762,+237 690 610 522,radiologiesant@hotmail.com,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 08h30–18h30
+IMG0292,Imagerie Médicale Moussa,Yaoundé,Yaoundé VI,Efoulan,3.890104,11.514113,+237 679 777 772,médicamoussa@gmail.com,Oui,Oui,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+IMG0293,Centre de Radiologie Saint-Jeanne,Yaoundé,Yaoundé I,Djoungolo,3.841946,11.471707,+237 695 664 701,radiologiejean@imagerie.cm,Oui,Oui,Oui,Non,Oui,Non,Lun–Dim 08h00–18h00
+IMG0294,Cabinet de Radiologie de Ndog-Passi III,Douala,Douala V,Logbessou,4.06411,9.778169,+237 696 360 369,radiologiendog@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0295,Cabinet de Radiologie de Ngousso,Yaoundé,Yaoundé IV,Ngousso,3.823281,11.555542,+237 677 038 976,radiologiengou@gmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+IMG0296,Clinique Radiologique Fotso,Douala,Douala II,Bepanda,3.970744,9.70214,+237 690 255 751,radiologiquefo@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0297,Cabinet de Radiologie de Briqueterie,Yaoundé,Yaoundé VII,Briqueterie,3.813609,11.515455,+237 222 099 056,radiologiebriq@yahoo.fr,Oui,Oui,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+IMG0298,Centre d'Imagerie Avenir,Douala,Douala II,Mboppi,4.102265,9.74674,+237 652 520 125,avenir@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Lun–Sam 08h00–17h00
+IMG0299,Clinique Radiologique Bello,Yaoundé,Yaoundé II,Mvog-Ada,3.914836,11.454846,+237 654 040 797,radiologiquebe@hotmail.com,Oui,Oui,Non,Non,Non,Oui,Lun–Ven 07h30–17h30
+IMG0300,Imagerie Médicale Ndoumbe,Yaoundé,Yaoundé V,Nkoabang,3.775333,11.45941,+237 233 440 709,médicandoumbe@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0301,Cabinet de Radiologie de Nsam,Yaoundé,Yaoundé II,Kondengui,3.903251,11.552889,+237 695 265 040,radiologiensam@hotmail.com,Oui,Non,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0302,Cabinet de Radiologie de PK12,Douala,Douala III,New Bell,4.082074,9.747937,+237 679 441 615,radiologiepk12@imagerie.cm,Oui,Non,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0303,Centre de Radiologie Saint-Thérèse,Douala,Douala I,Ndokoti,3.992288,9.709725,+237 693 867 485,radiologiethér@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 07h30–19h00
+IMG0304,Cabinet de Radiologie de Deido,Douala,Douala I,Ndog-Passi III,3.993516,9.697525,+237 653 743 192,radiologiedeid@imagerie.cm,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 08h00–17h00
+IMG0305,Centre d'Imagerie de Ndog-Bong,Douala,Douala I,Bassa,4.035833,9.6246,+237 697 350 879,ndog-bong@yahoo.fr,Oui,Non,Non,Non,Oui,Non,Lun–Dim 08h00–18h00
+IMG0306,Centre de Radiologie Saint-Joachim,Yaoundé,Yaoundé I,Mvan,3.819274,11.587401,+237 693 395 206,radiologiejoac@hotmail.com,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 08h00–17h00
+IMG0307,Cabinet de Radiologie de Nlongkak,Yaoundé,Yaoundé IV,Nlongkak,3.810056,11.516926,+237 655 538 524,radiologienlon@gmail.com,Oui,Oui,Oui,Non,Oui,Oui,Lun–Sam 07h00–20h00
+IMG0308,Imagerie Médicale Assamba,Yaoundé,Yaoundé II,Ngoa-Ekélé,3.834963,11.591702,+237 654 141 042,médicaassamba@imagerie.cm,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0309,Clinique Radiologique Bikié,Douala,Douala IV,Nkongmondo,4.036265,9.672807,+237 697 497 752,radiologiquebi@hotmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0310,Cabinet de Radiologie de Bonapriso,Douala,Douala III,Ndogpassi,4.059485,9.665191,+237 222 896 055,radiologiebona@yahoo.fr,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 08h30–18h30
+IMG0311,Centre de Radiologie Saint-Bruno,Douala,Douala II,New Bell,4.101474,9.68794,+237 693 426 956,radiologiebrun@hotmail.com,Oui,Oui,Non,Non,Non,Oui,7j/7 — 08h00–20h00
+IMG0312,Centre de Radiologie Saint-Joachim,Douala,Douala II,Sodiko,4.010095,9.632673,+237 697 051 259,radiologiejoac@imagerie.cm,Oui,Oui,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+IMG0313,Clinique Radiologique Eba,Yaoundé,Yaoundé II,Kondengui,3.759926,11.55228,+237 652 325 704,radiologiqueeb@imagerie.cm,Oui,Oui,Non,Non,Oui,Non,Lun–Ven 08h00–18h00
+IMG0314,Clinique Radiologique Feudjio,Yaoundé,Yaoundé II,Messa,3.930867,11.524035,+237 699 805 888,radiologiquefe@gmail.com,Oui,Non,Non,Non,Oui,Oui,Lun–Sam 08h00–17h00
+IMG0315,Centre d'Imagerie de Deido,Douala,Douala I,Ndokoti,4.070071,9.64968,+237 654 810 028,deido@gmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0316,Centre d'Imagerie de Nzeng-Ayong,Douala,Douala I,Nzeng-Ayong,4.004012,9.752169,+237 693 933 416,nzeng-ayong@gmail.com,Oui,Oui,Non,Non,Non,Oui,7j/7 — 08h00–20h00
+IMG0317,Clinique Radiologique Manga,Yaoundé,Yaoundé II,Nkomo,3.854877,11.606463,+237 678 604 475,radiologiquema@yahoo.fr,Oui,Non,Non,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0318,Clinique Radiologique Nkoa,Douala,Douala V,PK8,4.016654,9.662714,+237 650 696 330,radiologiquenk@gmail.com,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 08h00–17h00
+IMG0319,Clinique Radiologique Belinga,Douala,Douala VI,Nzeng-Ayong,4.003266,9.710046,+237 691 306 219,radiologiquebe@yahoo.fr,Oui,Non,Oui,Non,Non,Non,Lun–Ven 08h00–18h00
+IMG0320,Centre d'Imagerie de Logbessou,Douala,Douala III,Koumassi,4.103607,9.766423,+237 650 182 081,logbessou@gmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0321,Clinique Radiologique Djoumbi,Douala,Douala V,Bonanjo,4.008339,9.669237,+237 678 903 481,radiologiquedj@imagerie.cm,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 08h00–17h00
+IMG0322,Centre de Radiologie Saint-Louis,Yaoundé,Yaoundé VII,Simbock,3.785406,11.581174,+237 696 243 680,radiologieloui@imagerie.cm,Oui,Oui,Non,Non,Oui,Non,Lun–Sam 07h00–20h00
+IMG0323,Imagerie Médicale Onana,Yaoundé,Yaoundé I,Mvog-Beti,3.907673,11.541965,+237 692 365 487,médicaonana@imagerie.cm,Oui,Oui,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0324,Clinique Radiologique Owona,Yaoundé,Yaoundé VII,Ahala,3.83738,11.504072,+237 692 149 235,radiologiqueow@imagerie.cm,Oui,Oui,Oui,Non,Non,Oui,Lun–Sam 07h30–19h00
+IMG0325,Centre d'Imagerie Progrès,Douala,Douala I,Japoma,4.034223,9.707874,+237 677 563 246,progrès@imagerie.cm,Oui,Oui,Oui,Oui,Oui,Oui,Lun–Ven 07h30–17h30
+IMG0326,Centre d'Imagerie Santé,Yaoundé,Yaoundé IV,Mvog-Atangana,3.832391,11.559835,+237 222 955 626,santé@gmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0327,Cabinet de Radiologie de Mvog-Beti,Yaoundé,Yaoundé V,Mvog-Beti,3.826679,11.554124,+237 677 908 019,radiologiemvog@gmail.com,Oui,Non,Non,Non,Oui,Non,Lun–Sam 07h00–20h00
+IMG0328,Clinique Radiologique Elong,Yaoundé,Yaoundé I,Nkol-Afeme,3.851179,11.461733,+237 678 118 199,radiologiqueel@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Lun–Dim 08h00–18h00
+IMG0329,Centre d'Imagerie de Village,Douala,Douala V,Logbessou,4.116971,9.716889,+237 677 184 344,village@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Ven 07h30–17h30
+IMG0330,Centre de Radiologie Saint-Étienne,Yaoundé,Yaoundé III,Omnisports,3.848343,11.59763,+237 679 250 957,radiologieétie@imagerie.cm,Oui,Oui,Oui,Non,Oui,Oui,Lun–Dim 08h00–18h00
+IMG0331,Cabinet de Radiologie de Ahala,Yaoundé,Yaoundé IV,Ngoa-Ekélé,3.823691,11.566901,+237 697 625 984,radiologieahal@imagerie.cm,Oui,Oui,Oui,Oui,Oui,Non,Lun–Sam 07h30–19h00
+IMG0332,Imagerie Médicale Feudjio,Yaoundé,Yaoundé II,Omnisports,3.882588,11.561583,+237 695 179 093,médicafeudjio@gmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Sam 08h00–17h00
+IMG0333,Imagerie Médicale Kuitche,Yaoundé,Yaoundé VII,Ahala,3.824627,11.467279,+237 678 922 927,médicakuitche@gmail.com,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 07h30–19h00
+IMG0334,Clinique Radiologique Fouda,Douala,Douala V,Ndog-Bong,4.067241,9.728928,+237 653 385 209,radiologiquefo@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0335,Centre de Radiologie Saint-Damien,Yaoundé,Yaoundé II,Mimboman,3.897997,11.554568,+237 679 252 803,radiologiedami@gmail.com,Oui,Non,Non,Oui,Non,Non,Lun–Sam 08h00–17h00
+IMG0336,Centre d'Imagerie Salut,Douala,Douala II,PK8,4.072736,9.626748,+237 652 384 774,salut@yahoo.fr,Oui,Oui,Oui,Non,Oui,Oui,Lun–Sam 08h30–18h30
+IMG0337,Centre d'Imagerie de Bonaberi,Douala,Douala II,Nzeng-Ayong,4.063397,9.772258,+237 233 091 340,bonaberi@yahoo.fr,Oui,Oui,Non,Non,Oui,Oui,Lun–Sam 07h30–19h00
+IMG0338,Cabinet de Radiologie de Ahala,Yaoundé,Yaoundé IV,Ngoa-Ekélé,3.880125,11.457492,+237 690 761 503,radiologieahal@yahoo.fr,Oui,Oui,Non,Non,Oui,Oui,Lun–Sam 07h00–20h00
+IMG0339,Centre d'Imagerie de Nsam,Yaoundé,Yaoundé VII,Nsam,3.954497,11.52246,+237 222 586 056,nsam@imagerie.cm,Oui,Oui,Non,Oui,Non,Oui,Lun–Sam 08h30–18h30
+IMG0340,Cabinet de Radiologie de Mvog-Beti,Yaoundé,Yaoundé II,Nkol-Eton,3.763478,11.55555,+237 679 372 183,radiologiemvog@gmail.com,Oui,Oui,Non,Non,Oui,Oui,Lun–Sam 08h30–18h30
+IMG0341,Centre d'Imagerie de Bepanda,Douala,Douala V,Nkongmondo,4.007288,9.728351,+237 678 223 905,bepanda@hotmail.com,Oui,Oui,Non,Non,Non,Non,Lun–Ven 08h00–18h00
+IMG0342,Centre d'Imagerie de Bonapriso,Douala,Douala III,Bonapriso,4.083157,9.64878,+237 243 193 735,bonapriso@yahoo.fr,Oui,Oui,Oui,Non,Non,Non,Lun–Sam 08h30–18h30
+IMG0343,Centre d'Imagerie de Kondengui,Yaoundé,Yaoundé V,Kondengui,3.843233,11.498418,+237 699 818 228,kondengui@yahoo.fr,Oui,Oui,Oui,Non,Oui,Oui,Lun–Ven 08h00–18h00
+IMG0344,Cabinet de Radiologie de Obili,Yaoundé,Yaoundé VI,Obili,3.761048,11.556572,+237 690 764 208,radiologieobil@hotmail.com,Oui,Oui,Oui,Non,Non,Oui,7j/7 — 08h00–20h00
+IMG0345,Cabinet de Radiologie de Ekounou,Yaoundé,Yaoundé I,Simbock,3.760331,11.468752,+237 694 350 127,radiologieekou@hotmail.com,Oui,Non,Non,Non,Non,Oui,Lun–Sam 08h00–17h00
+IMG0346,Clinique Radiologique Ekani,Yaoundé,Yaoundé III,Nkoldongo,3.887611,11.576295,+237 222 016 832,radiologiqueek@yahoo.fr,Oui,Oui,Oui,Oui,Oui,Non,Lun–Sam 08h00–17h00
+IMG0347,Imagerie Médicale Nguele,Yaoundé,Yaoundé VI,Bastos,3.849556,11.495671,+237 650 960 626,médicanguele@imagerie.cm,Oui,Oui,Oui,Oui,Non,Non,Lun–Sam 08h00–17h00
+IMG0348,Centre d'Imagerie de Ndogpassi,Douala,Douala V,Ndogpassi,4.075075,9.759832,+237 694 198 127,ndogpassi@imagerie.cm,Oui,Oui,Non,Non,Non,Non,7j/7 — 08h00–20h00
+IMG0349,Cabinet de Radiologie de Japoma,Douala,Douala VI,Japoma,4.069804,9.679223,+237 650 161 991,radiologiejapo@yahoo.fr,Oui,Oui,Non,Oui,Non,Non,Lun–Sam 08h00–17h00
+IMG0350,Centre d'Imagerie Espoir,Douala,Douala III,Ndogbong,3.98996,9.706218,+237 691 137 376,espoir@gmail.com,Oui,Non,Oui,Non,Non,Non,7j/7 — 08h00–20h00
