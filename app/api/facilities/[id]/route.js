@@ -1,7 +1,8 @@
 import { getFacilityById } from "../../../../src/application/use-cases/get-facility-by-id";
 
 export async function GET(_request, context) {
-  const id = context?.params?.id;
+  const params = await context.params;
+  const id = params?.id;
 
   if (!id) {
     return Response.json(
